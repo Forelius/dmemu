@@ -3,12 +3,12 @@
  * Inspired by Game Unfolding Machine by JeansenVaars; adapted for our own use.
  */
 
-const MODULE_ID = "dmemu";
+export const MODULE_ID = "dmemu";
 
 Hooks.once("init", () => {
-  console.log(`${MODULE_ID} | Initializing Depths Master Emulator`);
+   console.log(`${MODULE_ID} | Initializing Depths Master Emulator`);
 });
 
 Hooks.once("ready", () => {
-  console.log(`${MODULE_ID} | Ready`);
+   console.log(`${MODULE_ID} | Ready`);
 });

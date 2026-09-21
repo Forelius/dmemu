@@ -17,7 +17,7 @@
     }
   ],
   "esmodules": [
-    "scripts/dmemu.mjs"
+    "module/dmemu.min.js"
   ],
   "styles": [
     "css/dmemu.css"

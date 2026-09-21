@@ -10,6 +10,17 @@ Inspired by **Game Unfolding Machine** by JeansenVaars. DMEmu adapts and extends
 
 Early scaffold (`0.1.0`). See `../docs/dmemu-plan.md` in the workspace for the implementation plan.
 
+## Development
+
+TypeScript lives in `src/` and compiles to `module/` (gitignored), same pattern as Fantastic Depths:
+
+```bash
+npm install
+npm run build
+```
+
+Entry script loaded by Foundry: `module/dmemu.min.js`.
+
 ## Packs
 
 Compendium source lives in `packsrc/`. LevelDB packs under `packs/` are gitignored and built with the same toolchain as fade-compendiums:

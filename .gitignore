@@ -4,6 +4,9 @@ node_modules
 /notes.txt
 PowerShell_History.txt
 
+# Compiled TypeScript output (npm run build)
+/module
+
 # Ignore FoundryVTT LevelDB folders (built via npm run comppacks)
 packs
 .cursor
