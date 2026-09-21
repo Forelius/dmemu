@@ -11,4 +11,10 @@ Supported pack folders (same as fade-compendiums build tooling):
 - `journals`
 - `scenes`
 
-Declared in `module.json` initially: `rollTables`, `macros`, `journals`.
+Declared in `module.json`: `rollTables`, `macros`, `journals`.
+
+Oracle content (initial):
+
+- `macros/Open_DMEmu_Oracle.json`
+- `rollTables/Oracles/Oracle_Notice_perceive.json`
+- `rollTables/Oracles/Oracle_Focus_what.json`

@@ -1,0 +1,69 @@
+{{!-- DMEmu Oracle Application --}}
+<section class="dmemu-oracle-form">
+  <p class="hint">{{about}}</p>
+
+  <fieldset>
+    <legend>{{localize "DMEMU.Oracle.App.YesNoLegend"}}</legend>
+
+    <div class="form-group">
+      <label for="dmemu-oracle-question">{{localize "DMEMU.Oracle.App.Question"}}</label>
+      <textarea id="dmemu-oracle-question" name="question" rows="2" placeholder="{{localize "DMEMU.Oracle.App.QuestionPlaceholder"}}">{{question}}</textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="dmemu-oracle-perspective">{{localize "DMEMU.Oracle.App.Perspective"}}</label>
+      <select id="dmemu-oracle-perspective" name="perspective">
+        {{#each perspectives}}
+        <option value="{{id}}" {{#if selected}}selected{{/if}}>{{label}}</option>
+        {{/each}}
+      </select>
+      <p class="hint">{{perspectiveHint}}</p>
+    </div>
+
+    <div class="form-group">
+      <label for="dmemu-oracle-likelihood">{{localize "DMEMU.Oracle.App.Likelihood"}}</label>
+      <select id="dmemu-oracle-likelihood" name="likelihood">
+        {{#each likelihoods}}
+        <option value="{{id}}" {{#if selected}}selected{{/if}}>{{label}}</option>
+        {{/each}}
+      </select>
+      <p class="hint">{{localize "DMEMU.Oracle.LikelihoodHint"}}</p>
+    </div>
+
+    <div class="form-group dmemu-oracle-actions">
+      <button type="button" data-action="roll">
+        <i class="fas fa-dice-d20"></i> {{localize "DMEMU.Oracle.App.Roll"}}
+      </button>
+      <button type="button" data-action="rollBias" data-tooltip="{{localize "DMEMU.Oracle.App.RollBiasTooltip"}}">
+        <i class="fas fa-clone"></i> {{localize "DMEMU.Oracle.App.RollBias"}}
+      </button>
+    </div>
+  </fieldset>
+
+  {{#if biasResults}}
+  <fieldset class="dmemu-oracle-bias">
+    <legend>{{localize "DMEMU.Oracle.App.BiasPick"}}</legend>
+    <p class="hint">{{localize "DMEMU.Oracle.App.BiasHint"}}</p>
+    {{#each biasResults}}
+    <div class="dmemu-oracle-bias-option">
+      <p>d100={{roll}} → <strong>{{answer}}</strong></p>
+      <button type="button" data-action="pickBias" data-index="{{@index}}">
+        {{localize "DMEMU.Oracle.App.ChooseThis"}}
+      </button>
+    </div>
+    {{/each}}
+  </fieldset>
+  {{/if}}
+
+  <fieldset>
+    <legend>{{localize "DMEMU.Oracle.App.EnrichmentLegend"}}</legend>
+    <p class="hint">{{localize "DMEMU.Oracle.Enrichment.Hint"}}</p>
+    <div class="dmemu-oracle-actions">
+      {{#each enrichment}}
+      <button type="button" data-action="drawEnrichment" data-table-name="{{tableName}}" data-tooltip="{{hint}}">
+        {{label}}
+      </button>
+      {{/each}}
+    </div>
+  </fieldset>
+</section>

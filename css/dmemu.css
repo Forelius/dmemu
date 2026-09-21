@@ -1,1 +1,45 @@
 /* Depths Master Emulator (DMEmu) */
+
+.dmemu-oracle-body {
+  padding: 0.5rem 0.75rem 0.75rem;
+}
+
+.dmemu-oracle-form fieldset {
+  margin: 0 0 0.75rem;
+  padding: 0.5rem 0.75rem 0.75rem;
+}
+
+.dmemu-oracle-form legend {
+  font-weight: 600;
+}
+
+.dmemu-oracle-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.dmemu-oracle-actions button {
+  flex: 1 1 auto;
+}
+
+.dmemu-oracle-chat .dmemu-oracle-answer {
+  font-size: 1.1em;
+}
+
+.dmemu-oracle-meta {
+  opacity: 0.85;
+  font-size: 0.9em;
+}
+
+.dmemu-oracle-bias-option {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-bottom: 0.35rem;
+}
+
+.dmemu-oracle-chat {
+  line-height: 1.35;
+}

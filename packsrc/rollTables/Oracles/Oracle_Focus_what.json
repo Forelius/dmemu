@@ -1,0 +1,1078 @@
+{
+  "folder": null,
+  "name": "Oracle \u2014 Focus (what)",
+  "_id": "173c38dd1564420d",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> You need a subject, theme, goal, or discovery to hang meaning on—often to enrich another oracle answer.</p><p><strong>How to read it:</strong> Each entry is a paired noun/idea (e.g. Secrets/Plots). Pick the half that fits, blend both, or reinterpret freely for your world. Re-roll or ignore if nothing sparks.</p>",
+  "results": [
+    "387e8b8f2c934081",
+    "5561e03bbe3549d1",
+    "d7a01a5dfc434783",
+    "25a08b1868b84e87",
+    "7825dc97c9e9424e",
+    "af725748eb2944c6",
+    "7cba5514fc814cec",
+    "cf03fdbb2e4a415d",
+    "6fbc0991ab5447a7",
+    "428bdc46abb44eae",
+    "6b2ba42ec68048b0",
+    "6d9dca3b04df440a",
+    "406b01b550334588",
+    "2de730b1c9514e98",
+    "0f6ed00b2f114a2f",
+    "0fb2a98d7de84e9c",
+    "2f2bda6aac0b449d",
+    "36a438eef4834e48",
+    "d6f5ebcbc6cb438c",
+    "e4c45932e4bb45d1",
+    "d1d5b1838e864a1e",
+    "02a634c89e794e88",
+    "aa65d565765b460d",
+    "ad952d0bbe8b482b",
+    "07eea89d7250451f",
+    "0bfc652c24d04a0a",
+    "98d64a32c4034250",
+    "bc2e6a36c1e6490e",
+    "73ae7995ed2b43e9",
+    "6e4b02d209aa4e55",
+    "75ef4f56332d49b1",
+    "cfb4369d3ef346a5",
+    "0e80c776bc014092",
+    "4029d69a95634775",
+    "b6fe8ce2bd5c4ef5",
+    "cd0464c761a84772",
+    "2697d1b063f741f0",
+    "e2675a19778e4395",
+    "d051b63b83c44714",
+    "264ae72f7a474e08",
+    "4731ad23f85840f9",
+    "644b31db573a43ca",
+    "b36b8e1a7e824942",
+    "cf9a932f2efe48c3",
+    "8709009f6e554141",
+    "f797797e88ba4ad5",
+    "cb98152c266a431c",
+    "4f3df41a1cca4e07",
+    "6d5d9c6a5bd44690",
+    "b14b4a694dc8478b"
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d100",
+  "sort": 0,
+  "_originalKey": "!tables!173c38dd1564420d",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.387e8b8f2c934081",
+      "_id": "387e8b8f2c934081",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Ambition/Idea",
+      "text": "Ambition/Idea"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.5561e03bbe3549d1",
+      "_id": "5561e03bbe3549d1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Arrival/Birth",
+      "text": "Arrival/Birth"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.d7a01a5dfc434783",
+      "_id": "d7a01a5dfc434783",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Artifact/Item",
+      "text": "Artifact/Item"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.25a08b1868b84e87",
+      "_id": "25a08b1868b84e87",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Battle/Fight",
+      "text": "Battle/Fight"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.7825dc97c9e9424e",
+      "_id": "7825dc97c9e9424e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Books/Lore",
+      "text": "Books/Lore"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.af725748eb2944c6",
+      "_id": "af725748eb2944c6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Chant/Rite",
+      "text": "Chant/Rite"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.7cba5514fc814cec",
+      "_id": "7cba5514fc814cec",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Cipher/Code",
+      "text": "Cipher/Code"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.cf03fdbb2e4a415d",
+      "_id": "cf03fdbb2e4a415d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Culture/Past",
+      "text": "Culture/Past"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.6fbc0991ab5447a7",
+      "_id": "6fbc0991ab5447a7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Debt/Trade",
+      "text": "Debt/Trade"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.428bdc46abb44eae",
+      "_id": "428bdc46abb44eae",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Domain/Land",
+      "text": "Domain/Land"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.6b2ba42ec68048b0",
+      "_id": "6b2ba42ec68048b0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        21,
+        22
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Finding/Search",
+      "text": "Finding/Search"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.6d9dca3b04df440a",
+      "_id": "6d9dca3b04df440a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        23,
+        24
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Enemy/Danger",
+      "text": "Enemy/Danger"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.406b01b550334588",
+      "_id": "406b01b550334588",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        25,
+        26
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Enigma/Doubt",
+      "text": "Enigma/Doubt"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.2de730b1c9514e98",
+      "_id": "2de730b1c9514e98",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        27,
+        28
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Faction/Family",
+      "text": "Faction/Family"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.0f6ed00b2f114a2f",
+      "_id": "0f6ed00b2f114a2f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        29,
+        30
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Faith/Divine",
+      "text": "Faith/Divine"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.0fb2a98d7de84e9c",
+      "_id": "0fb2a98d7de84e9c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        31,
+        32
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fear/Nightmare",
+      "text": "Fear/Nightmare"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.2f2bda6aac0b449d",
+      "_id": "2f2bda6aac0b449d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        33,
+        34
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Forces/Strength",
+      "text": "Forces/Strength"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.36a438eef4834e48",
+      "_id": "36a438eef4834e48",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        35,
+        36
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fortress/Tower",
+      "text": "Fortress/Tower"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.d6f5ebcbc6cb438c",
+      "_id": "d6f5ebcbc6cb438c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        37,
+        38
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Friend/Allies",
+      "text": "Friend/Allies"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.e4c45932e4bb45d1",
+      "_id": "e4c45932e4bb45d1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        39,
+        40
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Global/Universe",
+      "text": "Global/Universe"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.d1d5b1838e864a1e",
+      "_id": "d1d5b1838e864a1e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        41,
+        42
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hazard/Nature",
+      "text": "Hazard/Nature"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.02a634c89e794e88",
+      "_id": "02a634c89e794e88",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        43,
+        44
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Illusions/Ghost",
+      "text": "Illusions/Ghost"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.aa65d565765b460d",
+      "_id": "aa65d565765b460d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        45,
+        46
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Jewelry/Gem",
+      "text": "Jewelry/Gem"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.ad952d0bbe8b482b",
+      "_id": "ad952d0bbe8b482b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        47,
+        48
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Karma/Deed",
+      "text": "Karma/Deed"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.07eea89d7250451f",
+      "_id": "07eea89d7250451f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        49,
+        50
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Key/Doors",
+      "text": "Key/Doors"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.0bfc652c24d04a0a",
+      "_id": "0bfc652c24d04a0a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        51,
+        52
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Lies/Whisper",
+      "text": "Lies/Whisper"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.98d64a32c4034250",
+      "_id": "98d64a32c4034250",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        53,
+        54
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Love/Passion",
+      "text": "Love/Passion"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.bc2e6a36c1e6490e",
+      "_id": "bc2e6a36c1e6490e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        55,
+        56
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Machine/Robot",
+      "text": "Machine/Robot"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.73ae7995ed2b43e9",
+      "_id": "73ae7995ed2b43e9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        57,
+        58
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Magic/Weird",
+      "text": "Magic/Weird"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.6e4b02d209aa4e55",
+      "_id": "6e4b02d209aa4e55",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        59,
+        60
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mission/Task",
+      "text": "Mission/Task"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.75ef4f56332d49b1",
+      "_id": "75ef4f56332d49b1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        61,
+        62
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Monster/Beast",
+      "text": "Monster/Beast"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.cfb4369d3ef346a5",
+      "_id": "cfb4369d3ef346a5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        63,
+        64
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mystery/Murder",
+      "text": "Mystery/Murder"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.0e80c776bc014092",
+      "_id": "0e80c776bc014092",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        65,
+        66
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Noise/Sound",
+      "text": "Noise/Sound"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.4029d69a95634775",
+      "_id": "4029d69a95634775",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        67,
+        68
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Pain/Suffering",
+      "text": "Pain/Suffering"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.b6fe8ce2bd5c4ef5",
+      "_id": "b6fe8ce2bd5c4ef5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        69,
+        70
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Place/Mood",
+      "text": "Place/Mood"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.cd0464c761a84772",
+      "_id": "cd0464c761a84772",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        71,
+        72
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Plan/Blackmail",
+      "text": "Plan/Blackmail"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.2697d1b063f741f0",
+      "_id": "2697d1b063f741f0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        73,
+        74
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Politics/Laws",
+      "text": "Politics/Laws"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.e2675a19778e4395",
+      "_id": "e2675a19778e4395",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        75,
+        76
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Power/Control",
+      "text": "Power/Control"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.d051b63b83c44714",
+      "_id": "d051b63b83c44714",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        77,
+        78
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Promise/Vow",
+      "text": "Promise/Vow"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.264ae72f7a474e08",
+      "_id": "264ae72f7a474e08",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        79,
+        80
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Protocol/Rules",
+      "text": "Protocol/Rules"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.4731ad23f85840f9",
+      "_id": "4731ad23f85840f9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        81,
+        82
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rebels/Traitor",
+      "text": "Rebels/Traitor"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.644b31db573a43ca",
+      "_id": "644b31db573a43ca",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        83,
+        84
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Riches/Wealth",
+      "text": "Riches/Wealth"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.b36b8e1a7e824942",
+      "_id": "b36b8e1a7e824942",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        85,
+        86
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Secrets/Plots",
+      "text": "Secrets/Plots"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.cf9a932f2efe48c3",
+      "_id": "cf9a932f2efe48c3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        87,
+        88
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Tech/Future",
+      "text": "Tech/Future"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.8709009f6e554141",
+      "_id": "8709009f6e554141",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        89,
+        90
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Transformation",
+      "text": "Transformation"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.f797797e88ba4ad5",
+      "_id": "f797797e88ba4ad5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        91,
+        92
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Traps/Ambush",
+      "text": "Traps/Ambush"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.cb98152c266a431c",
+      "_id": "cb98152c266a431c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        93,
+        94
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Treasure/Loot",
+      "text": "Treasure/Loot"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.4f3df41a1cca4e07",
+      "_id": "4f3df41a1cca4e07",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        95,
+        96
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Tyranny/Evil",
+      "text": "Tyranny/Evil"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.6d5d9c6a5bd44690",
+      "_id": "6d5d9c6a5bd44690",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        97,
+        98
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Vision/Prophecy",
+      "text": "Vision/Prophecy"
+    },
+    {
+      "_originalKey": "!tables.results!173c38dd1564420d.b14b4a694dc8478b",
+      "_id": "b14b4a694dc8478b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Weapons/Tools",
+      "text": "Weapons/Tools"
+    }
+  ]
+}

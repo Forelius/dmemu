@@ -1,6 +1,109 @@
 {
   "DMEMU": {
     "Title": "Depths Master Emulator",
-    "ShortTitle": "DMEmu"
+    "ShortTitle": "DMEmu",
+    "Settings": {
+      "OracleChatVisibility": {
+        "Name": "Oracle chat visibility",
+        "Hint": "Who can see Yes/No oracle results posted to chat.",
+        "Choices": {
+          "self": "Only me (whisper)",
+          "gm": "GMs (and me)",
+          "everyone": "Everyone"
+        }
+      }
+    },
+    "Oracle": {
+      "About": "Ask closed questions and resolve them with a Yes/No oracle. Choose a perspective and how likely a yes feels, then roll (or roll twice if you have a bias and pick one result). Enrichment buttons draw optional flavor from RollTables.",
+      "App": {
+        "Title": "DMEmu Oracle",
+        "YesNoLegend": "Yes / No",
+        "Question": "Question (optional)",
+        "QuestionPlaceholder": "e.g. Do the guards notice us?",
+        "Perspective": "Perspective",
+        "Likelihood": "Likelihood",
+        "Roll": "Roll",
+        "RollBias": "Roll twice (bias)",
+        "RollBiasTooltip": "If you already lean toward an answer, roll twice and pick the result that fits your judgment (PUM bias rule).",
+        "BiasPick": "Choose a result",
+        "BiasHint": "Pick the result that best fits your judgment.",
+        "ChooseThis": "Use this answer",
+        "EnrichmentLegend": "Enrichment oracles"
+      },
+      "Perspective": {
+        "deterministic": "Deterministic",
+        "subjective": "Subjective",
+        "conversation": "Conversation"
+      },
+      "PerspectiveHint": {
+        "deterministic": "Objective, universal questions that need a concrete answer.",
+        "subjective": "Questions from a character’s point of view (may include uncertainty).",
+        "conversation": "Questions during dialogue with non-protagonist characters."
+      },
+      "Likelihood": {
+        "unlikely": "Unlikely (lean no)",
+        "neutral": "Neutral (no lean)",
+        "likely": "Likely (lean yes)",
+        "surely": "Surely (strong yes lean)",
+        "certain": "Certain (expect yes)",
+        "hardly": "Hardly (strong no lean)",
+        "noWay": "No way (expect no)"
+      },
+      "LikelihoodHint": "How likely is a yes? This picks a probability table for the d100 — it is not a modifier added to the roll.",
+      "Answer": {
+        "deterministic": {
+          "strongNo": "Strong no",
+          "no": "No",
+          "weakNo": "Weak no",
+          "weakYes": "Weak yes",
+          "yes": "Yes",
+          "strongYes": "Strong yes"
+        },
+        "subjective": {
+          "noDefinitelyNot": "No, definitely not",
+          "noApparentlyNot": "No, apparently not",
+          "noNotYet": "No, not yet",
+          "noBut": "No, but...",
+          "dontKnow": "Don’t know, can’t tell",
+          "itDepends": "It depends (on skill)",
+          "yesBut": "Yes, but...",
+          "yesSometimes": "Yes, sometimes",
+          "yesApparently": "Yes, apparently",
+          "yesAbsolutely": "Yes, absolutely"
+        },
+        "conversation": {
+          "noAnd": "No, and...",
+          "noDefinitelyNot": "No, definitely not",
+          "noDangerous": "No, it’s dangerous",
+          "noTooLate": "No, it’s too late",
+          "noIThinkNot": "No, I think not",
+          "noUnless": "No, unless...",
+          "noBut": "No, but...",
+          "iDontKnow": "I don’t know",
+          "itsComplicated": "It’s complicated",
+          "yesBut": "Yes, but...",
+          "yesForAPrice": "Yes, for a price",
+          "yesPrettySure": "Yes, pretty sure",
+          "yesHurryUp": "Yes, hurry up",
+          "yesBeCareful": "Yes, be careful",
+          "yesOfCourse": "Yes, of course",
+          "yesAnd": "Yes, and..."
+        }
+      },
+      "Chat": {
+        "Flavor": "DMEmu Oracle",
+        "Question": "Question:",
+        "Answer": "Answer:"
+      },
+      "Enrichment": {
+        "Hint": "When you need a sensory cue or a subject to hang an answer on, draw below.",
+        "Notice": "Notice (perceive)",
+        "NoticeHint": "Use when something draws the characters’ attention. The result is a sensory hook—fit it to the scene and setting.",
+        "Focus": "Focus (what)",
+        "FocusHint": "Use when you need a noun or theme (thing, goal, discovery). Twist the pair of words into whatever the situation needs.",
+        "PackMissing": "DMEmu rollTables pack is not available.",
+        "TableMissing": "That enrichment table was not found in the pack."
+      }
+    }
   }
 }

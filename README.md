@@ -4,11 +4,13 @@ System-agnostic solo / GM emulator module for Foundry VTT (v13–v14).
 
 ## Credits
 
-Inspired by **Game Unfolding Machine** by JeansenVaars. DMEmu adapts and extends that approach for our own use; it is not an official GUM product.
+Inspired by **Plot Unfolding Machine** and **Game Unfolding Machine** by JeansenVaars. DMEmu adapts those approaches for our own use; it is not an official PUM/GUM product.
+
+Intentional adaptations from the source systems are listed in `../docs/dmemu-adaptations.md`.
 
 ## Status
 
-Early scaffold (`0.1.0`). See `../docs/dmemu-plan.md` in the workspace for the implementation plan.
+Early development. See `../docs/dmemu-plan.md` in the workspace for the implementation plan.
 
 ## Development
 
@@ -21,6 +23,15 @@ npm run build
 
 Entry script loaded by Foundry: `module/dmemu.min.js`.
 
+## Using the Oracle
+
+1. Build the module (`npm run build`) and compile packs (`npm run comppacks`).
+2. Enable **Depths Master Emulator** in your world.
+3. From the **DMEmu Macros** pack, drag **Open DMEmu Oracle** to your hotbar (or run `game.dmemu.openOracle()`).
+4. Ask Yes/No questions with perspective + likelihood; optional enrichment draws use RollTables.
+
+Client setting: **Oracle chat visibility** (self / GMs / everyone).
+
 ## Packs
 
 Compendium source lives in `packsrc/`. LevelDB packs under `packs/` are gitignored and built with the same toolchain as fade-compendiums:
@@ -29,6 +40,8 @@ Compendium source lives in `packsrc/`. LevelDB packs under `packs/` are gitignor
 npm run decomppacks   # LevelDB → packsrc JSON
 npm run comppacks     # packsrc JSON → LevelDB
 ```
+
+Included so far: Open Oracle macro; Notice and Focus enrichment RollTables.
 
 ## Releases
 

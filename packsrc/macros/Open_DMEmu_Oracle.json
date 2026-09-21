@@ -1,0 +1,25 @@
+{
+  "name": "Open DMEmu Oracle",
+  "type": "script",
+  "command": "game.dmemu?.openOracle?.();",
+  "img": "icons/svg/d20-grey.svg",
+  "folder": null,
+  "_id": "a1e3e4c0f313452f",
+  "author": "",
+  "scope": "global",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "id": "openOracle"
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": "",
+    "systemVersion": "0.1.0"
+  },
+  "_originalKey": "!macros!a1e3e4c0f313452f"
+}
