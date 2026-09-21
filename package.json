@@ -1,0 +1,25 @@
+{
+  "name": "dmemu",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Depths Master Emulator — solo/GM emulator module for Fantastic Depths",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Forelius/dmemu.git"
+  },
+  "keywords": [
+    "foundry",
+    "foundry-vtt",
+    "fantastic-depths",
+    "solo",
+    "emulator",
+    "osr"
+  ],
+  "author": "forelius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Forelius/dmemu/issues"
+  },
+  "homepage": "https://github.com/Forelius/dmemu#readme"
+}

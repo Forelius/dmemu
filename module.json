@@ -1,0 +1,48 @@
+{
+  "id": "dmemu",
+  "title": "Depths Master Emulator",
+  "description": "Depths Master Emulator (DMEmu) — a solo/GM emulator module for Fantastic Depths. Inspired by Game Unfolding Machine by JeansenVaars; adapted for our own use.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "fantastic-depths",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "forelius",
+      "url": "https://github.com/Forelius",
+      "discord": "forelius",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "scripts/dmemu.mjs"
+  ],
+  "styles": [
+    "css/dmemu.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+  ],
+  "packs": [],
+  "url": "https://github.com/Forelius/dmemu",
+  "manifest": "https://raw.githubusercontent.com/Forelius/dmemu/refs/heads/main/module.json",
+  "download": "https://github.com/Forelius/dmemu/releases/download/0.1.0/dmemu.zip",
+  "readme": "README.md",
+  "license": "LICENSE"
+}
