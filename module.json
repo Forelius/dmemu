@@ -1,21 +1,12 @@
 {
   "id": "dmemu",
   "title": "Depths Master Emulator",
-  "description": "Depths Master Emulator (DMEmu) — a solo/GM emulator module for Fantastic Depths. Inspired by Game Unfolding Machine by JeansenVaars; adapted for our own use.",
-  "version": "0.1.0",
+  "description": "Depths Master Emulator (DMEmu) — a system-agnostic solo/GM emulator for Foundry VTT. Inspired by Game Unfolding Machine by JeansenVaars; adapted for our own use.",
+  "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "13",
     "verified": "14",
     "maximum": "14"
-  },
-  "relationships": {
-    "systems": [
-      {
-        "id": "fantastic-depths",
-        "type": "system",
-        "compatibility": {}
-      }
-    ]
   },
   "authors": [
     {
@@ -39,10 +30,42 @@
       "flags": {}
     }
   ],
-  "packs": [],
-  "url": "https://github.com/Forelius/dmemu",
-  "manifest": "https://raw.githubusercontent.com/Forelius/dmemu/refs/heads/main/module.json",
-  "download": "https://github.com/Forelius/dmemu/releases/download/0.1.0/dmemu.zip",
+  "packs": [
+    {
+      "name": "rollTables",
+      "label": "DMEmu Roll Tables",
+      "path": "packs/rollTables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "macros",
+      "label": "DMEmu Macros",
+      "path": "packs/macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "journals",
+      "label": "DMEmu Journals",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "changelog": "#{CHANGELOG}#",
   "readme": "README.md",
   "license": "LICENSE"
 }

@@ -3,4 +3,7 @@ node_modules
 /dmemu.zip
 /notes.txt
 PowerShell_History.txt
+
+# Ignore FoundryVTT LevelDB folders (built via npm run comppacks)
 packs
+.cursor

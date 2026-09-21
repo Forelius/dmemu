@@ -2,8 +2,15 @@
   "name": "dmemu",
   "version": "0.1.0",
   "type": "module",
-  "description": "Depths Master Emulator — solo/GM emulator module for Fantastic Depths",
-  "scripts": {},
+  "description": "Depths Master Emulator — system-agnostic solo/GM emulator for Foundry VTT",
+  "scripts": {
+    "packdump": "node scripts/build/LdbActions.mjs dump",
+    "packrestore": "node scripts/build/LdbActions.mjs restore",
+    "packextract": "node scripts/build/dbConvert.mjs extract",
+    "packcompile": "node scripts/build/dbConvert.mjs compile",
+    "decomppacks": "npm run packdump && npm run packextract && echo \"Decompiled packs\"",
+    "comppacks": "npm run packcompile && npm run packrestore && echo \"Compiled packs\""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Forelius/dmemu.git"
@@ -11,9 +18,9 @@
   "keywords": [
     "foundry",
     "foundry-vtt",
-    "fantastic-depths",
     "solo",
     "emulator",
+    "oracle",
     "osr"
   ],
   "author": "forelius",
@@ -21,5 +28,9 @@
   "bugs": {
     "url": "https://github.com/Forelius/dmemu/issues"
   },
-  "homepage": "https://github.com/Forelius/dmemu#readme"
+  "homepage": "https://github.com/Forelius/dmemu#readme",
+  "dependencies": {
+    "level": "^10.0.0",
+    "uuid": "^13.0.0"
+  }
 }

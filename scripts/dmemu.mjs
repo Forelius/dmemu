@@ -1,6 +1,6 @@
 /**
  * Depths Master Emulator (DMEmu)
- * Inspired by Game Unfolding Machine by JeansenVaars; adapted for Fantastic Depths.
+ * Inspired by Game Unfolding Machine by JeansenVaars; adapted for our own use.
  */
 
 const MODULE_ID = "dmemu";
