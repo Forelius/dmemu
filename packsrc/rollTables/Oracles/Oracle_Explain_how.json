@@ -1,20 +1,20 @@
 {
   "folder": null,
-  "name": "Oracle — Notice (perceive)",
-  "_id": "40f22e5d85154cce",
+  "name": "Oracle — Explain (how)",
+  "_id": "14d4217d83064dc1",
   "img": "icons/svg/d20-grey.svg",
-  "description": "<p><strong>When to use:</strong> Something draws the characters’ attention and you need a sensory hook.</p><p><strong>How to read it:</strong> Treat the result as a prompt, not a script. Adapt the cue to your setting and scene—what was heard, seen, smelled, or felt may be literal, metaphorical, or a red herring.</p>",
+  "description": "<p><strong>When to use:</strong> Characters uncover how something actually happened.</p><p><strong>How to read it:</strong> Read it as the method or cause behind events. Reinterpret freely if the literal answer clashes with known facts.</p>",
   "results": [
-    "fc11e946f1594ffd",
-    "bd4c544e38084fdb",
-    "a4f3eed6397b403e",
-    "7be0435804e14788",
-    "067cd34d879547b4",
-    "28c28cd57cf84fa1",
-    "cc7dab42cf7c421f",
-    "6fcba969632d4b10",
-    "610200b564334eb8",
-    "502a06bad4534217"
+    "79927ec90be44664",
+    "b5adf34d6cf6464e",
+    "d67f01e13fb84c17",
+    "d2e8dd674df44175",
+    "e6d71a5d36c64c02",
+    "38fed6a1e6aa4d87",
+    "e2852b551d0d48bb",
+    "edfe9e139b13499f",
+    "79464149c0a843ea",
+    "6a07912e9052470e"
   ],
   "replacement": true,
   "displayRoll": false,
@@ -32,11 +32,11 @@
   },
   "formula": "1d10",
   "sort": 0,
-  "_originalKey": "!tables!40f22e5d85154cce",
+  "_originalKey": "!tables!14d4217d83064dc1",
   "embedded": [
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.fc11e946f1594ffd",
-      "_id": "fc11e946f1594ffd",
+      "_originalKey": "!tables.results!14d4217d83064dc1.79927ec90be44664",
+      "_id": "79927ec90be44664",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -51,12 +51,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Hear a voice, scream, whisper",
-      "text": "Hear a voice, scream, whisper"
+      "name": "An accident, a side effect",
+      "text": "An accident, a side effect"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.bd4c544e38084fdb",
-      "_id": "bd4c544e38084fdb",
+      "_originalKey": "!tables.results!14d4217d83064dc1.b5adf34d6cf6464e",
+      "_id": "b5adf34d6cf6464e",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -71,12 +71,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Sense an atmospheric change",
-      "text": "Sense an atmospheric change"
+      "name": "Just a mistake, unintended",
+      "text": "Just a mistake, unintended"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.a4f3eed6397b403e",
-      "_id": "a4f3eed6397b403e",
+      "_originalKey": "!tables.results!14d4217d83064dc1.d67f01e13fb84c17",
+      "_id": "d67f01e13fb84c17",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -91,12 +91,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "See a ghost, vision, or memory",
-      "text": "See a ghost, vision, or memory"
+      "name": "Was a moment of weakness",
+      "text": "Was a moment of weakness"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.7be0435804e14788",
-      "_id": "7be0435804e14788",
+      "_originalKey": "!tables.results!14d4217d83064dc1.d2e8dd674df44175",
+      "_id": "d2e8dd674df44175",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -111,12 +111,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Light or some blinding sight",
-      "text": "Light or some blinding sight"
+      "name": "Must be a misunderstanding",
+      "text": "Must be a misunderstanding"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.067cd34d879547b4",
-      "_id": "067cd34d879547b4",
+      "_originalKey": "!tables.results!14d4217d83064dc1.e6d71a5d36c64c02",
+      "_id": "e6d71a5d36c64c02",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -131,12 +131,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Something in the air or smell",
-      "text": "Something in the air or smell"
+      "name": "Unrelated, just coincidence",
+      "text": "Unrelated, just coincidence"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.28c28cd57cf84fa1",
-      "_id": "28c28cd57cf84fa1",
+      "_originalKey": "!tables.results!14d4217d83064dc1.38fed6a1e6aa4d87",
+      "_id": "38fed6a1e6aa4d87",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -151,12 +151,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Feel someone following you",
-      "text": "Feel someone following you"
+      "name": "It has been underestimated",
+      "text": "It has been underestimated"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.cc7dab42cf7c421f",
-      "_id": "cc7dab42cf7c421f",
+      "_originalKey": "!tables.results!14d4217d83064dc1.e2852b551d0d48bb",
+      "_id": "e2852b551d0d48bb",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -171,12 +171,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Recognize something familiar",
-      "text": "Recognize something familiar"
+      "name": "Had to make a hard choice",
+      "text": "Had to make a hard choice"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.6fcba969632d4b10",
-      "_id": "6fcba969632d4b10",
+      "_originalKey": "!tables.results!14d4217d83064dc1.edfe9e139b13499f",
+      "_id": "edfe9e139b13499f",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -191,12 +191,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Recent traces or a footprint",
-      "text": "Recent traces or a footprint"
+      "name": "Shared vote, an agreement",
+      "text": "Shared vote, an agreement"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.610200b564334eb8",
-      "_id": "610200b564334eb8",
+      "_originalKey": "!tables.results!14d4217d83064dc1.79464149c0a843ea",
+      "_id": "79464149c0a843ea",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -211,12 +211,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Possible trap or surprise ahead",
-      "text": "Possible trap or surprise ahead"
+      "name": "It was all part of the plan",
+      "text": "It was all part of the plan"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.502a06bad4534217",
-      "_id": "502a06bad4534217",
+      "_originalKey": "!tables.results!14d4217d83064dc1.6a07912e9052470e",
+      "_id": "6a07912e9052470e",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -231,8 +231,8 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Something moving or changing",
-      "text": "Something moving or changing"
+      "name": "Deliberate malicious intent",
+      "text": "Deliberate malicious intent"
     }
   ]
 }

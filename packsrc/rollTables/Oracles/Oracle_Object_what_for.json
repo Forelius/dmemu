@@ -1,20 +1,20 @@
 {
   "folder": null,
-  "name": "Oracle — Notice (perceive)",
-  "_id": "40f22e5d85154cce",
+  "name": "Oracle — Object (what for)",
+  "_id": "6577cb280b984b86",
   "img": "icons/svg/d20-grey.svg",
-  "description": "<p><strong>When to use:</strong> Something draws the characters’ attention and you need a sensory hook.</p><p><strong>How to read it:</strong> Treat the result as a prompt, not a script. Adapt the cue to your setting and scene—what was heard, seen, smelled, or felt may be literal, metaphorical, or a red herring.</p>",
+  "description": "<p><strong>When to use:</strong> Come up with an item from its function, purpose, or value.</p><p><strong>How to read it:</strong> Start from what the object does, then invent the form that fits your world.</p>",
   "results": [
-    "fc11e946f1594ffd",
-    "bd4c544e38084fdb",
-    "a4f3eed6397b403e",
-    "7be0435804e14788",
-    "067cd34d879547b4",
-    "28c28cd57cf84fa1",
-    "cc7dab42cf7c421f",
-    "6fcba969632d4b10",
-    "610200b564334eb8",
-    "502a06bad4534217"
+    "d337c2a59db44726",
+    "762d2909deed4d56",
+    "78b1a5ad1c214f53",
+    "0c2cdae6c8314a8c",
+    "0cf574fcc7a146b2",
+    "4b7d7a3002f34d3f",
+    "3d56f30869c34aea",
+    "100b4a72c42e41db",
+    "ff52e88a43c044c3",
+    "725d18c67f4d4d8d"
   ],
   "replacement": true,
   "displayRoll": false,
@@ -32,11 +32,11 @@
   },
   "formula": "1d10",
   "sort": 0,
-  "_originalKey": "!tables!40f22e5d85154cce",
+  "_originalKey": "!tables!6577cb280b984b86",
   "embedded": [
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.fc11e946f1594ffd",
-      "_id": "fc11e946f1594ffd",
+      "_originalKey": "!tables.results!6577cb280b984b86.d337c2a59db44726",
+      "_id": "d337c2a59db44726",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -51,12 +51,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Hear a voice, scream, whisper",
-      "text": "Hear a voice, scream, whisper"
+      "name": "Triggers transformation or mutation",
+      "text": "Triggers transformation or mutation"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.bd4c544e38084fdb",
-      "_id": "bd4c544e38084fdb",
+      "_originalKey": "!tables.results!6577cb280b984b86.762d2909deed4d56",
+      "_id": "762d2909deed4d56",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -71,12 +71,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Sense an atmospheric change",
-      "text": "Sense an atmospheric change"
+      "name": "Can restore, heal, repair, or revive",
+      "text": "Can restore, heal, repair, or revive"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.a4f3eed6397b403e",
-      "_id": "a4f3eed6397b403e",
+      "_originalKey": "!tables.results!6577cb280b984b86.78b1a5ad1c214f53",
+      "_id": "78b1a5ad1c214f53",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -91,12 +91,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "See a ghost, vision, or memory",
-      "text": "See a ghost, vision, or memory"
+      "name": "Is hindering, paralyzing, or disabling",
+      "text": "Is hindering, paralyzing, or disabling"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.7be0435804e14788",
-      "_id": "7be0435804e14788",
+      "_originalKey": "!tables.results!6577cb280b984b86.0c2cdae6c8314a8c",
+      "_id": "0c2cdae6c8314a8c",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -111,12 +111,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Light or some blinding sight",
-      "text": "Light or some blinding sight"
+      "name": "Capable of channeling or enhancing",
+      "text": "Capable of channeling or enhancing"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.067cd34d879547b4",
-      "_id": "067cd34d879547b4",
+      "_originalKey": "!tables.results!6577cb280b984b86.0cf574fcc7a146b2",
+      "_id": "0cf574fcc7a146b2",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -131,12 +131,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Something in the air or smell",
-      "text": "Something in the air or smell"
+      "name": "Protects from some kind of harm",
+      "text": "Protects from some kind of harm"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.28c28cd57cf84fa1",
-      "_id": "28c28cd57cf84fa1",
+      "_originalKey": "!tables.results!6577cb280b984b86.4b7d7a3002f34d3f",
+      "_id": "4b7d7a3002f34d3f",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -151,12 +151,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Feel someone following you",
-      "text": "Feel someone following you"
+      "name": "Designed to cause physical harm",
+      "text": "Designed to cause physical harm"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.cc7dab42cf7c421f",
-      "_id": "cc7dab42cf7c421f",
+      "_originalKey": "!tables.results!6577cb280b984b86.3d56f30869c34aea",
+      "_id": "3d56f30869c34aea",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -171,12 +171,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Recognize something familiar",
-      "text": "Recognize something familiar"
+      "name": "Meant to cause mental affliction",
+      "text": "Meant to cause mental affliction"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.6fcba969632d4b10",
-      "_id": "6fcba969632d4b10",
+      "_originalKey": "!tables.results!6577cb280b984b86.100b4a72c42e41db",
+      "_id": "100b4a72c42e41db",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -191,12 +191,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Recent traces or a footprint",
-      "text": "Recent traces or a footprint"
+      "name": "Restore or boost energy or stamina",
+      "text": "Restore or boost energy or stamina"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.610200b564334eb8",
-      "_id": "610200b564334eb8",
+      "_originalKey": "!tables.results!6577cb280b984b86.ff52e88a43c044c3",
+      "_id": "ff52e88a43c044c3",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -211,12 +211,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Possible trap or surprise ahead",
-      "text": "Possible trap or surprise ahead"
+      "name": "Grants a special power or ability",
+      "text": "Grants a special power or ability"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.502a06bad4534217",
-      "_id": "502a06bad4534217",
+      "_originalKey": "!tables.results!6577cb280b984b86.725d18c67f4d4d8d",
+      "_id": "725d18c67f4d4d8d",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -231,8 +231,8 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Something moving or changing",
-      "text": "Something moving or changing"
+      "name": "Communicate or transmit remotely",
+      "text": "Communicate or transmit remotely"
     }
   ]
 }

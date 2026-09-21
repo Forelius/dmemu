@@ -2,6 +2,15 @@
 <section class="dmemu-oracle-form">
   <p class="hint">{{about}}</p>
 
+  <nav class="dmemu-oracle-tabs" aria-label="{{localize "DMEMU.Oracle.App.TabsLabel"}}">
+    {{#each tabs}}
+    <button type="button" class="{{#if active}}active{{/if}}" data-action="setTab" data-tab="{{id}}">
+      {{label}}
+    </button>
+    {{/each}}
+  </nav>
+
+  {{#if isYesNoTab}}
   <fieldset>
     <legend>{{localize "DMEMU.Oracle.App.YesNoLegend"}}</legend>
 
@@ -46,24 +55,29 @@
     <p class="hint">{{localize "DMEMU.Oracle.App.BiasHint"}}</p>
     {{#each biasResults}}
     <div class="dmemu-oracle-bias-option">
-      <p>d100={{roll}} → <strong>{{answer}}</strong></p>
-      <button type="button" data-action="pickBias" data-index="{{@index}}">
+      <p>
+        d100={{roll}} → <strong data-tooltip="{{answerDescription}}">{{answer}}</strong>
+      </p>
+      <button type="button" data-action="pickBias" data-index="{{@index}}" data-tooltip="{{answerDescription}}">
         {{localize "DMEMU.Oracle.App.ChooseThis"}}
       </button>
     </div>
     {{/each}}
   </fieldset>
   {{/if}}
+  {{/if}}
 
+  {{#if activeGroup}}
   <fieldset>
-    <legend>{{localize "DMEMU.Oracle.App.EnrichmentLegend"}}</legend>
-    <p class="hint">{{localize "DMEMU.Oracle.Enrichment.Hint"}}</p>
+    <legend>{{activeGroup.label}}</legend>
+    <p class="hint">{{activeGroup.hint}}</p>
     <div class="dmemu-oracle-actions">
-      {{#each enrichment}}
+      {{#each activeGroup.tables}}
       <button type="button" data-action="drawEnrichment" data-table-name="{{tableName}}" data-tooltip="{{hint}}">
         {{label}}
       </button>
       {{/each}}
     </div>
   </fieldset>
+  {{/if}}
 </section>

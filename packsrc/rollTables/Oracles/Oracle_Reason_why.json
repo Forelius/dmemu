@@ -1,20 +1,20 @@
 {
   "folder": null,
-  "name": "Oracle — Notice (perceive)",
-  "_id": "40f22e5d85154cce",
+  "name": "Oracle — Reason (why)",
+  "_id": "ca971b0e9ba545ae",
   "img": "icons/svg/d20-grey.svg",
-  "description": "<p><strong>When to use:</strong> Something draws the characters’ attention and you need a sensory hook.</p><p><strong>How to read it:</strong> Treat the result as a prompt, not a script. Adapt the cue to your setting and scene—what was heard, seen, smelled, or felt may be literal, metaphorical, or a red herring.</p>",
+  "description": "<p><strong>When to use:</strong> Characters may need to understand why an event or action took place.</p><p><strong>How to read it:</strong> Treat the motive as a prompt. Pair with Focus when you need a more concrete subject.</p>",
   "results": [
-    "fc11e946f1594ffd",
-    "bd4c544e38084fdb",
-    "a4f3eed6397b403e",
-    "7be0435804e14788",
-    "067cd34d879547b4",
-    "28c28cd57cf84fa1",
-    "cc7dab42cf7c421f",
-    "6fcba969632d4b10",
-    "610200b564334eb8",
-    "502a06bad4534217"
+    "d7ae4430dd184786",
+    "83f701c9d3034270",
+    "107dd2b80b2a48dd",
+    "9a423111e4194eef",
+    "af7c6c1cdb684e82",
+    "0c44b6bb755d4efc",
+    "388c96a49f084c96",
+    "1ba6e826a008493e",
+    "8e362c9a50274687",
+    "56705e8345f84796"
   ],
   "replacement": true,
   "displayRoll": false,
@@ -32,11 +32,11 @@
   },
   "formula": "1d10",
   "sort": 0,
-  "_originalKey": "!tables!40f22e5d85154cce",
+  "_originalKey": "!tables!ca971b0e9ba545ae",
   "embedded": [
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.fc11e946f1594ffd",
-      "_id": "fc11e946f1594ffd",
+      "_originalKey": "!tables.results!ca971b0e9ba545ae.d7ae4430dd184786",
+      "_id": "d7ae4430dd184786",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -51,12 +51,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Hear a voice, scream, whisper",
-      "text": "Hear a voice, scream, whisper"
+      "name": "To seek power or domination",
+      "text": "To seek power or domination"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.bd4c544e38084fdb",
-      "_id": "bd4c544e38084fdb",
+      "_originalKey": "!tables.results!ca971b0e9ba545ae.83f701c9d3034270",
+      "_id": "83f701c9d3034270",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -71,12 +71,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Sense an atmospheric change",
-      "text": "Sense an atmospheric change"
+      "name": "To get revenge or have justice",
+      "text": "To get revenge or have justice"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.a4f3eed6397b403e",
-      "_id": "a4f3eed6397b403e",
+      "_originalKey": "!tables.results!ca971b0e9ba545ae.107dd2b80b2a48dd",
+      "_id": "107dd2b80b2a48dd",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -91,12 +91,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "See a ghost, vision, or memory",
-      "text": "See a ghost, vision, or memory"
+      "name": "Honor a debt or an open issue",
+      "text": "Honor a debt or an open issue"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.7be0435804e14788",
-      "_id": "7be0435804e14788",
+      "_originalKey": "!tables.results!ca971b0e9ba545ae.9a423111e4194eef",
+      "_id": "9a423111e4194eef",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -111,12 +111,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Light or some blinding sight",
-      "text": "Light or some blinding sight"
+      "name": "For glory, status, reputation",
+      "text": "For glory, status, reputation"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.067cd34d879547b4",
-      "_id": "067cd34d879547b4",
+      "_originalKey": "!tables.results!ca971b0e9ba545ae.af7c6c1cdb684e82",
+      "_id": "af7c6c1cdb684e82",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -131,12 +131,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Something in the air or smell",
-      "text": "Something in the air or smell"
+      "name": "A matter of culture or history",
+      "text": "A matter of culture or history"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.28c28cd57cf84fa1",
-      "_id": "28c28cd57cf84fa1",
+      "_originalKey": "!tables.results!ca971b0e9ba545ae.0c44b6bb755d4efc",
+      "_id": "0c44b6bb755d4efc",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -151,12 +151,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Feel someone following you",
-      "text": "Feel someone following you"
+      "name": "For protection or survival",
+      "text": "For protection or survival"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.cc7dab42cf7c421f",
-      "_id": "cc7dab42cf7c421f",
+      "_originalKey": "!tables.results!ca971b0e9ba545ae.388c96a49f084c96",
+      "_id": "388c96a49f084c96",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -171,12 +171,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Recognize something familiar",
-      "text": "Recognize something familiar"
+      "name": "Mostly about wealth or riches",
+      "text": "Mostly about wealth or riches"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.6fcba969632d4b10",
-      "_id": "6fcba969632d4b10",
+      "_originalKey": "!tables.results!ca971b0e9ba545ae.1ba6e826a008493e",
+      "_id": "1ba6e826a008493e",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -191,12 +191,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Recent traces or a footprint",
-      "text": "Recent traces or a footprint"
+      "name": "To seek knowledge or intel",
+      "text": "To seek knowledge or intel"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.610200b564334eb8",
-      "_id": "610200b564334eb8",
+      "_originalKey": "!tables.results!ca971b0e9ba545ae.8e362c9a50274687",
+      "_id": "8e362c9a50274687",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -211,12 +211,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Possible trap or surprise ahead",
-      "text": "Possible trap or surprise ahead"
+      "name": "For selfishness or self-interest",
+      "text": "For selfishness or self-interest"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.502a06bad4534217",
-      "_id": "502a06bad4534217",
+      "_originalKey": "!tables.results!ca971b0e9ba545ae.56705e8345f84796",
+      "_id": "56705e8345f84796",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -231,8 +231,8 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Something moving or changing",
-      "text": "Something moving or changing"
+      "name": "To fulfill a demand or an order",
+      "text": "To fulfill a demand or an order"
     }
   ]
 }

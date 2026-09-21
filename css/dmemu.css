@@ -13,6 +13,22 @@
   font-weight: 600;
 }
 
+.dmemu-oracle-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin: 0 0 0.75rem;
+}
+
+.dmemu-oracle-tabs button {
+  flex: 1 1 auto;
+  min-width: 5.5rem;
+}
+
+.dmemu-oracle-tabs button.active {
+  font-weight: 700;
+}
+
 .dmemu-oracle-actions {
   display: flex;
   flex-wrap: wrap;
@@ -20,11 +36,16 @@
 }
 
 .dmemu-oracle-actions button {
-  flex: 1 1 auto;
+  flex: 1 1 8rem;
 }
 
 .dmemu-oracle-chat .dmemu-oracle-answer {
   font-size: 1.1em;
+}
+
+.dmemu-oracle-chat .dmemu-oracle-answer-desc {
+  margin-top: 0.15rem;
+  opacity: 0.9;
 }
 
 .dmemu-oracle-meta {

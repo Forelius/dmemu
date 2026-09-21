@@ -28,7 +28,7 @@ Entry script loaded by Foundry: `module/dmemu.min.js`.
 1. Build the module (`npm run build`) and compile packs (`npm run comppacks`).
 2. Enable **Depths Master Emulator** in your world.
 3. From the **DMEmu Macros** pack, drag **Open DMEmu Oracle** to your hotbar (or run `game.dmemu.openOracle()`).
-4. Ask Yes/No questions with perspective + likelihood; optional enrichment draws use RollTables.
+4. Ask Yes/No questions with perspective + likelihood; use the Descriptive / Story / Quantifier tabs to draw from RollTables.
 
 Client setting: **Oracle chat visibility** (self / GMs / everyone).
 
@@ -41,7 +41,7 @@ npm run decomppacks   # LevelDB → packsrc JSON
 npm run comppacks     # packsrc JSON → LevelDB
 ```
 
-Included so far: Open Oracle macro; Notice and Focus enrichment RollTables.
+Included so far: Open Oracle macro; descriptive, story, and quantifier enrichment RollTables.
 
 ## Releases
 

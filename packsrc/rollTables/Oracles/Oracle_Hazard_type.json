@@ -1,20 +1,20 @@
 {
   "folder": null,
-  "name": "Oracle — Notice (perceive)",
-  "_id": "40f22e5d85154cce",
+  "name": "Oracle — Hazard (type)",
+  "_id": "18d0ecf23c244a74",
   "img": "icons/svg/d20-grey.svg",
-  "description": "<p><strong>When to use:</strong> Something draws the characters’ attention and you need a sensory hook.</p><p><strong>How to read it:</strong> Treat the result as a prompt, not a script. Adapt the cue to your setting and scene—what was heard, seen, smelled, or felt may be literal, metaphorical, or a red herring.</p>",
+  "description": "<p><strong>When to use:</strong> Define the nature of a danger when facing a threat.</p><p><strong>How to read it:</strong> Use the result as the hazard’s style or capability—not necessarily a named creature.</p>",
   "results": [
-    "fc11e946f1594ffd",
-    "bd4c544e38084fdb",
-    "a4f3eed6397b403e",
-    "7be0435804e14788",
-    "067cd34d879547b4",
-    "28c28cd57cf84fa1",
-    "cc7dab42cf7c421f",
-    "6fcba969632d4b10",
-    "610200b564334eb8",
-    "502a06bad4534217"
+    "16e8d694f8444d38",
+    "6323afa979b84579",
+    "fd4d3f6a23974a53",
+    "ff7d6eda090a4fad",
+    "c8207ca31ac54bed",
+    "effccdb4df0f4374",
+    "c10682b17a264e95",
+    "8a75945dd3b649ff",
+    "a7742de6e9ea4639",
+    "5519abf9946f44df"
   ],
   "replacement": true,
   "displayRoll": false,
@@ -32,11 +32,11 @@
   },
   "formula": "1d10",
   "sort": 0,
-  "_originalKey": "!tables!40f22e5d85154cce",
+  "_originalKey": "!tables!18d0ecf23c244a74",
   "embedded": [
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.fc11e946f1594ffd",
-      "_id": "fc11e946f1594ffd",
+      "_originalKey": "!tables.results!18d0ecf23c244a74.16e8d694f8444d38",
+      "_id": "16e8d694f8444d38",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -51,12 +51,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Hear a voice, scream, whisper",
-      "text": "Hear a voice, scream, whisper"
+      "name": "Agile, fast, nimble",
+      "text": "Agile, fast, nimble"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.bd4c544e38084fdb",
-      "_id": "bd4c544e38084fdb",
+      "_originalKey": "!tables.results!18d0ecf23c244a74.6323afa979b84579",
+      "_id": "6323afa979b84579",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -71,12 +71,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Sense an atmospheric change",
-      "text": "Sense an atmospheric change"
+      "name": "Armored, defensive",
+      "text": "Armored, defensive"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.a4f3eed6397b403e",
-      "_id": "a4f3eed6397b403e",
+      "_originalKey": "!tables.results!18d0ecf23c244a74.fd4d3f6a23974a53",
+      "_id": "fd4d3f6a23974a53",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -91,12 +91,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "See a ghost, vision, or memory",
-      "text": "See a ghost, vision, or memory"
+      "name": "Sneaky, hiding, rogue",
+      "text": "Sneaky, hiding, rogue"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.7be0435804e14788",
-      "_id": "7be0435804e14788",
+      "_originalKey": "!tables.results!18d0ecf23c244a74.ff7d6eda090a4fad",
+      "_id": "ff7d6eda090a4fad",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -111,12 +111,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Light or some blinding sight",
-      "text": "Light or some blinding sight"
+      "name": "Tactical, smart, clever",
+      "text": "Tactical, smart, clever"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.067cd34d879547b4",
-      "_id": "067cd34d879547b4",
+      "_originalKey": "!tables.results!18d0ecf23c244a74.c8207ca31ac54bed",
+      "_id": "c8207ca31ac54bed",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -131,12 +131,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Something in the air or smell",
-      "text": "Something in the air or smell"
+      "name": "Magic, special, power",
+      "text": "Magic, special, power"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.28c28cd57cf84fa1",
-      "_id": "28c28cd57cf84fa1",
+      "_originalKey": "!tables.results!18d0ecf23c244a74.effccdb4df0f4374",
+      "_id": "effccdb4df0f4374",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -151,12 +151,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Feel someone following you",
-      "text": "Feel someone following you"
+      "name": "Technical, gadgets",
+      "text": "Technical, gadgets"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.cc7dab42cf7c421f",
-      "_id": "cc7dab42cf7c421f",
+      "_originalKey": "!tables.results!18d0ecf23c244a74.c10682b17a264e95",
+      "_id": "c10682b17a264e95",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -171,12 +171,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Recognize something familiar",
-      "text": "Recognize something familiar"
+      "name": "Strong, brute, large",
+      "text": "Strong, brute, large"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.6fcba969632d4b10",
-      "_id": "6fcba969632d4b10",
+      "_originalKey": "!tables.results!18d0ecf23c244a74.8a75945dd3b649ff",
+      "_id": "8a75945dd3b649ff",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -191,12 +191,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Recent traces or a footprint",
-      "text": "Recent traces or a footprint"
+      "name": "Flying, swim, jumps",
+      "text": "Flying, swim, jumps"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.610200b564334eb8",
-      "_id": "610200b564334eb8",
+      "_originalKey": "!tables.results!18d0ecf23c244a74.a7742de6e9ea4639",
+      "_id": "a7742de6e9ea4639",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -211,12 +211,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Possible trap or surprise ahead",
-      "text": "Possible trap or surprise ahead"
+      "name": "Intimidating, scary",
+      "text": "Intimidating, scary"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.502a06bad4534217",
-      "_id": "502a06bad4534217",
+      "_originalKey": "!tables.results!18d0ecf23c244a74.5519abf9946f44df",
+      "_id": "5519abf9946f44df",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -231,8 +231,8 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Something moving or changing",
-      "text": "Something moving or changing"
+      "name": "Ranged, accurate",
+      "text": "Ranged, accurate"
     }
   ]
 }

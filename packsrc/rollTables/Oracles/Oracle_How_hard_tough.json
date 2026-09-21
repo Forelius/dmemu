@@ -1,20 +1,20 @@
 {
   "folder": null,
-  "name": "Oracle — Notice (perceive)",
-  "_id": "40f22e5d85154cce",
+  "name": "Oracle — How hard/tough",
+  "_id": "4cdcaf1d341d4273",
   "img": "icons/svg/d20-grey.svg",
-  "description": "<p><strong>When to use:</strong> Something draws the characters’ attention and you need a sensory hook.</p><p><strong>How to read it:</strong> Treat the result as a prompt, not a script. Adapt the cue to your setting and scene—what was heard, seen, smelled, or felt may be literal, metaphorical, or a red herring.</p>",
+  "description": "<p><strong>When to use:</strong> You need difficulty relative to a baseline you set first.</p><p><strong>How to read it:</strong> Decide what “as expected” difficulty is, then apply the result as easier or harder.</p>",
   "results": [
-    "fc11e946f1594ffd",
-    "bd4c544e38084fdb",
-    "a4f3eed6397b403e",
-    "7be0435804e14788",
-    "067cd34d879547b4",
-    "28c28cd57cf84fa1",
-    "cc7dab42cf7c421f",
-    "6fcba969632d4b10",
-    "610200b564334eb8",
-    "502a06bad4534217"
+    "d853e0be20f345d9",
+    "7692e7a54650434a",
+    "8344701464084718",
+    "4d2b23c2efaf4d1a",
+    "6dbf05e1d6764950",
+    "6cd25e5757154a94",
+    "62fa2c6697da4c7c",
+    "48b35c2daa314269",
+    "c853bb2e6e3f442e",
+    "06148b37a9bf44a4"
   ],
   "replacement": true,
   "displayRoll": false,
@@ -32,11 +32,11 @@
   },
   "formula": "1d10",
   "sort": 0,
-  "_originalKey": "!tables!40f22e5d85154cce",
+  "_originalKey": "!tables!4cdcaf1d341d4273",
   "embedded": [
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.fc11e946f1594ffd",
-      "_id": "fc11e946f1594ffd",
+      "_originalKey": "!tables.results!4cdcaf1d341d4273.d853e0be20f345d9",
+      "_id": "d853e0be20f345d9",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -51,12 +51,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Hear a voice, scream, whisper",
-      "text": "Hear a voice, scream, whisper"
+      "name": "Very easy, or not worth it",
+      "text": "Very easy, or not worth it"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.bd4c544e38084fdb",
-      "_id": "bd4c544e38084fdb",
+      "_originalKey": "!tables.results!4cdcaf1d341d4273.7692e7a54650434a",
+      "_id": "7692e7a54650434a",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -71,12 +71,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Sense an atmospheric change",
-      "text": "Sense an atmospheric change"
+      "name": "Way easier than expected",
+      "text": "Way easier than expected"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.a4f3eed6397b403e",
-      "_id": "a4f3eed6397b403e",
+      "_originalKey": "!tables.results!4cdcaf1d341d4273.8344701464084718",
+      "_id": "8344701464084718",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -91,12 +91,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "See a ghost, vision, or memory",
-      "text": "See a ghost, vision, or memory"
+      "name": "A bit easier than expected",
+      "text": "A bit easier than expected"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.7be0435804e14788",
-      "_id": "7be0435804e14788",
+      "_originalKey": "!tables.results!4cdcaf1d341d4273.4d2b23c2efaf4d1a",
+      "_id": "4d2b23c2efaf4d1a",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -111,12 +111,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Light or some blinding sight",
-      "text": "Light or some blinding sight"
+      "name": "As expected",
+      "text": "As expected"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.067cd34d879547b4",
-      "_id": "067cd34d879547b4",
+      "_originalKey": "!tables.results!4cdcaf1d341d4273.6dbf05e1d6764950",
+      "_id": "6dbf05e1d6764950",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -131,12 +131,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Something in the air or smell",
-      "text": "Something in the air or smell"
+      "name": "As expected",
+      "text": "As expected"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.28c28cd57cf84fa1",
-      "_id": "28c28cd57cf84fa1",
+      "_originalKey": "!tables.results!4cdcaf1d341d4273.6cd25e5757154a94",
+      "_id": "6cd25e5757154a94",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -151,12 +151,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Feel someone following you",
-      "text": "Feel someone following you"
+      "name": "As expected",
+      "text": "As expected"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.cc7dab42cf7c421f",
-      "_id": "cc7dab42cf7c421f",
+      "_originalKey": "!tables.results!4cdcaf1d341d4273.62fa2c6697da4c7c",
+      "_id": "62fa2c6697da4c7c",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -171,12 +171,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Recognize something familiar",
-      "text": "Recognize something familiar"
+      "name": "As expected",
+      "text": "As expected"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.6fcba969632d4b10",
-      "_id": "6fcba969632d4b10",
+      "_originalKey": "!tables.results!4cdcaf1d341d4273.48b35c2daa314269",
+      "_id": "48b35c2daa314269",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -191,12 +191,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Recent traces or a footprint",
-      "text": "Recent traces or a footprint"
+      "name": "A bit harder than expected",
+      "text": "A bit harder than expected"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.610200b564334eb8",
-      "_id": "610200b564334eb8",
+      "_originalKey": "!tables.results!4cdcaf1d341d4273.c853bb2e6e3f442e",
+      "_id": "c853bb2e6e3f442e",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -211,12 +211,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Possible trap or surprise ahead",
-      "text": "Possible trap or surprise ahead"
+      "name": "Way harder than expected",
+      "text": "Way harder than expected"
     },
     {
-      "_originalKey": "!tables.results!40f22e5d85154cce.502a06bad4534217",
-      "_id": "502a06bad4534217",
+      "_originalKey": "!tables.results!4cdcaf1d341d4273.06148b37a9bf44a4",
+      "_id": "06148b37a9bf44a4",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -231,8 +231,8 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Something moving or changing",
-      "text": "Something moving or changing"
+      "name": "Overwhelming, or impossible",
+      "text": "Overwhelming, or impossible"
     }
   ]
 }

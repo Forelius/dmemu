@@ -14,9 +14,14 @@
       }
     },
     "Oracle": {
-      "About": "Ask closed questions and resolve them with a Yes/No oracle. Choose a perspective and how likely a yes feels, then roll (or roll twice if you have a bias and pick one result). Enrichment buttons draw optional flavor from RollTables.",
+      "About": "Yes/No, descriptive, story, and quantifier oracles. Use the tabs to switch; draws post to chat from RollTables.",
       "App": {
         "Title": "DMEmu Oracle",
+        "TabsLabel": "Oracle sections",
+        "TabYesNo": "Yes / No",
+        "TabDescriptive": "Descriptive",
+        "TabStory": "Story",
+        "TabQuantifier": "Quantifiers",
         "YesNoLegend": "Yes / No",
         "Question": "Question (optional)",
         "QuestionPlaceholder": "e.g. Do the guards notice us?",
@@ -27,8 +32,7 @@
         "RollBiasTooltip": "If you already lean toward an answer, roll twice and pick the result that fits your judgment (PUM bias rule).",
         "BiasPick": "Choose a result",
         "BiasHint": "Pick the result that best fits your judgment.",
-        "ChooseThis": "Use this answer",
-        "EnrichmentLegend": "Enrichment oracles"
+        "ChooseThis": "Use this answer"
       },
       "Perspective": {
         "deterministic": "Deterministic",
@@ -52,42 +56,138 @@
       "LikelihoodHint": "How likely is a yes? This picks a probability table for the d100 — it is not a modifier added to the roll.",
       "Answer": {
         "deterministic": {
-          "strongNo": "Strong no",
-          "no": "No",
-          "weakNo": "Weak no",
-          "weakYes": "Weak yes",
-          "yes": "Yes",
-          "strongYes": "Strong yes"
+          "strongNo": {
+            "label": "Strong no",
+            "description": "A clear, decisive no—treat it as settled unless something major changes."
+          },
+          "no": {
+            "label": "No",
+            "description": "A plain negative. No extra twist unless the scene already suggests one."
+          },
+          "weakNo": {
+            "label": "Weak no",
+            "description": "Leans no, but soft—hesitation, a narrow miss, or room to push again."
+          },
+          "weakYes": {
+            "label": "Weak yes",
+            "description": "Leans yes, but soft—partial success, conditions, or it barely holds."
+          },
+          "yes": {
+            "label": "Yes",
+            "description": "A plain affirmative. Play it straight unless other cues add color."
+          },
+          "strongYes": {
+            "label": "Strong yes",
+            "description": "A clear, decisive yes—lean into it with confidence or momentum."
+          }
         },
         "subjective": {
-          "noDefinitelyNot": "No, definitely not",
-          "noApparentlyNot": "No, apparently not",
-          "noNotYet": "No, not yet",
-          "noBut": "No, but...",
-          "dontKnow": "Don’t know, can’t tell",
-          "itDepends": "It depends (on skill)",
-          "yesBut": "Yes, but...",
-          "yesSometimes": "Yes, sometimes",
-          "yesApparently": "Yes, apparently",
-          "yesAbsolutely": "Yes, absolutely"
+          "noDefinitelyNot": {
+            "label": "No, definitely not",
+            "description": "From their view: firmly rejected. They are sure of the no."
+          },
+          "noApparentlyNot": {
+            "label": "No, apparently not",
+            "description": "Seems like no based on what they know or sense—could be incomplete info."
+          },
+          "noNotYet": {
+            "label": "No, not yet",
+            "description": "Not now; timing or readiness is wrong. A later yes remains possible."
+          },
+          "noBut": {
+            "label": "No, but...",
+            "description": "No to the ask, yet something useful, related, or compensatory comes with it."
+          },
+          "dontKnow": {
+            "label": "Don’t know, can’t tell",
+            "description": "They lack certainty—ignorance, confusion, or senses that will not settle it."
+          },
+          "itDepends": {
+            "label": "It depends (on skill)",
+            "description": "Outcome hinges on ability, roll, or approach—resolve with a check or similar."
+          },
+          "yesBut": {
+            "label": "Yes, but...",
+            "description": "Yes with a catch: cost, risk, complication, or limited scope."
+          },
+          "yesSometimes": {
+            "label": "Yes, sometimes",
+            "description": "True only in some cases or moods—not a reliable always."
+          },
+          "yesApparently": {
+            "label": "Yes, apparently",
+            "description": "Looks like yes from their vantage; they may be wrong or missing a detail."
+          },
+          "yesAbsolutely": {
+            "label": "Yes, absolutely",
+            "description": "From their view: full confidence in yes—play their certainty."
+          }
         },
         "conversation": {
-          "noAnd": "No, and...",
-          "noDefinitelyNot": "No, definitely not",
-          "noDangerous": "No, it’s dangerous",
-          "noTooLate": "No, it’s too late",
-          "noIThinkNot": "No, I think not",
-          "noUnless": "No, unless...",
-          "noBut": "No, but...",
-          "iDontKnow": "I don’t know",
-          "itsComplicated": "It’s complicated",
-          "yesBut": "Yes, but...",
-          "yesForAPrice": "Yes, for a price",
-          "yesPrettySure": "Yes, pretty sure",
-          "yesHurryUp": "Yes, hurry up",
-          "yesBeCareful": "Yes, be careful",
-          "yesOfCourse": "Yes, of course",
-          "yesAnd": "Yes, and..."
+          "noAnd": {
+            "label": "No, and...",
+            "description": "Refusal plus fallout—anger, a new problem, or they make things worse."
+          },
+          "noDefinitelyNot": {
+            "label": "No, definitely not",
+            "description": "Hard refusal in dialogue; little room to negotiate right now."
+          },
+          "noDangerous": {
+            "label": "No, it’s dangerous",
+            "description": "No because of risk or threat—they warn, fear, or refuse for safety."
+          },
+          "noTooLate": {
+            "label": "No, it’s too late",
+            "description": "The window closed; the answer would have been different earlier."
+          },
+          "noIThinkNot": {
+            "label": "No, I think not",
+            "description": "Soft spoken no—uncertain or polite refusal, not a slammed door."
+          },
+          "noUnless": {
+            "label": "No, unless...",
+            "description": "No by default, but a condition, favor, or change could flip it."
+          },
+          "noBut": {
+            "label": "No, but...",
+            "description": "They decline the ask yet offer an alternative, tip, or partial help."
+          },
+          "iDontKnow": {
+            "label": "I don’t know",
+            "description": "They claim ignorance—or will not say. Pressing may change that."
+          },
+          "itsComplicated": {
+            "label": "It’s complicated",
+            "description": "Not a clean yes/no; politics, secrets, or tangled motives are in play."
+          },
+          "yesBut": {
+            "label": "Yes, but...",
+            "description": "Agreement with strings attached—price, favor, or warning."
+          },
+          "yesForAPrice": {
+            "label": "Yes, for a price",
+            "description": "They will help if paid, owed, or given something they want."
+          },
+          "yesPrettySure": {
+            "label": "Yes, pretty sure",
+            "description": "Mostly confident yes in speech; small doubt remains."
+          },
+          "yesHurryUp": {
+            "label": "Yes, hurry up",
+            "description": "Yes under time pressure—act now or the chance slips."
+          },
+          "yesBeCareful": {
+            "label": "Yes, be careful",
+            "description": "Yes with a caution; danger or subtlety comes with the agreement."
+          },
+          "yesOfCourse": {
+            "label": "Yes, of course",
+            "description": "Easy, natural yes—as if the ask was expected or obvious."
+          },
+          "yesAnd": {
+            "label": "Yes, and...",
+            "description": "Yes plus more—extra help, info, or a twist that advances things."
+          }
         }
       },
       "Chat": {
@@ -96,11 +196,48 @@
         "Answer": "Answer:"
       },
       "Enrichment": {
-        "Hint": "When you need a sensory cue or a subject to hang an answer on, draw below.",
+        "Group": {
+          "Descriptive": "Descriptive oracles",
+          "DescriptiveHint": "Scene details you can perceive. Optionally enrich with Description (looks).",
+          "Story": "Story oracles",
+          "StoryHint": "Plot motives, discoveries, and risks. Optionally enrich with Focus (what).",
+          "Quantifier": "Quantifiers",
+          "QuantifierHint": "Set a baseline first, then roll for how much / how good / how hard relative to that."
+        },
         "Notice": "Notice (perceive)",
-        "NoticeHint": "Use when something draws the characters’ attention. The result is a sensory hook—fit it to the scene and setting.",
+        "NoticeHint": "Something draws attention—a sensory hook to fit to the scene.",
+        "Someone": "Someone (who)",
+        "SomeoneHint": "Identify a character by a defining feature.",
+        "Place": "Place (where)",
+        "PlaceHint": "Generate a location from a key detail.",
+        "Object": "Object (what for)",
+        "ObjectHint": "An item based on function, purpose, or value.",
+        "Hazard": "Hazard (type)",
+        "HazardHint": "The nature of a danger when facing a threat.",
+        "Mood": "Mood (feel)",
+        "MoodHint": "Atmosphere or emotional tone of a scene or NPC.",
+        "Description": "Description (looks)",
+        "DescriptionHint": "Visual or sensory detail to enrich another answer.",
         "Focus": "Focus (what)",
-        "FocusHint": "Use when you need a noun or theme (thing, goal, discovery). Twist the pair of words into whatever the situation needs.",
+        "FocusHint": "A noun or theme (thing, goal, discovery) to hang meaning on.",
+        "Reason": "Reason (why)",
+        "ReasonHint": "Why an event or action took place.",
+        "Intent": "Intent (want)",
+        "IntentHint": "What somebody wants from your characters.",
+        "Activity": "Activity (doing)",
+        "ActivityHint": "What an actor is currently engaged in.",
+        "Discovery": "Discovery (find)",
+        "DiscoveryHint": "What the characters learn when they deserve an explanation.",
+        "Problem": "Problem (risk)",
+        "ProblemHint": "A stake, consequence, or thing at risk.",
+        "Explain": "Explain (how)",
+        "ExplainHint": "How something actually happened.",
+        "HowMany": "How many/much",
+        "HowManyHint": "Relative quantity vs your baseline.",
+        "HowGood": "How good/well",
+        "HowGoodHint": "Relative quality or success vs your baseline.",
+        "HowHard": "How hard/tough",
+        "HowHardHint": "Relative difficulty vs your baseline.",
         "PackMissing": "DMEmu rollTables pack is not available.",
         "TableMissing": "That enrichment table was not found in the pack."
       }

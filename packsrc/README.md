@@ -13,8 +13,7 @@ Supported pack folders (same as fade-compendiums build tooling):
 
 Declared in `module.json`: `rollTables`, `macros`, `journals`.
 
-Oracle content (initial):
+Oracle content:
 
 - `macros/Open_DMEmu_Oracle.json`
-- `rollTables/Oracles/Oracle_Notice_perceive.json`
-- `rollTables/Oracles/Oracle_Focus_what.json`
+- `rollTables/Oracles/` — Yes/No enrichment companions: descriptive (Notice, Someone, Place, Object, Hazard, Mood, Description), story (Focus, Reason, Intent, Activity, Discovery, Problem, Explain), quantifiers (How many/much, How good/well, How hard/tough)

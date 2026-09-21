@@ -20,6 +20,7 @@ export interface YesNoRollResult {
    roll: number;
    answerKey: string;
    answer: string;
+   answerDescription: string;
    perspectiveLabel: string;
    likelihoodLabel: string;
 }
@@ -30,8 +31,12 @@ function localize(key: string): string {
    return game.i18n.localize(key);
 }
 
-function answerI18nKey(answerSuffix: string): string {
-   return `DMEMU.Oracle.Answer.${answerSuffix}`;
+function answerLabelKey(answerSuffix: string): string {
+   return `DMEMU.Oracle.Answer.${answerSuffix}.label`;
+}
+
+function answerDescriptionKey(answerSuffix: string): string {
+   return `DMEMU.Oracle.Answer.${answerSuffix}.description`;
 }
 
 export class YesNoOracleService {
@@ -97,7 +102,8 @@ export class YesNoOracleService {
          question: (request.question ?? "").trim(),
          roll,
          answerKey: answerSuffix,
-         answer: localize(answerI18nKey(answerSuffix)),
+         answer: localize(answerLabelKey(answerSuffix)),
+         answerDescription: localize(answerDescriptionKey(answerSuffix)),
          perspectiveLabel: localize(`DMEMU.Oracle.Perspective.${request.perspective}`),
          likelihoodLabel: localize(`DMEMU.Oracle.Likelihood.${request.likelihood}`),
       };
@@ -108,11 +114,15 @@ export class YesNoOracleService {
       const q = result.question
          ? `<p class="dmemu-oracle-question"><strong>${localize("DMEMU.Oracle.Chat.Question")}</strong> ${esc(result.question)}</p>`
          : "";
+      const desc = result.answerDescription
+         ? `<p class="dmemu-oracle-answer-desc hint">${esc(result.answerDescription)}</p>`
+         : "";
       return `
          <div class="dmemu-oracle-chat">
             <p class="dmemu-oracle-meta">${esc(result.perspectiveLabel)} · ${esc(result.likelihoodLabel)} · d100=${result.roll}</p>
             ${q}
             <p class="dmemu-oracle-answer"><strong>${localize("DMEMU.Oracle.Chat.Answer")}</strong> ${esc(result.answer)}</p>
+            ${desc}
          </div>
       `.trim();
    }

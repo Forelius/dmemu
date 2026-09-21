@@ -1,60 +1,60 @@
 {
   "folder": null,
-  "name": "Oracle — Focus (what)",
-  "_id": "173c38dd1564420d",
+  "name": "Oracle — Description (looks)",
+  "_id": "a74b7c3ad7404090",
   "img": "icons/svg/d20-grey.svg",
-  "description": "<p><strong>When to use:</strong> You need a subject, theme, goal, or discovery to hang meaning on—often to enrich another oracle answer.</p><p><strong>How to read it:</strong> Each entry is a paired noun/idea (e.g. Secrets/Plots). Pick the half that fits, blend both, or reinterpret freely for your world. Re-roll or ignore if nothing sparks.</p>",
+  "description": "<p><strong>When to use:</strong> Add detail or enhance another prompt with a visual or sensory impression.</p><p><strong>How to read it:</strong> Each entry is a paired look/feel (or a single cue). Pick the half that fits, blend both, or reinterpret freely.</p>",
   "results": [
-    "387e8b8f2c934081",
-    "5561e03bbe3549d1",
-    "d7a01a5dfc434783",
-    "25a08b1868b84e87",
-    "7825dc97c9e9424e",
-    "af725748eb2944c6",
-    "7cba5514fc814cec",
-    "cf03fdbb2e4a415d",
-    "6fbc0991ab5447a7",
-    "428bdc46abb44eae",
-    "6b2ba42ec68048b0",
-    "6d9dca3b04df440a",
-    "406b01b550334588",
-    "2de730b1c9514e98",
-    "0f6ed00b2f114a2f",
-    "0fb2a98d7de84e9c",
-    "2f2bda6aac0b449d",
-    "36a438eef4834e48",
-    "d6f5ebcbc6cb438c",
-    "e4c45932e4bb45d1",
-    "d1d5b1838e864a1e",
-    "02a634c89e794e88",
-    "aa65d565765b460d",
-    "ad952d0bbe8b482b",
-    "07eea89d7250451f",
-    "0bfc652c24d04a0a",
-    "98d64a32c4034250",
-    "bc2e6a36c1e6490e",
-    "73ae7995ed2b43e9",
-    "6e4b02d209aa4e55",
-    "75ef4f56332d49b1",
-    "cfb4369d3ef346a5",
-    "0e80c776bc014092",
-    "4029d69a95634775",
-    "b6fe8ce2bd5c4ef5",
-    "cd0464c761a84772",
-    "2697d1b063f741f0",
-    "e2675a19778e4395",
-    "d051b63b83c44714",
-    "264ae72f7a474e08",
-    "4731ad23f85840f9",
-    "644b31db573a43ca",
-    "b36b8e1a7e824942",
-    "cf9a932f2efe48c3",
-    "8709009f6e554141",
-    "f797797e88ba4ad5",
-    "cb98152c266a431c",
-    "4f3df41a1cca4e07",
-    "6d5d9c6a5bd44690",
-    "b14b4a694dc8478b"
+    "773f060ae5e44c23",
+    "88b5435ec1d140b9",
+    "7e4379e64f0a4bf4",
+    "01b56b4a58e244ef",
+    "5afc7c31fa024207",
+    "ac2713e1d5e140c7",
+    "cf6f9d797bd74036",
+    "68b6f95640144125",
+    "f0e97d482cbd443b",
+    "06fbec74ff224337",
+    "95491d24a4b44b7c",
+    "9b1e2ded16514ebb",
+    "1a17e3cb8caa4122",
+    "707009fc956b43da",
+    "95cb04b1d8c84252",
+    "cf5269cc7c7e4344",
+    "6f61343072be4b61",
+    "c6eba61e093b4bba",
+    "9685cfa2c2134139",
+    "fde23210f1c8454c",
+    "9badb799ea22459f",
+    "5e702f6f4d4d4136",
+    "1db41a1189da4cb8",
+    "cdee80a733194ff4",
+    "60f8655b1fe7405c",
+    "767d81e634504767",
+    "c4507fe3b58442a9",
+    "4646e4a0cbf24f88",
+    "0b5fea0d08554965",
+    "69d93f8bd75a440c",
+    "a2d985b7486d4aed",
+    "4dde5008454545bd",
+    "da7630f64b094fbe",
+    "ab43a71c0c394c5f",
+    "db272fb4c88f45a9",
+    "1f5a8ec255cf4881",
+    "89bca7716d754d88",
+    "b9d4f8b948714907",
+    "7677066bbb1745f3",
+    "4fd6427a137b40c4",
+    "e8d557374c3f4101",
+    "2e44595039bc4f4e",
+    "50c1a7948bc545c6",
+    "9689007ba8204ca4",
+    "80297d86b6d5495e",
+    "c403302d86e94e95",
+    "72ff9b1b9b784504",
+    "e349651c63b04b57",
+    "342c1680efea43e4",
+    "4e6f0b66b1cd443e"
   ],
   "replacement": true,
   "displayRoll": false,
@@ -72,11 +72,11 @@
   },
   "formula": "1d100",
   "sort": 0,
-  "_originalKey": "!tables!173c38dd1564420d",
+  "_originalKey": "!tables!a74b7c3ad7404090",
   "embedded": [
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.387e8b8f2c934081",
-      "_id": "387e8b8f2c934081",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.773f060ae5e44c23",
+      "_id": "773f060ae5e44c23",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -91,12 +91,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Ambition/Idea",
-      "text": "Ambition/Idea"
+      "name": "ancient/old",
+      "text": "ancient/old"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.5561e03bbe3549d1",
-      "_id": "5561e03bbe3549d1",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.88b5435ec1d140b9",
+      "_id": "88b5435ec1d140b9",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -111,12 +111,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Arrival/Birth",
-      "text": "Arrival/Birth"
+      "name": "beautiful/nice",
+      "text": "beautiful/nice"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.d7a01a5dfc434783",
-      "_id": "d7a01a5dfc434783",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.7e4379e64f0a4bf4",
+      "_id": "7e4379e64f0a4bf4",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -131,12 +131,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Artifact/Item",
-      "text": "Artifact/Item"
+      "name": "bright/shiny",
+      "text": "bright/shiny"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.25a08b1868b84e87",
-      "_id": "25a08b1868b84e87",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.01b56b4a58e244ef",
+      "_id": "01b56b4a58e244ef",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -151,12 +151,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Battle/Fight",
-      "text": "Battle/Fight"
+      "name": "chaotic/mad",
+      "text": "chaotic/mad"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.7825dc97c9e9424e",
-      "_id": "7825dc97c9e9424e",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.5afc7c31fa024207",
+      "_id": "5afc7c31fa024207",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -171,12 +171,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Books/Lore",
-      "text": "Books/Lore"
+      "name": "cheery/happy",
+      "text": "cheery/happy"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.af725748eb2944c6",
-      "_id": "af725748eb2944c6",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.ac2713e1d5e140c7",
+      "_id": "ac2713e1d5e140c7",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -191,12 +191,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Chant/Rite",
-      "text": "Chant/Rite"
+      "name": "circular/fat",
+      "text": "circular/fat"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.7cba5514fc814cec",
-      "_id": "7cba5514fc814cec",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.cf6f9d797bd74036",
+      "_id": "cf6f9d797bd74036",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -211,12 +211,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Cipher/Code",
-      "text": "Cipher/Code"
+      "name": "cold/distant",
+      "text": "cold/distant"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.cf03fdbb2e4a415d",
-      "_id": "cf03fdbb2e4a415d",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.68b6f95640144125",
+      "_id": "68b6f95640144125",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -231,12 +231,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Culture/Past",
-      "text": "Culture/Past"
+      "name": "colorful/light",
+      "text": "colorful/light"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.6fbc0991ab5447a7",
-      "_id": "6fbc0991ab5447a7",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.f0e97d482cbd443b",
+      "_id": "f0e97d482cbd443b",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -251,12 +251,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Debt/Trade",
-      "text": "Debt/Trade"
+      "name": "cozy/friendly",
+      "text": "cozy/friendly"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.428bdc46abb44eae",
-      "_id": "428bdc46abb44eae",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.06fbec74ff224337",
+      "_id": "06fbec74ff224337",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -271,12 +271,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Domain/Land",
-      "text": "Domain/Land"
+      "name": "dangerous",
+      "text": "dangerous"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.6b2ba42ec68048b0",
-      "_id": "6b2ba42ec68048b0",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.95491d24a4b44b7c",
+      "_id": "95491d24a4b44b7c",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -291,12 +291,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Finding/Search",
-      "text": "Finding/Search"
+      "name": "dark/evil",
+      "text": "dark/evil"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.6d9dca3b04df440a",
-      "_id": "6d9dca3b04df440a",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.9b1e2ded16514ebb",
+      "_id": "9b1e2ded16514ebb",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -311,12 +311,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Enemy/Danger",
-      "text": "Enemy/Danger"
+      "name": "diverse/varied",
+      "text": "diverse/varied"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.406b01b550334588",
-      "_id": "406b01b550334588",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.1a17e3cb8caa4122",
+      "_id": "1a17e3cb8caa4122",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -331,12 +331,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Enigma/Doubt",
-      "text": "Enigma/Doubt"
+      "name": "dry/rough",
+      "text": "dry/rough"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.2de730b1c9514e98",
-      "_id": "2de730b1c9514e98",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.707009fc956b43da",
+      "_id": "707009fc956b43da",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -351,12 +351,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Faction/Family",
-      "text": "Faction/Family"
+      "name": "dull/boring",
+      "text": "dull/boring"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.0f6ed00b2f114a2f",
-      "_id": "0f6ed00b2f114a2f",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.95cb04b1d8c84252",
+      "_id": "95cb04b1d8c84252",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -371,12 +371,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Faith/Divine",
-      "text": "Faith/Divine"
+      "name": "exciting/active",
+      "text": "exciting/active"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.0fb2a98d7de84e9c",
-      "_id": "0fb2a98d7de84e9c",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.cf5269cc7c7e4344",
+      "_id": "cf5269cc7c7e4344",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -391,12 +391,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Fear/Nightmare",
-      "text": "Fear/Nightmare"
+      "name": "foggy/blurry",
+      "text": "foggy/blurry"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.2f2bda6aac0b449d",
-      "_id": "2f2bda6aac0b449d",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.6f61343072be4b61",
+      "_id": "6f61343072be4b61",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -411,12 +411,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Forces/Strength",
-      "text": "Forces/Strength"
+      "name": "futuristic/far",
+      "text": "futuristic/far"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.36a438eef4834e48",
-      "_id": "36a438eef4834e48",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.c6eba61e093b4bba",
+      "_id": "c6eba61e093b4bba",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -431,12 +431,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Fortress/Tower",
-      "text": "Fortress/Tower"
+      "name": "gloomy/grim",
+      "text": "gloomy/grim"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.d6f5ebcbc6cb438c",
-      "_id": "d6f5ebcbc6cb438c",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.9685cfa2c2134139",
+      "_id": "9685cfa2c2134139",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -451,12 +451,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Friend/Allies",
-      "text": "Friend/Allies"
+      "name": "historic/quaint",
+      "text": "historic/quaint"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.e4c45932e4bb45d1",
-      "_id": "e4c45932e4bb45d1",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.fde23210f1c8454c",
+      "_id": "fde23210f1c8454c",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -471,12 +471,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Global/Universe",
-      "text": "Global/Universe"
+      "name": "normal/simple",
+      "text": "normal/simple"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.d1d5b1838e864a1e",
-      "_id": "d1d5b1838e864a1e",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.9badb799ea22459f",
+      "_id": "9badb799ea22459f",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -491,12 +491,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Hazard/Nature",
-      "text": "Hazard/Nature"
+      "name": "hot/angry",
+      "text": "hot/angry"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.02a634c89e794e88",
-      "_id": "02a634c89e794e88",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.5e702f6f4d4d4136",
+      "_id": "5e702f6f4d4d4136",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -511,12 +511,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Illusions/Ghost",
-      "text": "Illusions/Ghost"
+      "name": "humid/warm",
+      "text": "humid/warm"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.aa65d565765b460d",
-      "_id": "aa65d565765b460d",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.1db41a1189da4cb8",
+      "_id": "1db41a1189da4cb8",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -531,12 +531,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Jewelry/Gem",
-      "text": "Jewelry/Gem"
+      "name": "innovative/cool",
+      "text": "innovative/cool"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.ad952d0bbe8b482b",
-      "_id": "ad952d0bbe8b482b",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.cdee80a733194ff4",
+      "_id": "cdee80a733194ff4",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -551,12 +551,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Karma/Deed",
-      "text": "Karma/Deed"
+      "name": "jagged/edgy",
+      "text": "jagged/edgy"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.07eea89d7250451f",
-      "_id": "07eea89d7250451f",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.60f8655b1fe7405c",
+      "_id": "60f8655b1fe7405c",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -571,12 +571,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Key/Doors",
-      "text": "Key/Doors"
+      "name": "lonely/separate",
+      "text": "lonely/separate"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.0bfc652c24d04a0a",
-      "_id": "0bfc652c24d04a0a",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.767d81e634504767",
+      "_id": "767d81e634504767",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -591,12 +591,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Lies/Whisper",
-      "text": "Lies/Whisper"
+      "name": "majestic/grand",
+      "text": "majestic/grand"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.98d64a32c4034250",
-      "_id": "98d64a32c4034250",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.c4507fe3b58442a9",
+      "_id": "c4507fe3b58442a9",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -611,12 +611,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Love/Passion",
-      "text": "Love/Passion"
+      "name": "modern/new",
+      "text": "modern/new"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.bc2e6a36c1e6490e",
-      "_id": "bc2e6a36c1e6490e",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.4646e4a0cbf24f88",
+      "_id": "4646e4a0cbf24f88",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -631,12 +631,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Machine/Robot",
-      "text": "Machine/Robot"
+      "name": "mysterious/odd",
+      "text": "mysterious/odd"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.73ae7995ed2b43e9",
-      "_id": "73ae7995ed2b43e9",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.0b5fea0d08554965",
+      "_id": "0b5fea0d08554965",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -651,12 +651,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Magic/Weird",
-      "text": "Magic/Weird"
+      "name": "peaceful/calm",
+      "text": "peaceful/calm"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.6e4b02d209aa4e55",
-      "_id": "6e4b02d209aa4e55",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.69d93f8bd75a440c",
+      "_id": "69d93f8bd75a440c",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -671,12 +671,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Mission/Task",
-      "text": "Mission/Task"
+      "name": "poor/lacking",
+      "text": "poor/lacking"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.75ef4f56332d49b1",
-      "_id": "75ef4f56332d49b1",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.a2d985b7486d4aed",
+      "_id": "a2d985b7486d4aed",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -691,12 +691,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Monster/Beast",
-      "text": "Monster/Beast"
+      "name": "rainy/wet",
+      "text": "rainy/wet"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.cfb4369d3ef346a5",
-      "_id": "cfb4369d3ef346a5",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.4dde5008454545bd",
+      "_id": "4dde5008454545bd",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -711,12 +711,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Mystery/Murder",
-      "text": "Mystery/Murder"
+      "name": "rectangular",
+      "text": "rectangular"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.0e80c776bc014092",
-      "_id": "0e80c776bc014092",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.da7630f64b094fbe",
+      "_id": "da7630f64b094fbe",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -731,12 +731,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Noise/Sound",
-      "text": "Noise/Sound"
+      "name": "rich/wealthy",
+      "text": "rich/wealthy"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.4029d69a95634775",
-      "_id": "4029d69a95634775",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.ab43a71c0c394c5f",
+      "_id": "ab43a71c0c394c5f",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -751,12 +751,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Pain/Suffering",
-      "text": "Pain/Suffering"
+      "name": "romantic/loving",
+      "text": "romantic/loving"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.b6fe8ce2bd5c4ef5",
-      "_id": "b6fe8ce2bd5c4ef5",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.db272fb4c88f45a9",
+      "_id": "db272fb4c88f45a9",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -771,12 +771,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Place/Mood",
-      "text": "Place/Mood"
+      "name": "smooth/fun",
+      "text": "smooth/fun"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.cd0464c761a84772",
-      "_id": "cd0464c761a84772",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.1f5a8ec255cf4881",
+      "_id": "1f5a8ec255cf4881",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -791,12 +791,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Plan/Blackmail",
-      "text": "Plan/Blackmail"
+      "name": "snowy/slow",
+      "text": "snowy/slow"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.2697d1b063f741f0",
-      "_id": "2697d1b063f741f0",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.89bca7716d754d88",
+      "_id": "89bca7716d754d88",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -811,12 +811,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Politics/Laws",
-      "text": "Politics/Laws"
+      "name": "unique/special",
+      "text": "unique/special"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.e2675a19778e4395",
-      "_id": "e2675a19778e4395",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.b9d4f8b948714907",
+      "_id": "b9d4f8b948714907",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -831,12 +831,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Power/Control",
-      "text": "Power/Control"
+      "name": "sad/depressing",
+      "text": "sad/depressing"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.d051b63b83c44714",
-      "_id": "d051b63b83c44714",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.7677066bbb1745f3",
+      "_id": "7677066bbb1745f3",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -851,12 +851,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Promise/Vow",
-      "text": "Promise/Vow"
+      "name": "scary/taunting",
+      "text": "scary/taunting"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.264ae72f7a474e08",
-      "_id": "264ae72f7a474e08",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.4fd6427a137b40c4",
+      "_id": "4fd6427a137b40c4",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -871,12 +871,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Protocol/Rules",
-      "text": "Protocol/Rules"
+      "name": "serene/quiet",
+      "text": "serene/quiet"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.4731ad23f85840f9",
-      "_id": "4731ad23f85840f9",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.e8d557374c3f4101",
+      "_id": "e8d557374c3f4101",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -891,12 +891,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Rebels/Traitor",
-      "text": "Rebels/Traitor"
+      "name": "stable/calm",
+      "text": "stable/calm"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.644b31db573a43ca",
-      "_id": "644b31db573a43ca",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.2e44595039bc4f4e",
+      "_id": "2e44595039bc4f4e",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -911,12 +911,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Riches/Wealth",
-      "text": "Riches/Wealth"
+      "name": "stormy/mad",
+      "text": "stormy/mad"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.b36b8e1a7e824942",
-      "_id": "b36b8e1a7e824942",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.50c1a7948bc545c6",
+      "_id": "50c1a7948bc545c6",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -931,12 +931,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Secrets/Plots",
-      "text": "Secrets/Plots"
+      "name": "sunny/smiling",
+      "text": "sunny/smiling"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.cf9a932f2efe48c3",
-      "_id": "cf9a932f2efe48c3",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.9689007ba8204ca4",
+      "_id": "9689007ba8204ca4",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -951,12 +951,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Tech/Future",
-      "text": "Tech/Future"
+      "name": "traditional/norm",
+      "text": "traditional/norm"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.8709009f6e554141",
-      "_id": "8709009f6e554141",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.80297d86b6d5495e",
+      "_id": "80297d86b6d5495e",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -971,12 +971,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Transformation",
-      "text": "Transformation"
+      "name": "tiny/small",
+      "text": "tiny/small"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.f797797e88ba4ad5",
-      "_id": "f797797e88ba4ad5",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.c403302d86e94e95",
+      "_id": "c403302d86e94e95",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -991,12 +991,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Traps/Ambush",
-      "text": "Traps/Ambush"
+      "name": "ugly/horrid",
+      "text": "ugly/horrid"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.cb98152c266a431c",
-      "_id": "cb98152c266a431c",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.72ff9b1b9b784504",
+      "_id": "72ff9b1b9b784504",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -1011,12 +1011,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Treasure/Loot",
-      "text": "Treasure/Loot"
+      "name": "unexpected",
+      "text": "unexpected"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.4f3df41a1cca4e07",
-      "_id": "4f3df41a1cca4e07",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.e349651c63b04b57",
+      "_id": "e349651c63b04b57",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -1031,12 +1031,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Tyranny/Evil",
-      "text": "Tyranny/Evil"
+      "name": "vast/big",
+      "text": "vast/big"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.6d5d9c6a5bd44690",
-      "_id": "6d5d9c6a5bd44690",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.342c1680efea43e4",
+      "_id": "342c1680efea43e4",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -1051,12 +1051,12 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Vision/Prophecy",
-      "text": "Vision/Prophecy"
+      "name": "violent/furious",
+      "text": "violent/furious"
     },
     {
-      "_originalKey": "!tables.results!173c38dd1564420d.b14b4a694dc8478b",
-      "_id": "b14b4a694dc8478b",
+      "_originalKey": "!tables.results!a74b7c3ad7404090.4e6f0b66b1cd443e",
+      "_id": "4e6f0b66b1cd443e",
       "flags": {},
       "type": "text",
       "img": "icons/svg/d20-black.svg",
@@ -1071,8 +1071,8 @@
         "systemId": ""
       },
       "description": "",
-      "name": "Weapons/Tools",
-      "text": "Weapons/Tools"
+      "name": "windy/moving",
+      "text": "windy/moving"
     }
   ]
 }

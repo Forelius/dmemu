@@ -1,7 +1,7 @@
 /**
  * PUM granular Yes/No oracle matrices (d100 × likelihood → answer index).
  * Source: Plot Unfolding Machine v9.0 granular oracles sheet.
- * Answer strings live in lang/en.json under DMEMU.Oracle.Answer.*
+ * Answer labels/descriptions live in lang/en.json under DMEMU.Oracle.Answer.*.label|description
  */
 
 export type YesNoPerspective = "deterministic" | "subjective" | "conversation";
