@@ -1,48 +1,27 @@
 # Depths Master Emulator (DMEmu)
 
-System-agnostic solo / GM emulator module for Foundry VTT (v13–v14).
+A system-agnostic solo and GM-less storytelling toolkit for Foundry VTT (v13–v14). DMEmu helps you answer scene questions, invent people and places, and keep a living compass for the plot—without tying you to a specific game system.
+
+This first release is a near-complete Foundry implementation of the core Plot Unfolding Machine and Game Unfolding Machine workflows. Future versions will expand the module further and take more liberties with the systems as the Foundry experience evolves.
+
+## What you get
+
+**Oracle** — Yes/no questions with perspective and likelihood, Grand prompts (Action / Adjective / Subject), and enrichment draws for description, story, and quantity.
+
+**Generators** — Prompt tables for game seeds, factions, locations, objects, adversaries, creatures, and characters. Combined rolls post a single chat prompt you can adapt on the fly.
+
+**Plot Sheet** — A journal-backed sheet for one problem or goal: plot nodes, optional track, and plot beats. Progress is yours to confirm when a beat actually mattered.
+
+**DMEmu Guide** — An in-world journal that walks through how the pieces fit together.
+
+Chat visibility is a client setting (only you, GMs, or everyone).
+
+## Install
+
+Install from a GitHub release using the release `module.json` URL, then enable **Depths Master Emulator** in your world.
+
+From the **DMEmu Macros** pack, drag **Open DMEmu Oracle**, **Open DMEmu Generators**, and **Open DMEmu Plot Sheet** to your hotbar. Open **DMEmu Guide** from the journals pack when you want the full overview.
 
 ## Credits
 
-Inspired by **Plot Unfolding Machine** and **Game Unfolding Machine** by JeansenVaars. DMEmu adapts those approaches for our own use; it is not an official PUM/GUM product. https://unfolding-machines.com/
-
-Intentional adaptations from the source systems are listed in `../docs/dmemu-adaptations.md`.
-
-## Status
-
-Early development. See `../docs/dmemu-plan.md` in the workspace for the implementation plan.
-
-## Development
-
-TypeScript lives in `src/` and compiles to `module/` (gitignored), same pattern as Fantastic Depths:
-
-```bash
-npm install
-npm run build
-```
-
-Entry script loaded by Foundry: `module/dmemu.min.js`.
-
-## Using the Oracle
-
-1. Build the module (`npm run build`) and compile packs (`npm run comppacks`).
-2. Enable **Depths Master Emulator** in your world.
-3. From the **DMEmu Macros** pack, drag **Open DMEmu Oracle**, **Open DMEmu Generators**, or **Open DMEmu Plot Sheet** to your hotbar (or run `game.dmemu.openOracle()` / `openGenerators()` / `openPlotSheet()`).
-4. Oracle: Yes/No, Grand, enrichment. Generators: Seed / World / Characters. Plot Sheet: nodes, track, and beats (persisted as journals).
-
-Client setting: **DMEmu chat visibility** (self / GMs / everyone).
-
-## Packs
-
-Compendium source lives in `packsrc/`. LevelDB packs under `packs/` are gitignored and built with the same toolchain as fade-compendiums:
-
-```bash
-npm run decomppacks   # LevelDB → packsrc JSON
-npm run comppacks     # packsrc JSON → LevelDB
-```
-
-Included so far: Oracle / Generators / Plot Sheet macros; enrichment, Grand Oracle, generator, and plot beat RollTables; **DMEmu Guide** journal.
-
-## Releases
-
-Publish a GitHub release from `main` (tag on `main`). The workflow builds the module, compiles packs, and attaches `module.json` + `module.zip`. Install via the release `module.json` URL. Publishing to Foundry’s package library is not enabled yet.
+Inspired by **Plot Unfolding Machine** and **Game Unfolding Machine** by [JeansenVaars](https://unfolding-machines.com/). DMEmu adapts those approaches for Foundry; it is not an official PUM/GUM product and does not redistribute their booklets.
