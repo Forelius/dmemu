@@ -4,7 +4,7 @@ System-agnostic solo / GM emulator module for Foundry VTT (v13–v14).
 
 ## Credits
 
-Inspired by **Plot Unfolding Machine** and **Game Unfolding Machine** by JeansenVaars. DMEmu adapts those approaches for our own use; it is not an official PUM/GUM product.
+Inspired by **Plot Unfolding Machine** and **Game Unfolding Machine** by JeansenVaars. DMEmu adapts those approaches for our own use; it is not an official PUM/GUM product. https://unfolding-machines.com/
 
 Intentional adaptations from the source systems are listed in `../docs/dmemu-adaptations.md`.
 
