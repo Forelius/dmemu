@@ -7,6 +7,8 @@ import { PlotNodeCategoryId, PlotSheetData, PlotSheetTypeId } from "../plot/type
 
 const { ApplicationV2, HandlebarsApplicationMixin } = foundry.applications.api;
 
+type PlotTabId = "sheet" | "play" | "nodes";
+
 interface TrackBoxView {
    index: number;
    checked: boolean;
@@ -30,9 +32,12 @@ interface NodeCategoryView {
 interface PlotSheetAppContext {
    about: string;
    hasSheet: boolean;
+   tabs: { id: PlotTabId; label: string; active: boolean }[];
+   isSheetTab: boolean;
+   isPlayTab: boolean;
+   isNodesTab: boolean;
    sheetList: { id: string; name: string; selected: boolean }[];
    sheetTypes: { id: string; label: string; selected: boolean }[];
-   createSheetTypes: { id: string; label: string; selected: boolean }[];
    name: string;
    scope: string;
    sheetTypeLabel: string;
@@ -51,8 +56,7 @@ export class PlotSheetApp extends HandlebarsApplicationMixin(ApplicationV2) {
    journalId: string | null = null;
    draft: PlotSheetData | null = null;
    highlight: { categoryId: string; slotIndex: number } | null = null;
-   newSheetType: PlotSheetTypeId = "standard";
-   newSheetName = "";
+   activeTab: PlotTabId = "sheet";
 
    static DEFAULT_OPTIONS = {
       id: "dmemu-plot-sheet",
@@ -61,19 +65,20 @@ export class PlotSheetApp extends HandlebarsApplicationMixin(ApplicationV2) {
       window: {
          resizable: true,
          minimizable: true,
-         contentClasses: ["standard-form", "dmemu-oracle-body"],
+         contentClasses: ["standard-form", "dmemu-oracle-body", "dmemu-plot-window"],
       },
       position: {
-         width: 640,
-         height: "auto" as const,
+         width: 720,
+         height: 720,
       },
       form: {
          submitOnChange: false,
          closeOnSubmit: false,
       },
       actions: {
+         setTab: PlotSheetApp.onSetTab,
          openSheet: PlotSheetApp.onOpenSheet,
-         createSheet: PlotSheetApp.onCreateSheet,
+         openCreateDialog: PlotSheetApp.onOpenCreateDialog,
          saveSheet: PlotSheetApp.onSaveSheet,
          changeType: PlotSheetApp.onChangeType,
          toggleBox: PlotSheetApp.onToggleBox,
@@ -97,6 +102,10 @@ export class PlotSheetApp extends HandlebarsApplicationMixin(ApplicationV2) {
 
    async _prepareContext(_options: unknown): Promise<PlotSheetAppContext> {
       this.#syncDraftFromJournal();
+      if (!this.draft && this.activeTab !== "sheet") {
+         this.activeTab = "sheet";
+      }
+
       const sheets = PlotSheetService.listSheets();
       const data = this.draft;
       const preset = data ? PLOT_SHEET_PRESETS[data.sheetType] : null;
@@ -136,10 +145,25 @@ export class PlotSheetApp extends HandlebarsApplicationMixin(ApplicationV2) {
       }));
 
       const journal = this.journalId ? game.journal?.get(this.journalId) : null;
+      const tabDefs: { id: PlotTabId; labelKey: string; requiresSheet?: boolean }[] = [
+         { id: "sheet", labelKey: "DMEMU.Plot.App.TabSheet" },
+         { id: "play", labelKey: "DMEMU.Plot.App.TabPlay", requiresSheet: true },
+         { id: "nodes", labelKey: "DMEMU.Plot.App.TabNodes", requiresSheet: true },
+      ];
 
       return {
          about: game.i18n.localize("DMEMU.Plot.About"),
          hasSheet: !!data,
+         tabs: tabDefs
+            .filter((t) => !t.requiresSheet || !!data)
+            .map((t) => ({
+               id: t.id,
+               label: game.i18n.localize(t.labelKey),
+               active: t.id === this.activeTab,
+            })),
+         isSheetTab: this.activeTab === "sheet",
+         isPlayTab: this.activeTab === "play",
+         isNodesTab: this.activeTab === "nodes",
          sheetList: sheets.map((s) => ({
             id: s.id,
             name: s.name,
@@ -150,12 +174,7 @@ export class PlotSheetApp extends HandlebarsApplicationMixin(ApplicationV2) {
             label: game.i18n.localize(`DMEMU.Plot.SheetType.${PLOT_SHEET_PRESETS[id].i18nKey}`),
             selected: id === (data?.sheetType ?? "standard"),
          })),
-         createSheetTypes: PLOT_SHEET_TYPE_IDS.map((id) => ({
-            id,
-            label: game.i18n.localize(`DMEMU.Plot.SheetType.${PLOT_SHEET_PRESETS[id].i18nKey}`),
-            selected: id === this.newSheetType,
-         })),
-         name: journal?.name ?? this.newSheetName,
+         name: journal?.name ?? "",
          scope: data?.scope ?? "",
          sheetTypeLabel: preset
             ? game.i18n.localize(`DMEMU.Plot.SheetType.${preset.i18nKey}`)
@@ -180,17 +199,13 @@ export class PlotSheetApp extends HandlebarsApplicationMixin(ApplicationV2) {
       root.querySelector<HTMLSelectElement>('[name="sheetSelect"]')?.addEventListener("change", (ev) => {
          const id = (ev.target as HTMLSelectElement).value;
          if (id) {
+            this.#readFormIntoDraft();
             this.journalId = id;
             this.draft = null;
             this.highlight = null;
+            this.activeTab = "play";
             this.render();
          }
-      });
-      root.querySelector<HTMLSelectElement>('[name="newSheetType"]')?.addEventListener("change", (ev) => {
-         this.newSheetType = (ev.target as HTMLSelectElement).value as PlotSheetTypeId;
-      });
-      root.querySelector<HTMLInputElement>('[name="newSheetName"]')?.addEventListener("change", (ev) => {
-         this.newSheetName = (ev.target as HTMLInputElement).value;
       });
    }
 
@@ -207,16 +222,23 @@ export class PlotSheetApp extends HandlebarsApplicationMixin(ApplicationV2) {
    #readFormIntoDraft(): void {
       const root = this.element as HTMLElement | undefined;
       if (!root || !this.draft) return;
-      const scope = root.querySelector<HTMLTextAreaElement>('[name="scope"]')?.value ?? "";
-      this.draft.scope = scope;
+      const scope = root.querySelector<HTMLTextAreaElement>('[name="scope"]')?.value;
+      if (scope !== undefined) this.draft.scope = scope;
       for (const cat of this.draft.nodeCategories) {
          for (let i = 0; i < cat.slots.length; i++) {
-            const el = root.querySelector<HTMLInputElement>(
-               `[name="node-${cat.id}-${i}"]`
-            );
+            const el = root.querySelector<HTMLInputElement>(`[name="node-${cat.id}-${i}"]`);
             if (el) cat.slots[i].text = el.value;
          }
       }
+   }
+
+   static async onSetTab(this: PlotSheetApp, _event: Event, target: HTMLElement): Promise<void> {
+      const tab = target.dataset.tab as PlotTabId | undefined;
+      if (!tab || tab === this.activeTab) return;
+      if (tab !== "sheet" && !this.draft) return;
+      this.#readFormIntoDraft();
+      this.activeTab = tab;
+      this.render();
    }
 
    static async onOpenSheet(this: PlotSheetApp, _event: Event, _target: HTMLElement): Promise<void> {
@@ -226,22 +248,48 @@ export class PlotSheetApp extends HandlebarsApplicationMixin(ApplicationV2) {
       this.journalId = id;
       this.draft = null;
       this.highlight = null;
+      this.activeTab = "play";
       this.render();
    }
 
-   static async onCreateSheet(this: PlotSheetApp, _event: Event, _target: HTMLElement): Promise<void> {
-      const root = this.element as HTMLElement | undefined;
-      const name =
-         root?.querySelector<HTMLInputElement>('[name="newSheetName"]')?.value?.trim() ||
-         game.i18n.localize("DMEMU.Plot.DefaultName");
-      const type =
-         (root?.querySelector<HTMLSelectElement>('[name="newSheetType"]')?.value as PlotSheetTypeId) ||
-         "standard";
+   static async onOpenCreateDialog(this: PlotSheetApp, _event: Event, _target: HTMLElement): Promise<void> {
+      const defaultName = game.i18n.localize("DMEMU.Plot.DefaultName");
+      const typeOptions = PLOT_SHEET_TYPE_IDS.map((id) => {
+         const label = game.i18n.localize(`DMEMU.Plot.SheetType.${PLOT_SHEET_PRESETS[id].i18nKey}`);
+         const selected = id === "standard" ? " selected" : "";
+         return `<option value="${id}"${selected}>${label}</option>`;
+      }).join("");
+
+      const fd = await foundry.applications.api.DialogV2.input({
+         window: { title: "DMEMU.Plot.App.CreateDialogTitle" },
+         classes: ["dmemu"],
+         position: { width: 400 },
+         content: `
+            <div class="form-group">
+               <label for="dmemu-plot-create-name">${game.i18n.localize("DMEMU.Plot.App.Name")}</label>
+               <input id="dmemu-plot-create-name" type="text" name="name" value="" placeholder="${defaultName}" autofocus />
+            </div>
+            <div class="form-group">
+               <label for="dmemu-plot-create-type">${game.i18n.localize("DMEMU.Plot.App.SheetType")}</label>
+               <select id="dmemu-plot-create-type" name="sheetType">${typeOptions}</select>
+            </div>
+         `,
+         ok: {
+            label: "DMEMU.Plot.App.Create",
+            icon: "fas fa-plus",
+         },
+      });
+
+      if (!fd) return;
+
+      const name = String(fd.name ?? "").trim() || defaultName;
+      const type = (String(fd.sheetType ?? "standard") as PlotSheetTypeId) || "standard";
       try {
          const id = await PlotSheetService.createSheet(name, type);
          this.journalId = id;
          this.draft = null;
          this.highlight = null;
+         this.activeTab = "play";
          this.render();
       } catch (err) {
          ui.notifications.warn(err instanceof Error ? err.message : String(err));
@@ -274,7 +322,6 @@ export class PlotSheetApp extends HandlebarsApplicationMixin(ApplicationV2) {
       this.#readFormIntoDraft();
       const index = Number(target.dataset.index ?? "-1");
       if (index < 0) return;
-      // Clicking box N means set checked to N+1 if unchecked, or N if checked (toggle end)
       const currentlyChecked = index < this.draft.track.checked;
       this.draft = PlotSheetService.setTrackChecked(
          this.draft,
@@ -297,6 +344,7 @@ export class PlotSheetApp extends HandlebarsApplicationMixin(ApplicationV2) {
          const result = await PlotBeatService.rollRandomPrompt(this.draft);
          PlotPromptStash.set(result.text);
          await PlotBeatService.postToChat(result);
+         this.render();
       } catch (err) {
          ui.notifications.warn(err instanceof Error ? err.message : String(err));
       }
@@ -309,6 +357,7 @@ export class PlotSheetApp extends HandlebarsApplicationMixin(ApplicationV2) {
          PlotPromptStash.set(result.followUp?.text || result.text);
          if (result.node && result.node.slotIndex >= 0) {
             this.highlight = { categoryId: result.node.categoryId, slotIndex: result.node.slotIndex };
+            this.activeTab = "nodes";
          }
          await PlotBeatService.postToChat(result);
          this.render();

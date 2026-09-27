@@ -19,6 +19,7 @@ Oracle content:
 - `macros/Open_DMEmu_Generators.json`
 - `macros/Open_DMEmu_PlotSheet.json`
 - `journals/DMEmu_Guide.json` — in-world how-to journal
+- `rollTables/_folders.json` — Foundry sidebar folders (Oracles, Generators, Plot Beats)
 - `rollTables/Oracles/` — enrichment companions and Grand Oracle (Action, Adjective, Subject)
 - `rollTables/Generators/` — seed, world, and character generator tables
 - `rollTables/PlotBeats/` — Complication, Catalyst, Challenge, Situation, Modified proposal

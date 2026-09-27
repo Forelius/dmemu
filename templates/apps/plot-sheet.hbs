@@ -1,122 +1,146 @@
 {{!-- DMEmu Plot Sheet Application --}}
 <section class="dmemu-oracle-form dmemu-plot-form">
-  <p class="hint">{{about}}</p>
+  <p class="hint dmemu-plot-about">{{about}}</p>
 
-  <fieldset>
-    <legend>{{localize "DMEMU.Plot.App.OpenLegend"}}</legend>
-    <div class="form-group">
-      <label for="dmemu-plot-select">{{localize "DMEMU.Plot.App.Existing"}}</label>
-      <select id="dmemu-plot-select" name="sheetSelect">
-        <option value="">{{localize "DMEMU.Plot.App.SelectPlaceholder"}}</option>
-        {{#each sheetList}}
-        <option value="{{id}}" {{#if selected}}selected{{/if}}>{{name}}</option>
-        {{/each}}
-      </select>
-    </div>
-    <div class="dmemu-oracle-actions">
-      <button type="button" data-action="openSheet">{{localize "DMEMU.Plot.App.Open"}}</button>
-    </div>
-    <div class="form-group">
-      <label for="dmemu-plot-new-name">{{localize "DMEMU.Plot.App.NewName"}}</label>
-      <input id="dmemu-plot-new-name" type="text" name="newSheetName" value="" placeholder="{{localize "DMEMU.Plot.DefaultName"}}" />
-    </div>
-    <div class="form-group">
-      <label for="dmemu-plot-new-type">{{localize "DMEMU.Plot.App.SheetType"}}</label>
-      <select id="dmemu-plot-new-type" name="newSheetType">
-        {{#each createSheetTypes}}
-        <option value="{{id}}" {{#if selected}}selected{{/if}}>{{label}}</option>
-        {{/each}}
-      </select>
-    </div>
-    <div class="dmemu-oracle-actions">
-      <button type="button" data-action="createSheet">
-        <i class="fas fa-plus"></i> {{localize "DMEMU.Plot.App.Create"}}
-      </button>
-    </div>
-  </fieldset>
+  <nav class="dmemu-oracle-tabs" aria-label="{{localize "DMEMU.Plot.App.TabsLabel"}}">
+    {{#each tabs}}
+    <button type="button" class="{{#if active}}active{{/if}}" data-action="setTab" data-tab="{{id}}">
+      {{label}}
+    </button>
+    {{/each}}
+  </nav>
 
-  {{#if hasSheet}}
-  <fieldset>
-    <legend>{{localize "DMEMU.Plot.App.SheetLegend"}}</legend>
-    <div class="form-group">
-      <label for="dmemu-plot-name">{{localize "DMEMU.Plot.App.Name"}}</label>
-      <input id="dmemu-plot-name" type="text" name="sheetName" value="{{name}}" />
+  {{#if isSheetTab}}
+  <div class="dmemu-plot-panel">
+    <div class="dmemu-plot-two-col">
+      <fieldset>
+        <legend>{{localize "DMEMU.Plot.App.OpenLegend"}}</legend>
+        <div class="form-group">
+          <label for="dmemu-plot-select">{{localize "DMEMU.Plot.App.Existing"}}</label>
+          <select id="dmemu-plot-select" name="sheetSelect">
+            <option value="">{{localize "DMEMU.Plot.App.SelectPlaceholder"}}</option>
+            {{#each sheetList}}
+            <option value="{{id}}" {{#if selected}}selected{{/if}}>{{name}}</option>
+            {{/each}}
+          </select>
+        </div>
+        <div class="dmemu-oracle-actions">
+          <button type="button" data-action="openSheet">{{localize "DMEMU.Plot.App.Open"}}</button>
+          <button type="button" data-action="openCreateDialog">
+            <i class="fas fa-plus"></i> {{localize "DMEMU.Plot.App.NewSheet"}}
+          </button>
+        </div>
+      </fieldset>
+
+      {{#if hasSheet}}
+      <fieldset>
+        <legend>{{localize "DMEMU.Plot.App.SheetLegend"}}</legend>
+        <div class="form-group">
+          <label for="dmemu-plot-name">{{localize "DMEMU.Plot.App.Name"}}</label>
+          <input id="dmemu-plot-name" type="text" name="sheetName" value="{{name}}" />
+        </div>
+        <div class="form-group">
+          <label for="dmemu-plot-type">{{localize "DMEMU.Plot.App.SheetType"}}</label>
+          <select id="dmemu-plot-type" name="sheetType">
+            {{#each sheetTypes}}
+            <option value="{{id}}" {{#if selected}}selected{{/if}}>{{label}}</option>
+            {{/each}}
+          </select>
+        </div>
+        <div class="dmemu-oracle-actions">
+          <button type="button" data-action="changeType">{{localize "DMEMU.Plot.App.ApplyType"}}</button>
+          <button type="button" data-action="saveSheet">
+            <i class="fas fa-save"></i> {{localize "DMEMU.Plot.App.Save"}}
+          </button>
+        </div>
+        <div class="form-group">
+          <label for="dmemu-plot-scope">{{localize "DMEMU.Plot.App.Scope"}}</label>
+          <textarea id="dmemu-plot-scope" name="scope" rows="4" placeholder="{{localize "DMEMU.Plot.App.ScopePlaceholder"}}">{{scope}}</textarea>
+          <p class="hint">{{localize "DMEMU.Plot.App.ScopeHint"}}</p>
+        </div>
+      </fieldset>
+      {{else}}
+      <fieldset>
+        <legend>{{localize "DMEMU.Plot.App.SheetLegend"}}</legend>
+        <p class="hint">{{localize "DMEMU.Plot.App.NoSheetHint"}}</p>
+      </fieldset>
+      {{/if}}
     </div>
-    <div class="form-group">
-      <label for="dmemu-plot-type">{{localize "DMEMU.Plot.App.SheetType"}}</label>
-      <select id="dmemu-plot-type" name="sheetType">
-        {{#each sheetTypes}}
-        <option value="{{id}}" {{#if selected}}selected{{/if}}>{{label}}</option>
+  </div>
+  {{/if}}
+
+  {{#if isPlayTab}}
+  <div class="dmemu-plot-panel">
+    <fieldset>
+      <legend>{{localize "DMEMU.Plot.App.BeatsLegend"}}</legend>
+      <p class="hint">{{localize "DMEMU.Plot.App.BeatsHint"}}</p>
+      <div class="dmemu-oracle-actions">
+        <button type="button" data-action="randomPrompt" data-tooltip="{{localize "DMEMU.Plot.App.RandomPromptTooltip"}}">
+          <i class="fas fa-dice"></i> {{localize "DMEMU.Plot.Beat.RandomPrompt"}}
+        </button>
+        <button type="button" data-action="modifiedProposal" data-tooltip="{{localize "DMEMU.Plot.App.ModifiedProposalTooltip"}}">
+          <i class="fas fa-random"></i> {{localize "DMEMU.Plot.Beat.ModifiedProposal"}}
+        </button>
+        {{#if hasTrack}}
+        <button type="button" data-action="confirmAdvance" data-tooltip="{{localize "DMEMU.Plot.App.ConfirmAdvanceTooltip"}}">
+          <i class="fas fa-forward"></i> {{localize "DMEMU.Plot.App.ConfirmAdvance"}}
+        </button>
+        {{/if}}
+        <button type="button" data-action="saveSheet">
+          <i class="fas fa-save"></i> {{localize "DMEMU.Plot.App.Save"}}
+        </button>
+      </div>
+    </fieldset>
+
+    {{#if hasTrack}}
+    <fieldset>
+      <legend>{{localize "DMEMU.Plot.App.TrackLegend"}}</legend>
+      <p class="hint">{{trackProgress}}</p>
+      <div class="dmemu-plot-track">
+        {{#each trackBoxes}}
+        {{#if isSectionStart}}
+        <span class="dmemu-plot-track-section">{{sectionLabel}}</span>
+        {{/if}}
+        <button type="button" class="dmemu-plot-box {{#if checked}}checked{{/if}}" data-action="toggleBox" data-index="{{index}}" aria-pressed="{{checked}}">
+          {{#if checked}}✓{{else}}{{index}}{{/if}}
+        </button>
         {{/each}}
-      </select>
+      </div>
+    </fieldset>
+    {{else}}
+    <p class="hint">{{localize "DMEMU.Plot.App.NoTrackHint"}}</p>
+    {{/if}}
+  </div>
+  {{/if}}
+
+  {{#if isNodesTab}}
+  <div class="dmemu-plot-panel">
+    {{#if hasStash}}
+    <p class="hint dmemu-plot-stash">{{localize "DMEMU.Plot.App.StashHint"}} <em>{{stashPreview}}</em></p>
+    {{/if}}
+    <div class="dmemu-plot-nodes-grid">
+      {{#each nodeCategories}}
+      <fieldset class="dmemu-plot-nodes">
+        <legend>{{label}}</legend>
+        {{#each slots}}
+        <div class="dmemu-plot-slot {{#if highlighted}}highlighted{{/if}}">
+          <input type="text" name="node-{{categoryId}}-{{slotIndex}}" value="{{text}}" placeholder="{{localize "DMEMU.Plot.App.SlotPlaceholder"}}" />
+          <button type="button" data-action="pasteStash" data-category-id="{{categoryId}}" data-slot-index="{{slotIndex}}" data-tooltip="{{localize "DMEMU.Plot.App.PasteStashTooltip"}}" {{#unless @root.hasStash}}disabled{{/unless}}>
+            <i class="fas fa-paste"></i>
+          </button>
+          <button type="button" data-action="clearSlot" data-category-id="{{categoryId}}" data-slot-index="{{slotIndex}}" data-tooltip="{{localize "DMEMU.Plot.App.ClearSlotTooltip"}}">
+            <i class="fas fa-times"></i>
+          </button>
+        </div>
+        {{/each}}
+      </fieldset>
+      {{/each}}
     </div>
-    <div class="dmemu-oracle-actions">
-      <button type="button" data-action="changeType">{{localize "DMEMU.Plot.App.ApplyType"}}</button>
+    <div class="dmemu-oracle-actions dmemu-plot-nodes-save">
       <button type="button" data-action="saveSheet">
         <i class="fas fa-save"></i> {{localize "DMEMU.Plot.App.Save"}}
       </button>
     </div>
-    <div class="form-group">
-      <label for="dmemu-plot-scope">{{localize "DMEMU.Plot.App.Scope"}}</label>
-      <textarea id="dmemu-plot-scope" name="scope" rows="2" placeholder="{{localize "DMEMU.Plot.App.ScopePlaceholder"}}">{{scope}}</textarea>
-      <p class="hint">{{localize "DMEMU.Plot.App.ScopeHint"}}</p>
-    </div>
-  </fieldset>
-
-  <fieldset>
-    <legend>{{localize "DMEMU.Plot.App.BeatsLegend"}}</legend>
-    <p class="hint">{{localize "DMEMU.Plot.App.BeatsHint"}}</p>
-    <div class="dmemu-oracle-actions">
-      <button type="button" data-action="randomPrompt" data-tooltip="{{localize "DMEMU.Plot.App.RandomPromptTooltip"}}">
-        <i class="fas fa-dice"></i> {{localize "DMEMU.Plot.Beat.RandomPrompt"}}
-      </button>
-      <button type="button" data-action="modifiedProposal" data-tooltip="{{localize "DMEMU.Plot.App.ModifiedProposalTooltip"}}">
-        <i class="fas fa-random"></i> {{localize "DMEMU.Plot.Beat.ModifiedProposal"}}
-      </button>
-      {{#if hasTrack}}
-      <button type="button" data-action="confirmAdvance" data-tooltip="{{localize "DMEMU.Plot.App.ConfirmAdvanceTooltip"}}">
-        <i class="fas fa-forward"></i> {{localize "DMEMU.Plot.App.ConfirmAdvance"}}
-      </button>
-      {{/if}}
-    </div>
-  </fieldset>
-
-  {{#if hasTrack}}
-  <fieldset>
-    <legend>{{localize "DMEMU.Plot.App.TrackLegend"}}</legend>
-    <p class="hint">{{trackProgress}}</p>
-    <div class="dmemu-plot-track">
-      {{#each trackBoxes}}
-      {{#if isSectionStart}}
-      <span class="dmemu-plot-track-section">{{sectionLabel}}</span>
-      {{/if}}
-      <button type="button" class="dmemu-plot-box {{#if checked}}checked{{/if}}" data-action="toggleBox" data-index="{{index}}" aria-pressed="{{checked}}">
-        {{#if checked}}✓{{else}}{{index}}{{/if}}
-      </button>
-      {{/each}}
-    </div>
-  </fieldset>
-  {{/if}}
-
-  {{#if hasStash}}
-  <p class="hint dmemu-plot-stash">{{localize "DMEMU.Plot.App.StashHint"}} <em>{{stashPreview}}</em></p>
-  {{/if}}
-
-  {{#each nodeCategories}}
-  <fieldset class="dmemu-plot-nodes">
-    <legend>{{label}}</legend>
-    {{#each slots}}
-    <div class="form-group dmemu-plot-slot {{#if highlighted}}highlighted{{/if}}">
-      <input type="text" name="node-{{categoryId}}-{{slotIndex}}" value="{{text}}" placeholder="{{localize "DMEMU.Plot.App.SlotPlaceholder"}}" />
-      <button type="button" data-action="pasteStash" data-category-id="{{categoryId}}" data-slot-index="{{slotIndex}}" data-tooltip="{{localize "DMEMU.Plot.App.PasteStashTooltip"}}" {{#unless @root.hasStash}}disabled{{/unless}}>
-        <i class="fas fa-paste"></i>
-      </button>
-      <button type="button" data-action="clearSlot" data-category-id="{{categoryId}}" data-slot-index="{{slotIndex}}" data-tooltip="{{localize "DMEMU.Plot.App.ClearSlotTooltip"}}">
-        <i class="fas fa-times"></i>
-      </button>
-    </div>
-    {{/each}}
-  </fieldset>
-  {{/each}}
+  </div>
   {{/if}}
 </section>

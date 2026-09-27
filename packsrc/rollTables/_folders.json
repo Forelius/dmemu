@@ -1,0 +1,65 @@
+{
+  "!folders!KbFyRUcY91ymVzCA": {
+    "name": "Oracles",
+    "sorting": "a",
+    "folder": null,
+    "type": "RollTable",
+    "_id": "KbFyRUcY91ymVzCA",
+    "description": "",
+    "sort": 100000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "coreVersion": "13.341",
+      "systemId": "dmemu",
+      "systemVersion": "0.1.0",
+      "createdTime": 1790477520530,
+      "modifiedTime": 1790477520530,
+      "lastModifiedBy": null
+    }
+  },
+  "!folders!U4ZVIMJJZRtJhwi8": {
+    "name": "Generators",
+    "sorting": "a",
+    "folder": null,
+    "type": "RollTable",
+    "_id": "U4ZVIMJJZRtJhwi8",
+    "description": "",
+    "sort": 200000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "coreVersion": "13.341",
+      "systemId": "dmemu",
+      "systemVersion": "0.1.0",
+      "createdTime": 1790477520530,
+      "modifiedTime": 1790477520530,
+      "lastModifiedBy": null
+    }
+  },
+  "!folders!VvUOhq88WEXqnm5Q": {
+    "name": "Plot Beats",
+    "sorting": "a",
+    "folder": null,
+    "type": "RollTable",
+    "_id": "VvUOhq88WEXqnm5Q",
+    "description": "",
+    "sort": 300000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "coreVersion": "13.341",
+      "systemId": "dmemu",
+      "systemVersion": "0.1.0",
+      "createdTime": 1790477520530,
+      "modifiedTime": 1790477520530,
+      "lastModifiedBy": null
+    }
+  }
+}
