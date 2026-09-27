@@ -1,0 +1,2129 @@
+{
+  "folder": null,
+  "name": "Oracle — Subject (what)",
+  "_id": "8a30256d0d1c40a3",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> The noun or focus of the prompt. Often combined with Action and Adjective into one prompt.</p><p><strong>How to read it:</strong> Pick any synonym from the list that fits, blend them, or reinterpret for your setting. Re-roll or ignore if nothing sparks.</p>",
+  "results": [
+    "d81e593f531542d7",
+    "8816650ff5db4a96",
+    "3ccd2ed2da2540db",
+    "96a452fa01e1411a",
+    "6b0d9e70825d4641",
+    "06ec422267c14842",
+    "828745e0361141a9",
+    "2a503ff1638749cf",
+    "ab6a90dbca474300",
+    "c6cce726dbf64c3e",
+    "93a962f9ba1844ae",
+    "b920ea6e052d4474",
+    "4e699e4f417f4373",
+    "a8a28b3275a34db8",
+    "0b81d45fd70848d5",
+    "b69150e427ef4542",
+    "6f4bd6f277904183",
+    "92f662e73aa6449b",
+    "b382edd4372c44bf",
+    "d2a993d712be425e",
+    "2c92592752dd4a74",
+    "a60847cbd82e4771",
+    "90a64a95872f48c6",
+    "a5d9cad92e76414c",
+    "ec5d714b6ec64dce",
+    "50291075adba491e",
+    "38f5cb843bdd404b",
+    "22c3a3bc0fe042dc",
+    "69f1a3a773124421",
+    "9ad581a516484b3e",
+    "989fe533df1b4532",
+    "57322a498dc044c0",
+    "e877fa89bce24be9",
+    "69b4b325a8ef4887",
+    "07e115b5fb8e4047",
+    "092a50497b164d0d",
+    "85c68f5567b74795",
+    "a81b027c1e1e4532",
+    "34419756884647e5",
+    "36f8c603f6694184",
+    "964f6cc45c2a41f8",
+    "2e20116087ad4f62",
+    "eccf4bb065d2472d",
+    "99d3b596228b4ecd",
+    "153b76ef410240d2",
+    "5d80817eb9514bbe",
+    "4f567923b3d3410d",
+    "0fa65ba6a4fb4751",
+    "d03f004d25804dda",
+    "3e9ea037c55b4d97",
+    "3f290011f5064339",
+    "03cc790553ec4781",
+    "45e07c67389e48ad",
+    "72218fc38b2e4268",
+    "9775e5c5e8a74afe",
+    "9a3763830f044eca",
+    "db47795550d44337",
+    "e222cf8c976c40de",
+    "cd7e8cdef9f84c03",
+    "eff7f8f54dd54419",
+    "6d093ceb335f48fb",
+    "ec19398dc0864dad",
+    "3b2fe85cd88d4143",
+    "05dc6d223d714b7f",
+    "0a3b8cfe3bce4798",
+    "993f8ff81a284c90",
+    "045c2c86ceae4724",
+    "9e18033ecba043c9",
+    "acf8b4aec5454086",
+    "6550577ef42143dd",
+    "9a72b90bcabb4cbb",
+    "e9cfb9e5b1fb4be6",
+    "d1bf28d962224f87",
+    "6039422b19524a39",
+    "932a61797a9b44e2",
+    "79f912f5b1bf4ec2",
+    "8ac7d137fc3444e5",
+    "eddc7773e7ef4931",
+    "c5129168d6d74b59",
+    "7f7f613fc2c4412b",
+    "3420f752c9b84f70",
+    "323b853adc5f448c",
+    "8e65b0b1de63455a",
+    "23a30088a8dc4ee4",
+    "fd465780d2db485d",
+    "44f261b555d4473e",
+    "67f8f181e1dd47c2",
+    "f9688586868f49e5",
+    "66e2262db57f40f7",
+    "3b0b1f5057a1444a",
+    "9b4bf47f20e043b4",
+    "cc9b431ce7e844ea",
+    "ee6d19602d0d486c",
+    "97baa6aec5d642f6",
+    "da1e6f94b169450d",
+    "459ebe8f579e46e4",
+    "71ff3d4387f54080",
+    "43f23236b5b74510",
+    "e49db1eb857b431e",
+    "28dfef7b882c472e"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": true,
+      "grandOracle": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d100",
+  "sort": 0,
+  "_originalKey": "!tables!8a30256d0d1c40a3",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.d81e593f531542d7",
+      "_id": "d81e593f531542d7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "People, civilian, masses, groups, population, voices",
+      "text": "People, civilian, masses, groups, population, voices"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.8816650ff5db4a96",
+      "_id": "8816650ff5db4a96",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Protection, defense, preservation, sanctuary",
+      "text": "Protection, defense, preservation, sanctuary"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.3ccd2ed2da2540db",
+      "_id": "3ccd2ed2da2540db",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Ability, quality, power, edge, implant, skill, maneuver",
+      "text": "Ability, quality, power, edge, implant, skill, maneuver"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.96a452fa01e1411a",
+      "_id": "96a452fa01e1411a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Advisor, counselling, chancellor, ambassador",
+      "text": "Advisor, counselling, chancellor, ambassador"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.6b0d9e70825d4641",
+      "_id": "6b0d9e70825d4641",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Entertainment, joy, happiness, festivity, holiday, music",
+      "text": "Entertainment, joy, happiness, festivity, holiday, music"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.06ec422267c14842",
+      "_id": "06ec422267c14842",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Promise, an oath, destiny, fate, a vow, pledge, belief",
+      "text": "Promise, an oath, destiny, fate, a vow, pledge, belief"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.828745e0361141a9",
+      "_id": "828745e0361141a9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Aftermath, consequences, leftovers, outcomes",
+      "text": "Aftermath, consequences, leftovers, outcomes"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.2a503ff1638749cf",
+      "_id": "2a503ff1638749cf",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Agreement, a contract, an alliance, arrangement, deal",
+      "text": "Agreement, a contract, an alliance, arrangement, deal"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.ab6a90dbca474300",
+      "_id": "ab6a90dbca474300",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Archers, rifles, ammunition, long range, artillery, guns",
+      "text": "Archers, rifles, ammunition, long range, artillery, guns"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.c6cce726dbf64c3e",
+      "_id": "c6cce726dbf64c3e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Ambush, a strike, a coup, revolt, revolution, sabotage",
+      "text": "Ambush, a strike, a coup, revolt, revolution, sabotage"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.93a962f9ba1844ae",
+      "_id": "93a962f9ba1844ae",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Magic, weird science, esotericism, occult, alien",
+      "text": "Magic, weird science, esotericism, occult, alien"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.b920ea6e052d4474",
+      "_id": "b920ea6e052d4474",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An appointment, a new ruler, coronation, ascension",
+      "text": "An appointment, a new ruler, coronation, ascension"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.4e699e4f417f4373",
+      "_id": "4e699e4f417f4373",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Armor, armory, defense, equipment, shield, protection",
+      "text": "Armor, armory, defense, equipment, shield, protection"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.a8a28b3275a34db8",
+      "_id": "a8a28b3275a34db8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Arrival of someone, people, newcomers, immigrants",
+      "text": "Arrival of someone, people, newcomers, immigrants"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.0b81d45fd70848d5",
+      "_id": "0b81d45fd70848d5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Artwork, style, artists, culture, music, expression",
+      "text": "Artwork, style, artists, culture, music, expression"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.b69150e427ef4542",
+      "_id": "b69150e427ef4542",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Artifacts, objects of power, amulets, jewelry",
+      "text": "Artifacts, objects of power, amulets, jewelry"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.6f4bd6f277904183",
+      "_id": "6f4bd6f277904183",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Truth, innocence, compassion, empathy, support",
+      "text": "Truth, innocence, compassion, empathy, support"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.92f662e73aa6449b",
+      "_id": "92f662e73aa6449b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An audience, conference, meeting, council, reunion",
+      "text": "An audience, conference, meeting, council, reunion"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.b382edd4372c44bf",
+      "_id": "b382edd4372c44bf",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Barbaric, nomads, bandits, renegades, outlaws",
+      "text": "Barbaric, nomads, bandits, renegades, outlaws"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.d2a993d712be425e",
+      "_id": "d2a993d712be425e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Religion, divine, clerics, deities, gods, wrath, faith",
+      "text": "Religion, divine, clerics, deities, gods, wrath, faith"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.2c92592752dd4a74",
+      "_id": "2c92592752dd4a74",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Message, omens, communication, news, changes",
+      "text": "Message, omens, communication, news, changes"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.a60847cbd82e4771",
+      "_id": "a60847cbd82e4771",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Block, blockade, position, wall, barricade, cover",
+      "text": "Block, blockade, position, wall, barricade, cover"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.90a64a95872f48c6",
+      "_id": "90a64a95872f48c6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Bravery, courage, overcoming fear, valor, honor",
+      "text": "Bravery, courage, overcoming fear, valor, honor"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.a5d9cad92e76414c",
+      "_id": "a5d9cad92e76414c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Weapons, melee, two-handed, sword, axe, hammer",
+      "text": "Weapons, melee, two-handed, sword, axe, hammer"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.ec5d714b6ec64dce",
+      "_id": "ec5d714b6ec64dce",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Monster, beasts, robot, machine, creature, being",
+      "text": "Monster, beasts, robot, machine, creature, being"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.50291075adba491e",
+      "_id": "50291075adba491e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Business, trade, commerce, exchange, a deal, ports",
+      "text": "Business, trade, commerce, exchange, a deal, ports"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.38f5cb843bdd404b",
+      "_id": "38f5cb843bdd404b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Campaign, operation, expedition, project, adventure",
+      "text": "Campaign, operation, expedition, project, adventure"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.22c3a3bc0fe042dc",
+      "_id": "22c3a3bc0fe042dc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rest, recovery, a safe place, a pause, hospitality",
+      "text": "Rest, recovery, a safe place, a pause, hospitality"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.69f1a3a773124421",
+      "_id": "69f1a3a773124421",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Carrier, courier, a messenger, a bearer, a runner",
+      "text": "Carrier, courier, a messenger, a bearer, a runner"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.9ad581a516484b3e",
+      "_id": "9ad581a516484b3e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mountains, hills, cliffs, altitude, elevation, hard, rock",
+      "text": "Mountains, hills, cliffs, altitude, elevation, hard, rock"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.989fe533df1b4532",
+      "_id": "989fe533df1b4532",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mockery, insult, offense, disrespect, assault, violation",
+      "text": "Mockery, insult, offense, disrespect, assault, violation"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.57322a498dc044c0",
+      "_id": "57322a498dc044c0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Chance, an opportunity, advantage, a moment",
+      "text": "Chance, an opportunity, advantage, a moment"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.e877fa89bce24be9",
+      "_id": "e877fa89bce24be9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Money, supplies, resources, wealth, assets, surplus",
+      "text": "Money, supplies, resources, wealth, assets, surplus"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.69b4b325a8ef4887",
+      "_id": "69b4b325a8ef4887",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Machinery, engineering, infrastructure, platform",
+      "text": "Machinery, engineering, infrastructure, platform"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.07e115b5fb8e4047",
+      "_id": "07e115b5fb8e4047",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Chronicles, history, events, past, culture, legacy",
+      "text": "Chronicles, history, events, past, culture, legacy"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.092a50497b164d0d",
+      "_id": "092a50497b164d0d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "City, village, town, settlement, housing, urbanization",
+      "text": "City, village, town, settlement, housing, urbanization"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.85c68f5567b74795",
+      "_id": "85c68f5567b74795",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Claim, rightfulness, possession, belongings, treasure",
+      "text": "Claim, rightfulness, possession, belongings, treasure"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.a81b027c1e1e4532",
+      "_id": "a81b027c1e1e4532",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Cloud, visibility, fog, clear thoughts, ideas, sight",
+      "text": "Cloud, visibility, fog, clear thoughts, ideas, sight"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.34419756884647e5",
+      "_id": "34419756884647e5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Command, mandate, orders, chain of duty, execution",
+      "text": "Command, mandate, orders, chain of duty, execution"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.36f8c603f6694184",
+      "_id": "36f8c603f6694184",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Companions, allies, supporters, henchmen, assistant",
+      "text": "Companions, allies, supporters, henchmen, assistant"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.964f6cc45c2a41f8",
+      "_id": "964f6cc45c2a41f8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Concealment, privacy, invisibility, transparency",
+      "text": "Concealment, privacy, invisibility, transparency"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.2e20116087ad4f62",
+      "_id": "2e20116087ad4f62",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Conflict, invasion, war, battle, large scale skirmish",
+      "text": "Conflict, invasion, war, battle, large scale skirmish"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.eccf4bb065d2472d",
+      "_id": "eccf4bb065d2472d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Construction, building, structure, ruins, pillars, statue",
+      "text": "Construction, building, structure, ruins, pillars, statue"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.99d3b596228b4ecd",
+      "_id": "99d3b596228b4ecd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Consumables, potions, drugs, toxins, alchemy",
+      "text": "Consumables, potions, drugs, toxins, alchemy"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.153b76ef410240d2",
+      "_id": "153b76ef410240d2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Conversation, dialogue, discussion, argument, reason",
+      "text": "Conversation, dialogue, discussion, argument, reason"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.5d80817eb9514bbe",
+      "_id": "5d80817eb9514bbe",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Corpse, death, mortality, undead, necromancy, ghost",
+      "text": "Corpse, death, mortality, undead, necromancy, ghost"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.4f567923b3d3410d",
+      "_id": "4f567923b3d3410d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Countryside, farms, agriculture, surroundings, nature",
+      "text": "Countryside, farms, agriculture, surroundings, nature"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.0fa65ba6a4fb4751",
+      "_id": "0fa65ba6a4fb4751",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Couple, love, partner, passion, sex, jealousy, envy",
+      "text": "Couple, love, partner, passion, sex, jealousy, envy"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.d03f004d25804dda",
+      "_id": "d03f004d25804dda",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Crew, brotherhood, fraternity, faction, family, cult",
+      "text": "Crew, brotherhood, fraternity, faction, family, cult"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.3e9ea037c55b4d97",
+      "_id": "3e9ea037c55b4d97",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Kings, rulers, dictators, aristocrats, nobles, ministers",
+      "text": "Kings, rulers, dictators, aristocrats, nobles, ministers"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.3f290011f5064339",
+      "_id": "3f290011f5064339",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Curse, damnation, sickness, insanity, crazy",
+      "text": "Curse, damnation, sickness, insanity, crazy"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.03cc790553ec4781",
+      "_id": "03cc790553ec4781",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Army, troops, soldiers, mercenaries, recruits",
+      "text": "Army, troops, soldiers, mercenaries, recruits"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.45e07c67389e48ad",
+      "_id": "45e07c67389e48ad",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Politics, secrets, rumors, scheming, betrayal",
+      "text": "Politics, secrets, rumors, scheming, betrayal"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.72218fc38b2e4268",
+      "_id": "72218fc38b2e4268",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Danger, threat, hazard, emergency, jeopardy",
+      "text": "Danger, threat, hazard, emergency, jeopardy"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.9775e5c5e8a74afe",
+      "_id": "9775e5c5e8a74afe",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Dark, darkness, dark side, evil, malevolence",
+      "text": "Dark, darkness, dark side, evil, malevolence"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.9a3763830f044eca",
+      "_id": "9a3763830f044eca",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Devastation, ravage, destruction, ruin, wreckage",
+      "text": "Devastation, ravage, destruction, ruin, wreckage"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.db47795550d44337",
+      "_id": "db47795550d44337",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Decision, choices, costs, consequences, matter",
+      "text": "Decision, choices, costs, consequences, matter"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.e222cf8c976c40de",
+      "_id": "e222cf8c976c40de",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Declaration, announcement, statement, saying",
+      "text": "Declaration, announcement, statement, saying"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.cd7e8cdef9f84c03",
+      "_id": "cd7e8cdef9f84c03",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Defeat, loss, failure, not enough, frustration",
+      "text": "Defeat, loss, failure, not enough, frustration"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.eff7f8f54dd54419",
+      "_id": "eff7f8f54dd54419",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Desire, power, aspiration, dreams, wishes, ambition",
+      "text": "Desire, power, aspiration, dreams, wishes, ambition"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.6d093ceb335f48fb",
+      "_id": "6d093ceb335f48fb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Desolation, absence, loneliness, emptiness, void",
+      "text": "Desolation, absence, loneliness, emptiness, void"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.ec19398dc0864dad",
+      "_id": "ec19398dc0864dad",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Tools, knowledge, utilities, technology, means",
+      "text": "Tools, knowledge, utilities, technology, means"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.3b2fe85cd88d4143",
+      "_id": "3b2fe85cd88d4143",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Detection, perception, intuition, feeling, insight",
+      "text": "Detection, perception, intuition, feeling, insight"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.05dc6d223d714b7f",
+      "_id": "05dc6d223d714b7f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Development, improvement, growth, expansion",
+      "text": "Development, improvement, growth, expansion"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.0a3b8cfe3bce4798",
+      "_id": "0a3b8cfe3bce4798",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Diplomacy, treaty, politics, influence, power",
+      "text": "Diplomacy, treaty, politics, influence, power"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.993f8ff81a284c90",
+      "_id": "993f8ff81a284c90",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Disease, sickness, poison, venom, pandemic",
+      "text": "Disease, sickness, poison, venom, pandemic"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.045c2c86ceae4724",
+      "_id": "045c2c86ceae4724",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Distraction, detour, a different way, lure, a trap",
+      "text": "Distraction, detour, a different way, lure, a trap"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.9e18033ecba043c9",
+      "_id": "9e18033ecba043c9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Door, gate, passage, bridge, portal, caves, tunnel",
+      "text": "Door, gate, passage, bridge, portal, caves, tunnel"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.acf8b4aec5454086",
+      "_id": "acf8b4aec5454086",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Opposition, enemies, adversities, misfortune",
+      "text": "Opposition, enemies, adversities, misfortune"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.6550577ef42143dd",
+      "_id": "6550577ef42143dd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Drama, loss, sadness, emotions, regret, blame",
+      "text": "Drama, loss, sadness, emotions, regret, blame"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.9a72b90bcabb4cbb",
+      "_id": "9a72b90bcabb4cbb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Food, water, resources, minerals, materials",
+      "text": "Food, water, resources, minerals, materials"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.e9cfb9e5b1fb4be6",
+      "_id": "e9cfb9e5b1fb4be6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Dust, earth, sand, sandstorm, desert, mud, rocks",
+      "text": "Dust, earth, sand, sandstorm, desert, mud, rocks"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.d1bf28d962224f87",
+      "_id": "d1bf28d962224f87",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Elimination, assassination, killing, dagger, target",
+      "text": "Elimination, assassination, killing, dagger, target"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.6039422b19524a39",
+      "_id": "6039422b19524a39",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Empire, kingdom, country, state, civilization, reign",
+      "text": "Empire, kingdom, country, state, civilization, reign"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.932a61797a9b44e2",
+      "_id": "932a61797a9b44e2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Energy, ritual, catalyst, magic, conjuration, sorcery",
+      "text": "Energy, ritual, catalyst, magic, conjuration, sorcery"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.79f912f5b1bf4ec2",
+      "_id": "79f912f5b1bf4ec2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Enthusiasm, energy, activity, eagerness, anxiety",
+      "text": "Enthusiasm, energy, activity, eagerness, anxiety"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.8ac7d137fc3444e5",
+      "_id": "8ac7d137fc3444e5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Escape, break out, prison, freedom, flee, free-will",
+      "text": "Escape, break out, prison, freedom, flee, free-will"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.eddc7773e7ef4931",
+      "_id": "eddc7773e7ef4931",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Time, year, calendar, end of, period, era, age",
+      "text": "Time, year, calendar, end of, period, era, age"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.c5129168d6d74b59",
+      "_id": "c5129168d6d74b59",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fear, scare, horror, terror, paranoia, sanity",
+      "text": "Fear, scare, horror, terror, paranoia, sanity"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.7f7f613fc2c4412b",
+      "_id": "7f7f613fc2c4412b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Research, information, lore, knowledge, data",
+      "text": "Research, information, lore, knowledge, data"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.3420f752c9b84f70",
+      "_id": "3420f752c9b84f70",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fire, flame, heat, red, burning, summer, warmth",
+      "text": "Fire, flame, heat, red, burning, summer, warmth"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.323b853adc5f448c",
+      "_id": "323b853adc5f448c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Roads, rivers, routes, bottlenecks, shortcut",
+      "text": "Roads, rivers, routes, bottlenecks, shortcut"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.8e65b0b1de63455a",
+      "_id": "8e65b0b1de63455a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Forest, Jungle, trees, green, plants, growth, life",
+      "text": "Forest, Jungle, trees, green, plants, growth, life"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.23a30088a8dc4ee4",
+      "_id": "23a30088a8dc4ee4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fortress, castle, outpost, keep, bunker, stand",
+      "text": "Fortress, castle, outpost, keep, bunker, stand"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.fd465780d2db485d",
+      "_id": "fd465780d2db485d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Water, rain, swamp, cold, ice, snow, liquid",
+      "text": "Water, rain, swamp, cold, ice, snow, liquid"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.44f261b555d4473e",
+      "_id": "44f261b555d4473e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Plan, strategy, goal, objective, mission, idea",
+      "text": "Plan, strategy, goal, objective, mission, idea"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.67f8f181e1dd47c2",
+      "_id": "67f8f181e1dd47c2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Friend, colleague, relationship, intimate, confidant",
+      "text": "Friend, colleague, relationship, intimate, confidant"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.f9688586868f49e5",
+      "_id": "f9688586868f49e5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Person, contact, relative, someone, entity",
+      "text": "Person, contact, relative, someone, entity"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.66e2262db57f40f7",
+      "_id": "66e2262db57f40f7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Glory, victory, triumph, success, gains, benefits",
+      "text": "Glory, victory, triumph, success, gains, benefits"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.3b0b1f5057a1444a",
+      "_id": "3b0b1f5057a1444a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Bacteria, virus, insects, vermin, drones, parasites",
+      "text": "Bacteria, virus, insects, vermin, drones, parasites"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.9b4bf47f20e043b4",
+      "_id": "9b4bf47f20e043b4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Domain, field, territory, land, province, region",
+      "text": "Domain, field, territory, land, province, region"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.cc9b431ce7e844ea",
+      "_id": "cc9b431ce7e844ea",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Superiority, perfection, majesty, achievement",
+      "text": "Superiority, perfection, majesty, achievement"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.ee6d19602d0d486c",
+      "_id": "ee6d19602d0d486c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Harm, damage, blood, injuries, pain, suffering",
+      "text": "Harm, damage, blood, injuries, pain, suffering"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.97baa6aec5d642f6",
+      "_id": "97baa6aec5d642f6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred, anger, vengeance, resentment, envy",
+      "text": "Hatred, anger, vengeance, resentment, envy"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.da1e6f94b169450d",
+      "_id": "da1e6f94b169450d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Healing, heart, health, recovery, rest, body",
+      "text": "Healing, heart, health, recovery, rest, body"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.459ebe8f579e46e4",
+      "_id": "459ebe8f579e46e4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Commander, mercenary, captain, general, soldier",
+      "text": "Commander, mercenary, captain, general, soldier"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.71ff3d4387f54080",
+      "_id": "71ff3d4387f54080",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Vehicles, transport, rides, mounts, aircraft, ships",
+      "text": "Vehicles, transport, rides, mounts, aircraft, ships"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.43f23236b5b74510",
+      "_id": "43f23236b5b74510",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hunger, thirst, starvation, breath, survival",
+      "text": "Hunger, thirst, starvation, breath, survival"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.e49db1eb857b431e",
+      "_id": "e49db1eb857b431e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Illusion, lies, tricks, traps, thievery, theft, corruption",
+      "text": "Illusion, lies, tricks, traps, thievery, theft, corruption"
+    },
+    {
+      "_originalKey": "!tables.results!8a30256d0d1c40a3.28dfef7b882c472e",
+      "_id": "28dfef7b882c472e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Peace, tranquility, nature, harmony, balance",
+      "text": "Peace, tranquility, nature, harmony, balance"
+    }
+  ]
+}

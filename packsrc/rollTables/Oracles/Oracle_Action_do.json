@@ -1,0 +1,2129 @@
+{
+  "folder": null,
+  "name": "Oracle — Action (do)",
+  "_id": "d1105ff39b854ba8",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> The verb or what is happening. Often combined with Adjective and Subject into one prompt.</p><p><strong>How to read it:</strong> Pick any synonym from the list that fits, blend them, or reinterpret for your setting. Re-roll or ignore if nothing sparks.</p>",
+  "results": [
+    "f4dff170d6394fc0",
+    "42ad1eb5a9a040b6",
+    "fe2e041aeebd4558",
+    "068c07dde79a4ba5",
+    "ddd773250171416e",
+    "a7906245d9994d87",
+    "083584957f92482e",
+    "45ea41889c2040a8",
+    "a3440834f0134ab0",
+    "2b9f83a682374f5e",
+    "e75f427ff62f4a94",
+    "9df4e7baeb0a4fab",
+    "c3dd686958d64f61",
+    "616200b8d1604874",
+    "e5d248f38327417f",
+    "594aabaaff9c4570",
+    "7da29540296b4ff3",
+    "2a04213eef6a49f0",
+    "8992019223424b7c",
+    "6d0c438873b646cc",
+    "61f8e3246ef0456f",
+    "efbb83cf10b74a6d",
+    "70c1292d0d8943e1",
+    "64fea524ebf9437e",
+    "0d6dcd814e414fe2",
+    "e39fc3018b214e0a",
+    "30c914da631d4bed",
+    "ce8c27760a104f6a",
+    "8443a70e25fd4e44",
+    "730f99b73ffd4035",
+    "9643e7512391405c",
+    "e04884c996b24cd8",
+    "3a82a86bc6954a7f",
+    "5571bb8968124773",
+    "c5a43a1570784cc4",
+    "4fb02db80406419d",
+    "40e37fa4628f4ad0",
+    "93d0ef2dc3d24793",
+    "d7ba2ed69c444809",
+    "97b90f858d4c4242",
+    "dd12dcf58e484aef",
+    "bf98d6564c78466e",
+    "6a1d367725744e9f",
+    "9b7ff5f1eef84280",
+    "a028511f71f9474c",
+    "38fb0f7c834d46ad",
+    "0c5b867700e64c2d",
+    "bf36f4058973458a",
+    "15209dfdb4f744bb",
+    "42509ccf032641e3",
+    "d4bbcff34b3f4240",
+    "0c16da480eee43e7",
+    "13e4d6f06656486d",
+    "09d5e6042b3d4be0",
+    "95d6e116e8ed4a38",
+    "6a620880158c4771",
+    "c43ef17a45b84f72",
+    "6497a5a35e404fbe",
+    "b83166a928b6483a",
+    "bdc64bf6ceb94d8d",
+    "de11e275c25f4ca8",
+    "2fee84aa22d64015",
+    "9b276bfff8be4ded",
+    "1ed89a37af5046e6",
+    "73deecde4e474f0a",
+    "3b196734f2914860",
+    "7de0fa0cef5c4723",
+    "66741196bc964987",
+    "6a5dcd3dfc8f4956",
+    "939636e729594ab6",
+    "71274834d65947d3",
+    "04ba1da502534827",
+    "c9df965d466541ba",
+    "8b5efb6e951a4e9e",
+    "fd0ec2214f934fdc",
+    "8f6d9281278a449b",
+    "5c74bcd37fef422f",
+    "65c23585d64046a4",
+    "a75a50bff7f04bbc",
+    "af40f452ca22424d",
+    "d9f584465c3b4ef5",
+    "7505e3d5ff0246c8",
+    "d6e89c4e0b7e40a2",
+    "014e34d56967497c",
+    "461d0df0683b469a",
+    "2fb3d4e4d1e0472b",
+    "ae4f6a974aee40e3",
+    "110f2c9e271945a9",
+    "fabc705469df4dff",
+    "6ae64e36895744f1",
+    "84a725d468ca4300",
+    "f37b04941ba64c59",
+    "93b05f433f084f99",
+    "9e74f711d7ca4d51",
+    "7a4c73840a824f76",
+    "f162e1f93098420e",
+    "9e27792186a946b5",
+    "2351a95ba19a4a5c",
+    "f27f80a3396c4eaf",
+    "a69ec0ce136f43a6"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": true,
+      "grandOracle": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d100",
+  "sort": 0,
+  "_originalKey": "!tables!d1105ff39b854ba8",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.f4dff170d6394fc0",
+      "_id": "f4dff170d6394fc0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Achieve, succeed, triumph, press on, push, reinforce",
+      "text": "Achieve, succeed, triumph, press on, push, reinforce"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.42ad1eb5a9a040b6",
+      "_id": "42ad1eb5a9a040b6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Allow, grant, permit, authorize, enable, allow, let",
+      "text": "Allow, grant, permit, authorize, enable, allow, let"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.fe2e041aeebd4558",
+      "_id": "fe2e041aeebd4558",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Encourage, instigate, stimulate, excite, motivate",
+      "text": "Encourage, instigate, stimulate, excite, motivate"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.068c07dde79a4ba5",
+      "_id": "068c07dde79a4ba5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Believe, have faith, trust, be confident on, rely on",
+      "text": "Believe, have faith, trust, be confident on, rely on"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.ddd773250171416e",
+      "_id": "ddd773250171416e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Call, rally, reunite, meet, group, summon, gather",
+      "text": "Call, rally, reunite, meet, group, summon, gather"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.a7906245d9994d87",
+      "_id": "a7906245d9994d87",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Change, transform, evolve, mutate, alter, become",
+      "text": "Change, transform, evolve, mutate, alter, become"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.083584957f92482e",
+      "_id": "083584957f92482e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Claim, seize, capture, occupy, take, conquer",
+      "text": "Claim, seize, capture, occupy, take, conquer"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.45ea41889c2040a8",
+      "_id": "45ea41889c2040a8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Continue, double the effort, press harder, push",
+      "text": "Continue, double the effort, press harder, push"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.a3440834f0134ab0",
+      "_id": "a3440834f0134ab0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Divide, separate, split, disjoint, break, tear, pull",
+      "text": "Divide, separate, split, disjoint, break, tear, pull"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.2b9f83a682374f5e",
+      "_id": "2b9f83a682374f5e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Schedule, prepare, organize, arrange, plan, lead",
+      "text": "Schedule, prepare, organize, arrange, plan, lead"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.e75f427ff62f4a94",
+      "_id": "e75f427ff62f4a94",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Solve, figure out, answer, decipher, deduce, untangle",
+      "text": "Solve, figure out, answer, decipher, deduce, untangle"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.9df4e7baeb0a4fab",
+      "_id": "9df4e7baeb0a4fab",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Follow, chase, pursue, track, spy, recon, shadow",
+      "text": "Follow, chase, pursue, track, spy, recon, shadow"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.c3dd686958d64f61",
+      "_id": "c3dd686958d64f61",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Help, aid, assist, heal, support, care, treat",
+      "text": "Help, aid, assist, heal, support, care, treat"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.616200b8d1604874",
+      "_id": "616200b8d1604874",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hold, keep, defend, protect, stand, alert, alarm",
+      "text": "Hold, keep, defend, protect, stand, alert, alarm"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.e5d248f38327417f",
+      "_id": "e5d248f38327417f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Identify, recognize, associate with, reminds to",
+      "text": "Identify, recognize, associate with, reminds to"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.594aabaaff9c4570",
+      "_id": "594aabaaff9c4570",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Strengthen, empower, reinforce, fortify, improve",
+      "text": "Strengthen, empower, reinforce, fortify, improve"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.7da29540296b4ff3",
+      "_id": "7da29540296b4ff3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Keep, hold on to, retain, stay, carry on with, sustain",
+      "text": "Keep, hold on to, retain, stay, carry on with, sustain"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.2a04213eef6a49f0",
+      "_id": "2a04213eef6a49f0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Know, learn, understand, translate, note, journal",
+      "text": "Know, learn, understand, translate, note, journal"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.8992019223424b7c",
+      "_id": "8992019223424b7c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Soften, give little, alleviate, lessen, minimize",
+      "text": "Soften, give little, alleviate, lessen, minimize"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.6d0c438873b646cc",
+      "_id": "6d0c438873b646cc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Conjure, spell, cast, recite, radiate, evoke, emanate",
+      "text": "Conjure, spell, cast, recite, radiate, evoke, emanate"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.61f8e3246ef0456f",
+      "_id": "61f8e3246ef0456f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Make, create, define, construct, establish, produce",
+      "text": "Make, create, define, construct, establish, produce"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.efbb83cf10b74a6d",
+      "_id": "efbb83cf10b74a6d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Need, require, want, demand, crave, desire",
+      "text": "Need, require, want, demand, crave, desire"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.70c1292d0d8943e1",
+      "_id": "70c1292d0d8943e1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Offer, give, provide, present, gift, grant, trust",
+      "text": "Offer, give, provide, present, gift, grant, trust"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.64fea524ebf9437e",
+      "_id": "64fea524ebf9437e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Buy, acquire, purchase, trade, obtain, haggle",
+      "text": "Buy, acquire, purchase, trade, obtain, haggle"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.0d6dcd814e414fe2",
+      "_id": "0d6dcd814e414fe2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reach, make it to, go to, hike up, travel, extend",
+      "text": "Reach, make it to, go to, hike up, travel, extend"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.e39fc3018b214e0a",
+      "_id": "e39fc3018b214e0a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reduce, shrink, bring down, turn down, diminish",
+      "text": "Reduce, shrink, bring down, turn down, diminish"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.30c914da631d4bed",
+      "_id": "30c914da631d4bed",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Respect, love, regard, admire, have courtesy",
+      "text": "Respect, love, regard, admire, have courtesy"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.ce8c27760a104f6a",
+      "_id": "ce8c27760a104f6a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Deal with, take care of, handle, manage, organize",
+      "text": "Deal with, take care of, handle, manage, organize"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.8443a70e25fd4e44",
+      "_id": "8443a70e25fd4e44",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Seem, show off, appear to be, act as, fake, brag",
+      "text": "Seem, show off, appear to be, act as, fake, brag"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.730f99b73ffd4035",
+      "_id": "730f99b73ffd4035",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Envoy, message, dispatch, transmit, communicate",
+      "text": "Envoy, message, dispatch, transmit, communicate"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.9643e7512391405c",
+      "_id": "9643e7512391405c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Serve, be in the service of, obey, follow, trust",
+      "text": "Serve, be in the service of, obey, follow, trust"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.e04884c996b24cd8",
+      "_id": "e04884c996b24cd8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Research, investigate, study, read, explore, seek",
+      "text": "Research, investigate, study, read, explore, seek"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.3a82a86bc6954a7f",
+      "_id": "3a82a86bc6954a7f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Take, steal, raid, sabotage, secure, confiscate, get",
+      "text": "Take, steal, raid, sabotage, secure, confiscate, get"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.5571bb8968124773",
+      "_id": "5571bb8968124773",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Travel, go to, advance, move, transport, teleport",
+      "text": "Travel, go to, advance, move, transport, teleport"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.c5a43a1570784cc4",
+      "_id": "c5a43a1570784cc4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Worship, adore, respect, be fanatic of, exaggerate",
+      "text": "Worship, adore, respect, be fanatic of, exaggerate"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.4fb02db80406419d",
+      "_id": "4fb02db80406419d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Accomplish, succeed, win, fulfil, achieve, deserve",
+      "text": "Accomplish, succeed, win, fulfil, achieve, deserve"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.40e37fa4628f4ad0",
+      "_id": "40e37fa4628f4ad0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reveal, admit, give away, confess, tell, allow, show",
+      "text": "Reveal, admit, give away, confess, tell, allow, show"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.93d0ef2dc3d24793",
+      "_id": "93d0ef2dc3d24793",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Arise, grow, come to light, appear, emerge, stand up",
+      "text": "Arise, grow, come to light, appear, emerge, stand up"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.d7ba2ed69c444809",
+      "_id": "d7ba2ed69c444809",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sell, trade, exchange, deal, get rid of, get done with",
+      "text": "Sell, trade, exchange, deal, get rid of, get done with"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.97b90f858d4c4242",
+      "_id": "97b90f858d4c4242",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Attack, invade, strike, charge, assault, storm, siege",
+      "text": "Attack, invade, strike, charge, assault, storm, siege"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.dd12dcf58e484aef",
+      "_id": "dd12dcf58e484aef",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Empathize, sympathize, understand, commune",
+      "text": "Empathize, sympathize, understand, commune"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.bf98d6564c78466e",
+      "_id": "bf98d6564c78466e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Begin, start, initiate, launch, set up, kick off, begin",
+      "text": "Begin, start, initiate, launch, set up, kick off, begin"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.6a1d367725744e9f",
+      "_id": "6a1d367725744e9f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Bluff, lie, deceive, betray, feint, cheat, manipulate",
+      "text": "Bluff, lie, deceive, betray, feint, cheat, manipulate"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.9b7ff5f1eef84280",
+      "_id": "9b7ff5f1eef84280",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Break, damage, shatter, smash, crack, poison",
+      "text": "Break, damage, shatter, smash, crack, poison"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.a028511f71f9474c",
+      "_id": "a028511f71f9474c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Interrupt, cancel, intrude, stop, block, prevent",
+      "text": "Interrupt, cancel, intrude, stop, block, prevent"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.38fb0f7c834d46ad",
+      "_id": "38fb0f7c834d46ad",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Command, give order, instruct, direct, mandate, lead",
+      "text": "Command, give order, instruct, direct, mandate, lead"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.0c5b867700e64c2d",
+      "_id": "0c5b867700e64c2d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Catch, grab, hunt arrest, trap, hook, capture, bait",
+      "text": "Catch, grab, hunt arrest, trap, hook, capture, bait"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.bf36f4058973458a",
+      "_id": "bf36f4058973458a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Challenge, defy, duel, disobey, dare, contradict",
+      "text": "Challenge, defy, duel, disobey, dare, contradict"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.15209dfdb4f744bb",
+      "_id": "15209dfdb4f744bb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Charge, tax, bill, demand, impose, levy, collect",
+      "text": "Charge, tax, bill, demand, impose, levy, collect"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.42509ccf032641e3",
+      "_id": "42509ccf032641e3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Condemn, judge, assess, denounce, convict, accuse",
+      "text": "Condemn, judge, assess, denounce, convict, accuse"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.d4bbcff34b3f4240",
+      "_id": "d4bbcff34b3f4240",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Slow down, delay, hinder, postpone, hold back",
+      "text": "Slow down, delay, hinder, postpone, hold back"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.0c16da480eee43e7",
+      "_id": "0c16da480eee43e7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Clear, clean up, open up, free, empty, liberate",
+      "text": "Clear, clean up, open up, free, empty, liberate"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.13e4d6f06656486d",
+      "_id": "13e4d6f06656486d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Close up, near, direct, reach out, approach",
+      "text": "Close up, near, direct, reach out, approach"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.09d5e6042b3d4be0",
+      "_id": "09d5e6042b3d4be0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Close, wrap up, finish, complete, conclude",
+      "text": "Close, wrap up, finish, complete, conclude"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.95d6e116e8ed4a38",
+      "_id": "95d6e116e8ed4a38",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Comply, adhere, obey, stick to, follow rules",
+      "text": "Comply, adhere, obey, stick to, follow rules"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.6a620880158c4771",
+      "_id": "6a620880158c4771",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Avoid, evade, dodge, neglect, suppress, withstand",
+      "text": "Avoid, evade, dodge, neglect, suppress, withstand"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.c43ef17a45b84f72",
+      "_id": "c43ef17a45b84f72",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Contact, reach out to, communicate, talk to, refer",
+      "text": "Contact, reach out to, communicate, talk to, refer"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.6497a5a35e404fbe",
+      "_id": "6497a5a35e404fbe",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Cover, store, save, hide, keep safe, shelter",
+      "text": "Cover, store, save, hide, keep safe, shelter"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.b83166a928b6483a",
+      "_id": "b83166a928b6483a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Pay for, afford, finance, remunerate, reward",
+      "text": "Pay for, afford, finance, remunerate, reward"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.bdc64bf6ceb94d8d",
+      "_id": "bdc64bf6ceb94d8d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Allocate, delegate, invest, instate, induct, bet, risk",
+      "text": "Allocate, delegate, invest, instate, induct, bet, risk"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.de11e275c25f4ca8",
+      "_id": "de11e275c25f4ca8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Decide, choose, determine, resolve, settle, rule",
+      "text": "Decide, choose, determine, resolve, settle, rule"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.2fee84aa22d64015",
+      "_id": "2fee84aa22d64015",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Observe, watch, monitor, supervise, record, control",
+      "text": "Observe, watch, monitor, supervise, record, control"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.9b276bfff8be4ded",
+      "_id": "9b276bfff8be4ded",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Depart, abandon, leave, withdraw, quit, take leave",
+      "text": "Depart, abandon, leave, withdraw, quit, take leave"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.1ed89a37af5046e6",
+      "_id": "1ed89a37af5046e6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Descend, go deep, fall, sink, slope, submerge",
+      "text": "Descend, go deep, fall, sink, slope, submerge"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.73deecde4e474f0a",
+      "_id": "73deecde4e474f0a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Describe, explain, report, express, chronicle",
+      "text": "Describe, explain, report, express, chronicle"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.3b196734f2914860",
+      "_id": "3b196734f2914860",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Disclose, reveal, divulge, spread, pass on, report",
+      "text": "Disclose, reveal, divulge, spread, pass on, report"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.7de0fa0cef5c4723",
+      "_id": "7de0fa0cef5c4723",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Dispatch, send, deploy, ship, transmit, consign",
+      "text": "Dispatch, send, deploy, ship, transmit, consign"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.66741196bc964987",
+      "_id": "66741196bc964987",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Drain, channel, pipe, conduct, repurpose, redirect",
+      "text": "Drain, channel, pipe, conduct, repurpose, redirect"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.6a5dcd3dfc8f4956",
+      "_id": "6a5dcd3dfc8f4956",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Ride, handle, operate, steer, navigate, mount, drive",
+      "text": "Ride, handle, operate, steer, navigate, mount, drive"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.939636e729594ab6",
+      "_id": "939636e729594ab6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Eliminate, remove, abolish, delete, destroy, banish",
+      "text": "Eliminate, remove, abolish, delete, destroy, banish"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.71274834d65947d3",
+      "_id": "71274834d65947d3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Banish, prohibit, expel, throw out, cast out, dismiss",
+      "text": "Banish, prohibit, expel, throw out, cast out, dismiss"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.04ba1da502534827",
+      "_id": "04ba1da502534827",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Employ, hire, recruit, enlist, appoint, gather",
+      "text": "Employ, hire, recruit, enlist, appoint, gather"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.c9df965d466541ba",
+      "_id": "c9df965d466541ba",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Ask, request, question, discuss, argue, propose",
+      "text": "Ask, request, question, discuss, argue, propose"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.8b5efb6e951a4e9e",
+      "_id": "8b5efb6e951a4e9e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Encounter, face, engage, confront, come across",
+      "text": "Encounter, face, engage, confront, come across"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.fd0ec2214f934fdc",
+      "_id": "fd0ec2214f934fdc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Kill, destroy, assassinate, eliminate, suppress",
+      "text": "Kill, destroy, assassinate, eliminate, suppress"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.8f6d9281278a449b",
+      "_id": "8f6d9281278a449b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Enhance, improve, intensify, magnify, strengthen",
+      "text": "Enhance, improve, intensify, magnify, strengthen"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.5c74bcd37fef422f",
+      "_id": "5c74bcd37fef422f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Ensure, make sure of, secure, warrant, guarantee",
+      "text": "Ensure, make sure of, secure, warrant, guarantee"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.65c23585d64046a4",
+      "_id": "65c23585d64046a4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Expect, wait for, look for, await, look forward to",
+      "text": "Expect, wait for, look for, await, look forward to"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.a75a50bff7f04bbc",
+      "_id": "a75a50bff7f04bbc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Express, say, share, comment, declare, announce",
+      "text": "Express, say, share, comment, declare, announce"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.af40f452ca22424d",
+      "_id": "af40f452ca22424d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Favor, approve, benefit, esteem, like, support",
+      "text": "Favor, approve, benefit, esteem, like, support"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.d9f584465c3b4ef5",
+      "_id": "d9f584465c3b4ef5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Oppose, fight, disapprove, dislike, reject, react",
+      "text": "Oppose, fight, disapprove, dislike, reject, react"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.7505e3d5ff0246c8",
+      "_id": "7505e3d5ff0246c8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Feel, detect, sense, experience, bear, handle",
+      "text": "Feel, detect, sense, experience, bear, handle"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.d6e89c4e0b7e40a2",
+      "_id": "d6e89c4e0b7e40a2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fight, combat, struggle, dispute, challenge",
+      "text": "Fight, combat, struggle, dispute, challenge"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.014e34d56967497c",
+      "_id": "014e34d56967497c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Focus, concentrate, direct, centralize, channel",
+      "text": "Focus, concentrate, direct, centralize, channel"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.461d0df0683b469a",
+      "_id": "461d0df0683b469a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hear, listen, pay attention, spot, observe, smell",
+      "text": "Hear, listen, pay attention, spot, observe, smell"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.2fb3d4e4d1e0472b",
+      "_id": "2fb3d4e4d1e0472b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Honor, respect, commemorate, glorify, commend",
+      "text": "Honor, respect, commemorate, glorify, commend"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.ae4f6a974aee40e3",
+      "_id": "ae4f6a974aee40e3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Immobilize, disable, cripple, paralyze, knockdown",
+      "text": "Immobilize, disable, cripple, paralyze, knockdown"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.110f2c9e271945a9",
+      "_id": "110f2c9e271945a9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Influence, persuade, convince, manipulate, seduce",
+      "text": "Influence, persuade, convince, manipulate, seduce"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.fabc705469df4dff",
+      "_id": "fabc705469df4dff",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Invite, gather, reunite, ask, bid, summon, invoke",
+      "text": "Invite, gather, reunite, ask, bid, summon, invoke"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.6ae64e36895744f1",
+      "_id": "6ae64e36895744f1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Participate, join, be part of, cooperate, bond with",
+      "text": "Participate, join, be part of, cooperate, bond with"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.84a725d468ca4300",
+      "_id": "84a725d468ca4300",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Perform, act, carry out, play, present, stage",
+      "text": "Perform, act, carry out, play, present, stage"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.f37b04941ba64c59",
+      "_id": "f37b04941ba64c59",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Be praised for, be requested to, be needed for",
+      "text": "Be praised for, be requested to, be needed for"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.93b05f433f084f99",
+      "_id": "93b05f433f084f99",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Provoke, taunt, intimidate, scare, frighten",
+      "text": "Provoke, taunt, intimidate, scare, frighten"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.9e74f711d7ca4d51",
+      "_id": "9e74f711d7ca4d51",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Find, search, locate, track down, spot, trace",
+      "text": "Find, search, locate, track down, spot, trace"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.7a4c73840a824f76",
+      "_id": "7a4c73840a824f76",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Prove, show, demonstrate, validate, confirm",
+      "text": "Prove, show, demonstrate, validate, confirm"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.f162e1f93098420e",
+      "_id": "f162e1f93098420e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Include, increase, incorporate, merge, aggregate",
+      "text": "Include, increase, incorporate, merge, aggregate"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.9e27792186a946b5",
+      "_id": "9e27792186a946b5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Realize, discover, uncover, find out, unmask",
+      "text": "Realize, discover, uncover, find out, unmask"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.2351a95ba19a4a5c",
+      "_id": "2351a95ba19a4a5c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Remember, remind, recall, think, ideate, reason",
+      "text": "Remember, remind, recall, think, ideate, reason"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.f27f80a3396c4eaf",
+      "_id": "f27f80a3396c4eaf",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Retrieve, bring back, recover, reclaim, reestablish",
+      "text": "Retrieve, bring back, recover, reclaim, reestablish"
+    },
+    {
+      "_originalKey": "!tables.results!d1105ff39b854ba8.a69ec0ce136f43a6",
+      "_id": "a69ec0ce136f43a6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Work, build, tailor, craft, brew, cook, prepare",
+      "text": "Work, build, tailor, craft, brew, cook, prepare"
+    }
+  ]
+}

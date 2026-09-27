@@ -1,4 +1,5 @@
 import { MODULE_ID } from "../constants.js";
+import { applyOracleChatVisibility } from "./oracleChat.js";
 import {
    Likelihood,
    LIKELIHOODS,
@@ -24,8 +25,6 @@ export interface YesNoRollResult {
    perspectiveLabel: string;
    likelihoodLabel: string;
 }
-
-export type ChatVisibility = "self" | "gm" | "everyone";
 
 function localize(key: string): string {
    return game.i18n.localize(key);
@@ -64,12 +63,10 @@ export class YesNoOracleService {
    }
 
    static async postToChat(result: YesNoRollResult): Promise<void> {
-      const visibility = (game.settings.get(MODULE_ID, "oracleChatVisibility") as ChatVisibility) ?? "self";
       const content = this.#formatChatHtml(result);
-      const speaker = ChatMessage.getSpeaker();
       const data: Record<string, unknown> = {
          content,
-         speaker,
+         speaker: ChatMessage.getSpeaker(),
          flavor: localize("DMEMU.Oracle.Chat.Flavor"),
          flags: {
             [MODULE_ID]: {
@@ -81,17 +78,7 @@ export class YesNoOracleService {
             },
          },
       };
-
-      if (visibility === "self") {
-         data.whisper = [game.user.id];
-      } else if (visibility === "gm") {
-         const whispers = game.users.filter((u: { isGM: boolean }) => u.isGM).map((u: { id: string }) => u.id);
-         if (!whispers.includes(game.user.id)) {
-            whispers.push(game.user.id);
-         }
-         data.whisper = whispers;
-      }
-
+      applyOracleChatVisibility(data);
       await ChatMessage.create(data);
    }
 

@@ -5,7 +5,7 @@
     "Settings": {
       "OracleChatVisibility": {
         "Name": "Oracle chat visibility",
-        "Hint": "Who can see Yes/No oracle results posted to chat.",
+        "Hint": "Who can see Yes/No and Grand Oracle results posted to chat.",
         "Choices": {
           "self": "Only me (whisper)",
           "gm": "GMs (and me)",
@@ -14,11 +14,12 @@
       }
     },
     "Oracle": {
-      "About": "Yes/No, descriptive, story, and quantifier oracles. Use the tabs to switch; draws post to chat from RollTables.",
+      "About": "Yes/No, Grand Oracle, descriptive, story, and quantifier oracles. Use the tabs to switch; enrichment and Grand draws use RollTables.",
       "App": {
         "Title": "DMEmu Oracle",
         "TabsLabel": "Oracle sections",
         "TabYesNo": "Yes / No",
+        "TabGrand": "Grand",
         "TabDescriptive": "Descriptive",
         "TabStory": "Story",
         "TabQuantifier": "Quantifiers",
@@ -29,7 +30,7 @@
         "Likelihood": "Likelihood",
         "Roll": "Roll",
         "RollBias": "Roll twice (bias)",
-        "RollBiasTooltip": "If you already lean toward an answer, roll twice and pick the result that fits your judgment (PUM bias rule).",
+        "RollBiasTooltip": "If you already lean toward an answer, roll twice and pick the result that fits your judgment.",
         "BiasPick": "Choose a result",
         "BiasHint": "Pick the result that best fits your judgment.",
         "ChooseThis": "Use this answer"
@@ -194,6 +195,21 @@
         "Flavor": "DMEmu Oracle",
         "Question": "Question:",
         "Answer": "Answer:"
+      },
+      "Grand": {
+        "Legend": "Grand Oracle",
+        "Hint": "Roll Action, Adjective, and Subject, then weave them into one cue for the scene.",
+        "RollAll": "Roll Grand Oracle",
+        "RollAllTooltip": "Roll all three tables once and post a single combined prompt to chat.",
+        "Action": "Action (do)",
+        "ActionHint": "What is happening — verbs and deeds. Roll alone or as part of Grand Oracle.",
+        "Adjective": "Adjective (how)",
+        "AdjectiveHint": "Tone or quality of the situation. Roll alone or as part of Grand Oracle.",
+        "Subject": "Subject (what)",
+        "SubjectHint": "Noun or focus of the prompt. Roll alone or as part of Grand Oracle.",
+        "Prompt": "Prompt:",
+        "ChatFlavor": "DMEmu Grand Oracle",
+        "ChatHint": "Interpret the combo freely; pick any synonym from each line that fits."
       },
       "Enrichment": {
         "Group": {

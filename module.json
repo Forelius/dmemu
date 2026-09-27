@@ -1,7 +1,7 @@
 {
   "id": "dmemu",
   "title": "Depths Master Emulator",
-  "description": "Depths Master Emulator (DMEmu) — a system-agnostic solo/GM emulator for Foundry VTT. Inspired by Game Unfolding Machine by JeansenVaars; adapted for our own use.",
+  "description": "Depths Master Emulator (DMEmu) — a system-agnostic solo/GM emulator for Foundry VTT.",
   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "13",

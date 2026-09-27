@@ -1,0 +1,2129 @@
+{
+  "folder": null,
+  "name": "Oracle — Adjective (how)",
+  "_id": "fa287e0aeb3a4ad0",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> Tone, quality, or manner. Often combined with Action and Subject into one prompt.</p><p><strong>How to read it:</strong> Pick any synonym from the list that fits, blend them, or reinterpret for your setting. Re-roll or ignore if nothing sparks.</p>",
+  "results": [
+    "d8c7edbb93ab4f2e",
+    "a1b8aadf695b47ac",
+    "5d9b1c57e45f4a80",
+    "554493e18f06408d",
+    "16fee24c12774ab6",
+    "02e7c8016cb74b52",
+    "9ffec8401c1b4b2f",
+    "f4c19c00c9f34be9",
+    "4a013ad816244a7f",
+    "89334f0d3d734055",
+    "9e6cd2b97dd14be4",
+    "55890f6492984b9a",
+    "a0cf068c6114407b",
+    "7a028ab14a0a4374",
+    "fddc73c105de415f",
+    "14e9578bc62d4279",
+    "f49ed0f31a6649f2",
+    "6755446734054e30",
+    "135ebb6de5224704",
+    "3a0910f28d784f1e",
+    "334bfcbc68b24239",
+    "b0300693f32f4e19",
+    "a6aede6525ea490e",
+    "4e6b58a623fa46fa",
+    "504d3476f0cb4263",
+    "7f7b136b5d494f81",
+    "a1ad4f8340234994",
+    "b2ce0bb778f54934",
+    "09a44e6826c6444b",
+    "0c2c650226df434a",
+    "4bd88103cc054da6",
+    "f2ae3d45d9924bd3",
+    "5217d061a6964b98",
+    "96755526af684630",
+    "3359bdb792134abb",
+    "d7d7af5a73434899",
+    "12029a1ca4f746a0",
+    "b0973669083e4c9f",
+    "52b1859af588429c",
+    "1284e47cbf514c89",
+    "d0abe991409f40e3",
+    "ad5c376148604e3d",
+    "aeca59a54bfd4f32",
+    "a6192f9ae26b4ad7",
+    "d7d741c1657146a3",
+    "2b4d706227c64119",
+    "2c26b34190f547f4",
+    "c92eb74e99a04648",
+    "dea8798c900949c7",
+    "d340f7bae00047e8",
+    "64af2897d7f94c2a",
+    "9dc1aacdd7e94f01",
+    "ca91b0c1bd794aa3",
+    "be83d58eaa41433a",
+    "76dd38ef0a234f9d",
+    "484baddce3134fec",
+    "d5281fa62e7e405c",
+    "74f1a58d4fab4a9b",
+    "dc56a371bc05453e",
+    "271cf5960703408b",
+    "d43dccef447d4d53",
+    "cb9822aa82534b68",
+    "0564604c1b2547b5",
+    "8fee21797c904a5e",
+    "d7ccc0e5d1174e3c",
+    "5fda2b36ef2540ce",
+    "3cb05d3406cc4b3d",
+    "bbcdd5bec2af41e7",
+    "220bbfd44172410e",
+    "54cadddb18464f75",
+    "04f2d46226e0477e",
+    "f5f096e05fbc45eb",
+    "953ed4a4b0f64ac6",
+    "45e9d1fd04d341e2",
+    "c6109ba3790b42dd",
+    "352b61262cab40bb",
+    "c288a2222b594d78",
+    "2727a63a64b6418e",
+    "c850a374ce454573",
+    "57b1f6bb545243c3",
+    "21436e847bb8421d",
+    "06b88f37588b4f45",
+    "b78e4a8fc54d49d3",
+    "1e52e0a777b7417f",
+    "3c9d6e7236c840fb",
+    "c98a8b2d0ea340f1",
+    "fc657557faed40e0",
+    "cb2d1e2024de484c",
+    "8f5db340894f4592",
+    "87c83e8365404424",
+    "83329942e54949a8",
+    "7a72547bf7274055",
+    "63cfe4a18a2b4157",
+    "146e32e8823f442c",
+    "3dbc4f344f7e4c57",
+    "40c6c075798541f3",
+    "7f9d0fec80324b1d",
+    "defa7be7365c4f92",
+    "ea0100612d724468",
+    "307861d0393c4500"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": true,
+      "grandOracle": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d100",
+  "sort": 0,
+  "_originalKey": "!tables!fa287e0aeb3a4ad0",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.d8c7edbb93ab4f2e",
+      "_id": "d8c7edbb93ab4f2e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Abundant, plentiful, loaded, rich, wealthy, charged",
+      "text": "Abundant, plentiful, loaded, rich, wealthy, charged"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.a1b8aadf695b47ac",
+      "_id": "a1b8aadf695b47ac",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Active, latent, lively, occupied, busy, crowded",
+      "text": "Active, latent, lively, occupied, busy, crowded"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.5d9b1c57e45f4a80",
+      "_id": "5d9b1c57e45f4a80",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Adventurous, dangerous, risky, daring, defiant",
+      "text": "Adventurous, dangerous, risky, daring, defiant"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.554493e18f06408d",
+      "_id": "554493e18f06408d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Afraid, scared, paralyzed, macabre, horrific, terrifying",
+      "text": "Afraid, scared, paralyzed, macabre, horrific, terrifying"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.16fee24c12774ab6",
+      "_id": "16fee24c12774ab6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Chemical, alchemical, biological, elemental, organic",
+      "text": "Chemical, alchemical, biological, elemental, organic"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.02e7c8016cb74b52",
+      "_id": "02e7c8016cb74b52",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Alien, outsider, unfitting, foreign, different, strange",
+      "text": "Alien, outsider, unfitting, foreign, different, strange"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.9ffec8401c1b4b2f",
+      "_id": "9ffec8401c1b4b2f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Aquatic, liquid, watery, oceanic, wet, humid, flooded",
+      "text": "Aquatic, liquid, watery, oceanic, wet, humid, flooded"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.f4c19c00c9f34be9",
+      "_id": "f4c19c00c9f34be9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Attacked, damaged, pillaged, hit, bullied, hurt",
+      "text": "Attacked, damaged, pillaged, hit, bullied, hurt"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.4a013ad816244a7f",
+      "_id": "4a013ad816244a7f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Barbaric, native, primitive, untouched, savage",
+      "text": "Barbaric, native, primitive, untouched, savage"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.89334f0d3d734055",
+      "_id": "89334f0d3d734055",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Beautiful, charming, exotic, marvelous, spectacular",
+      "text": "Beautiful, charming, exotic, marvelous, spectacular"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.9e6cd2b97dd14be4",
+      "_id": "9e6cd2b97dd14be4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Blank, empty, inhabited, clear, void, desolated",
+      "text": "Blank, empty, inhabited, clear, void, desolated"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.55890f6492984b9a",
+      "_id": "55890f6492984b9a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Broken, damaged, dead, non-functional, useless",
+      "text": "Broken, damaged, dead, non-functional, useless"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.a0cf068c6114407b",
+      "_id": "a0cf068c6114407b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Careful, tidy, clean, delicate, maintained, cared for",
+      "text": "Careful, tidy, clean, delicate, maintained, cared for"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.7a028ab14a0a4374",
+      "_id": "7a028ab14a0a4374",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Cautious, defensive, paranoid, watched, observed",
+      "text": "Cautious, defensive, paranoid, watched, observed"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.fddc73c105de415f",
+      "_id": "fddc73c105de415f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Chaotic, messy, unattended, disastrous, abandoned",
+      "text": "Chaotic, messy, unattended, disastrous, abandoned"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.14e9578bc62d4279",
+      "_id": "14e9578bc62d4279",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Divine, celestial, godly, sacred, holy, religious",
+      "text": "Divine, celestial, godly, sacred, holy, religious"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.f49ed0f31a6649f2",
+      "_id": "f49ed0f31a6649f2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Characteristic, local to this place, belonging, native",
+      "text": "Characteristic, local to this place, belonging, native"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.6755446734054e30",
+      "_id": "6755446734054e30",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Clouded, foggy, hard to see, fuzzy, invisible",
+      "text": "Clouded, foggy, hard to see, fuzzy, invisible"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.135ebb6de5224704",
+      "_id": "135ebb6de5224704",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Corrupted, manipulated, utilized, misused, abused",
+      "text": "Corrupted, manipulated, utilized, misused, abused"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.3a0910f28d784f1e",
+      "_id": "3a0910f28d784f1e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Crazy, unpredictable, nonsensical, strange, random",
+      "text": "Crazy, unpredictable, nonsensical, strange, random"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.334bfcbc68b24239",
+      "_id": "334bfcbc68b24239",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Complicated, complex, difficult, cursed, impossible",
+      "text": "Complicated, complex, difficult, cursed, impossible"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.b0300693f32f4e19",
+      "_id": "b0300693f32f4e19",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Dark, unlit, black, obscure, dim, gloomy, scary",
+      "text": "Dark, unlit, black, obscure, dim, gloomy, scary"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.a6aede6525ea490e",
+      "_id": "a6aede6525ea490e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Deadly, dangerous, toxic, decadent, sick, poisonous",
+      "text": "Deadly, dangerous, toxic, decadent, sick, poisonous"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.4e6b58a623fa46fa",
+      "_id": "4e6b58a623fa46fa",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Armed, protected, defended, fortified, ready",
+      "text": "Armed, protected, defended, fortified, ready"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.504d3476f0cb4263",
+      "_id": "504d3476f0cb4263",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Deep, buried, stashed, underground, underwater",
+      "text": "Deep, buried, stashed, underground, underwater"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.7f7b136b5d494f81",
+      "_id": "7f7b136b5d494f81",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hot, dry, red, sunny, flat, drained, burning, on fire",
+      "text": "Hot, dry, red, sunny, flat, drained, burning, on fire"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.a1ad4f8340234994",
+      "_id": "a1ad4f8340234994",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Developed, detailed, carefully built, well-presented",
+      "text": "Developed, detailed, carefully built, well-presented"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.b2ce0bb778f54934",
+      "_id": "b2ce0bb778f54934",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Diplomatic, stylish, well-suited, elegant, presented",
+      "text": "Diplomatic, stylish, well-suited, elegant, presented"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.09a44e6826c6444b",
+      "_id": "09a44e6826c6444b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Distinct, different, exotic, unique, special, remarkable",
+      "text": "Distinct, different, exotic, unique, special, remarkable"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.0c2c650226df434a",
+      "_id": "0c2c650226df434a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rocky, mountainous, solid, large, huge, gigantic",
+      "text": "Rocky, mountainous, solid, large, huge, gigantic"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.4bd88103cc054da6",
+      "_id": "4bd88103cc054da6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Dynamic, moving, agile, unstable, acrobatic, sneaky",
+      "text": "Dynamic, moving, agile, unstable, acrobatic, sneaky"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.f2ae3d45d9924bd3",
+      "_id": "f2ae3d45d9924bd3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reachable, welcoming, inviting, hospitable, available",
+      "text": "Reachable, welcoming, inviting, hospitable, available"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.5217d061a6964b98",
+      "_id": "5217d061a6964b98",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Empowered, enhanced, fortified, improved, upgraded",
+      "text": "Empowered, enhanced, fortified, improved, upgraded"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.96755526af684630",
+      "_id": "96755526af684630",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Encouraging, inspiring, leading, exemplary, driving",
+      "text": "Encouraging, inspiring, leading, exemplary, driving"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.3359bdb792134abb",
+      "_id": "3359bdb792134abb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Enigmatic, confusing, curious, distinctive, revealing",
+      "text": "Enigmatic, confusing, curious, distinctive, revealing"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.d7d7af5a73434899",
+      "_id": "d7d7af5a73434899",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Entertaining, fun, humorous, joyful, cheerful",
+      "text": "Entertaining, fun, humorous, joyful, cheerful"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.12029a1ca4f746a0",
+      "_id": "12029a1ca4f746a0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Essential, important, key, relevant, strategic",
+      "text": "Essential, important, key, relevant, strategic"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.b0973669083e4c9f",
+      "_id": "b0973669083e4c9f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Environmental, meteorological, atmospheric, natural",
+      "text": "Environmental, meteorological, atmospheric, natural"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.52b1859af588429c",
+      "_id": "52b1859af588429c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Expensive, rich, majestic, rare, valuable, shiny",
+      "text": "Expensive, rich, majestic, rare, valuable, shiny"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.1284e47cbf514c89",
+      "_id": "1284e47cbf514c89",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fatal, deadly, fearsome, invincible, immune",
+      "text": "Fatal, deadly, fearsome, invincible, immune"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.d0abe991409f40e3",
+      "_id": "d0abe991409f40e3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Foolish, dumb, unprepared, unprotected, vulnerable",
+      "text": "Foolish, dumb, unprepared, unprotected, vulnerable"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.ad5c376148604e3d",
+      "_id": "ad5c376148604e3d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Healthy, repaired, fixed, recovered, constructed",
+      "text": "Healthy, repaired, fixed, recovered, constructed"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.aeca59a54bfd4f32",
+      "_id": "aeca59a54bfd4f32",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Disguised, concealed, secret, camouflaged, hidden",
+      "text": "Disguised, concealed, secret, camouflaged, hidden"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.a6192f9ae26b4ad7",
+      "_id": "a6192f9ae26b4ad7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Historic, memorable, legendary, old, ancient",
+      "text": "Historic, memorable, legendary, old, ancient"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.d7d741c1657146a3",
+      "_id": "d7d741c1657146a3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hungry, lacking, needing, depending, thirsty",
+      "text": "Hungry, lacking, needing, depending, thirsty"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.2b4d706227c64119",
+      "_id": "2b4d706227c64119",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Idle, inactive, never used, turned off, disconnected",
+      "text": "Idle, inactive, never used, turned off, disconnected"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.2c26b34190f547f4",
+      "_id": "2c26b34190f547f4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Impassable, impenetrable, inaccessible, impermeable",
+      "text": "Impassable, impenetrable, inaccessible, impermeable"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.c92eb74e99a04648",
+      "_id": "c92eb74e99a04648",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Inhospitable, inhuman, infested, cursed, damned",
+      "text": "Inhospitable, inhuman, infested, cursed, damned"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.dea8798c900949c7",
+      "_id": "dea8798c900949c7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Irresistible, tempting, seductive, addictive",
+      "text": "Irresistible, tempting, seductive, addictive"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.d340f7bae00047e8",
+      "_id": "d340f7bae00047e8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Isolated, lonely, separated, introvert, alone",
+      "text": "Isolated, lonely, separated, introvert, alone"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.64af2897d7f94c2a",
+      "_id": "64af2897d7f94c2a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Known, familiar, renowned, predictable, stable",
+      "text": "Known, familiar, renowned, predictable, stable"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.9dc1aacdd7e94f01",
+      "_id": "9dc1aacdd7e94f01",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Limited, insufficient, lacking, incomplete, missing",
+      "text": "Limited, insufficient, lacking, incomplete, missing"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.ca91b0c1bd794aa3",
+      "_id": "ca91b0c1bd794aa3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Little, small, minimal, reduced, shrunk, tiny",
+      "text": "Little, small, minimal, reduced, shrunk, tiny"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.be83d58eaa41433a",
+      "_id": "be83d58eaa41433a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Loud, sound, talkative, noisy, distracting, musical",
+      "text": "Loud, sound, talkative, noisy, distracting, musical"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.76dd38ef0a234f9d",
+      "_id": "76dd38ef0a234f9d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Loyal, respectful, legal, honorable, proud",
+      "text": "Loyal, respectful, legal, honorable, proud"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.484baddce3134fec",
+      "_id": "484baddce3134fec",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Magical, mystical, wondrous, strange, wizardry",
+      "text": "Magical, mystical, wondrous, strange, wizardry"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.d5281fa62e7e405c",
+      "_id": "d5281fa62e7e405c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mighty, powerful, strong, forceful, fierce, vicious",
+      "text": "Mighty, powerful, strong, forceful, fierce, vicious"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.74f1a58d4fab4a9b",
+      "_id": "74f1a58d4fab4a9b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Monstrous, aberration, horrible, disastrous, twisted",
+      "text": "Monstrous, aberration, horrible, disastrous, twisted"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.dc56a371bc05453e",
+      "_id": "dc56a371bc05453e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Necessary, critical, crucial, required, needed",
+      "text": "Necessary, critical, crucial, required, needed"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.271cf5960703408b",
+      "_id": "271cf5960703408b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Negative, harmful, unwanted, undesired, avoided",
+      "text": "Negative, harmful, unwanted, undesired, avoided"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.d43dccef447d4d53",
+      "_id": "d43dccef447d4d53",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Numerous, filled, quantity, together, grouped",
+      "text": "Numerous, filled, quantity, together, grouped"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.cb9822aa82534b68",
+      "_id": "cb9822aa82534b68",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Clever, intelligent, ingenious, smart, professional",
+      "text": "Clever, intelligent, ingenious, smart, professional"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.0564604c1b2547b5",
+      "_id": "0564604c1b2547b5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Original, native, cultural, traditional, conventional",
+      "text": "Original, native, cultural, traditional, conventional"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.8fee21797c904a5e",
+      "_id": "8fee21797c904a5e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Pathetic, ridiculous, unfitting, weird, strange",
+      "text": "Pathetic, ridiculous, unfitting, weird, strange"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.d7ccc0e5d1174e3c",
+      "_id": "d7ccc0e5d1174e3c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Political, strategic, wealthy, designed, planned",
+      "text": "Political, strategic, wealthy, designed, planned"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.5fda2b36ef2540ce",
+      "_id": "5fda2b36ef2540ce",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Precarious, poor, lacking, poverty, unwanted",
+      "text": "Precarious, poor, lacking, poverty, unwanted"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.3cb05d3406cc4b3d",
+      "_id": "3cb05d3406cc4b3d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Quick, fast, agile, moving, nimble, sneaky",
+      "text": "Quick, fast, agile, moving, nimble, sneaky"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.bbcdd5bec2af41e7",
+      "_id": "bbcdd5bec2af41e7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Ruin, forgotten, abandoned, destroyed, extinct",
+      "text": "Ruin, forgotten, abandoned, destroyed, extinct"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.220bbfd44172410e",
+      "_id": "220bbfd44172410e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Safe, secure, silent, calm, quiet, trustworthy",
+      "text": "Safe, secure, silent, calm, quiet, trustworthy"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.54cadddb18464f75",
+      "_id": "54cadddb18464f75",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Scattered, spread out, distracted, flattened",
+      "text": "Scattered, spread out, distracted, flattened"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.04f2d46226e0477e",
+      "_id": "04f2d46226e0477e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Selected, chosen, elected, voted, decided",
+      "text": "Selected, chosen, elected, voted, decided"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.f5f096e05fbc45eb",
+      "_id": "f5f096e05fbc45eb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Shady, illegal, immoral, uncomfortable, wrong",
+      "text": "Shady, illegal, immoral, uncomfortable, wrong"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.953ed4a4b0f64ac6",
+      "_id": "953ed4a4b0f64ac6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Eliminated, killed, destroyed, annihilated, executed",
+      "text": "Eliminated, killed, destroyed, annihilated, executed"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.45e9d1fd04d341e2",
+      "_id": "45e9d1fd04d341e2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Snowy, frozen, still, shattered, cold, glassy",
+      "text": "Snowy, frozen, still, shattered, cold, glassy"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.c6109ba3790b42dd",
+      "_id": "c6109ba3790b42dd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Abnormal, supernatural, different, atypical",
+      "text": "Abnormal, supernatural, different, atypical"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.352b61262cab40bb",
+      "_id": "352b61262cab40bb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Timed, temporary, time-consuming, demanding",
+      "text": "Timed, temporary, time-consuming, demanding"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.c288a2222b594d78",
+      "_id": "c288a2222b594d78",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Undead, revived, recovered, restored, repaired",
+      "text": "Undead, revived, recovered, restored, repaired"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.2727a63a64b6418e",
+      "_id": "2727a63a64b6418e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Undiscovered, new, untouched, born, virgin",
+      "text": "Undiscovered, new, untouched, born, virgin"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.c850a374ce454573",
+      "_id": "c850a374ce454573",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Wonderful, amazing, incredible, brilliant, flashy",
+      "text": "Wonderful, amazing, incredible, brilliant, flashy"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.57b1f6bb545243c3",
+      "_id": "57b1f6bb545243c3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Useful, handy, active, convenient, fortunate",
+      "text": "Useful, handy, active, convenient, fortunate"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.21436e847bb8421d",
+      "_id": "21436e847bb8421d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Valuable, desired, promoted, expensive, pricey",
+      "text": "Valuable, desired, promoted, expensive, pricey"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.06b88f37588b4f45",
+      "_id": "06b88f37588b4f45",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Vast, extended, powerful, huge, broad, wide",
+      "text": "Vast, extended, powerful, huge, broad, wide"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.b78e4a8fc54d49d3",
+      "_id": "b78e4a8fc54d49d3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Visited, concurred, popular, famous, remarkable",
+      "text": "Visited, concurred, popular, famous, remarkable"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.1e52e0a777b7417f",
+      "_id": "1e52e0a777b7417f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Weak, helpless, vulnerable, exposed, endangered",
+      "text": "Weak, helpless, vulnerable, exposed, endangered"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.3c9d6e7236c840fb",
+      "_id": "3c9d6e7236c840fb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Plastic, artificial, composite, fictional, fabricated",
+      "text": "Plastic, artificial, composite, fictional, fabricated"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.c98a8b2d0ea340f1",
+      "_id": "c98a8b2d0ea340f1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Confined, obscured, forbidden, protected, illegal",
+      "text": "Confined, obscured, forbidden, protected, illegal"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.fc657557faed40e0",
+      "_id": "fc657557faed40e0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Open, airy, flowed, accessible, reachable, elevated",
+      "text": "Open, airy, flowed, accessible, reachable, elevated"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.cb2d1e2024de484c",
+      "_id": "cb2d1e2024de484c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Expanding, enlarging, growing, spreading",
+      "text": "Expanding, enlarging, growing, spreading"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.8f5db340894f4592",
+      "_id": "8f5db340894f4592",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Wooden, strong, resistant, metallic, reflective",
+      "text": "Wooden, strong, resistant, metallic, reflective"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.87c83e8365404424",
+      "_id": "87c83e8365404424",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Written, recorded, archived, translated, journaled",
+      "text": "Written, recorded, archived, translated, journaled"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.83329942e54949a8",
+      "_id": "83329942e54949a8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mechanical, complex, built, functional, synthetic",
+      "text": "Mechanical, complex, built, functional, synthetic"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.7a72547bf7274055",
+      "_id": "7a72547bf7274055",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Explosive, delicate, reactive, inflammable",
+      "text": "Explosive, delicate, reactive, inflammable"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.63cfe4a18a2b4157",
+      "_id": "63cfe4a18a2b4157",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Civilized, urbanized, elegant, decorative, organized",
+      "text": "Civilized, urbanized, elegant, decorative, organized"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.146e32e8823f442c",
+      "_id": "146e32e8823f442c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Captured, taken, stolen, missing, kidnapped",
+      "text": "Captured, taken, stolen, missing, kidnapped"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.3dbc4f344f7e4c57",
+      "_id": "3dbc4f344f7e4c57",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Expelled, banished, forbidden, rejected, prohibited",
+      "text": "Expelled, banished, forbidden, rejected, prohibited"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.40c6c075798541f3",
+      "_id": "40c6c075798541f3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Owned, private, personal, enslaved, hired, domain",
+      "text": "Owned, private, personal, enslaved, hired, domain"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.7f9d0fec80324b1d",
+      "_id": "7f9d0fec80324b1d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Violent, enraged, angry, unstable, hysteric",
+      "text": "Violent, enraged, angry, unstable, hysteric"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.defa7be7365c4f92",
+      "_id": "defa7be7365c4f92",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Friendly, allied, cooperative, helpful, supportive",
+      "text": "Friendly, allied, cooperative, helpful, supportive"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.ea0100612d724468",
+      "_id": "ea0100612d724468",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Modern, technological, advance, revolutionary",
+      "text": "Modern, technological, advance, revolutionary"
+    },
+    {
+      "_originalKey": "!tables.results!fa287e0aeb3a4ad0.307861d0393c4500",
+      "_id": "307861d0393c4500",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Depleted, used, utilized, tired, exhausted, wasted",
+      "text": "Depleted, used, utilized, tired, exhausted, wasted"
+    }
+  ]
+}

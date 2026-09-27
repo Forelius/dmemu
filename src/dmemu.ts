@@ -5,18 +5,22 @@
 
 import { MODULE_ID } from "./constants.js";
 import { OracleApp } from "./apps/OracleApp.js";
+import { GrandOracleService, GrandOracleResult } from "./oracle/GrandOracleService.js";
 import { YesNoOracleService, YesNoRollRequest, YesNoRollResult } from "./oracle/YesNoOracleService.js";
 
 export { MODULE_ID } from "./constants.js";
 export { OracleApp } from "./apps/OracleApp.js";
+export { GrandOracleService } from "./oracle/GrandOracleService.js";
 export { YesNoOracleService } from "./oracle/YesNoOracleService.js";
 export * from "./oracle/data/yesNoMatrices.js";
+export * from "./oracle/grandOracleTables.js";
 
 interface DmemuApi {
    openOracle: () => OracleApp;
    oracle: {
       yesNo: (request: YesNoRollRequest) => Promise<YesNoRollResult>;
       postYesNo: (result: YesNoRollResult) => Promise<void>;
+      grand: () => Promise<GrandOracleResult>;
    };
 }
 
@@ -57,6 +61,7 @@ Hooks.once("ready", () => {
       oracle: {
          yesNo: (request) => YesNoOracleService.roll(request),
          postYesNo: (result) => YesNoOracleService.postToChat(result),
+         grand: () => GrandOracleService.rollAndPost(),
       },
    };
    game.dmemu = api;

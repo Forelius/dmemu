@@ -1,11 +1,13 @@
 import { MODULE_ID } from "../constants.js";
 import { LIKELIHOODS, PERSPECTIVES, Likelihood, YesNoPerspective } from "../oracle/data/yesNoMatrices.js";
 import { ENRICHMENT_GROUPS } from "../oracle/enrichmentTables.js";
+import { GRAND_ORACLE_PARTS } from "../oracle/grandOracleTables.js";
+import { GrandOracleService } from "../oracle/GrandOracleService.js";
 import { YesNoOracleService, YesNoRollResult } from "../oracle/YesNoOracleService.js";
 
 const { ApplicationV2, HandlebarsApplicationMixin } = foundry.applications.api;
 
-type OracleTabId = "yesno" | "descriptive" | "story" | "quantifier";
+type OracleTabId = "yesno" | "grand" | "descriptive" | "story" | "quantifier";
 
 interface EnrichmentTableView {
    id: string;
@@ -21,20 +23,29 @@ interface EnrichmentGroupView {
    tables: EnrichmentTableView[];
 }
 
+interface GrandPartView {
+   id: string;
+   label: string;
+   hint: string;
+   tableName: string;
+}
+
 interface OracleAppContext {
    about: string;
    tabs: { id: OracleTabId; label: string; active: boolean }[];
    isYesNoTab: boolean;
+   isGrandTab: boolean;
    perspectives: { id: YesNoPerspective; label: string; hint: string; selected: boolean }[];
    likelihoods: { id: Likelihood; label: string; selected: boolean }[];
    perspectiveHint: string;
    question: string;
    biasResults: YesNoRollResult[] | null;
    activeGroup: EnrichmentGroupView | null;
+   grandParts: GrandPartView[] | null;
 }
 
 /**
- * DMEmu Yes/No (and enrichment) oracle window.
+ * DMEmu Yes/No, Grand, and enrichment oracle window.
  */
 export class OracleApp extends HandlebarsApplicationMixin(ApplicationV2) {
    perspective: YesNoPerspective = "deterministic";
@@ -66,6 +77,7 @@ export class OracleApp extends HandlebarsApplicationMixin(ApplicationV2) {
          rollBias: OracleApp.onRollBias,
          pickBias: OracleApp.onPickBias,
          drawEnrichment: OracleApp.onDrawEnrichment,
+         rollGrand: OracleApp.onRollGrand,
       },
    };
 
@@ -82,6 +94,7 @@ export class OracleApp extends HandlebarsApplicationMixin(ApplicationV2) {
    async _prepareContext(_options: unknown): Promise<OracleAppContext> {
       const tabDefs: { id: OracleTabId; labelKey: string }[] = [
          { id: "yesno", labelKey: "DMEMU.Oracle.App.TabYesNo" },
+         { id: "grand", labelKey: "DMEMU.Oracle.App.TabGrand" },
          { id: "descriptive", labelKey: "DMEMU.Oracle.App.TabDescriptive" },
          { id: "story", labelKey: "DMEMU.Oracle.App.TabStory" },
          { id: "quantifier", labelKey: "DMEMU.Oracle.App.TabQuantifier" },
@@ -102,6 +115,16 @@ export class OracleApp extends HandlebarsApplicationMixin(ApplicationV2) {
            }
          : null;
 
+      const grandParts: GrandPartView[] | null =
+         this.activeTab === "grand"
+            ? GRAND_ORACLE_PARTS.map((p) => ({
+                 id: p.id,
+                 label: game.i18n.localize(`DMEMU.Oracle.Grand.${p.i18nKey}`),
+                 hint: game.i18n.localize(`DMEMU.Oracle.Grand.${p.i18nKey}Hint`),
+                 tableName: p.tableName,
+              }))
+            : null;
+
       return {
          about: game.i18n.localize("DMEMU.Oracle.About"),
          tabs: tabDefs.map((t) => ({
@@ -110,6 +133,7 @@ export class OracleApp extends HandlebarsApplicationMixin(ApplicationV2) {
             active: t.id === this.activeTab,
          })),
          isYesNoTab: this.activeTab === "yesno",
+         isGrandTab: this.activeTab === "grand",
          perspectives: PERSPECTIVES.map((id) => ({
             id,
             label: game.i18n.localize(`DMEMU.Oracle.Perspective.${id}`),
@@ -125,6 +149,7 @@ export class OracleApp extends HandlebarsApplicationMixin(ApplicationV2) {
          question: this.question,
          biasResults: this.activeTab === "yesno" ? this.biasResults : null,
          activeGroup,
+         grandParts,
       };
    }
 
@@ -203,6 +228,15 @@ export class OracleApp extends HandlebarsApplicationMixin(ApplicationV2) {
       this.biasResults = null;
       await YesNoOracleService.postToChat(result);
       this.render();
+   }
+
+   static async onRollGrand(this: OracleApp, _event: Event, _target: HTMLElement): Promise<void> {
+      try {
+         await GrandOracleService.rollAndPost();
+      } catch (err) {
+         const message = err instanceof Error ? err.message : String(err);
+         ui.notifications.warn(message);
+      }
    }
 
    static async onDrawEnrichment(this: OracleApp, _event: Event, target: HTMLElement): Promise<void> {

@@ -67,6 +67,25 @@
   {{/if}}
   {{/if}}
 
+  {{#if isGrandTab}}
+  <fieldset>
+    <legend>{{localize "DMEMU.Oracle.Grand.Legend"}}</legend>
+    <p class="hint">{{localize "DMEMU.Oracle.Grand.Hint"}}</p>
+    <div class="dmemu-oracle-actions">
+      <button type="button" data-action="rollGrand" data-tooltip="{{localize "DMEMU.Oracle.Grand.RollAllTooltip"}}">
+        <i class="fas fa-dice-d20"></i> {{localize "DMEMU.Oracle.Grand.RollAll"}}
+      </button>
+    </div>
+    <div class="dmemu-oracle-actions dmemu-oracle-grand-parts">
+      {{#each grandParts}}
+      <button type="button" data-action="drawEnrichment" data-table-name="{{tableName}}" data-tooltip="{{hint}}">
+        {{label}}
+      </button>
+      {{/each}}
+    </div>
+  </fieldset>
+  {{/if}}
+
   {{#if activeGroup}}
   <fieldset>
     <legend>{{activeGroup.label}}</legend>

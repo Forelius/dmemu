@@ -39,6 +39,15 @@
   flex: 1 1 8rem;
 }
 
+.dmemu-oracle-grand-parts {
+  margin-top: 0.5rem;
+}
+
+.dmemu-oracle-chat .dmemu-oracle-grand-part {
+  margin: 0.25rem 0 0;
+  font-size: 0.95em;
+}
+
 .dmemu-oracle-chat .dmemu-oracle-answer {
   font-size: 1.1em;
 }
