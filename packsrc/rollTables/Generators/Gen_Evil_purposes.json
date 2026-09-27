@@ -1,0 +1,2129 @@
+{
+  "folder": null,
+  "name": "Generator — Evil purposes",
+  "_id": "23560b0d8801451c",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> Hostile or corrupt goals or motivations.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "8e9a12f641ff4fc3",
+    "bb2da0ede5884bac",
+    "ee2ec03c42bd446a",
+    "96b35e2b70f74bd1",
+    "ad5e33d531f14cd8",
+    "b219282aa86a45b4",
+    "18ac133528924dea",
+    "9d71f4e289994dfa",
+    "ec0d00afca7d4373",
+    "7def00d234ff4da2",
+    "6a4316192f8a4361",
+    "33dfb3601dec4615",
+    "804d952598b64162",
+    "dfbf2786071b4eea",
+    "603ed8502ed14fc9",
+    "fc1507d9337f4506",
+    "e70ee581c5ad4c11",
+    "f55b0f3bc1144440",
+    "dd68015f47964e70",
+    "80440c83f83f453d",
+    "996821f0cfb24bcc",
+    "53bf854a7c2d4aa2",
+    "27c0e46c4ab24021",
+    "637efb9bab7041ce",
+    "719be6cc7d55447e",
+    "bcd480e7efa9440f",
+    "4d47f705eb2a4445",
+    "f0593a9b1cdb40cd",
+    "b496b25ccf2d4ace",
+    "785fdc5e54394e19",
+    "957af1a0b6814519",
+    "cfff02f9b3324295",
+    "bc769490c0ac4353",
+    "869d274426d74e80",
+    "4f8b3c96690f42fc",
+    "2f57ef78db754abc",
+    "fe3c1e5641164d01",
+    "96884c73933b40f5",
+    "4717dda2d6c54892",
+    "678f37c497084502",
+    "645d5da4e7da41d1",
+    "b864025374b64c3b",
+    "2544bb615f7641db",
+    "2f0e9975ca094e29",
+    "ce3469af6c8d4e74",
+    "3bcaa8f72629493a",
+    "57de783a89e84e8d",
+    "7ce4c4990ab34a43",
+    "5d094f1e8e6d4213",
+    "f6711970130e43d5",
+    "9af2cf894e1e4951",
+    "f080d91ab90644d4",
+    "37cae667bfcb43d2",
+    "6fde2b1143334d57",
+    "ac09c67b2aa14673",
+    "c5f4197ad46f4de3",
+    "5b0365802b47489c",
+    "915ce6ed9ac14b7e",
+    "7cdab74764454052",
+    "54229a7592fd43d1",
+    "119872667fb043d1",
+    "fc0885cde5c84f75",
+    "e55320d14ec44028",
+    "d7bd2f6dbf30474e",
+    "36ee9cc879f04c8e",
+    "80b9f47356b84f85",
+    "2c4673590dd94739",
+    "61bca8a845344058",
+    "8896bd2d6bb14ca2",
+    "de492fc6704b44ae",
+    "5348f5d1cb01467c",
+    "8bc13893ca284f30",
+    "7a02e3956c98416c",
+    "77b5c3b586ef4643",
+    "faff13ba5b43408a",
+    "dc9bb8d6b0844e1b",
+    "3306c541160d49cb",
+    "5776d90966584767",
+    "fc12ba5e5f9b4ea8",
+    "3578451f99e446d6",
+    "27bd6ba33ed14511",
+    "291b51d6a10940af",
+    "002324baa9a84147",
+    "f8241b7b65814853",
+    "68205721cac24442",
+    "bdc3ef66aeed43c5",
+    "961b5156e8ab434c",
+    "c75c628124584b0d",
+    "63be8f9276384583",
+    "2da555a585bb46ee",
+    "6befe0302a754779",
+    "93dcb8fb224e4c44",
+    "95a851f7d3c4426d",
+    "703995a536ca40db",
+    "d194c80ce2a342aa",
+    "33d814bf71de4f7d",
+    "c6f323d138a4460b",
+    "061bca1265e747c6",
+    "936b119bb6004507",
+    "36440d15dc9b4bf5"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d100",
+  "sort": 0,
+  "_originalKey": "!tables!23560b0d8801451c",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.8e9a12f641ff4fc3",
+      "_id": "8e9a12f641ff4fc3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "To guard a secret, a legacy",
+      "text": "To guard a secret, a legacy"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.bb2da0ede5884bac",
+      "_id": "bb2da0ede5884bac",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "To make a point, convert others",
+      "text": "To make a point, convert others"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.ee2ec03c42bd446a",
+      "_id": "ee2ec03c42bd446a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Alter someone’s fate, or destiny",
+      "text": "Alter someone’s fate, or destiny"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.96b35e2b70f74bd1",
+      "_id": "96b35e2b70f74bd1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sadism, fun, entertainment",
+      "text": "Sadism, fun, entertainment"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.ad5e33d531f14cd8",
+      "_id": "ad5e33d531f14cd8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Jealousy, envy, revenge, anger",
+      "text": "Jealousy, envy, revenge, anger"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.b219282aa86a45b4",
+      "_id": "b219282aa86a45b4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "To produce chaos and despair",
+      "text": "To produce chaos and despair"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.18ac133528924dea",
+      "_id": "18ac133528924dea",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Restore the past, or balance",
+      "text": "Restore the past, or balance"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.9d71f4e289994dfa",
+      "_id": "9d71f4e289994dfa",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Control, dominance, conquest",
+      "text": "Control, dominance, conquest"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.ec0d00afca7d4373",
+      "_id": "ec0d00afca7d4373",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Create a legacy, long-lasting change",
+      "text": "Create a legacy, long-lasting change"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.7def00d234ff4da2",
+      "_id": "7def00d234ff4da2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Destroy a legacy, history or culture",
+      "text": "Destroy a legacy, history or culture"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.6a4316192f8a4361",
+      "_id": "6a4316192f8a4361",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Greed for money and wealth",
+      "text": "Greed for money and wealth"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.33dfb3601dec4615",
+      "_id": "33dfb3601dec4615",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Greed for resources, or supplies",
+      "text": "Greed for resources, or supplies"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.804d952598b64162",
+      "_id": "804d952598b64162",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Greed for knowledge, or understand",
+      "text": "Greed for knowledge, or understand"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.dfbf2786071b4eea",
+      "_id": "dfbf2786071b4eea",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Greed for magic, or superpowers",
+      "text": "Greed for magic, or superpowers"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.603ed8502ed14fc9",
+      "_id": "603ed8502ed14fc9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Greed for political power, manipulate",
+      "text": "Greed for political power, manipulate"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.fc1507d9337f4506",
+      "_id": "fc1507d9337f4506",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Following a dark path, or ritual",
+      "text": "Following a dark path, or ritual"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.e70ee581c5ad4c11",
+      "_id": "e70ee581c5ad4c11",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Self-preservation, survival, endure",
+      "text": "Self-preservation, survival, endure"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.f55b0f3bc1144440",
+      "_id": "f55b0f3bc1144440",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "To create a new order, or faction",
+      "text": "To create a new order, or faction"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.dd68015f47964e70",
+      "_id": "dd68015f47964e70",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Greed for territory, domain, control",
+      "text": "Greed for territory, domain, control"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.80440c83f83f453d",
+      "_id": "80440c83f83f453d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Evil for its own sake, to be evil",
+      "text": "Evil for its own sake, to be evil"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.996821f0cfb24bcc",
+      "_id": "996821f0cfb24bcc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fix a wrong ideal or a paradox",
+      "text": "Fix a wrong ideal or a paradox"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.53bf854a7c2d4aa2",
+      "_id": "53bf854a7c2d4aa2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Because of pain, suffering, sickness",
+      "text": "Because of pain, suffering, sickness"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.27c0e46c4ab24021",
+      "_id": "27c0e46c4ab24021",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "To cause pain, suffering, injuries",
+      "text": "To cause pain, suffering, injuries"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.637efb9bab7041ce",
+      "_id": "637efb9bab7041ce",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mental illness, psychosis",
+      "text": "Mental illness, psychosis"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.719be6cc7d55447e",
+      "_id": "719be6cc7d55447e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Social pressure or anxiety",
+      "text": "Social pressure or anxiety"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.bcd480e7efa9440f",
+      "_id": "bcd480e7efa9440f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Political pressure, manipulated",
+      "text": "Political pressure, manipulated"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.4d47f705eb2a4445",
+      "_id": "4d47f705eb2a4445",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Selfishness, egoism, pride",
+      "text": "Selfishness, egoism, pride"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.f0593a9b1cdb40cd",
+      "_id": "f0593a9b1cdb40cd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fanaticism, religion, ideal",
+      "text": "Fanaticism, religion, ideal"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.b496b25ccf2d4ace",
+      "_id": "b496b25ccf2d4ace",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Intolerance, oppression, control",
+      "text": "Intolerance, oppression, control"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.785fdc5e54394e19",
+      "_id": "785fdc5e54394e19",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "To deny the truth, or reality",
+      "text": "To deny the truth, or reality"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.957af1a0b6814519",
+      "_id": "957af1a0b6814519",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of social classes or structure",
+      "text": "Hatred of social classes or structure"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.cfff02f9b3324295",
+      "_id": "cfff02f9b3324295",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of races or different beings",
+      "text": "Hatred of races or different beings"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.bc769490c0ac4353",
+      "_id": "bc769490c0ac4353",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of religions and extremists",
+      "text": "Hatred of religions and extremists"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.869d274426d74e80",
+      "_id": "869d274426d74e80",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of ideologies and biases",
+      "text": "Hatred of ideologies and biases"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.4f8b3c96690f42fc",
+      "_id": "4f8b3c96690f42fc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of law, order, and justice",
+      "text": "Hatred of law, order, and justice"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.2f57ef78db754abc",
+      "_id": "2f57ef78db754abc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of the rich or aristocrats",
+      "text": "Hatred of the rich or aristocrats"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.fe3c1e5641164d01",
+      "_id": "fe3c1e5641164d01",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Being forced, or mental-control",
+      "text": "Being forced, or mental-control"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.96884c73933b40f5",
+      "_id": "96884c73933b40f5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of authority, or power",
+      "text": "Hatred of authority, or power"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.4717dda2d6c54892",
+      "_id": "4717dda2d6c54892",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of the state or government",
+      "text": "Hatred of the state or government"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.678f37c497084502",
+      "_id": "678f37c497084502",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of tradition and culture",
+      "text": "Hatred of tradition and culture"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.645d5da4e7da41d1",
+      "_id": "645d5da4e7da41d1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of science and knowledge",
+      "text": "Hatred of science and knowledge"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.b864025374b64c3b",
+      "_id": "b864025374b64c3b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of progress or evolution",
+      "text": "Hatred of progress or evolution"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.2544bb615f7641db",
+      "_id": "2544bb615f7641db",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of technology or science",
+      "text": "Hatred of technology or science"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.2f0e9975ca094e29",
+      "_id": "2f0e9975ca094e29",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of change or progress",
+      "text": "Hatred of change or progress"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.ce3469af6c8d4e74",
+      "_id": "ce3469af6c8d4e74",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of education, or children",
+      "text": "Hatred of education, or children"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.3bcaa8f72629493a",
+      "_id": "3bcaa8f72629493a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of libraries or documents",
+      "text": "Hatred of libraries or documents"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.57de783a89e84e8d",
+      "_id": "57de783a89e84e8d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of art, culture, music",
+      "text": "Hatred of art, culture, music"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.7ce4c4990ab34a43",
+      "_id": "7ce4c4990ab34a43",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Desire to be admired or loved",
+      "text": "Desire to be admired or loved"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.5d094f1e8e6d4213",
+      "_id": "5d094f1e8e6d4213",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hatred of social norms, regulations",
+      "text": "Hatred of social norms, regulations"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.f6711970130e43d5",
+      "_id": "f6711970130e43d5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hate of people in general, everyone",
+      "text": "Hate of people in general, everyone"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.9af2cf894e1e4951",
+      "_id": "9af2cf894e1e4951",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fear of death, panic, survival, hunger",
+      "text": "Fear of death, panic, survival, hunger"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.f080d91ab90644d4",
+      "_id": "f080d91ab90644d4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fear of the unknown, what is yet to come",
+      "text": "Fear of the unknown, what is yet to come"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.37cae667bfcb43d2",
+      "_id": "37cae667bfcb43d2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fear of failure, or damnation",
+      "text": "Fear of failure, or damnation"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.6fde2b1143334d57",
+      "_id": "6fde2b1143334d57",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fear of the future, or the end of the world",
+      "text": "Fear of the future, or the end of the world"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.ac09c67b2aa14673",
+      "_id": "ac09c67b2aa14673",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fear of the past, the legacy, open strings",
+      "text": "Fear of the past, the legacy, open strings"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.c5f4197ad46f4de3",
+      "_id": "c5f4197ad46f4de3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hearing voices, spirits, demons",
+      "text": "Hearing voices, spirits, demons"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.5b0365802b47489c",
+      "_id": "5b0365802b47489c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Strong belief in doing what is right",
+      "text": "Strong belief in doing what is right"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.915ce6ed9ac14b7e",
+      "_id": "915ce6ed9ac14b7e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Following orders, or a mandate",
+      "text": "Following orders, or a mandate"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.7cdab74764454052",
+      "_id": "7cdab74764454052",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Immortality or longevity, long life",
+      "text": "Immortality or longevity, long life"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.54229a7592fd43d1",
+      "_id": "54229a7592fd43d1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A need to punish, apply force",
+      "text": "A need to punish, apply force"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.119872667fb043d1",
+      "_id": "119872667fb043d1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A need to control, subjugate, dominate",
+      "text": "A need to control, subjugate, dominate"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.fc0885cde5c84f75",
+      "_id": "fc0885cde5c84f75",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A need to manipulate, lie, or deceive",
+      "text": "A need to manipulate, lie, or deceive"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.e55320d14ec44028",
+      "_id": "e55320d14ec44028",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A need to be feared",
+      "text": "A need to be feared"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.d7bd2f6dbf30474e",
+      "_id": "d7bd2f6dbf30474e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A need to be respected",
+      "text": "A need to be respected"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.36ee9cc879f04c8e",
+      "_id": "36ee9cc879f04c8e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A need to be superior",
+      "text": "A need to be superior"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.80b9f47356b84f85",
+      "_id": "80b9f47356b84f85",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A need to be powerful",
+      "text": "A need to be powerful"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.2c4673590dd94739",
+      "_id": "2c4673590dd94739",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A need to be admired",
+      "text": "A need to be admired"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.61bca8a845344058",
+      "_id": "61bca8a845344058",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A need to be followed",
+      "text": "A need to be followed"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.8896bd2d6bb14ca2",
+      "_id": "8896bd2d6bb14ca2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Corrupting influence of money",
+      "text": "Corrupting influence of money"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.de492fc6704b44ae",
+      "_id": "de492fc6704b44ae",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Corrupting influence of power",
+      "text": "Corrupting influence of power"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.5348f5d1cb01467c",
+      "_id": "5348f5d1cb01467c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Corrupting influence of ambition",
+      "text": "Corrupting influence of ambition"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.8bc13893ca284f30",
+      "_id": "8bc13893ca284f30",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Corrupting influence of materialism",
+      "text": "Corrupting influence of materialism"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.7a02e3956c98416c",
+      "_id": "7a02e3956c98416c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Corrupting influence of peer pressure",
+      "text": "Corrupting influence of peer pressure"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.77b5c3b586ef4643",
+      "_id": "77b5c3b586ef4643",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Under influence of toxic consumables",
+      "text": "Under influence of toxic consumables"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.faff13ba5b43408a",
+      "_id": "faff13ba5b43408a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Corrupted by rumors or media",
+      "text": "Corrupted by rumors or media"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.dc9bb8d6b0844e1b",
+      "_id": "dc9bb8d6b0844e1b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Corrupting by the will of the masses",
+      "text": "Corrupting by the will of the masses"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.3306c541160d49cb",
+      "_id": "3306c541160d49cb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Corrupted by a strong addiction",
+      "text": "Corrupted by a strong addiction"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.5776d90966584767",
+      "_id": "5776d90966584767",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Corrupted by a strong superstition",
+      "text": "Corrupted by a strong superstition"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.fc12ba5e5f9b4ea8",
+      "_id": "fc12ba5e5f9b4ea8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Belief in a false god, or the beyond",
+      "text": "Belief in a false god, or the beyond"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.3578451f99e446d6",
+      "_id": "3578451f99e446d6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Belief in a destructive ideology",
+      "text": "Belief in a destructive ideology"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.27bd6ba33ed14511",
+      "_id": "27bd6ba33ed14511",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Belief in a dangerous cult or organization",
+      "text": "Belief in a dangerous cult or organization"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.291b51d6a10940af",
+      "_id": "291b51d6a10940af",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Desperation, need, unjustifiable reason",
+      "text": "Desperation, need, unjustifiable reason"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.002324baa9a84147",
+      "_id": "002324baa9a84147",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Defy a prophecy, whatever the cost",
+      "text": "Defy a prophecy, whatever the cost"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.f8241b7b65814853",
+      "_id": "f8241b7b65814853",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fulfill a prophecy, whatever the cost",
+      "text": "Fulfill a prophecy, whatever the cost"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.68205721cac24442",
+      "_id": "68205721cac24442",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Compulsion, impulse, lack of control",
+      "text": "Compulsion, impulse, lack of control"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.bdc3ef66aeed43c5",
+      "_id": "bdc3ef66aeed43c5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Satisfy addiction, craving, a need",
+      "text": "Satisfy addiction, craving, a need"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.961b5156e8ab434c",
+      "_id": "961b5156e8ab434c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An attempt to escape reality",
+      "text": "An attempt to escape reality"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.c75c628124584b0d",
+      "_id": "c75c628124584b0d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An attempt to escape guilt or shame",
+      "text": "An attempt to escape guilt or shame"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.63be8f9276384583",
+      "_id": "63be8f9276384583",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An attempt to cover up a mistake",
+      "text": "An attempt to cover up a mistake"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.2da555a585bb46ee",
+      "_id": "2da555a585bb46ee",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An attempt to protect someone or something",
+      "text": "An attempt to protect someone or something"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.6befe0302a754779",
+      "_id": "6befe0302a754779",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An attempt to force conformity",
+      "text": "An attempt to force conformity"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.93dcb8fb224e4c44",
+      "_id": "93dcb8fb224e4c44",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An attempt to manipulate or exploit",
+      "text": "An attempt to manipulate or exploit"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.95a851f7d3c4426d",
+      "_id": "95a851f7d3c4426d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An attempt to gain favor or favoritism",
+      "text": "An attempt to gain favor or favoritism"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.703995a536ca40db",
+      "_id": "703995a536ca40db",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An attempt to take advantage of a target",
+      "text": "An attempt to take advantage of a target"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.d194c80ce2a342aa",
+      "_id": "d194c80ce2a342aa",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An attempt to destroy a rival or enemy",
+      "text": "An attempt to destroy a rival or enemy"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.33d814bf71de4f7d",
+      "_id": "33d814bf71de4f7d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An attempt to satisfy a warped sense of justice",
+      "text": "An attempt to satisfy a warped sense of justice"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.c6f323d138a4460b",
+      "_id": "c6f323d138a4460b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An attempt to remain anonymous",
+      "text": "An attempt to remain anonymous"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.061bca1265e747c6",
+      "_id": "061bca1265e747c6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An attempt to gain notoriety or popularity",
+      "text": "An attempt to gain notoriety or popularity"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.936b119bb6004507",
+      "_id": "936b119bb6004507",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An attempt to become infamous",
+      "text": "An attempt to become infamous"
+    },
+    {
+      "_originalKey": "!tables.results!23560b0d8801451c.36440d15dc9b4bf5",
+      "_id": "36440d15dc9b4bf5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An attempt to vent anger, or frustration",
+      "text": "An attempt to vent anger, or frustration"
+    }
+  ]
+}

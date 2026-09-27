@@ -48,6 +48,19 @@
   font-size: 0.95em;
 }
 
+.dmemu-gen-combos {
+  margin-bottom: 0.5rem;
+}
+
+.dmemu-gen-single-label {
+  margin: 0.5rem 0 0.35rem;
+}
+
+.dmemu-oracle-chat .dmemu-gen-part {
+  margin: 0.25rem 0 0;
+  font-size: 0.95em;
+}
+
 .dmemu-oracle-chat .dmemu-oracle-answer {
   font-size: 1.1em;
 }

@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Plot hook",
+  "_id": "335dd13284734fee",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> What kicks the story or a side quest into motion.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "85043767445c47ae",
+    "6d8877e921b047d8",
+    "00a74e1612634272",
+    "11235e77f7504f52",
+    "11fb09c9f1e7422a",
+    "f50885f9d36a4015",
+    "7c4b845b11a44c57",
+    "5dea7b892d4444a2",
+    "b13a02a4ff224b83",
+    "d9fd403e3d21417d",
+    "5beb5ef9abab403f",
+    "12276f4a7c6e4546",
+    "d1c177a5fed540ea",
+    "c0436c7ed83548ad",
+    "84a1829745be45ef",
+    "2b29c084a15d414f",
+    "472a267de009422c",
+    "0d9d31527ad3418a",
+    "2a1b756577d94ea5",
+    "5a9183a0457b49ae"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!335dd13284734fee",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.85043767445c47ae",
+      "_id": "85043767445c47ae",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Someone made a big sacrifice today",
+      "text": "Someone made a big sacrifice today"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.6d8877e921b047d8",
+      "_id": "6d8877e921b047d8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Someone well connected makes an offer",
+      "text": "Someone well connected makes an offer"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.00a74e1612634272",
+      "_id": "00a74e1612634272",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Conflict reached a peak tension state",
+      "text": "Conflict reached a peak tension state"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.11235e77f7504f52",
+      "_id": "11235e77f7504f52",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Someone in power gives you an order",
+      "text": "Someone in power gives you an order"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.11fb09c9f1e7422a",
+      "_id": "11fb09c9f1e7422a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "It’s a life-or-death matter, you in danger",
+      "text": "It’s a life-or-death matter, you in danger"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.f50885f9d36a4015",
+      "_id": "f50885f9d36a4015",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Formal request, a petition, royal mandate",
+      "text": "Formal request, a petition, royal mandate"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.7c4b845b11a44c57",
+      "_id": "7c4b845b11a44c57",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Invited to a private meeting, it’s important",
+      "text": "Invited to a private meeting, it’s important"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.5dea7b892d4444a2",
+      "_id": "5dea7b892d4444a2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "You are being watched, or followed",
+      "text": "You are being watched, or followed"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.b13a02a4ff224b83",
+      "_id": "b13a02a4ff224b83",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "What happened became now personal",
+      "text": "What happened became now personal"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.d9fd403e3d21417d",
+      "_id": "d9fd403e3d21417d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Terrible event related to the world truths",
+      "text": "Terrible event related to the world truths"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.5beb5ef9abab403f",
+      "_id": "5beb5ef9abab403f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A finding that could change everything",
+      "text": "A finding that could change everything"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.12276f4a7c6e4546",
+      "_id": "12276f4a7c6e4546",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A desperate or urgent request for help",
+      "text": "A desperate or urgent request for help"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.d1c177a5fed540ea",
+      "_id": "d1c177a5fed540ea",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Condition to join a faction, or faction ask",
+      "text": "Condition to join a faction, or faction ask"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.c0436c7ed83548ad",
+      "_id": "c0436c7ed83548ad",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Found a map or anonymous instructions",
+      "text": "Found a map or anonymous instructions"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.84a1829745be45ef",
+      "_id": "84a1829745be45ef",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "You were in the wrong place and time",
+      "text": "You were in the wrong place and time"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.2b29c084a15d414f",
+      "_id": "2b29c084a15d414f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A paid job, there’s a big reward involved",
+      "text": "A paid job, there’s a big reward involved"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.472a267de009422c",
+      "_id": "472a267de009422c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Family petition, yours, or someone else’s",
+      "text": "Family petition, yours, or someone else’s"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.0d9d31527ad3418a",
+      "_id": "0d9d31527ad3418a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "You are attacked, or directly endangered",
+      "text": "You are attacked, or directly endangered"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.2a1b756577d94ea5",
+      "_id": "2a1b756577d94ea5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Found a corpse, crime scene, or witness",
+      "text": "Found a corpse, crime scene, or witness"
+    },
+    {
+      "_originalKey": "!tables.results!335dd13284734fee.5a9183a0457b49ae",
+      "_id": "5a9183a0457b49ae",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "There is a conflict, you have to pick sides",
+      "text": "There is a conflict, you have to pick sides"
+    }
+  ]
+}

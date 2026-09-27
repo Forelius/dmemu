@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Location content",
+  "_id": "c78323fc95364760",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> What you might find inside or around the place.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "b0f0aa90d7fb4d37",
+    "fb11d1ccc432482f",
+    "4c2eced4570e4450",
+    "dd9941ae45fd4cf2",
+    "c7c17880d617418c",
+    "61e2434323914878",
+    "c5a2e5b63496425b",
+    "a16a855588304e54",
+    "4b9e784900be4bfd",
+    "0dcfae316f7e4f66",
+    "2a1c84ae7ee94a13",
+    "4cb62cd9a7494836",
+    "8c0107b785324dce",
+    "c279e48a12774870",
+    "5c9447857abc4ed4",
+    "881dda87081147a2",
+    "6d84f3ae01f94da1",
+    "30adbf10f0ee435f",
+    "e713d6f76583482c",
+    "5ea2c1e90e4f44bb"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!c78323fc95364760",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.b0f0aa90d7fb4d37",
+      "_id": "b0f0aa90d7fb4d37",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Enemies, beasts, sentient beings, fauna",
+      "text": "Enemies, beasts, sentient beings, fauna"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.fb11d1ccc432482f",
+      "_id": "fb11d1ccc432482f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Organic forms, fungus, plants, flora",
+      "text": "Organic forms, fungus, plants, flora"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.4c2eced4570e4450",
+      "_id": "4c2eced4570e4450",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Supplies, resources, food, water, energy",
+      "text": "Supplies, resources, food, water, energy"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.dd9941ae45fd4cf2",
+      "_id": "dd9941ae45fd4cf2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Traps, dangers, hazards, harmful things",
+      "text": "Traps, dangers, hazards, harmful things"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.c7c17880d617418c",
+      "_id": "c7c17880d617418c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Knowledge, literature, intel, data, information",
+      "text": "Knowledge, literature, intel, data, information"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.61e2434323914878",
+      "_id": "61e2434323914878",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Weapons, defense, armory, ammunition",
+      "text": "Weapons, defense, armory, ammunition"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.c5a2e5b63496425b",
+      "_id": "c5a2e5b63496425b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Wealth, valuables, treasure, riches, possession",
+      "text": "Wealth, valuables, treasure, riches, possession"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.a16a855588304e54",
+      "_id": "a16a855588304e54",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Clues, leads, a map, coordinates, puzzle, riddle",
+      "text": "Clues, leads, a map, coordinates, puzzle, riddle"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.4b9e784900be4bfd",
+      "_id": "4b9e784900be4bfd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Tools, crafting, batteries, material, ingredients",
+      "text": "Tools, crafting, batteries, material, ingredients"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.0dcfae316f7e4f66",
+      "_id": "0dcfae316f7e4f66",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Healing, potions, herbs, medicine, pharmacy",
+      "text": "Healing, potions, herbs, medicine, pharmacy"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.2a1c84ae7ee94a13",
+      "_id": "2a1c84ae7ee94a13",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Magic, wonder, weird, unexpected, esoteric",
+      "text": "Magic, wonder, weird, unexpected, esoteric"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.4cb62cd9a7494836",
+      "_id": "4cb62cd9a7494836",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Technology, plans, design, robotics, implants",
+      "text": "Technology, plans, design, robotics, implants"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.8c0107b785324dce",
+      "_id": "8c0107b785324dce",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Research material, experiments, interrogation",
+      "text": "Research material, experiments, interrogation"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.c279e48a12774870",
+      "_id": "c279e48a12774870",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Corpses, dead bodies, leftovers, remnants",
+      "text": "Corpses, dead bodies, leftovers, remnants"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.5c9447857abc4ed4",
+      "_id": "5c9447857abc4ed4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Art, music, smells, tastes, sound, noise, paint",
+      "text": "Art, music, smells, tastes, sound, noise, paint"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.881dda87081147a2",
+      "_id": "881dda87081147a2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Religious artifacts, symbols, offerings, rituals",
+      "text": "Religious artifacts, symbols, offerings, rituals"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.6d84f3ae01f94da1",
+      "_id": "6d84f3ae01f94da1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Darkness, invisible, hard to see, fuzzy, nothing",
+      "text": "Darkness, invisible, hard to see, fuzzy, nothing"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.30adbf10f0ee435f",
+      "_id": "30adbf10f0ee435f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "People, refugees, social, networking, comms",
+      "text": "People, refugees, social, networking, comms"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.e713d6f76583482c",
+      "_id": "e713d6f76583482c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Machinery, equipment, construction, buildings",
+      "text": "Machinery, equipment, construction, buildings"
+    },
+    {
+      "_originalKey": "!tables.results!c78323fc95364760.5ea2c1e90e4f44bb",
+      "_id": "5ea2c1e90e4f44bb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Nature, rocks, dust, flood, wind, fog, dirt",
+      "text": "Nature, rocks, dust, flood, wind, fog, dirt"
+    }
+  ]
+}

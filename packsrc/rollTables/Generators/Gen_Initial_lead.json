@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Initial lead",
+  "_id": "97692e82c3f9406c",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> A concrete first scene or clue to begin from.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "02d26217de9542e6",
+    "2462bc28becd4230",
+    "5bb4ec7063204e45",
+    "5abbb7c7f37e48cc",
+    "358429ce6eaa4cbf",
+    "86e5dc8301ed4cbe",
+    "e18552a956b14abb",
+    "edcf77b4af1642db",
+    "e7a29c11346342c9",
+    "6921f3db284c4e2f",
+    "c5d50716ab994799",
+    "9b0197e9c363496f",
+    "d59699dc84cf454f",
+    "9067a33df1264d02",
+    "1b5d8e826e424e55",
+    "b0156871ddd1470a",
+    "a5ecff2c09ea46e6",
+    "d216ce58b0964411",
+    "3623edbe550a46dd",
+    "ee7626855b3e4ed0"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!97692e82c3f9406c",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.02d26217de9542e6",
+      "_id": "02d26217de9542e6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Someone died recently, a crime scene",
+      "text": "Someone died recently, a crime scene"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.2462bc28becd4230",
+      "_id": "2462bc28becd4230",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Coordinates of a strategic location given",
+      "text": "Coordinates of a strategic location given"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.5bb4ec7063204e45",
+      "_id": "5bb4ec7063204e45",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Someone in danger to help and talk to",
+      "text": "Someone in danger to help and talk to"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.5abbb7c7f37e48cc",
+      "_id": "5abbb7c7f37e48cc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "There is a source of information nearby",
+      "text": "There is a source of information nearby"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.358429ce6eaa4cbf",
+      "_id": "358429ce6eaa4cbf",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Relevant people about to meet secretly",
+      "text": "Relevant people about to meet secretly"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.86e5dc8301ed4cbe",
+      "_id": "86e5dc8301ed4cbe",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A location about to be targeted by enemy",
+      "text": "A location about to be targeted by enemy"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.e18552a956b14abb",
+      "_id": "e18552a956b14abb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An unhelpful witness who won’t talk",
+      "text": "An unhelpful witness who won’t talk"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.edcf77b4af1642db",
+      "_id": "edcf77b4af1642db",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Official evidence is handed over to you",
+      "text": "Official evidence is handed over to you"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.e7a29c11346342c9",
+      "_id": "e7a29c11346342c9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Investigate location of a recent event",
+      "text": "Investigate location of a recent event"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.6921f3db284c4e2f",
+      "_id": "6921f3db284c4e2f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Enemy abandoned or changed location",
+      "text": "Enemy abandoned or changed location"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.c5d50716ab994799",
+      "_id": "c5d50716ab994799",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Enemy next move has been revealed",
+      "text": "Enemy next move has been revealed"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.9b0197e9c363496f",
+      "_id": "9b0197e9c363496f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Something out of control to be stopped",
+      "text": "Something out of control to be stopped"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.d59699dc84cf454f",
+      "_id": "d59699dc84cf454f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "We have a prisoner who won’t talk",
+      "text": "We have a prisoner who won’t talk"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.9067a33df1264d02",
+      "_id": "9067a33df1264d02",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An announcement seems contradictory",
+      "text": "An announcement seems contradictory"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.1b5d8e826e424e55",
+      "_id": "1b5d8e826e424e55",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Someone disappeared, or went missing",
+      "text": "Someone disappeared, or went missing"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.b0156871ddd1470a",
+      "_id": "b0156871ddd1470a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Track an agent, thief, escaping prisoner",
+      "text": "Track an agent, thief, escaping prisoner"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.a5ecff2c09ea46e6",
+      "_id": "a5ecff2c09ea46e6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "We received a letter, but it is incomplete",
+      "text": "We received a letter, but it is incomplete"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.d216ce58b0964411",
+      "_id": "d216ce58b0964411",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Confirmed the location of a key object",
+      "text": "Confirmed the location of a key object"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.3623edbe550a46dd",
+      "_id": "3623edbe550a46dd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Someone is willing to betray our enemy",
+      "text": "Someone is willing to betray our enemy"
+    },
+    {
+      "_originalKey": "!tables.results!97692e82c3f9406c.ee7626855b3e4ed0",
+      "_id": "ee7626855b3e4ed0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An enemy weakness has been revealed",
+      "text": "An enemy weakness has been revealed"
+    }
+  ]
+}

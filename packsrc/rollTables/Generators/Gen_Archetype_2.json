@@ -1,0 +1,2129 @@
+{
+  "folder": null,
+  "name": "Generator — Character archetype 2",
+  "_id": "bcec53f7d7a3496c",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> Another set of stock-character archetypes to adapt to your setting.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "e3d9e977122d41b9",
+    "d49d2371d3724543",
+    "ee77f925f1854fe7",
+    "6f6462578bb34224",
+    "6b42d37f2b604d6e",
+    "9a77c95e90cf46b2",
+    "28a9285330d34ab8",
+    "c9e217f082c147ac",
+    "8144c470792a4064",
+    "7f18709233b242bc",
+    "767260551c194e8e",
+    "53b03d698c4a476d",
+    "0a599df88aef45b0",
+    "c6e6af7393e24ac7",
+    "d07bd4c9f6d841fa",
+    "5ef43b5cd2ec4db1",
+    "f8da8b02fd384bc3",
+    "e55cd002288d4f2b",
+    "49ed988de7454421",
+    "27cb54d9e69f4a4a",
+    "ddefb89d851f48b2",
+    "798fa6f7adee4ad1",
+    "354e26105b0b4625",
+    "f04d32df1aa542b3",
+    "cb64841d34c34477",
+    "907a11d5b9124ee4",
+    "2f49ec82eb4c433c",
+    "5bfdf83c2fb14085",
+    "99ef0a77b0d647be",
+    "6dca130cfa32485b",
+    "11a71daa472f43b5",
+    "a1207b2c313346ab",
+    "e332b5371f9c4768",
+    "83f5314a28ff4500",
+    "d9b294e914bb47c7",
+    "8e72072fd38a4cef",
+    "f1b366f3c4de4bab",
+    "990d810f511a40bf",
+    "65ce046fd00440a7",
+    "47cddd6b25684386",
+    "b9411bc9617e4330",
+    "f10c8805baf34692",
+    "9eb20cb22ec4447d",
+    "21749826f39e4763",
+    "e6a8c698b4fe49b8",
+    "7b4b32c4d341421f",
+    "cf4cd428e6ee4c1c",
+    "71f348b2eebd4ef1",
+    "d9a679daa2a642f2",
+    "06e489a1a7984e91",
+    "2f79ec4c73554ce4",
+    "19473bf69f5b4497",
+    "c023a9206b614780",
+    "b07f57efda81401e",
+    "c23a572c34b64aca",
+    "555367f5e95d4be8",
+    "5890f446e8af479d",
+    "c584f0e3a7f9473e",
+    "74749840f9d84382",
+    "7997f5b5f49c49ea",
+    "646e754f42c04cec",
+    "eb53105306194afc",
+    "10640ba30973442e",
+    "a55b6ac6677e4927",
+    "3de609e81fea4d60",
+    "51c9e7a841584209",
+    "d1083778614841a5",
+    "bf92e16a972d47b0",
+    "65cead1684384a57",
+    "b89affb3450f4c13",
+    "500a370ca37e40ed",
+    "dfdef624eb0248f8",
+    "1bddd048cddf46c7",
+    "aab7293471354268",
+    "ffd3f007145f45c3",
+    "d3dcdebddaac4fe5",
+    "0b83bbe0028141ac",
+    "6eb6f42527bf4e91",
+    "53822abff658403e",
+    "e01a92846da24f91",
+    "c5d1815e295740e2",
+    "086ef3cad31e4e5c",
+    "e2b6fa04b1f1465d",
+    "b1b9252b293f4f71",
+    "7683ffcc02d44365",
+    "6895528db7894a39",
+    "1763c1da51a144d8",
+    "a9da816ed52d4379",
+    "509dcef9e47544fb",
+    "67c0e17d47794402",
+    "7065835fb3724753",
+    "a5c44b150a9e4aae",
+    "bea0fd7efda14cb3",
+    "87ee8ff8d98542ee",
+    "91fa4426f5a141f0",
+    "d9ed80841f2f430b",
+    "dc063b5de57842b8",
+    "3cc5737613f14b6a",
+    "aa7b8e6061af41f4",
+    "9263d595256544d8"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d100",
+  "sort": 0,
+  "_originalKey": "!tables!bcec53f7d7a3496c",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.e3d9e977122d41b9",
+      "_id": "e3d9e977122d41b9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Liam Neeson: He will find you and he will kill you",
+      "text": "Liam Neeson: He will find you and he will kill you"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.d49d2371d3724543",
+      "_id": "d49d2371d3724543",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Liar: Character who consistently can’t tell the truth",
+      "text": "Liar: Character who consistently can’t tell the truth"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.ee77f925f1854fe7",
+      "_id": "ee77f925f1854fe7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Living Legend: One of extreme fame and influence",
+      "text": "Living Legend: One of extreme fame and influence"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.6f6462578bb34224",
+      "_id": "6f6462578bb34224",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Logician: Runs purely off of reason and scoffs emotion",
+      "text": "Logician: Runs purely off of reason and scoffs emotion"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.6b42d37f2b604d6e",
+      "_id": "6b42d37f2b604d6e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Loose Cannon: Law bringer off the rails, taking action",
+      "text": "Loose Cannon: Law bringer off the rails, taking action"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.9a77c95e90cf46b2",
+      "_id": "9a77c95e90cf46b2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Lovable Pervert: Perverted character still in good light",
+      "text": "Lovable Pervert: Perverted character still in good light"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.28a9285330d34ab8",
+      "_id": "28a9285330d34ab8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Love Interest: Would do anything to win them over",
+      "text": "Love Interest: Would do anything to win them over"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.c9e217f082c147ac",
+      "_id": "c9e217f082c147ac",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Macho Action Guy: Strong, good-looking, good fighter",
+      "text": "Macho Action Guy: Strong, good-looking, good fighter"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.8144c470792a4064",
+      "_id": "8144c470792a4064",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mad Scientist: Does unconventional experiments",
+      "text": "Mad Scientist: Does unconventional experiments"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.7f18709233b242bc",
+      "_id": "7f18709233b242bc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mage/Shaman: Magical powers coming in aid",
+      "text": "Mage/Shaman: Magical powers coming in aid"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.767260551c194e8e",
+      "_id": "767260551c194e8e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Maiden: Lovely woman with purity and innocence",
+      "text": "Maiden: Lovely woman with purity and innocence"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.53b03d698c4a476d",
+      "_id": "53b03d698c4a476d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Martyr: Willing to die for their beliefs or cause",
+      "text": "Martyr: Willing to die for their beliefs or cause"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.0a599df88aef45b0",
+      "_id": "0a599df88aef45b0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Masked Superhero: Doesn’t want their identity known",
+      "text": "Masked Superhero: Doesn’t want their identity known"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.c6e6af7393e24ac7",
+      "_id": "c6e6af7393e24ac7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Masochist: Engages pain and suffering. Visionary?",
+      "text": "Masochist: Engages pain and suffering. Visionary?"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.d07bd4c9f6d841fa",
+      "_id": "d07bd4c9f6d841fa",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Maverick: Independent loner who prefers to be alone",
+      "text": "Maverick: Independent loner who prefers to be alone"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.5ef43b5cd2ec4db1",
+      "_id": "5ef43b5cd2ec4db1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mentor: An often older and wise supportive person",
+      "text": "Mentor: An often older and wise supportive person"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.f8da8b02fd384bc3",
+      "_id": "f8da8b02fd384bc3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Messenger: A bearer of truth or news, good or bad",
+      "text": "Messenger: A bearer of truth or news, good or bad"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.e55cd002288d4f2b",
+      "_id": "e55cd002288d4f2b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Messiah: A liberator of the oppressed and believers",
+      "text": "Messiah: A liberator of the oppressed and believers"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.49ed988de7454421",
+      "_id": "49ed988de7454421",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Momma’s Boy: Will listen to anything his mom says",
+      "text": "Momma’s Boy: Will listen to anything his mom says"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.27cb54d9e69f4a4a",
+      "_id": "27cb54d9e69f4a4a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Monk: Tries to act in accordance with their faith",
+      "text": "Monk: Tries to act in accordance with their faith"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.ddefb89d851f48b2",
+      "_id": "ddefb89d851f48b2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Monster: Scary creature or person who poses a threat",
+      "text": "Monster: Scary creature or person who poses a threat"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.798fa6f7adee4ad1",
+      "_id": "798fa6f7adee4ad1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Matriarch: Nurturing woman offers guidance. But evil?",
+      "text": "Matriarch: Nurturing woman offers guidance. But evil?"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.354e26105b0b4625",
+      "_id": "354e26105b0b4625",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mr. Fix It: Insists he can fix anything, physical or not",
+      "text": "Mr. Fix It: Insists he can fix anything, physical or not"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.f04d32df1aa542b3",
+      "_id": "f04d32df1aa542b3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Narrator: Storyteller, omnipresent, shares wisdom",
+      "text": "Narrator: Storyteller, omnipresent, shares wisdom"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.cb64841d34c34477",
+      "_id": "cb64841d34c34477",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Nature Lover: Loves to be in natural places, affinity",
+      "text": "Nature Lover: Loves to be in natural places, affinity"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.907a11d5b9124ee4",
+      "_id": "907a11d5b9124ee4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "“Nice Guy”: Selfish guy who swears he’s nice but isn’t",
+      "text": "“Nice Guy”: Selfish guy who swears he’s nice but isn’t"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.2f49ec82eb4c433c",
+      "_id": "2f49ec82eb4c433c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Non-Conformist: Rebel who does not believe in norms",
+      "text": "Non-Conformist: Rebel who does not believe in norms"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.5bfdf83c2fb14085",
+      "_id": "5bfdf83c2fb14085",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Outcast: One who seems to never quite fit anywhere",
+      "text": "Outcast: One who seems to never quite fit anywhere"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.99ef0a77b0d647be",
+      "_id": "99ef0a77b0d647be",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Out-of-Towner: Mysterious stranger who is outsider",
+      "text": "Out-of-Towner: Mysterious stranger who is outsider"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.6dca130cfa32485b",
+      "_id": "6dca130cfa32485b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Overly Patient Wife: Puts up with difficult spouse",
+      "text": "Overly Patient Wife: Puts up with difficult spouse"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.11a71daa472f43b5",
+      "_id": "11a71daa472f43b5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Conspiracy Theorist: Nothing is never a coincidence",
+      "text": "Conspiracy Theorist: Nothing is never a coincidence"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.a1207b2c313346ab",
+      "_id": "a1207b2c313346ab",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Patriarch: An authoritative man at the head of a family",
+      "text": "Patriarch: An authoritative man at the head of a family"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.e332b5371f9c4768",
+      "_id": "e332b5371f9c4768",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Peacemaker: To be the voice of peace and reason",
+      "text": "Peacemaker: To be the voice of peace and reason"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.83f5314a28ff4500",
+      "_id": "83f5314a28ff4500",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Perfectionist: They can’t let it go, stronger than them",
+      "text": "Perfectionist: They can’t let it go, stronger than them"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.d9b294e914bb47c7",
+      "_id": "d9b294e914bb47c7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Perpetual Traveler: Wandering in search of something",
+      "text": "Perpetual Traveler: Wandering in search of something"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.8e72072fd38a4cef",
+      "_id": "8e72072fd38a4cef",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Philosopher: Asks profound questions about things",
+      "text": "Philosopher: Asks profound questions about things"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.f1b366f3c4de4bab",
+      "_id": "f1b366f3c4de4bab",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Pinning Friend: Who wants to be more than friends",
+      "text": "Pinning Friend: Who wants to be more than friends"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.990d810f511a40bf",
+      "_id": "990d810f511a40bf",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Predator: Willing to feed on any who cross their path",
+      "text": "Predator: Willing to feed on any who cross their path"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.65ce046fd00440a7",
+      "_id": "65ce046fd00440a7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Prey: A victim of a predator, sole focus is to survive",
+      "text": "Prey: A victim of a predator, sole focus is to survive"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.47cddd6b25684386",
+      "_id": "47cddd6b25684386",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Prince on White Horse: Rescues a damsel in distress",
+      "text": "Prince on White Horse: Rescues a damsel in distress"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.b9411bc9617e4330",
+      "_id": "b9411bc9617e4330",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Psychopath: No sense of morality or duty to others",
+      "text": "Psychopath: No sense of morality or duty to others"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.f10c8805baf34692",
+      "_id": "f10c8805baf34692",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Puppeteer: Pulling strings behind the scenes",
+      "text": "Puppeteer: Pulling strings behind the scenes"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.9eb20cb22ec4447d",
+      "_id": "9eb20cb22ec4447d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rags to Riches: Poor who comes into money by luck",
+      "text": "Rags to Riches: Poor who comes into money by luck"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.21749826f39e4763",
+      "_id": "21749826f39e4763",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reluctant Hero: Never wanted to become important",
+      "text": "Reluctant Hero: Never wanted to become important"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.e6a8c698b4fe49b8",
+      "_id": "e6a8c698b4fe49b8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reluctant Monster: Doesn’t want to be a monster",
+      "text": "Reluctant Monster: Doesn’t want to be a monster"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.7b4b32c4d341421f",
+      "_id": "7b4b32c4d341421f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rich Woman: With riches and influence and show it",
+      "text": "Rich Woman: With riches and influence and show it"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.cf4cd428e6ee4c1c",
+      "_id": "cf4cd428e6ee4c1c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rightful Heir: Child who shrugs off their royal roots",
+      "text": "Rightful Heir: Child who shrugs off their royal roots"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.71f348b2eebd4ef1",
+      "_id": "71f348b2eebd4ef1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rightful King: Confronts an evil or illegitimate ruler",
+      "text": "Rightful King: Confronts an evil or illegitimate ruler"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.d9a679daa2a642f2",
+      "_id": "d9a679daa2a642f2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Robin Hood: Takes from the rich to give to the poor",
+      "text": "Robin Hood: Takes from the rich to give to the poor"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.06e489a1a7984e91",
+      "_id": "06e489a1a7984e91",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Romantic Runner-Up: Left behind after love triangle",
+      "text": "Romantic Runner-Up: Left behind after love triangle"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.2f79ec4c73554ce4",
+      "_id": "2f79ec4c73554ce4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Royal Usurper: Taken the throne illegitimately",
+      "text": "Royal Usurper: Taken the throne illegitimately"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.19473bf69f5b4497",
+      "_id": "19473bf69f5b4497",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Savant: Someone who is exceptionally talented",
+      "text": "Savant: Someone who is exceptionally talented"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.c023a9206b614780",
+      "_id": "c023a9206b614780",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Scapegoat: One blamed for another’s actions",
+      "text": "Scapegoat: One blamed for another’s actions"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.b07f57efda81401e",
+      "_id": "b07f57efda81401e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Scrooge: Distant or outright aggressive to others",
+      "text": "Scrooge: Distant or outright aggressive to others"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.c23a572c34b64aca",
+      "_id": "c23a572c34b64aca",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Secretive: Mysterious and has an unsaid secret",
+      "text": "Secretive: Mysterious and has an unsaid secret"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.555367f5e95d4be8",
+      "_id": "555367f5e95d4be8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Servant/Slave: To serve against their own will",
+      "text": "Servant/Slave: To serve against their own will"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.5890f446e8af479d",
+      "_id": "5890f446e8af479d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Shapeshifter: Not what they appear; dangerous",
+      "text": "Shapeshifter: Not what they appear; dangerous"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.c584f0e3a7f9473e",
+      "_id": "c584f0e3a7f9473e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sherlock Holmes Type: Solve mysteries skills",
+      "text": "Sherlock Holmes Type: Solve mysteries skills"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.74749840f9d84382",
+      "_id": "74749840f9d84382",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sickly: Constantly frail, or weak, in a struggle",
+      "text": "Sickly: Constantly frail, or weak, in a struggle"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.7997f5b5f49c49ea",
+      "_id": "7997f5b5f49c49ea",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Skeptic: Rejects or unconvinced of certain beliefs",
+      "text": "Skeptic: Rejects or unconvinced of certain beliefs"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.646e754f42c04cec",
+      "_id": "646e754f42c04cec",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sleazy Politician: Engage in unethical practices",
+      "text": "Sleazy Politician: Engage in unethical practices"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.eb53105306194afc",
+      "_id": "eb53105306194afc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Soubrette: Young, frivolous and flirtatious woman",
+      "text": "Soubrette: Young, frivolous and flirtatious woman"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.10640ba30973442e",
+      "_id": "10640ba30973442e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Southern Belle: Heavy accent, flirtatious manners",
+      "text": "Southern Belle: Heavy accent, flirtatious manners"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.a55b6ac6677e4927",
+      "_id": "a55b6ac6677e4927",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Role Model: Serves as a good parental figure",
+      "text": "Role Model: Serves as a good parental figure"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.3de609e81fea4d60",
+      "_id": "3de609e81fea4d60",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Crossed Lovers: Romantic pair doomed to fail",
+      "text": "Crossed Lovers: Romantic pair doomed to fail"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.51c9e7a841584209",
+      "_id": "51c9e7a841584209",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Starving Artist: Poor but with passion and talent",
+      "text": "Starving Artist: Poor but with passion and talent"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.d1083778614841a5",
+      "_id": "d1083778614841a5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Straight Man: Serious, makes the fool look worse",
+      "text": "Straight Man: Serious, makes the fool look worse"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.bf92e16a972d47b0",
+      "_id": "bf92e16a972d47b0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Student: Always trying to learn new things",
+      "text": "Student: Always trying to learn new things"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.65cead1684384a57",
+      "_id": "65cead1684384a57",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Stupid Muscle: Little intelligence but helpful",
+      "text": "Stupid Muscle: Little intelligence but helpful"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.b89affb3450f4c13",
+      "_id": "b89affb3450f4c13",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Super Soldier: Engineered to be clearly superior",
+      "text": "Super Soldier: Engineered to be clearly superior"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.500a370ca37e40ed",
+      "_id": "500a370ca37e40ed",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Surprise Genius: Unexpected to displays brilliance",
+      "text": "Surprise Genius: Unexpected to displays brilliance"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.dfdef624eb0248f8",
+      "_id": "dfdef624eb0248f8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Survivalist: Has great survival skills and training",
+      "text": "Survivalist: Has great survival skills and training"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.1bddd048cddf46c7",
+      "_id": "1bddd048cddf46c7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Survivor: Somehow survives against any odds",
+      "text": "Survivor: Somehow survives against any odds"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.aab7293471354268",
+      "_id": "aab7293471354268",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Thrill-Seeker: They’re here for a good short time",
+      "text": "Thrill-Seeker: They’re here for a good short time"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.ffd3f007145f45c3",
+      "_id": "ffd3f007145f45c3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Time Traveler’s Wife: A love beyond time/space",
+      "text": "Time Traveler’s Wife: A love beyond time/space"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.d3dcdebddaac4fe5",
+      "_id": "d3dcdebddaac4fe5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Tortured Superhero: Fights because of a tragedy",
+      "text": "Tortured Superhero: Fights because of a tragedy"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.0b83bbe0028141ac",
+      "_id": "0b83bbe0028141ac",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Town Drunk: Instantly recognizable to everyone",
+      "text": "Town Drunk: Instantly recognizable to everyone"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.6eb6f42527bf4e91",
+      "_id": "6eb6f42527bf4e91",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Traditionalist: They would rather live in the past",
+      "text": "Traditionalist: They would rather live in the past"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.53822abff658403e",
+      "_id": "53822abff658403e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Tragic Hero: Hero with a tragic flaw that goes bad",
+      "text": "Tragic Hero: Hero with a tragic flaw that goes bad"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.e01a92846da24f91",
+      "_id": "e01a92846da24f91",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Trickster: Plays tricks and disobeys conventions",
+      "text": "Trickster: Plays tricks and disobeys conventions"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.c5d1815e295740e2",
+      "_id": "c5d1815e295740e2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Troubled Teenager: Rebellious with a rough past",
+      "text": "Troubled Teenager: Rebellious with a rough past"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.086ef3cad31e4e5c",
+      "_id": "086ef3cad31e4e5c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Truth Seeker: Devoted to finding either a truth",
+      "text": "Truth Seeker: Devoted to finding either a truth"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.e2b6fa04b1f1465d",
+      "_id": "e2b6fa04b1f1465d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Troubled Vet: Veteran who suffers war effects",
+      "text": "Troubled Vet: Veteran who suffers war effects"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.b1b9252b293f4f71",
+      "_id": "b1b9252b293f4f71",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Turncoat: Potentially a traitor, switches sides",
+      "text": "Turncoat: Potentially a traitor, switches sides"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.7683ffcc02d44365",
+      "_id": "7683ffcc02d44365",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Tyrant: Rules with an iron fist, careless to others",
+      "text": "Tyrant: Rules with an iron fist, careless to others"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.6895528db7894a39",
+      "_id": "6895528db7894a39",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Henchman: Serves and follow a person of power",
+      "text": "Henchman: Serves and follow a person of power"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.1763c1da51a144d8",
+      "_id": "1763c1da51a144d8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unfortunate Orphan: Lost family in childhood",
+      "text": "Unfortunate Orphan: Lost family in childhood"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.a9da816ed52d4379",
+      "_id": "a9da816ed52d4379",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unknown Threat: Lurking in the shadows",
+      "text": "Unknown Threat: Lurking in the shadows"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.509dcef9e47544fb",
+      "_id": "509dcef9e47544fb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unlikely Hero: Everyday person forced to act",
+      "text": "Unlikely Hero: Everyday person forced to act"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.67c0e17d47794402",
+      "_id": "67c0e17d47794402",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Vampire: Preys on blood of others (literally or not)",
+      "text": "Vampire: Preys on blood of others (literally or not)"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.7065835fb3724753",
+      "_id": "7065835fb3724753",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Vigilante: Takes justice into their own hands",
+      "text": "Vigilante: Takes justice into their own hands"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.a5c44b150a9e4aae",
+      "_id": "a5c44b150a9e4aae",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Visionary: Strives for change despite odds",
+      "text": "Visionary: Strives for change despite odds"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.bea0fd7efda14cb3",
+      "_id": "bea0fd7efda14cb3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Warrior: Defined by their courage and strength",
+      "text": "Warrior: Defined by their courage and strength"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.87ee8ff8d98542ee",
+      "_id": "87ee8ff8d98542ee",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Wannabe Hero: Looks up to an actual hero",
+      "text": "Wannabe Hero: Looks up to an actual hero"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.91fa4426f5a141f0",
+      "_id": "91fa4426f5a141f0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Good Extremist: Goes too far in the name of good",
+      "text": "Good Extremist: Goes too far in the name of good"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.d9ed80841f2f430b",
+      "_id": "d9ed80841f2f430b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Whiskey Priest: Do as he says, not as he does",
+      "text": "Whiskey Priest: Do as he says, not as he does"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.dc063b5de57842b8",
+      "_id": "dc063b5de57842b8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Wicked Stepmother: The one that favors their kid",
+      "text": "Wicked Stepmother: The one that favors their kid"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.3cc5737613f14b6a",
+      "_id": "3cc5737613f14b6a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Wicked Witch: Evil matriarch using foul magic",
+      "text": "Wicked Witch: Evil matriarch using foul magic"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.aa7b8e6061af41f4",
+      "_id": "aa7b8e6061af41f4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Wise Mentor: Wise and sharp teacher figure",
+      "text": "Wise Mentor: Wise and sharp teacher figure"
+    },
+    {
+      "_originalKey": "!tables.results!bcec53f7d7a3496c.9263d595256544d8",
+      "_id": "9263d595256544d8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Workaholic: Obsessed with work; has to be",
+      "text": "Workaholic: Obsessed with work; has to be"
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Creature behavior",
+  "_id": "b9585f51ed7f40d4",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> How the creature typically acts or thinks.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "ac56a7adada14097",
+    "c7296ae30c0448b3",
+    "8e536abf62b747fc",
+    "e3af6e27e16148a1",
+    "bca95e9dabff482f",
+    "1c3e7514382f43fb",
+    "2addbf532f25448c",
+    "101ea8e3f8d34175",
+    "38f6e20ee4c741a8",
+    "b239fe32c17c44db",
+    "c73ba44b0d3f4665",
+    "21e6afca034f4d41",
+    "21777aee951d4bdb",
+    "ce8154f1446f46b0",
+    "bc4fa6692b1145c6",
+    "ee9bdc3f551b4a33",
+    "8044ceee1aee4404",
+    "4db8060caa0d42bf",
+    "f27a34516adb43f2",
+    "f4e4aa866fb8457a"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!b9585f51ed7f40d4",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.ac56a7adada14097",
+      "_id": "ac56a7adada14097",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sentient being, language-capable, developed",
+      "text": "Sentient being, language-capable, developed"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.c7296ae30c0448b3",
+      "_id": "c7296ae30c0448b3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Instinct-based, animalistic, emotional, noisy, loud",
+      "text": "Instinct-based, animalistic, emotional, noisy, loud"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.8e536abf62b747fc",
+      "_id": "8e536abf62b747fc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Intelligent animal, survival focused, eats a lot",
+      "text": "Intelligent animal, survival focused, eats a lot"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.e3af6e27e16148a1",
+      "_id": "e3af6e27e16148a1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Primitive, ritualistic, artistic, prophetic, holy",
+      "text": "Primitive, ritualistic, artistic, prophetic, holy"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.bca95e9dabff482f",
+      "_id": "bca95e9dabff482f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Above human intelligence, computer based?",
+      "text": "Above human intelligence, computer based?"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.1c3e7514382f43fb",
+      "_id": "1c3e7514382f43fb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hive-mand, pack based, moves in groups",
+      "text": "Hive-mand, pack based, moves in groups"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.2addbf532f25448c",
+      "_id": "2addbf532f25448c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Industrious, builder, coordinated, worker, slave",
+      "text": "Industrious, builder, coordinated, worker, slave"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.101ea8e3f8d34175",
+      "_id": "101ea8e3f8d34175",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Aggressive, attacker, predator, hunger, anger",
+      "text": "Aggressive, attacker, predator, hunger, anger"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.38f6e20ee4c741a8",
+      "_id": "38f6e20ee4c741a8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Defensive, protecting, territorial, and tough",
+      "text": "Defensive, protecting, territorial, and tough"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.b239fe32c17c44db",
+      "_id": "b239fe32c17c44db",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Avoids aggression at all costs, yet very capable",
+      "text": "Avoids aggression at all costs, yet very capable"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.c73ba44b0d3f4665",
+      "_id": "c73ba44b0d3f4665",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Coward, squishy, runs away, avoids contact",
+      "text": "Coward, squishy, runs away, avoids contact"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.21e6afca034f4d41",
+      "_id": "21e6afca034f4d41",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Family-centric, protector, leader, social, helpful",
+      "text": "Family-centric, protector, leader, social, helpful"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.21777aee951d4bdb",
+      "_id": "21777aee951d4bdb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Symbiote, attaches itself to things or others",
+      "text": "Symbiote, attaches itself to things or others"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.ce8154f1446f46b0",
+      "_id": "ce8154f1446f46b0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Intimidating, scary, loud, alpha-like, arrogant",
+      "text": "Intimidating, scary, loud, alpha-like, arrogant"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.bc4fa6692b1145c6",
+      "_id": "bc4fa6692b1145c6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Lonely, lone-wolf, avoids social interactions",
+      "text": "Lonely, lone-wolf, avoids social interactions"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.ee9bdc3f551b4a33",
+      "_id": "ee9bdc3f551b4a33",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unstable, chaotic, unpredictable, roaming",
+      "text": "Unstable, chaotic, unpredictable, roaming"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.8044ceee1aee4404",
+      "_id": "8044ceee1aee4404",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Explorer, curious, stalker, moving, migrating",
+      "text": "Explorer, curious, stalker, moving, migrating"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.4db8060caa0d42bf",
+      "_id": "4db8060caa0d42bf",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Passive, peaceful, ignoring, oblivious",
+      "text": "Passive, peaceful, ignoring, oblivious"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.f27a34516adb43f2",
+      "_id": "f27a34516adb43f2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Nature-oriented, biome-specific, grounded",
+      "text": "Nature-oriented, biome-specific, grounded"
+    },
+    {
+      "_originalKey": "!tables.results!b9585f51ed7f40d4.f4e4aa866fb8457a",
+      "_id": "f4e4aa866fb8457a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Dependent, needs others, or mineral to survive",
+      "text": "Dependent, needs others, or mineral to survive"
+    }
+  ]
+}

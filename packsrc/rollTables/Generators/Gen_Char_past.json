@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Character past",
+  "_id": "50a9b122382348c9",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> A broad stroke of how they grew up.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "2d1ffb024de94ecf",
+    "77c3185c96314a72",
+    "aaf303953fc34361",
+    "196c915fbfdf4fb1",
+    "6e31901a30bb4619",
+    "bb662f4573864ef2",
+    "cc78876326524bc5",
+    "4fe47d200f22470b",
+    "881d3dd63e7a4037",
+    "95f70e0917fb4050",
+    "8e1a18eec36a4393",
+    "87175723c1894483",
+    "a97591a7d7d649cb",
+    "b5ce1098f4664949",
+    "f9fafb22ba9342d3",
+    "206c3ebc60594998",
+    "12f1677c0ecf487b",
+    "e6ef382a30b24102",
+    "2f9dd9e7b47e44ec",
+    "354fa5e1756541ec"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!50a9b122382348c9",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.2d1ffb024de94ecf",
+      "_id": "2d1ffb024de94ecf",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mostly normal, regular childhood and family",
+      "text": "Mostly normal, regular childhood and family"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.77c3185c96314a72",
+      "_id": "77c3185c96314a72",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Disturbed childhood, problematic parents",
+      "text": "Disturbed childhood, problematic parents"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.aaf303953fc34361",
+      "_id": "aaf303953fc34361",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Uneducated, or poverty childhood",
+      "text": "Uneducated, or poverty childhood"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.196c915fbfdf4fb1",
+      "_id": "196c915fbfdf4fb1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Health issues all along the growth",
+      "text": "Health issues all along the growth"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.6e31901a30bb4619",
+      "_id": "6e31901a30bb4619",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Experienced war and drama in childhood",
+      "text": "Experienced war and drama in childhood"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.bb662f4573864ef2",
+      "_id": "bb662f4573864ef2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Professional career and studies",
+      "text": "Professional career and studies"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.cc78876326524bc5",
+      "_id": "cc78876326524bc5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mostly craftsmen work, uneducated",
+      "text": "Mostly craftsmen work, uneducated"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.4fe47d200f22470b",
+      "_id": "4fe47d200f22470b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Individually trained by a field specialist",
+      "text": "Individually trained by a field specialist"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.881d3dd63e7a4037",
+      "_id": "881d3dd63e7a4037",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Nobility-raised, of an important family",
+      "text": "Nobility-raised, of an important family"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.95f70e0917fb4050",
+      "_id": "95f70e0917fb4050",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rich-raised, with plentiful resources",
+      "text": "Rich-raised, with plentiful resources"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.8e1a18eec36a4393",
+      "_id": "8e1a18eec36a4393",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Orphaned and raised in an institution",
+      "text": "Orphaned and raised in an institution"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.87175723c1894483",
+      "_id": "87175723c1894483",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Nomadic or traveling community growth",
+      "text": "Nomadic or traveling community growth"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.a97591a7d7d649cb",
+      "_id": "a97591a7d7d649cb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Raised in absolute or mostly isolation",
+      "text": "Raised in absolute or mostly isolation"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.b5ce1098f4664949",
+      "_id": "b5ce1098f4664949",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Went through an extreme traumatic event",
+      "text": "Went through an extreme traumatic event"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.f9fafb22ba9342d3",
+      "_id": "f9fafb22ba9342d3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Religious upbringing, philosophical living",
+      "text": "Religious upbringing, philosophical living"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.206c3ebc60594998",
+      "_id": "206c3ebc60594998",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Grew in a criminal dangerous environment",
+      "text": "Grew in a criminal dangerous environment"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.12f1677c0ecf487b",
+      "_id": "12f1677c0ecf487b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Under strong standards of code and honor",
+      "text": "Under strong standards of code and honor"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.e6ef382a30b24102",
+      "_id": "e6ef382a30b24102",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Raised in secret, or with unknown heritage",
+      "text": "Raised in secret, or with unknown heritage"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.2f9dd9e7b47e44ec",
+      "_id": "2f9dd9e7b47e44ec",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Put under pressure of achieving big things",
+      "text": "Put under pressure of achieving big things"
+    },
+    {
+      "_originalKey": "!tables.results!50a9b122382348c9.354fa5e1756541ec",
+      "_id": "354fa5e1756541ec",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Independent childhood, self-raised",
+      "text": "Independent childhood, self-raised"
+    }
+  ]
+}

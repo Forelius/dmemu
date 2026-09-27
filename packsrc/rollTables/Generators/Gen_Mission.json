@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Mission",
+  "_id": "00ebb62adce94b0a",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> What they are actually trying to accomplish.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "63d8b95adfb040c5",
+    "5f2046d2d6b54c30",
+    "19000e7e1d0241a0",
+    "a24545dae6224086",
+    "ded039ba571c473f",
+    "01f36598faf54207",
+    "47efb25078a04d80",
+    "0dcdc596a12044e7",
+    "8bcd84810ff640a1",
+    "b66a1b2c77734e2c",
+    "9fb5d80e89d74471",
+    "21c46126ba944a58",
+    "d2fe1c1ab48847b5",
+    "76bcaf4a05874a08",
+    "a2dd097637ed4d25",
+    "2e9f36b045214a87",
+    "a6714ed9b6af4bf3",
+    "0a88457996bc4d8c",
+    "9bfe52dae2974210",
+    "a907f7120df249d8"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!00ebb62adce94b0a",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.63d8b95adfb040c5",
+      "_id": "63d8b95adfb040c5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Capture an enemy, dead or alive",
+      "text": "Capture an enemy, dead or alive"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.5f2046d2d6b54c30",
+      "_id": "5f2046d2d6b54c30",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Defeat a faction, bandits, or outlaws",
+      "text": "Defeat a faction, bandits, or outlaws"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.19000e7e1d0241a0",
+      "_id": "19000e7e1d0241a0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Discover who is behind a problem",
+      "text": "Discover who is behind a problem"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.a24545dae6224086",
+      "_id": "a24545dae6224086",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sabotage or infiltrate enemy operation",
+      "text": "Sabotage or infiltrate enemy operation"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.ded039ba571c473f",
+      "_id": "ded039ba571c473f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Retrieve an important or unique artifact",
+      "text": "Retrieve an important or unique artifact"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.01f36598faf54207",
+      "_id": "01f36598faf54207",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Stop someone from doing wrong",
+      "text": "Stop someone from doing wrong"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.47efb25078a04d80",
+      "_id": "47efb25078a04d80",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Look for proof or evidence in a location",
+      "text": "Look for proof or evidence in a location"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.0dcdc596a12044e7",
+      "_id": "0dcdc596a12044e7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rescue someone from trouble",
+      "text": "Rescue someone from trouble"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.8bcd84810ff640a1",
+      "_id": "8bcd84810ff640a1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Destroy an objective, object, or location",
+      "text": "Destroy an objective, object, or location"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.b66a1b2c77734e2c",
+      "_id": "b66a1b2c77734e2c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Spy on someone to confirm suspicion",
+      "text": "Spy on someone to confirm suspicion"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.9fb5d80e89d74471",
+      "_id": "9fb5d80e89d74471",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Find a tool or weapon to make use of it",
+      "text": "Find a tool or weapon to make use of it"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.21c46126ba944a58",
+      "_id": "21c46126ba944a58",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Transport someone to safety",
+      "text": "Transport someone to safety"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.d2fe1c1ab48847b5",
+      "_id": "d2fe1c1ab48847b5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Protect a group in disadvantage",
+      "text": "Protect a group in disadvantage"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.76bcaf4a05874a08",
+      "_id": "76bcaf4a05874a08",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Prevent an imminent planned attack",
+      "text": "Prevent an imminent planned attack"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.a2dd097637ed4d25",
+      "_id": "a2dd097637ed4d25",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Secure or defend a strategic location",
+      "text": "Secure or defend a strategic location"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.2e9f36b045214a87",
+      "_id": "2e9f36b045214a87",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Assault a moving convoy or target",
+      "text": "Assault a moving convoy or target"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.a6714ed9b6af4bf3",
+      "_id": "a6714ed9b6af4bf3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Scout a location to help a faction attack",
+      "text": "Scout a location to help a faction attack"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.0a88457996bc4d8c",
+      "_id": "0a88457996bc4d8c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reveal or divulge a truth or propaganda",
+      "text": "Reveal or divulge a truth or propaganda"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.9bfe52dae2974210",
+      "_id": "9bfe52dae2974210",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Convince them to change their mind",
+      "text": "Convince them to change their mind"
+    },
+    {
+      "_originalKey": "!tables.results!00ebb62adce94b0a.a907f7120df249d8",
+      "_id": "a907f7120df249d8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fulfill a prophecy, or a backstory goal",
+      "text": "Fulfill a prophecy, or a backstory goal"
+    }
+  ]
+}

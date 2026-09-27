@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Location feature",
+  "_id": "0d8bb90f70dd462f",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> A defining characteristic of a place.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "4d8456e5cdcc438d",
+    "ef7eb8a1b1b24594",
+    "4edb2000e6294832",
+    "9b819feacf524bbb",
+    "1d672b65199e42ed",
+    "a2aa26cfb67d45aa",
+    "258d584b72f146a5",
+    "c4392c901370439e",
+    "c90489fc49a2406a",
+    "9ab9cfedc05c408a",
+    "ac3ad06a6c5e45f1",
+    "27532fd68705400d",
+    "2ca2a29b634c464f",
+    "9b43398414a0458d",
+    "751522d5d0674d55",
+    "de0581c079a4457e",
+    "8fac7ca7589149b4",
+    "4fdbfb09d5614360",
+    "2ed02da240b74ef8",
+    "ba747cf64e8c4108"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!0d8bb90f70dd462f",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.4d8456e5cdcc438d",
+      "_id": "4d8456e5cdcc438d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Belongs to a faction, headquarters, base",
+      "text": "Belongs to a faction, headquarters, base"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.ef7eb8a1b1b24594",
+      "_id": "ef7eb8a1b1b24594",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Legends, history, mythological, hidden",
+      "text": "Legends, history, mythological, hidden"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.4edb2000e6294832",
+      "_id": "4edb2000e6294832",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Inhospitable, hazardous, unholy, forbidden",
+      "text": "Inhospitable, hazardous, unholy, forbidden"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.9b819feacf524bbb",
+      "_id": "9b819feacf524bbb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Dangerous, full of traps, enemies, leaders",
+      "text": "Dangerous, full of traps, enemies, leaders"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.1d672b65199e42ed",
+      "_id": "1d672b65199e42ed",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Secured, defended, watched, monitored",
+      "text": "Secured, defended, watched, monitored"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.a2aa26cfb67d45aa",
+      "_id": "a2aa26cfb67d45aa",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Secretive, hidden, camouflage, unreachable",
+      "text": "Secretive, hidden, camouflage, unreachable"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.258d584b72f146a5",
+      "_id": "258d584b72f146a5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unstable, crumbling, damaged, falling",
+      "text": "Unstable, crumbling, damaged, falling"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.c4392c901370439e",
+      "_id": "c4392c901370439e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Magical, supernatural, esoteric, evil",
+      "text": "Magical, supernatural, esoteric, evil"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.c90489fc49a2406a",
+      "_id": "c90489fc49a2406a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sabotaged, sacked, raided, destroyed",
+      "text": "Sabotaged, sacked, raided, destroyed"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.9ab9cfedc05c408a",
+      "_id": "9ab9cfedc05c408a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Disputed, in conflict, under battle",
+      "text": "Disputed, in conflict, under battle"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.ac3ad06a6c5e45f1",
+      "_id": "ac3ad06a6c5e45f1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Destroyed, ruined, difficult to traverse",
+      "text": "Destroyed, ruined, difficult to traverse"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.27532fd68705400d",
+      "_id": "27532fd68705400d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hazardous, bad weather, or atmosphere",
+      "text": "Hazardous, bad weather, or atmosphere"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.2ca2a29b634c464f",
+      "_id": "2ca2a29b634c464f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Horrid, bloody, fearful, scary, terror",
+      "text": "Horrid, bloody, fearful, scary, terror"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.9b43398414a0458d",
+      "_id": "9b43398414a0458d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Technological, special, advanced, technical",
+      "text": "Technological, special, advanced, technical"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.751522d5d0674d55",
+      "_id": "751522d5d0674d55",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Abandoned, left behind, worthless",
+      "text": "Abandoned, left behind, worthless"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.de0581c079a4457e",
+      "_id": "de0581c079a4457e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Forbidden, sacred, holy, divine, special",
+      "text": "Forbidden, sacred, holy, divine, special"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.8fac7ca7589149b4",
+      "_id": "8fac7ca7589149b4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Normal, regular, simple, common, clean",
+      "text": "Normal, regular, simple, common, clean"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.4fdbfb09d5614360",
+      "_id": "4fdbfb09d5614360",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Isolated, aside, lonely, empty, distant",
+      "text": "Isolated, aside, lonely, empty, distant"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.2ed02da240b74ef8",
+      "_id": "2ed02da240b74ef8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Different, new, unique, mysterious, elegant",
+      "text": "Different, new, unique, mysterious, elegant"
+    },
+    {
+      "_originalKey": "!tables.results!0d8bb90f70dd462f.ba747cf64e8c4108",
+      "_id": "ba747cf64e8c4108",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Bad reputation, bad people, illegal",
+      "text": "Bad reputation, bad people, illegal"
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Character edge",
+  "_id": "c6fe6ef80e784b14",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> What sets this person apart.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "3c28ed03aa904373",
+    "33dfb8276170497b",
+    "622913c60b12447c",
+    "b66e7a11f9a84ab9",
+    "cd9d460edfc341ce",
+    "5d27741e0bd74ec7",
+    "c3bbe0d5fd874643",
+    "9baf8e55752d4000",
+    "5341099c33304803",
+    "e8f6ef113fad4a48",
+    "ff4bbe44fefe477a",
+    "ffd351dacc4c48c4",
+    "1a7bf9af22274090",
+    "154075a96d394e0d",
+    "7e7001a0ff9b4973",
+    "e0778454e62d4bf5",
+    "d59edfd2af7d4265",
+    "0eaa48bddd2b485d",
+    "479933ac17904789",
+    "ac80467a26e64b40"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!c6fe6ef80e784b14",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.3c28ed03aa904373",
+      "_id": "3c28ed03aa904373",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Naturally draws others in, persuasive and likable",
+      "text": "Naturally draws others in, persuasive and likable"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.33dfb8276170497b",
+      "_id": "33dfb8276170497b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Quick-thinking and skilled at finding solutions",
+      "text": "Quick-thinking and skilled at finding solutions"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.622913c60b12447c",
+      "_id": "622913c60b12447c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Endures mental or physical hardships",
+      "text": "Endures mental or physical hardships"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.b66e7a11f9a84ab9",
+      "_id": "b66e7a11f9a84ab9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Faces danger head-on without hesitation",
+      "text": "Faces danger head-on without hesitation"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.cd9d460edfc341ce",
+      "_id": "cd9d460edfc341ce",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Notices small details others often overlook",
+      "text": "Notices small details others often overlook"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.5d27741e0bd74ec7",
+      "_id": "5d27741e0bd74ec7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Talks through difficult situations with ease",
+      "text": "Talks through difficult situations with ease"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.c3bbe0d5fd874643",
+      "_id": "c3bbe0d5fd874643",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Always one step ahead, strategic and calculating",
+      "text": "Always one step ahead, strategic and calculating"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.9baf8e55752d4000",
+      "_id": "9baf8e55752d4000",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fiercely devoted, unwilling to betray trust",
+      "text": "Fiercely devoted, unwilling to betray trust"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.5341099c33304803",
+      "_id": "5341099c33304803",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Willing to wait for the right opportunity, patient",
+      "text": "Willing to wait for the right opportunity, patient"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.e8f6ef113fad4a48",
+      "_id": "e8f6ef113fad4a48",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Self-sufficient, rarely relying on others",
+      "text": "Self-sufficient, rarely relying on others"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.ff4bbe44fefe477a",
+      "_id": "ff4bbe44fefe477a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Very resolute, makes the most of any situation",
+      "text": "Very resolute, makes the most of any situation"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.ffd351dacc4c48c4",
+      "_id": "ffd351dacc4c48c4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Stays calm and collected under pressure",
+      "text": "Stays calm and collected under pressure"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.1a7bf9af22274090",
+      "_id": "1a7bf9af22274090",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reads people well, understands emotions",
+      "text": "Reads people well, understands emotions"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.154075a96d394e0d",
+      "_id": "154075a96d394e0d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Strives for greatness, never satisfied",
+      "text": "Strives for greatness, never satisfied"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.7e7001a0ff9b4973",
+      "_id": "7e7001a0ff9b4973",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Always ready with a sharp response or remark",
+      "text": "Always ready with a sharp response or remark"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.e0778454e62d4bf5",
+      "_id": "e0778454e62d4bf5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Adjusts quickly to changing circumstances",
+      "text": "Adjusts quickly to changing circumstances"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.d59edfd2af7d4265",
+      "_id": "d59edfd2af7d4265",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Holds firm to beliefs, values, and promises",
+      "text": "Holds firm to beliefs, values, and promises"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.0eaa48bddd2b485d",
+      "_id": "0eaa48bddd2b485d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hard to read, intriguing and unpredictable",
+      "text": "Hard to read, intriguing and unpredictable"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.479933ac17904789",
+      "_id": "479933ac17904789",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Lightens tense situations with humor or mischief",
+      "text": "Lightens tense situations with humor or mischief"
+    },
+    {
+      "_originalKey": "!tables.results!c6fe6ef80e784b14.ac80467a26e64b40",
+      "_id": "ac80467a26e64b40",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Takes risks without hesitation, dares to stand up",
+      "text": "Takes risks without hesitation, dares to stand up"
+    }
+  ]
+}

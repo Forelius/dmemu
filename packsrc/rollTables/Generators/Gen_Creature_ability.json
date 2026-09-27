@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Creature ability",
+  "_id": "d44d8a807d924ef5",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> A notable capability in a confrontation.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "adbf0c8ca33b46c8",
+    "d393d76835914628",
+    "e1a706927b0247b6",
+    "e4b8aaee777a4363",
+    "917a4181b1144441",
+    "4741026f76f74a1f",
+    "67a32d731ee441b0",
+    "10a01743f4f94aaa",
+    "ac3fbe83b0244c9e",
+    "a9e507b7a53d4f1f",
+    "d9e3f01af2c94366",
+    "e1112ddac2974d6d",
+    "911fb70d1ae34814",
+    "ccd6e77083a84350",
+    "b334889cc45a4382",
+    "a09cc0683cc6451a",
+    "81bd5a07adc248a0",
+    "c4d26627a1a4468d",
+    "25bf7eb1fa1d49af",
+    "61b39cfb90dd4674"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!d44d8a807d924ef5",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.adbf0c8ca33b46c8",
+      "_id": "adbf0c8ca33b46c8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Physical, strong, tough, heavy, charge",
+      "text": "Physical, strong, tough, heavy, charge"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.d393d76835914628",
+      "_id": "d393d76835914628",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Psychological attack, intimidation, gaze",
+      "text": "Psychological attack, intimidation, gaze"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.e1a706927b0247b6",
+      "_id": "e1a706927b0247b6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Specially resistant to physical damage",
+      "text": "Specially resistant to physical damage"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.e4b8aaee777a4363",
+      "_id": "e4b8aaee777a4363",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Resistant to specific elements",
+      "text": "Resistant to specific elements"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.917a4181b1144441",
+      "_id": "917a4181b1144441",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Flying, fast moving, teleportation, nimble",
+      "text": "Flying, fast moving, teleportation, nimble"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.4741026f76f74a1f",
+      "_id": "4741026f76f74a1f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Moves in non-air space, water, space",
+      "text": "Moves in non-air space, water, space"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.67a32d731ee441b0",
+      "_id": "67a32d731ee441b0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Enhanced senses, smell, hearing, feel",
+      "text": "Enhanced senses, smell, hearing, feel"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.10a01743f4f94aaa",
+      "_id": "10a01743f4f94aaa",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Invisible, concealment, camouflage",
+      "text": "Invisible, concealment, camouflage"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.ac3fbe83b0244c9e",
+      "_id": "ac3fbe83b0244c9e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Poison or disease based attacks",
+      "text": "Poison or disease based attacks"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.a9e507b7a53d4f1f",
+      "_id": "a9e507b7a53d4f1f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Makes uses of crafty tools and gear",
+      "text": "Makes uses of crafty tools and gear"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.d9e3f01af2c94366",
+      "_id": "d9e3f01af2c94366",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Tactical, strategic, ambushing, distracts",
+      "text": "Tactical, strategic, ambushing, distracts"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.e1112ddac2974d6d",
+      "_id": "e1112ddac2974d6d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Paralyzing, crippling, or entangling attacks",
+      "text": "Paralyzing, crippling, or entangling attacks"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.911fb70d1ae34814",
+      "_id": "911fb70d1ae34814",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Biologically enhanced, mutation, on drugs",
+      "text": "Biologically enhanced, mutation, on drugs"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.ccd6e77083a84350",
+      "_id": "ccd6e77083a84350",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Defensive, dodging, very agile, fast",
+      "text": "Defensive, dodging, very agile, fast"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.b334889cc45a4382",
+      "_id": "b334889cc45a4382",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Summons, invoke others, calls for help",
+      "text": "Summons, invoke others, calls for help"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.a09cc0683cc6451a",
+      "_id": "a09cc0683cc6451a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Ranged attacks, distant, long-sight",
+      "text": "Ranged attacks, distant, long-sight"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.81bd5a07adc248a0",
+      "_id": "81bd5a07adc248a0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Frightening, scary, shocking, taunting",
+      "text": "Frightening, scary, shocking, taunting"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.c4d26627a1a4468d",
+      "_id": "c4d26627a1a4468d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Climber, tunneling, uses the terrain",
+      "text": "Climber, tunneling, uses the terrain"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.25bf7eb1fa1d49af",
+      "_id": "25bf7eb1fa1d49af",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Overpowered weapon or piece of gear",
+      "text": "Overpowered weapon or piece of gear"
+    },
+    {
+      "_originalKey": "!tables.results!d44d8a807d924ef5.61b39cfb90dd4674",
+      "_id": "61b39cfb90dd4674",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Triggers a special mode or transformation",
+      "text": "Triggers a special mode or transformation"
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Location purpose",
+  "_id": "e01694e48af2491a",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> What the place is primarily used for.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "fe9056d50dc24f17",
+    "28dcbdf7e5bd4bb4",
+    "231f693c54f84f53",
+    "5494b614d0ca452a",
+    "ebfcde7963c64d4d",
+    "bd338427fee542bd",
+    "e95004ae90a34d04",
+    "af033bf2ed024d6c",
+    "30c7158cb1dc4c37",
+    "a3c3f4ed20e546fd",
+    "43482f0047064890",
+    "ec19d0ecfb144ba6",
+    "25e3070485834c92",
+    "c249e22df5454116",
+    "43b55b4c0b37467b",
+    "3bab63561d154c08",
+    "18c476b4208441a1",
+    "ccc4c2ac0b074548",
+    "783b11a11da44e50",
+    "097ee30f9ee54557"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!e01694e48af2491a",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.fe9056d50dc24f17",
+      "_id": "fe9056d50dc24f17",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Communication, intel, radio, coordination",
+      "text": "Communication, intel, radio, coordination"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.28dcbdf7e5bd4bb4",
+      "_id": "28dcbdf7e5bd4bb4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Security, overwatch, visibility, vigilance",
+      "text": "Security, overwatch, visibility, vigilance"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.231f693c54f84f53",
+      "_id": "231f693c54f84f53",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Defense, military, weapons, protection",
+      "text": "Defense, military, weapons, protection"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.5494b614d0ca452a",
+      "_id": "5494b614d0ca452a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Transport, vehicles, aircraft, garage, launch",
+      "text": "Transport, vehicles, aircraft, garage, launch"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.ebfcde7963c64d4d",
+      "_id": "ebfcde7963c64d4d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Experiments, laboratory, research, study",
+      "text": "Experiments, laboratory, research, study"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.bd338427fee542bd",
+      "_id": "bd338427fee542bd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Storage, warehouse, supplies, resources",
+      "text": "Storage, warehouse, supplies, resources"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.e95004ae90a34d04",
+      "_id": "e95004ae90a34d04",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Medicine, healing, recovery, treatment",
+      "text": "Medicine, healing, recovery, treatment"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.af033bf2ed024d6c",
+      "_id": "af033bf2ed024d6c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Power supply, energy source, power plant",
+      "text": "Power supply, energy source, power plant"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.30c7158cb1dc4c37",
+      "_id": "30c7158cb1dc4c37",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Repairing, workshop, construction, facility",
+      "text": "Repairing, workshop, construction, facility"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.a3c3f4ed20e546fd",
+      "_id": "a3c3f4ed20e546fd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hospitality, food, sleep, drinks, socializing",
+      "text": "Hospitality, food, sleep, drinks, socializing"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.43482f0047064890",
+      "_id": "43482f0047064890",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Educate, training, qualification, practice",
+      "text": "Educate, training, qualification, practice"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.ec19d0ecfb144ba6",
+      "_id": "ec19d0ecfb144ba6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Primary goods, farming, animals, mining",
+      "text": "Primary goods, farming, animals, mining"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.25e3070485834c92",
+      "_id": "25e3070485834c92",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Popular, festivities, rituals, praying, sacrifice",
+      "text": "Popular, festivities, rituals, praying, sacrifice"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.c249e22df5454116",
+      "_id": "c249e22df5454116",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Events, meeting, planning, decision making",
+      "text": "Events, meeting, planning, decision making"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.43b55b4c0b37467b",
+      "_id": "43b55b4c0b37467b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Production, manufacturing, assembly, build",
+      "text": "Production, manufacturing, assembly, build"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.3bab63561d154c08",
+      "_id": "3bab63561d154c08",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Imprisonment, dungeon, torture, guarding",
+      "text": "Imprisonment, dungeon, torture, guarding"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.18c476b4208441a1",
+      "_id": "18c476b4208441a1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Trading, business, exchange, banking",
+      "text": "Trading, business, exchange, banking"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.ccc4c2ac0b074548",
+      "_id": "ccc4c2ac0b074548",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sports, entertainment, amusement, sexual",
+      "text": "Sports, entertainment, amusement, sexual"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.783b11a11da44e50",
+      "_id": "783b11a11da44e50",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Safety, security, secrecy, protection, hiding",
+      "text": "Safety, security, secrecy, protection, hiding"
+    },
+    {
+      "_originalKey": "!tables.results!e01694e48af2491a.097ee30f9ee54557",
+      "_id": "097ee30f9ee54557",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Home, residence, privacy, property, owner",
+      "text": "Home, residence, privacy, property, owner"
+    }
+  ]
+}

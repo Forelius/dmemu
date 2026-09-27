@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Character intentions",
+  "_id": "574714187d414229",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> What they want from you right now.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "bf75b631baf14cfb",
+    "7dea3ab801454d94",
+    "d3df12a0286840d6",
+    "0dc5c57b32ce4d91",
+    "e27020d7adb24303",
+    "49b01b0d99194418",
+    "eea71d8001bc464a",
+    "9298dd8564de43ba",
+    "6c2be43389854112",
+    "8802999b6d014d4e",
+    "026f405cf9d64218",
+    "d0adf65596584f39",
+    "90346850470e4341",
+    "c4f80466968d406b",
+    "5f0a202708354e3c",
+    "83b9710207374699",
+    "f0dea008403d4e43",
+    "ed5771ed2b9e46fc",
+    "6442c267c53a401e",
+    "9ea0e1a9e8d34fa8"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!574714187d414229",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!574714187d414229.bf75b631baf14cfb",
+      "_id": "bf75b631baf14cfb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Protect his stuff, belongings, items",
+      "text": "Protect his stuff, belongings, items"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.7dea3ab801454d94",
+      "_id": "7dea3ab801454d94",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Make money, trade, sell you something",
+      "text": "Make money, trade, sell you something"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.d3df12a0286840d6",
+      "_id": "d3df12a0286840d6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Make you go away, leave them alone",
+      "text": "Make you go away, leave them alone"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.0dc5c57b32ce4d91",
+      "_id": "0dc5c57b32ce4d91",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Make you stay, invite you, need you",
+      "text": "Make you stay, invite you, need you"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.e27020d7adb24303",
+      "_id": "e27020d7adb24303",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Help you, assist you, give you a hand",
+      "text": "Help you, assist you, give you a hand"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.49b01b0d99194418",
+      "_id": "49b01b0d99194418",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Pay you, hire you, bribe you, for them.",
+      "text": "Pay you, hire you, bribe you, for them."
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.eea71d8001bc464a",
+      "_id": "eea71d8001bc464a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Open up, tell you a story, be heard",
+      "text": "Open up, tell you a story, be heard"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.9298dd8564de43ba",
+      "_id": "9298dd8564de43ba",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Convince you, persuade you, make you",
+      "text": "Convince you, persuade you, make you"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.6c2be43389854112",
+      "_id": "6c2be43389854112",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Stop you, warn you, block you, dissuade",
+      "text": "Stop you, warn you, block you, dissuade"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.8802999b6d014d4e",
+      "_id": "8802999b6d014d4e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hear you, curious about you, ask you",
+      "text": "Hear you, curious about you, ask you"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.026f405cf9d64218",
+      "_id": "026f405cf9d64218",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Explain to you, give information, teach",
+      "text": "Explain to you, give information, teach"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.d0adf65596584f39",
+      "_id": "d0adf65596584f39",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Spy on you, follow you, track you",
+      "text": "Spy on you, follow you, track you"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.90346850470e4341",
+      "_id": "90346850470e4341",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Scare you, intimidate you, taunt you",
+      "text": "Scare you, intimidate you, taunt you"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.c4f80466968d406b",
+      "_id": "c4f80466968d406b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Exchange information, talk to you",
+      "text": "Exchange information, talk to you"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.5f0a202708354e3c",
+      "_id": "5f0a202708354e3c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Join you, be with you, to be defended",
+      "text": "Join you, be with you, to be defended"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.83b9710207374699",
+      "_id": "83b9710207374699",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Present you someone else, refer to",
+      "text": "Present you someone else, refer to"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.f0dea008403d4e43",
+      "_id": "f0dea008403d4e43",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Learn from you, copy you, be like you",
+      "text": "Learn from you, copy you, be like you"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.ed5771ed2b9e46fc",
+      "_id": "ed5771ed2b9e46fc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Control you, monitor you, beware",
+      "text": "Control you, monitor you, beware"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.6442c267c53a401e",
+      "_id": "6442c267c53a401e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Inspire you, motivate you, energize you",
+      "text": "Inspire you, motivate you, energize you"
+    },
+    {
+      "_originalKey": "!tables.results!574714187d414229.9ea0e1a9e8d34fa8",
+      "_id": "9ea0e1a9e8d34fa8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Lie to you, manipulate you, hate you",
+      "text": "Lie to you, manipulate you, hate you"
+    }
+  ]
+}

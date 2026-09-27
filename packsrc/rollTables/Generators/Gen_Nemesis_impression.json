@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Nemesis impression",
+  "_id": "ac3443e165394011",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> The feeling or atmosphere the adversary brings.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "081225d34630490c",
+    "3c96ed1ac5424a91",
+    "a3f14eba48a54d6e",
+    "f86d445e0735466d",
+    "dfbaa72a86254285",
+    "882fef18ccde4182",
+    "06ab57d169284beb",
+    "dd76d9e7a8a9400e",
+    "d8325ea7d9ef40f6",
+    "dfa7e78269cb4fcf",
+    "d3276317fa314310",
+    "8b935f06dc7e4764",
+    "2456bd6c33714ee0",
+    "0c18159c2e644e74",
+    "8e7fb9f102194e7c",
+    "c9de268b69c24c8c",
+    "5cf4240329b44835",
+    "1393632b0d674994",
+    "be83097324754ff2",
+    "f76cddf72b634fb7"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!ac3443e165394011",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.081225d34630490c",
+      "_id": "081225d34630490c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Feelings of fear, worry, alert, concern",
+      "text": "Feelings of fear, worry, alert, concern"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.3c96ed1ac5424a91",
+      "_id": "3c96ed1ac5424a91",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Excitement, anxiety, nerves, impatience",
+      "text": "Excitement, anxiety, nerves, impatience"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.a3f14eba48a54d6e",
+      "_id": "a3f14eba48a54d6e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Acts to cause sadness, disgust or shame",
+      "text": "Acts to cause sadness, disgust or shame"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.f86d445e0735466d",
+      "_id": "f86d445e0735466d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Feelings of disbelief, or disappointment",
+      "text": "Feelings of disbelief, or disappointment"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.dfbaa72a86254285",
+      "_id": "dfbaa72a86254285",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Achievements produce awe and wonder",
+      "text": "Achievements produce awe and wonder"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.882fef18ccde4182",
+      "_id": "882fef18ccde4182",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A presence that causes lose of hope",
+      "text": "A presence that causes lose of hope"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.06ab57d169284beb",
+      "_id": "06ab57d169284beb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Envy, jealousy, resentment to be felt",
+      "text": "Envy, jealousy, resentment to be felt"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.dd76d9e7a8a9400e",
+      "_id": "dd76d9e7a8a9400e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Outer or inner warmth, heat, fire, resent",
+      "text": "Outer or inner warmth, heat, fire, resent"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.d8325ea7d9ef40f6",
+      "_id": "d8325ea7d9ef40f6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rumble of weather, divine forces, doom",
+      "text": "Rumble of weather, divine forces, doom"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.dfa7e78269cb4fcf",
+      "_id": "dfa7e78269cb4fcf",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sudden, hushing silence embraces you",
+      "text": "Sudden, hushing silence embraces you"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.d3276317fa314310",
+      "_id": "d3276317fa314310",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Smells and ingredients in preparation",
+      "text": "Smells and ingredients in preparation"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.8b935f06dc7e4764",
+      "_id": "8b935f06dc7e4764",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Atmosphere of groom, grief, or regret",
+      "text": "Atmosphere of groom, grief, or regret"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.2456bd6c33714ee0",
+      "_id": "2456bd6c33714ee0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Murmur, whispering, strange voices",
+      "text": "Murmur, whispering, strange voices"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.0c18159c2e644e74",
+      "_id": "0c18159c2e644e74",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Melody, a song, bells, rhythm, music",
+      "text": "Melody, a song, bells, rhythm, music"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.8e7fb9f102194e7c",
+      "_id": "8e7fb9f102194e7c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Cold, freezing and shivering sensations",
+      "text": "Cold, freezing and shivering sensations"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.c9de268b69c24c8c",
+      "_id": "c9de268b69c24c8c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Inner voices, static, psychic, autism",
+      "text": "Inner voices, static, psychic, autism"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.5cf4240329b44835",
+      "_id": "5cf4240329b44835",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Feel hate, anger, fury, rage, vengeance",
+      "text": "Feel hate, anger, fury, rage, vengeance"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.1393632b0d674994",
+      "_id": "1393632b0d674994",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A strange, eccentric look, observed",
+      "text": "A strange, eccentric look, observed"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.be83097324754ff2",
+      "_id": "be83097324754ff2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mechanical, magical, or buzzing sounds",
+      "text": "Mechanical, magical, or buzzing sounds"
+    },
+    {
+      "_originalKey": "!tables.results!ac3443e165394011.f76cddf72b634fb7",
+      "_id": "f76cddf72b634fb7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hateful admiration for their powers",
+      "text": "Hateful admiration for their powers"
+    }
+  ]
+}

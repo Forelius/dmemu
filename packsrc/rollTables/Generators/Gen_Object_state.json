@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Object state",
+  "_id": "cb07dc58a3344dcd",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> The object’s current condition or status.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "1c3d4a5774b74c14",
+    "a82ccf3b46304d79",
+    "e2e85a6796b1409e",
+    "046909ca0e94488b",
+    "363f145f116b4911",
+    "0136fce07d1a42d9",
+    "8c18f3f9e0094d47",
+    "f615653cd4ff470f",
+    "d9ab8d71cab74d0e",
+    "e4c8557a0e9c47f1",
+    "bc48599c34634e02",
+    "b69219b089024d59",
+    "74afbd86a6ba4eb3",
+    "9d8b9746510f46af",
+    "4e7a9f02652141b4",
+    "f2c111bc3a8844a3",
+    "4a74923191714918",
+    "1b3e7036cb2142aa",
+    "81bd0094877c49fe",
+    "c901cfc785fa4e47"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!cb07dc58a3344dcd",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.1c3d4a5774b74c14",
+      "_id": "1c3d4a5774b74c14",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Broken, damaged, impaired, incomplete",
+      "text": "Broken, damaged, impaired, incomplete"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.a82ccf3b46304d79",
+      "_id": "a82ccf3b46304d79",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Locked, protected, secured, blocked",
+      "text": "Locked, protected, secured, blocked"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.e2e85a6796b1409e",
+      "_id": "e2e85a6796b1409e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Being used, active, mounted, equipped",
+      "text": "Being used, active, mounted, equipped"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.046909ca0e94488b",
+      "_id": "046909ca0e94488b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Scanning, detecting, watching, recording",
+      "text": "Scanning, detecting, watching, recording"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.363f145f116b4911",
+      "_id": "363f145f116b4911",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "New, released, promoted, opened, launched",
+      "text": "New, released, promoted, opened, launched"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.0136fce07d1a42d9",
+      "_id": "0136fce07d1a42d9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Used, discharged, wasted, emptied, depleted",
+      "text": "Used, discharged, wasted, emptied, depleted"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.8c18f3f9e0094d47",
+      "_id": "8c18f3f9e0094d47",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Stolen, taken away, sent, sold, moved",
+      "text": "Stolen, taken away, sent, sold, moved"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.f615653cd4ff470f",
+      "_id": "f615653cd4ff470f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Bought, acquired, found, recently discovered",
+      "text": "Bought, acquired, found, recently discovered"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.d9ab8d71cab74d0e",
+      "_id": "d9ab8d71cab74d0e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Analyzed, researched, studied, cracked open",
+      "text": "Analyzed, researched, studied, cracked open"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.e4c8557a0e9c47f1",
+      "_id": "e4c8557a0e9c47f1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Connected, plugged, attached, linked",
+      "text": "Connected, plugged, attached, linked"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.bc48599c34634e02",
+      "_id": "bc48599c34634e02",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sending signal, emitting, transferring",
+      "text": "Sending signal, emitting, transferring"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.b69219b089024d59",
+      "_id": "b69219b089024d59",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Protecting, defending, saving, storing",
+      "text": "Protecting, defending, saving, storing"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.74afbd86a6ba4eb3",
+      "_id": "74afbd86a6ba4eb3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Helping, healing, reinforcing, restoring",
+      "text": "Helping, healing, reinforcing, restoring"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.9d8b9746510f46af",
+      "_id": "9d8b9746510f46af",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Channeling, processing, empowering",
+      "text": "Channeling, processing, empowering"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.4e7a9f02652141b4",
+      "_id": "4e7a9f02652141b4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Disabled, passive, turned off, shut down",
+      "text": "Disabled, passive, turned off, shut down"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.f2c111bc3a8844a3",
+      "_id": "f2c111bc3a8844a3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Holding, sustaining, supporting, standing",
+      "text": "Holding, sustaining, supporting, standing"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.4a74923191714918",
+      "_id": "4a74923191714918",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Private property, claimed, unique, valuable",
+      "text": "Private property, claimed, unique, valuable"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.1b3e7036cb2142aa",
+      "_id": "1b3e7036cb2142aa",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Public property, shared, common, regular",
+      "text": "Public property, shared, common, regular"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.81bd0094877c49fe",
+      "_id": "81bd0094877c49fe",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Disputed, conflicted, divided, claimed",
+      "text": "Disputed, conflicted, divided, claimed"
+    },
+    {
+      "_originalKey": "!tables.results!cb07dc58a3344dcd.c901cfc785fa4e47",
+      "_id": "c901cfc785fa4e47",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Weakened, low-charge, last minutes",
+      "text": "Weakened, low-charge, last minutes"
+    }
+  ]
+}

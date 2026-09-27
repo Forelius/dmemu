@@ -1,4 +1,4 @@
-name: Build and Release dmemu (Stable)
+name: Build and Release dmemu
 
 on:
   release:
@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   build:
-    if: ${{ github.event.release.target_commitish == 'stable' }}
+    if: ${{ github.event.release.target_commitish == 'main' }}
     runs-on: ubuntu-latest
     env:
       VERSION: ${{ github.event.release.tag_name }}
@@ -34,15 +34,15 @@ jobs:
       - name: Fetch all branches and tags
         run: git fetch --all --tags
 
-      - name: Check if the tag commit is in the stable branch
-        id: check_stable
+      - name: Check if the tag commit is in the main branch
+        id: check_main
         run: |
           TAG_COMMIT=$(git rev-parse ${{ env.VERSION }})
-          if git merge-base --is-ancestor $TAG_COMMIT origin/stable; then
-            echo "The tag is in the stable branch history."
+          if git merge-base --is-ancestor $TAG_COMMIT origin/main; then
+            echo "The tag is in the main branch history."
             echo "is_valid=true" >> $GITHUB_ENV
           else
-            echo "The tag (${{ env.VERSION }}) is NOT in the stable branch history. Skipping release."
+            echo "The tag (${{ env.VERSION }}) is NOT in the main branch history. Skipping release."
             echo "is_valid=false" >> $GITHUB_ENV
           fi
 
@@ -94,11 +94,10 @@ jobs:
           RELEASE_BODY: ${{ github.event.release.body }}
         run: |
           {
-            echo "## Depths Master Emulator (DMEmu) STABLE"
+            echo "## Depths Master Emulator (DMEmu) ${{ env.VERSION }}"
             echo
             printf "%s\n" "$RELEASE_BODY"
             echo
-            echo "This is a STABLE version of Depths Master Emulator."
             echo "To install manually, use this URL:"
             echo "https://github.com/${{ github.repository }}/releases/download/${{ env.VERSION }}/module.json"
           } > release_notes.txt
@@ -108,7 +107,7 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           tag: ${{ env.VERSION }}
-          name: "Release ${{ env.VERSION }} (STABLE)"
+          name: "Release ${{ env.VERSION }}"
           prerelease: false
           artifacts: './module.json, ./module.zip'
           bodyfile: release_notes.txt

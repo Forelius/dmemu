@@ -1,0 +1,2129 @@
+{
+  "folder": null,
+  "name": "Generator — Good purposes",
+  "_id": "cdb45041a9db422b",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> Benevolent goals or motivations for a person or faction.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "98493ef4ad6b4cd8",
+    "a0b013ba1f414ece",
+    "81b07d6df8804a29",
+    "b4afbc067eec43a2",
+    "255edd1ea5784355",
+    "b871365c8d5e4e2f",
+    "c080f447e6c24893",
+    "d9f46d387aa54768",
+    "b5d3af5742e94e4c",
+    "d505709afc3b4fe9",
+    "ab8afb3bd12b4f61",
+    "a2cc8f4e7e634d21",
+    "60e8481e4d624fa1",
+    "b576299718784eab",
+    "a2870fce6c4a4fdc",
+    "725c21f4021d413b",
+    "80d239bd9b844abd",
+    "89eef3be6f474e54",
+    "1fb94173e061462d",
+    "c0359a76405a4527",
+    "7c958ad612e84a52",
+    "9b10afd3505d46bc",
+    "4b0f13c290aa4ec2",
+    "d85275a658e746f3",
+    "56afc87c83f14864",
+    "d3ad52f479ed47d8",
+    "fc7be614304c4901",
+    "c707db9d5a8642cb",
+    "17cc526784c34955",
+    "4c9732130ed54a9f",
+    "3ed40c4ef7f9421f",
+    "f1293e30ae944a3a",
+    "19326ebf427e4f10",
+    "c25055d836db419a",
+    "e2940d2115e34f8b",
+    "edf4aeb33bf7426e",
+    "7dcb2e8afdc2436c",
+    "a498dbdfaeb24872",
+    "c0672cbc7c6e4757",
+    "5f7731c28d554453",
+    "5055904844bc43a5",
+    "290a04b0c8f34200",
+    "aea67e16088e45d7",
+    "7bc23dc7943b433b",
+    "405a0ade91ea479e",
+    "c7e5f6708e8a4e2c",
+    "35f1e8a09f054076",
+    "680c5e2d20b34b00",
+    "c93d311f6c3a4cac",
+    "debe7f2f942248e1",
+    "ddaaaec2c39a4a23",
+    "ffacc11ad2594f93",
+    "81e2b06aef3a4ccf",
+    "5fda5b61d4564270",
+    "ace323f6cc2740f5",
+    "6d44eaca96bd40fd",
+    "cc48a58ef80e4a22",
+    "37bdfba2e14244bc",
+    "37c8fec0ba664d70",
+    "f0ae05e395664f52",
+    "0dabb0cc702a4cbd",
+    "11d6b7172372480e",
+    "65a9fc1eb2214413",
+    "669aaf20fb46456a",
+    "c3aa4fcd73864637",
+    "1c9724e909fc44f1",
+    "a2e047115a814e15",
+    "cc4127261f424b05",
+    "913f4345edd7412e",
+    "8287f89f9c664d24",
+    "23fe9d996c714741",
+    "24de7f71655d4346",
+    "6eef24f9341d424e",
+    "06a8665bb33042d4",
+    "af9247e171b946b7",
+    "9927a1e8ea3648bc",
+    "ac8a0d11685b46c8",
+    "b37ef2ad060e4da7",
+    "b81afedd7bb44093",
+    "8d4bb6a49a974652",
+    "42115c6350a9493e",
+    "f6755e7462d141df",
+    "5c8d36d778304fb8",
+    "98fde427bb794136",
+    "9bd5c7a617824bef",
+    "d7dca8150cae44c4",
+    "c4e15012ae964bab",
+    "32b68fb1197d4357",
+    "0201ca8d593d401c",
+    "9ec6941fe4f34ee1",
+    "ca682671f39b467c",
+    "375ffef4b3124bb3",
+    "5808e0897f054c8f",
+    "f68812843fdf42db",
+    "865b263b2eab4903",
+    "cba86e043cd74119",
+    "378a2f8a8f7b4697",
+    "9999f988e1bf4f42",
+    "1557d889a19b4c5c",
+    "0e38c519e80d4d29"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d100",
+  "sort": 0,
+  "_originalKey": "!tables!cdb45041a9db422b",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.98493ef4ad6b4cd8",
+      "_id": "98493ef4ad6b4cd8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Make an offering to a temple",
+      "text": "Make an offering to a temple"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.a0b013ba1f414ece",
+      "_id": "a0b013ba1f414ece",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Help an enemy make things right",
+      "text": "Help an enemy make things right"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.81b07d6df8804a29",
+      "_id": "81b07d6df8804a29",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Give inspiration and courage",
+      "text": "Give inspiration and courage"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.b4afbc067eec43a2",
+      "_id": "b4afbc067eec43a2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fix a broken device or object",
+      "text": "Fix a broken device or object"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.255edd1ea5784355",
+      "_id": "255edd1ea5784355",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Defeat a powerful enemy",
+      "text": "Defeat a powerful enemy"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.b871365c8d5e4e2f",
+      "_id": "b871365c8d5e4e2f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rescue someone from falling",
+      "text": "Rescue someone from falling"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.c080f447e6c24893",
+      "_id": "c080f447e6c24893",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Help an elderly or weak person",
+      "text": "Help an elderly or weak person"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.d9f46d387aa54768",
+      "_id": "d9f46d387aa54768",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Pay tribute to the gods or cult",
+      "text": "Pay tribute to the gods or cult"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.b5d3af5742e94e4c",
+      "_id": "b5d3af5742e94e4c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Untangle an evil or secret organization",
+      "text": "Untangle an evil or secret organization"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.d505709afc3b4fe9",
+      "_id": "d505709afc3b4fe9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rescue someone from a fire",
+      "text": "Rescue someone from a fire"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.ab8afb3bd12b4f61",
+      "_id": "ab8afb3bd12b4f61",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Help someone injured get to safety",
+      "text": "Help someone injured get to safety"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.a2cc8f4e7e634d21",
+      "_id": "a2cc8f4e7e634d21",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Show mercy to a defeated enemy",
+      "text": "Show mercy to a defeated enemy"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.60e8481e4d624fa1",
+      "_id": "60e8481e4d624fa1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Bring down a tyrant from power",
+      "text": "Bring down a tyrant from power"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.b576299718784eab",
+      "_id": "b576299718784eab",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Be part of a long-term project",
+      "text": "Be part of a long-term project"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.a2870fce6c4a4fdc",
+      "_id": "a2870fce6c4a4fdc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Be part of an important battle",
+      "text": "Be part of an important battle"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.725c21f4021d413b",
+      "_id": "725c21f4021d413b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Protect the nature and the living",
+      "text": "Protect the nature and the living"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.80d239bd9b844abd",
+      "_id": "80d239bd9b844abd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Lead a team or squad to victory",
+      "text": "Lead a team or squad to victory"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.89eef3be6f474e54",
+      "_id": "89eef3be6f474e54",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Participate in a find and rescue mission",
+      "text": "Participate in a find and rescue mission"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.1fb94173e061462d",
+      "_id": "1fb94173e061462d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Help with clothing and warmth",
+      "text": "Help with clothing and warmth"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.c0359a76405a4527",
+      "_id": "c0359a76405a4527",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sacrifice a family object for a cause",
+      "text": "Sacrifice a family object for a cause"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.7c958ad612e84a52",
+      "_id": "7c958ad612e84a52",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Support or help a desperate family",
+      "text": "Support or help a desperate family"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.9b10afd3505d46bc",
+      "_id": "9b10afd3505d46bc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Educate or foster a child",
+      "text": "Educate or foster a child"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.4b0f13c290aa4ec2",
+      "_id": "4b0f13c290aa4ec2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Help defend a town or village",
+      "text": "Help defend a town or village"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.d85275a658e746f3",
+      "_id": "d85275a658e746f3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Defeat bandits and outlaws",
+      "text": "Defeat bandits and outlaws"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.56afc87c83f14864",
+      "_id": "56afc87c83f14864",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Destroy a valuable but evil artifact",
+      "text": "Destroy a valuable but evil artifact"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.d3ad52f479ed47d8",
+      "_id": "d3ad52f479ed47d8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Listen to someone’s problems",
+      "text": "Listen to someone’s problems"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.fc7be614304c4901",
+      "_id": "fc7be614304c4901",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Give council to someone important",
+      "text": "Give council to someone important"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.c707db9d5a8642cb",
+      "_id": "c707db9d5a8642cb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Protect an envoy or caravan",
+      "text": "Protect an envoy or caravan"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.17cc526784c34955",
+      "_id": "17cc526784c34955",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Volunteer to an organization",
+      "text": "Volunteer to an organization"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.4c9732130ed54a9f",
+      "_id": "4c9732130ed54a9f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Stop the spreading of false information",
+      "text": "Stop the spreading of false information"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.3ed40c4ef7f9421f",
+      "_id": "3ed40c4ef7f9421f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Forgive someone of a wrong deed",
+      "text": "Forgive someone of a wrong deed"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.f1293e30ae944a3a",
+      "_id": "f1293e30ae944a3a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Defend the king or president",
+      "text": "Defend the king or president"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.19326ebf427e4f10",
+      "_id": "19326ebf427e4f10",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Discover the truth of a murder",
+      "text": "Discover the truth of a murder"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.c25055d836db419a",
+      "_id": "c25055d836db419a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Donate books or knowledge",
+      "text": "Donate books or knowledge"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.e2940d2115e34f8b",
+      "_id": "e2940d2115e34f8b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Help with food and shelter",
+      "text": "Help with food and shelter"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.edf4aeb33bf7426e",
+      "_id": "edf4aeb33bf7426e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sabotage an act of corruption",
+      "text": "Sabotage an act of corruption"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.7dcb2e8afdc2436c",
+      "_id": "7dcb2e8afdc2436c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Repair critical machinery",
+      "text": "Repair critical machinery"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.a498dbdfaeb24872",
+      "_id": "a498dbdfaeb24872",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Support with weapons",
+      "text": "Support with weapons"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.c0672cbc7c6e4757",
+      "_id": "c0672cbc7c6e4757",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Help prepare some defenses",
+      "text": "Help prepare some defenses"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.5f7731c28d554453",
+      "_id": "5f7731c28d554453",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Participate in a rebellion",
+      "text": "Participate in a rebellion"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.5055904844bc43a5",
+      "_id": "5055904844bc43a5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Help avoid a battle or fight",
+      "text": "Help avoid a battle or fight"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.290a04b0c8f34200",
+      "_id": "290a04b0c8f34200",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Uphold the truth and justice",
+      "text": "Uphold the truth and justice"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.aea67e16088e45d7",
+      "_id": "aea67e16088e45d7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Give someone a ride or transport",
+      "text": "Give someone a ride or transport"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.7bc23dc7943b433b",
+      "_id": "7bc23dc7943b433b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Confront a terrible evil with courage",
+      "text": "Confront a terrible evil with courage"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.405a0ade91ea479e",
+      "_id": "405a0ade91ea479e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Bring light to a dark place",
+      "text": "Bring light to a dark place"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.c7e5f6708e8a4e2c",
+      "_id": "c7e5f6708e8a4e2c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Support a minority culture",
+      "text": "Support a minority culture"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.35f1e8a09f054076",
+      "_id": "35f1e8a09f054076",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Recover a stolen object",
+      "text": "Recover a stolen object"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.680c5e2d20b34b00",
+      "_id": "680c5e2d20b34b00",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Support a lost or minority cause",
+      "text": "Support a lost or minority cause"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.c93d311f6c3a4cac",
+      "_id": "c93d311f6c3a4cac",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Help a friend or colleague in need",
+      "text": "Help a friend or colleague in need"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.debe7f2f942248e1",
+      "_id": "debe7f2f942248e1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Bring back hope to the hopeless",
+      "text": "Bring back hope to the hopeless"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.ddaaaec2c39a4a23",
+      "_id": "ddaaaec2c39a4a23",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Bring a couple together",
+      "text": "Bring a couple together"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.ffacc11ad2594f93",
+      "_id": "ffacc11ad2594f93",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Find true love or friend",
+      "text": "Find true love or friend"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.81e2b06aef3a4ccf",
+      "_id": "81e2b06aef3a4ccf",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Follow a personal dream",
+      "text": "Follow a personal dream"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.5fda5b61d4564270",
+      "_id": "5fda5b61d4564270",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Become a master of disguise",
+      "text": "Become a master of disguise"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.ace323f6cc2740f5",
+      "_id": "ace323f6cc2740f5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unearth a terrible conspiracy",
+      "text": "Unearth a terrible conspiracy"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.6d44eaca96bd40fd",
+      "_id": "6d44eaca96bd40fd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Overcome an impossible obstacle",
+      "text": "Overcome an impossible obstacle"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.cc48a58ef80e4a22",
+      "_id": "cc48a58ef80e4a22",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Leave the world a better place",
+      "text": "Leave the world a better place"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.37bdfba2e14244bc",
+      "_id": "37bdfba2e14244bc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Share a special knowledge",
+      "text": "Share a special knowledge"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.37c8fec0ba664d70",
+      "_id": "37c8fec0ba664d70",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Create a masterpiece",
+      "text": "Create a masterpiece"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.f0ae05e395664f52",
+      "_id": "f0ae05e395664f52",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Master a form of magic",
+      "text": "Master a form of magic"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.0dabb0cc702a4cbd",
+      "_id": "0dabb0cc702a4cbd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Avenge a great injustice",
+      "text": "Avenge a great injustice"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.11d6b7172372480e",
+      "_id": "11d6b7172372480e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Forge a powerful alliance",
+      "text": "Forge a powerful alliance"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.65a9fc1eb2214413",
+      "_id": "65a9fc1eb2214413",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Journey to an unknown land",
+      "text": "Journey to an unknown land"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.669aaf20fb46456a",
+      "_id": "669aaf20fb46456a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Retrieve a stolen item",
+      "text": "Retrieve a stolen item"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.c3aa4fcd73864637",
+      "_id": "c3aa4fcd73864637",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unearth an ancient secret",
+      "text": "Unearth an ancient secret"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.1c9724e909fc44f1",
+      "_id": "1c9724e909fc44f1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Return something to rightful owners",
+      "text": "Return something to rightful owners"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.a2e047115a814e15",
+      "_id": "a2e047115a814e15",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Shed light on an obscure mystery",
+      "text": "Shed light on an obscure mystery"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.cc4127261f424b05",
+      "_id": "cc4127261f424b05",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reconcile with a family member",
+      "text": "Reconcile with a family member"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.913f4345edd7412e",
+      "_id": "913f4345edd7412e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Put an end to a hazardous situation",
+      "text": "Put an end to a hazardous situation"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.8287f89f9c664d24",
+      "_id": "8287f89f9c664d24",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Achieve a monumental feat",
+      "text": "Achieve a monumental feat"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.23fe9d996c714741",
+      "_id": "23fe9d996c714741",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Help someone in need",
+      "text": "Help someone in need"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.24de7f71655d4346",
+      "_id": "24de7f71655d4346",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unearth a lost civilization",
+      "text": "Unearth a lost civilization"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.6eef24f9341d424e",
+      "_id": "6eef24f9341d424e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Avenge a wronged ancestor",
+      "text": "Avenge a wronged ancestor"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.06a8665bb33042d4",
+      "_id": "06a8665bb33042d4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Help a friend at all costs",
+      "text": "Help a friend at all costs"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.af9247e171b946b7",
+      "_id": "af9247e171b946b7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Conquer a great feat of strength",
+      "text": "Conquer a great feat of strength"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.9927a1e8ea3648bc",
+      "_id": "9927a1e8ea3648bc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Overcome a personal fear",
+      "text": "Overcome a personal fear"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.ac8a0d11685b46c8",
+      "_id": "ac8a0d11685b46c8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Change a person or group's fate",
+      "text": "Change a person or group's fate"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.b37ef2ad060e4da7",
+      "_id": "b37ef2ad060e4da7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Save a species from extinction",
+      "text": "Save a species from extinction"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.b81afedd7bb44093",
+      "_id": "b81afedd7bb44093",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Find peace and purpose",
+      "text": "Find peace and purpose"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.8d4bb6a49a974652",
+      "_id": "8d4bb6a49a974652",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Disobey an unjust law",
+      "text": "Disobey an unjust law"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.42115c6350a9493e",
+      "_id": "42115c6350a9493e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Help a village in crisis",
+      "text": "Help a village in crisis"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.f6755e7462d141df",
+      "_id": "f6755e7462d141df",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Put a stop to a villain's plans",
+      "text": "Put a stop to a villain's plans"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.5c8d36d778304fb8",
+      "_id": "5c8d36d778304fb8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Take a stand against injustice",
+      "text": "Take a stand against injustice"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.98fde427bb794136",
+      "_id": "98fde427bb794136",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Find redemption or innocence",
+      "text": "Find redemption or innocence"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.9bd5c7a617824bef",
+      "_id": "9bd5c7a617824bef",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Compel a powerful force to retreat",
+      "text": "Compel a powerful force to retreat"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.d7dca8150cae44c4",
+      "_id": "d7dca8150cae44c4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Liberate a people from tyranny",
+      "text": "Liberate a people from tyranny"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.c4e15012ae964bab",
+      "_id": "c4e15012ae964bab",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Find a missing relative",
+      "text": "Find a missing relative"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.32b68fb1197d4357",
+      "_id": "32b68fb1197d4357",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rescue a trapped soul",
+      "text": "Rescue a trapped soul"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.0201ca8d593d401c",
+      "_id": "0201ca8d593d401c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Become a hero of legend",
+      "text": "Become a hero of legend"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.9ec6941fe4f34ee1",
+      "_id": "9ec6941fe4f34ee1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Uphold a sacred oath",
+      "text": "Uphold a sacred oath"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.ca682671f39b467c",
+      "_id": "ca682671f39b467c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Uncover the secrets of the afterlife",
+      "text": "Uncover the secrets of the afterlife"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.375ffef4b3124bb3",
+      "_id": "375ffef4b3124bb3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Embark on a personal pilgrimage",
+      "text": "Embark on a personal pilgrimage"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.5808e0897f054c8f",
+      "_id": "5808e0897f054c8f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Promote global understanding",
+      "text": "Promote global understanding"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.f68812843fdf42db",
+      "_id": "f68812843fdf42db",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unlock a hidden potential",
+      "text": "Unlock a hidden potential"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.865b263b2eab4903",
+      "_id": "865b263b2eab4903",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Become the confidante of a figure",
+      "text": "Become the confidante of a figure"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.cba86e043cd74119",
+      "_id": "cba86e043cd74119",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Become a legendary warrior",
+      "text": "Become a legendary warrior"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.378a2f8a8f7b4697",
+      "_id": "378a2f8a8f7b4697",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Overcome a personal trauma",
+      "text": "Overcome a personal trauma"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.9999f988e1bf4f42",
+      "_id": "9999f988e1bf4f42",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Overcome a great personal challenge",
+      "text": "Overcome a great personal challenge"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.1557d889a19b4c5c",
+      "_id": "1557d889a19b4c5c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Establish peace between two factions",
+      "text": "Establish peace between two factions"
+    },
+    {
+      "_originalKey": "!tables.results!cdb45041a9db422b.0e38c519e80d4d29",
+      "_id": "0e38c519e80d4d29",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Become a beacon of hope",
+      "text": "Become a beacon of hope"
+    }
+  ]
+}

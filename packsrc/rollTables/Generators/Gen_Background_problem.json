@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Background problem",
+  "_id": "d1f5d00afd5f42a3",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> The world’s current pressures — atmosphere, challenges, and power dynamics.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "78615aecae4441c0",
+    "c902406e814746c7",
+    "50772db5cfbc4263",
+    "3bc19e6d3e5d4a60",
+    "7faa2476fdfa48b0",
+    "76d81b9d18fd476f",
+    "f09cb51a276f4e82",
+    "502a3692788c4fc2",
+    "cf123e9ea4f04f4f",
+    "3ca71a032e5e4df0",
+    "510ad3aa74244a70",
+    "e1b2519913cb4477",
+    "ad4ae2a3a54848ae",
+    "b1b3356256b54aba",
+    "fdaee4722bf44c4f",
+    "5223a7357211402e",
+    "a848294b743143ba",
+    "66f19d74b98e426c",
+    "ac079aec808d47cc",
+    "1413cdad40614fdc"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!d1f5d00afd5f42a3",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.78615aecae4441c0",
+      "_id": "78615aecae4441c0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Government: Oppression, tyranny, there’s a problematic leader, the situation is dire",
+      "text": "Government: Oppression, tyranny, there’s a problematic leader, the situation is dire"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.c902406e814746c7",
+      "_id": "c902406e814746c7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Safety: High crime, violence, murders, gangs, mobs, anarchy, there is no law",
+      "text": "Safety: High crime, violence, murders, gangs, mobs, anarchy, there is no law"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.50772db5cfbc4263",
+      "_id": "50772db5cfbc4263",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Special: Something extremely important, or valuable, is lost, or has been stolen",
+      "text": "Special: Something extremely important, or valuable, is lost, or has been stolen"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.3bc19e6d3e5d4a60",
+      "_id": "3bc19e6d3e5d4a60",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Together: Common enemy, global threat building up, and is going to affect us all",
+      "text": "Together: Common enemy, global threat building up, and is going to affect us all"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.7faa2476fdfa48b0",
+      "_id": "7faa2476fdfa48b0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Struggle: There is a confrontation of two local factions for power, enemies within",
+      "text": "Struggle: There is a confrontation of two local factions for power, enemies within"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.76d81b9d18fd476f",
+      "_id": "76d81b9d18fd476f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unavoidable: Natural disaster, catastrophe, terrible weather, doom, damage control",
+      "text": "Unavoidable: Natural disaster, catastrophe, terrible weather, doom, damage control"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.f09cb51a276f4e82",
+      "_id": "f09cb51a276f4e82",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Punishment: Plague, curse, damnation, sickness, disease, we are helpless, we are dying",
+      "text": "Punishment: Plague, curse, damnation, sickness, disease, we are helpless, we are dying"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.502a3692788c4fc2",
+      "_id": "502a3692788c4fc2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Secrecy: Secret organizations, rumors, intelligence, espionage, we’re being watched",
+      "text": "Secrecy: Secret organizations, rumors, intelligence, espionage, we’re being watched"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.cf123e9ea4f04f4f",
+      "_id": "cf123e9ea4f04f4f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Confusion: What used to work isn’t working anymore, failure, ignorance, powerless",
+      "text": "Confusion: What used to work isn’t working anymore, failure, ignorance, powerless"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.3ca71a032e5e4df0",
+      "_id": "3ca71a032e5e4df0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Blame: Since an object was discovered or brought here, everything is wrong",
+      "text": "Blame: Since an object was discovered or brought here, everything is wrong"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.510ad3aa74244a70",
+      "_id": "510ad3aa74244a70",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Strength: Large scale conflict, war, lack of supplies, hardship, need to work together",
+      "text": "Strength: Large scale conflict, war, lack of supplies, hardship, need to work together"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.e1b2519913cb4477",
+      "_id": "e1b2519913cb4477",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Innocence: Endangered tribe, species, creature, animals, or a similar vulnerable group",
+      "text": "Innocence: Endangered tribe, species, creature, animals, or a similar vulnerable group"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.ad4ae2a3a54848ae",
+      "_id": "ad4ae2a3a54848ae",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Victims: Kidnapping, disappearances, it matters; these are valuable people to us",
+      "text": "Victims: Kidnapping, disappearances, it matters; these are valuable people to us"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.b1b3356256b54aba",
+      "_id": "b1b3356256b54aba",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hypocrisy: Corruption everywhere, tax pressure, hunger, injustice, oppression",
+      "text": "Hypocrisy: Corruption everywhere, tax pressure, hunger, injustice, oppression"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.fdaee4722bf44c4f",
+      "_id": "fdaee4722bf44c4f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sabotage: Trade routes troubled, lack of supplies, a siege, raiders, pirates, monsters",
+      "text": "Sabotage: Trade routes troubled, lack of supplies, a siege, raiders, pirates, monsters"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.5223a7357211402e",
+      "_id": "5223a7357211402e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Cosmic: Weird event happened, phenomenon, feels very strange, something not right",
+      "text": "Cosmic: Weird event happened, phenomenon, feels very strange, something not right"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.a848294b743143ba",
+      "_id": "a848294b743143ba",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Injustice: Lack of good morals, segregation, hunger, poverty, the rich and the poor",
+      "text": "Injustice: Lack of good morals, segregation, hunger, poverty, the rich and the poor"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.66f19d74b98e426c",
+      "_id": "66f19d74b98e426c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Voice: Uprising, rebellion, revolution, riots, the people, bring the powerful down",
+      "text": "Voice: Uprising, rebellion, revolution, riots, the people, bring the powerful down"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.ac079aec808d47cc",
+      "_id": "ac079aec808d47cc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Panic: Chaos, despair, pandemonium, outsiders, aliens, survival, the apocalypse",
+      "text": "Panic: Chaos, despair, pandemonium, outsiders, aliens, survival, the apocalypse"
+    },
+    {
+      "_originalKey": "!tables.results!d1f5d00afd5f42a3.1413cdad40614fdc",
+      "_id": "1413cdad40614fdc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Belief: Religious oppression, holy war, inquisition, extremists, prophecies, divine",
+      "text": "Belief: Religious oppression, holy war, inquisition, extremists, prophecies, divine"
+    }
+  ]
+}

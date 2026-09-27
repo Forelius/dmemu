@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Character activity",
+  "_id": "63b528d5e1c24e3c",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> What they are doing when you meet them.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "7f7fd457b66c467d",
+    "abd6a31e40ac4787",
+    "6a808eaa32474519",
+    "e9fad497d1634234",
+    "e46c07eb31124129",
+    "da6be308d5ab4feb",
+    "841e70d545f5482d",
+    "932fca6b56774655",
+    "35711b925f2744af",
+    "487df3bc6851485d",
+    "01be1daba2e94bae",
+    "38386230413f49a9",
+    "de1087271e624e12",
+    "314dcbe752ff4c6a",
+    "7f6fb50d29b74bc0",
+    "251667b770864dc8",
+    "797276cea0c249ab",
+    "5386ff5958eb4e49",
+    "444e891f45e74f82",
+    "5ed01ab690e149c9"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!63b528d5e1c24e3c",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.7f7fd457b66c467d",
+      "_id": "7f7fd457b66c467d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Looking for something, investigating, searching",
+      "text": "Looking for something, investigating, searching"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.abd6a31e40ac4787",
+      "_id": "abd6a31e40ac4787",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Lost, looking, confused, finding their way",
+      "text": "Lost, looking, confused, finding their way"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.6a808eaa32474519",
+      "_id": "6a808eaa32474519",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Working, busy, very active, doing things",
+      "text": "Working, busy, very active, doing things"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.e9fad497d1634234",
+      "_id": "e9fad497d1634234",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sitting by, idle, chilling out, relaxing, smoking",
+      "text": "Sitting by, idle, chilling out, relaxing, smoking"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.e46c07eb31124129",
+      "_id": "e46c07eb31124129",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Defending something, protecting, guarding",
+      "text": "Defending something, protecting, guarding"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.da6be308d5ab4feb",
+      "_id": "da6be308d5ab4feb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reading, analyzing, researching, writing",
+      "text": "Reading, analyzing, researching, writing"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.841e70d545f5482d",
+      "_id": "841e70d545f5482d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Eating, cooking, drinking, preparing something",
+      "text": "Eating, cooking, drinking, preparing something"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.932fca6b56774655",
+      "_id": "932fca6b56774655",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Walking, going somewhere, moving away",
+      "text": "Walking, going somewhere, moving away"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.35711b925f2744af",
+      "_id": "35711b925f2744af",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Training, working out, exercising, practicing",
+      "text": "Training, working out, exercising, practicing"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.487df3bc6851485d",
+      "_id": "487df3bc6851485d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Taking care of things, gardening, cleaning",
+      "text": "Taking care of things, gardening, cleaning"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.01be1daba2e94bae",
+      "_id": "01be1daba2e94bae",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Trading, selling, making business, dealing",
+      "text": "Trading, selling, making business, dealing"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.38386230413f49a9",
+      "_id": "38386230413f49a9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Playing, getting entertained, having fun",
+      "text": "Playing, getting entertained, having fun"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.de1087271e624e12",
+      "_id": "de1087271e624e12",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Meditating, thinking, concentrated, focused",
+      "text": "Meditating, thinking, concentrated, focused"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.314dcbe752ff4c6a",
+      "_id": "314dcbe752ff4c6a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Investigating, researching, analyzing, studying",
+      "text": "Investigating, researching, analyzing, studying"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.7f6fb50d29b74bc0",
+      "_id": "7f6fb50d29b74bc0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Talking, giving orders, negotiating, socializing",
+      "text": "Talking, giving orders, negotiating, socializing"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.251667b770864dc8",
+      "_id": "251667b770864dc8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fighting, defending himself, attacking",
+      "text": "Fighting, defending himself, attacking"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.797276cea0c249ab",
+      "_id": "797276cea0c249ab",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Protesting, shouting, having an argument",
+      "text": "Protesting, shouting, having an argument"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.5386ff5958eb4e49",
+      "_id": "5386ff5958eb4e49",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Crafting, building, or repairing something",
+      "text": "Crafting, building, or repairing something"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.444e891f45e74f82",
+      "_id": "444e891f45e74f82",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Meeting, planning, coordinating, deciding",
+      "text": "Meeting, planning, coordinating, deciding"
+    },
+    {
+      "_originalKey": "!tables.results!63b528d5e1c24e3c.5ed01ab690e149c9",
+      "_id": "5ed01ab690e149c9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Practicing magic, a ritual, praying, witchery",
+      "text": "Practicing magic, a ritual, praying, witchery"
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Opposition",
+  "_id": "cd50a64ae2d74585",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> Who or what stands against the protagonists.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "ab7910d3934c464b",
+    "0891d1827148464a",
+    "60e80986036841a5",
+    "52bb39661c5f406d",
+    "af1de4dc59894b40",
+    "d0db8342d09247de",
+    "7d30da692b8e4d96",
+    "61b50dc173d34e28",
+    "7b8b584da0414420",
+    "efd51ae2b27549b8",
+    "7df14f001fc24f8c",
+    "1baad85eb3514f23",
+    "ae26a70290774d62",
+    "962ec62348314f7e",
+    "406ec8748fc34366",
+    "3d2c7a4865414040",
+    "dcade0c9c0324ed1",
+    "45589cac90464338",
+    "dda8f1f35e904664",
+    "5583b596ff574335"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!cd50a64ae2d74585",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.ab7910d3934c464b",
+      "_id": "ab7910d3934c464b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "They have plenty of minions to stop you",
+      "text": "They have plenty of minions to stop you"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.0891d1827148464a",
+      "_id": "0891d1827148464a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "They have the police/guards on their side",
+      "text": "They have the police/guards on their side"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.60e80986036841a5",
+      "_id": "60e80986036841a5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "They have government/official support",
+      "text": "They have government/official support"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.52bb39661c5f406d",
+      "_id": "52bb39661c5f406d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "They made arrangements with hirelings",
+      "text": "They made arrangements with hirelings"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.af1de4dc59894b40",
+      "_id": "af1de4dc59894b40",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "They have agents in disguise on your hunt",
+      "text": "They have agents in disguise on your hunt"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.d0db8342d09247de",
+      "_id": "d0db8342d09247de",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "They have eyes and ears everywhere",
+      "text": "They have eyes and ears everywhere"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.7d30da692b8e4d96",
+      "_id": "7d30da692b8e4d96",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "They are rich, and very resourceful",
+      "text": "They are rich, and very resourceful"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.61b50dc173d34e28",
+      "_id": "61b50dc173d34e28",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "They are politically very powerful",
+      "text": "They are politically very powerful"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.7b8b584da0414420",
+      "_id": "7b8b584da0414420",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "They have powerful agents with abilities",
+      "text": "They have powerful agents with abilities"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.efd51ae2b27549b8",
+      "_id": "efd51ae2b27549b8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "They are aware of you, or expecting you",
+      "text": "They are aware of you, or expecting you"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.7df14f001fc24f8c",
+      "_id": "7df14f001fc24f8c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "You are very outnumbered by them",
+      "text": "You are very outnumbered by them"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.1baad85eb3514f23",
+      "_id": "1baad85eb3514f23",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "You have a relationship with one of them",
+      "text": "You have a relationship with one of them"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.ae26a70290774d62",
+      "_id": "ae26a70290774d62",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "You have something that bothers them",
+      "text": "You have something that bothers them"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.962ec62348314f7e",
+      "_id": "962ec62348314f7e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Your backstory is causing them trouble",
+      "text": "Your backstory is causing them trouble"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.406ec8748fc34366",
+      "_id": "406ec8748fc34366",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Your backstory is causing you trouble",
+      "text": "Your backstory is causing you trouble"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.3d2c7a4865414040",
+      "_id": "3d2c7a4865414040",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "You aren’t sure how or where they operate",
+      "text": "You aren’t sure how or where they operate"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.dcade0c9c0324ed1",
+      "_id": "dcade0c9c0324ed1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "You have a friend, or family, on their side",
+      "text": "You have a friend, or family, on their side"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.45589cac90464338",
+      "_id": "45589cac90464338",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "You could use a specific faction’s help",
+      "text": "You could use a specific faction’s help"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.dda8f1f35e904664",
+      "_id": "dda8f1f35e904664",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "You need a special object to defeat them",
+      "text": "You need a special object to defeat them"
+    },
+    {
+      "_originalKey": "!tables.results!cd50a64ae2d74585.5583b596ff574335",
+      "_id": "5583b596ff574335",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "You’ll need a good network to find them",
+      "text": "You’ll need a good network to find them"
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Caveat",
+  "_id": "ed5f5165839d49b1",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> A known complication or constraint on the job.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "c25bdc172ba845a6",
+    "2a60a1828eb2446f",
+    "b224e4a662754ce9",
+    "4ef80a405dbe4625",
+    "d8c1e75e639144a6",
+    "fa1cba33cf2543d1",
+    "ac167344691c4734",
+    "4c0ea543ec404ef0",
+    "286f29761bfe426a",
+    "8093b7adc38c47af",
+    "37c1c230d8b94422",
+    "1acf9b69176b47a0",
+    "035de42e00534b21",
+    "7d3fd11261f24563",
+    "7f71e00ca4a24147",
+    "59e6bb5aec204a7f",
+    "02059cefaaa84974",
+    "eb0ddbe69df44c04",
+    "f8df8179abb54b6e",
+    "ae99d0af0fa548b4"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!ed5f5165839d49b1",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.c25bdc172ba845a6",
+      "_id": "c25bdc172ba845a6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "We don’t know where the target is",
+      "text": "We don’t know where the target is"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.2a60a1828eb2446f",
+      "_id": "2a60a1828eb2446f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Target is always moving, unpredictable",
+      "text": "Target is always moving, unpredictable"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.b224e4a662754ce9",
+      "_id": "b224e4a662754ce9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sensitive third party getting involved",
+      "text": "Sensitive third party getting involved"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.4ef80a405dbe4625",
+      "_id": "4ef80a405dbe4625",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Divided opinions. Enemy needed/justified",
+      "text": "Divided opinions. Enemy needed/justified"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.d8c1e75e639144a6",
+      "_id": "d8c1e75e639144a6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Got competition, be careful, stop them",
+      "text": "Got competition, be careful, stop them"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.fa1cba33cf2543d1",
+      "_id": "fa1cba33cf2543d1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Background problem actively in your way",
+      "text": "Background problem actively in your way"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.ac167344691c4734",
+      "_id": "ac167344691c4734",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Lack of loyalty, trust, or confidence in you",
+      "text": "Lack of loyalty, trust, or confidence in you"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.4c0ea543ec404ef0",
+      "_id": "4c0ea543ec404ef0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rough beginning, start at a disadvantage",
+      "text": "Rough beginning, start at a disadvantage"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.286f29761bfe426a",
+      "_id": "286f29761bfe426a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Family member involved (is it your own?)",
+      "text": "Family member involved (is it your own?)"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.8093b7adc38c47af",
+      "_id": "8093b7adc38c47af",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "We are still missing some names",
+      "text": "We are still missing some names"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.37c1c230d8b94422",
+      "_id": "37c1c230d8b94422",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Too many uncertainties, stay low profile",
+      "text": "Too many uncertainties, stay low profile"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.1acf9b69176b47a0",
+      "_id": "1acf9b69176b47a0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "No killings (at least no innocent’s lives)",
+      "text": "No killings (at least no innocent’s lives)"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.035de42e00534b21",
+      "_id": "035de42e00534b21",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "We know where, but hard to get there",
+      "text": "We know where, but hard to get there"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.7d3fd11261f24563",
+      "_id": "7d3fd11261f24563",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Transport or travel routes compromised",
+      "text": "Transport or travel routes compromised"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.7f71e00ca4a24147",
+      "_id": "7f71e00ca4a24147",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Someone powerful is behind everything",
+      "text": "Someone powerful is behind everything"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.59e6bb5aec204a7f",
+      "_id": "59e6bb5aec204a7f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Legendary enemy allied to their cause",
+      "text": "Legendary enemy allied to their cause"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.02059cefaaa84974",
+      "_id": "02059cefaaa84974",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hazardous location conditions or traps",
+      "text": "Hazardous location conditions or traps"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.eb0ddbe69df44c04",
+      "_id": "eb0ddbe69df44c04",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unknown vulnerabilities, needs intel",
+      "text": "Unknown vulnerabilities, needs intel"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.f8df8179abb54b6e",
+      "_id": "f8df8179abb54b6e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "We aren’t ready yet. Needs preparation",
+      "text": "We aren’t ready yet. Needs preparation"
+    },
+    {
+      "_originalKey": "!tables.results!ed5f5165839d49b1.ae99d0af0fa548b4",
+      "_id": "ae99d0af0fa548b4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "We are under time pressure or limit",
+      "text": "We are under time pressure or limit"
+    }
+  ]
+}

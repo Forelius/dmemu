@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Nemesis past deeds",
+  "_id": "b64e6b8d995845eb",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> Something the adversary has already done.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "526dc9cef36448eb",
+    "efad6ad1ba7a44c5",
+    "b53d7e14cc76466a",
+    "8673d0e80bca4a62",
+    "70f938ff29644a63",
+    "c43472bf93024d19",
+    "16fa44a5e04a44cc",
+    "8b7f555cfaa0444b",
+    "f2f68d40d2d24f33",
+    "082c71f353514bdc",
+    "8079b09e5c9746c8",
+    "0d746f0e0e124055",
+    "2207a6e3fd4645be",
+    "536767bb59af4504",
+    "1ff3c8af6eb24af0",
+    "187f2d6c3b8b4352",
+    "bfa589bbd4d64476",
+    "625c6cea6d1d4a95",
+    "a0582fc35fc3445e",
+    "4c34d1c6395b4388"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!b64e6b8d995845eb",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.526dc9cef36448eb",
+      "_id": "526dc9cef36448eb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Found, or stole something of importance",
+      "text": "Found, or stole something of importance"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.efad6ad1ba7a44c5",
+      "_id": "efad6ad1ba7a44c5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Made the wrong choice, or a bad deed",
+      "text": "Made the wrong choice, or a bad deed"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.b53d7e14cc76466a",
+      "_id": "b53d7e14cc76466a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Learned a new skill, power, ability, mutation",
+      "text": "Learned a new skill, power, ability, mutation"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.8673d0e80bca4a62",
+      "_id": "8673d0e80bca4a62",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Trapped, captured, or kidnapped someone",
+      "text": "Trapped, captured, or kidnapped someone"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.70f938ff29644a63",
+      "_id": "70f938ff29644a63",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Blocked, sabotaged, or intercepted a route",
+      "text": "Blocked, sabotaged, or intercepted a route"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.c43472bf93024d19",
+      "_id": "c43472bf93024d19",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unleashed havoc, disaster, chaos, destruction",
+      "text": "Unleashed havoc, disaster, chaos, destruction"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.16fa44a5e04a44cc",
+      "_id": "16fa44a5e04a44cc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Disobeyed, broke a promise or pact, betrayed",
+      "text": "Disobeyed, broke a promise or pact, betrayed"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.8b7f555cfaa0444b",
+      "_id": "8b7f555cfaa0444b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Spread a curse, madness, poison, their word",
+      "text": "Spread a curse, madness, poison, their word"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.f2f68d40d2d24f33",
+      "_id": "f2f68d40d2d24f33",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Denied a truth, was found innocent, told lies",
+      "text": "Denied a truth, was found innocent, told lies"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.082c71f353514bdc",
+      "_id": "082c71f353514bdc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Leaked or sold out important information",
+      "text": "Leaked or sold out important information"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.8079b09e5c9746c8",
+      "_id": "8079b09e5c9746c8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Committed a murder, or sent an order to",
+      "text": "Committed a murder, or sent an order to"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.0d746f0e0e124055",
+      "_id": "0d746f0e0e124055",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Destroyed or damaged something of value",
+      "text": "Destroyed or damaged something of value"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.2207a6e3fd4645be",
+      "_id": "2207a6e3fd4645be",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Injured or caused harm to someone",
+      "text": "Injured or caused harm to someone"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.536767bb59af4504",
+      "_id": "536767bb59af4504",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Destroyed information, data, or evidence",
+      "text": "Destroyed information, data, or evidence"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.1ff3c8af6eb24af0",
+      "_id": "1ff3c8af6eb24af0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Damaged a location, area, or building",
+      "text": "Damaged a location, area, or building"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.187f2d6c3b8b4352",
+      "_id": "187f2d6c3b8b4352",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Claimed, captured, or sieged a location",
+      "text": "Claimed, captured, or sieged a location"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.bfa589bbd4d64476",
+      "_id": "bfa589bbd4d64476",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sabotaged or interrupted your next move",
+      "text": "Sabotaged or interrupted your next move"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.625c6cea6d1d4a95",
+      "_id": "625c6cea6d1d4a95",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Converted someone to their cause",
+      "text": "Converted someone to their cause"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.a0582fc35fc3445e",
+      "_id": "a0582fc35fc3445e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Equipped themselves with a new weapon",
+      "text": "Equipped themselves with a new weapon"
+    },
+    {
+      "_originalKey": "!tables.results!b64e6b8d995845eb.4c34d1c6395b4388",
+      "_id": "4c34d1c6395b4388",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Openly declared war, or attacked a faction",
+      "text": "Openly declared war, or attacked a faction"
+    }
+  ]
+}

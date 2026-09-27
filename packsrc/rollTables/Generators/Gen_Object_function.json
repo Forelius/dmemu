@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Object function",
+  "_id": "4ff4cc923cb84376",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> What an object is meant to do.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "a349dfc55ebe4350",
+    "ac28d6e3d3c84823",
+    "f2905694ff92447a",
+    "99b92e37432b4572",
+    "9ecadbe6923b4335",
+    "bb57f18d4dce43e8",
+    "8f9ed8b6fb064505",
+    "bb03852cd8524de4",
+    "dbcc65ab51384616",
+    "aa7f569742b04ccf",
+    "50e8bcfe548245ad",
+    "94d8652c6aa34d31",
+    "ecca39ec1b4d417e",
+    "53851bf5fadf4e11",
+    "d9b9ca41553d4775",
+    "b1f18c7bae534da6",
+    "acff46cbd1a94b39",
+    "aa69f06ff32d4f4b",
+    "7e2cb37d31c84707",
+    "c0634b2182c14b80"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!4ff4cc923cb84376",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.a349dfc55ebe4350",
+      "_id": "a349dfc55ebe4350",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Defend, protect, alert, detect, cover",
+      "text": "Defend, protect, alert, detect, cover"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.ac28d6e3d3c84823",
+      "_id": "ac28d6e3d3c84823",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Attack, hurt, damage, pierce, kill",
+      "text": "Attack, hurt, damage, pierce, kill"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.f2905694ff92447a",
+      "_id": "f2905694ff92447a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Emit sound, music, alarm, resonance",
+      "text": "Emit sound, music, alarm, resonance"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.99b92e37432b4572",
+      "_id": "99b92e37432b4572",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Emit signal, waves, radar, invisible forces",
+      "text": "Emit signal, waves, radar, invisible forces"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.9ecadbe6923b4335",
+      "_id": "9ecadbe6923b4335",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Transmit, collect, or record information",
+      "text": "Transmit, collect, or record information"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.bb57f18d4dce43e8",
+      "_id": "bb57f18d4dce43e8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Store, save, accumulate, collect",
+      "text": "Store, save, accumulate, collect"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.8f9ed8b6fb064505",
+      "_id": "8f9ed8b6fb064505",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Clean, remove, reset, maintain, restore",
+      "text": "Clean, remove, reset, maintain, restore"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.bb03852cd8524de4",
+      "_id": "bb03852cd8524de4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Emit heat, warmth, energy, electricity, charge",
+      "text": "Emit heat, warmth, energy, electricity, charge"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.dbcc65ab51384616",
+      "_id": "dbcc65ab51384616",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Transport, move, load, teleport, send",
+      "text": "Transport, move, load, teleport, send"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.aa7f569742b04ccf",
+      "_id": "aa7f569742b04ccf",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Channel electricity, magic, or faith",
+      "text": "Channel electricity, magic, or faith"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.50e8bcfe548245ad",
+      "_id": "50e8bcfe548245ad",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Craft, build, construct, repair, replace",
+      "text": "Craft, build, construct, repair, replace"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.94d8652c6aa34d31",
+      "_id": "94d8652c6aa34d31",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Communicate, connect, reach, link, bridge",
+      "text": "Communicate, connect, reach, link, bridge"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.ecca39ec1b4d417e",
+      "_id": "ecca39ec1b4d417e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "View, scan, explore, scout, view, zoom",
+      "text": "View, scan, explore, scout, view, zoom"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.53851bf5fadf4e11",
+      "_id": "53851bf5fadf4e11",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hear, listen, record, audio related",
+      "text": "Hear, listen, record, audio related"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.d9b9ca41553d4775",
+      "_id": "d9b9ca41553d4775",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Cool, freeze, chill, fortify, strengthen",
+      "text": "Cool, freeze, chill, fortify, strengthen"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.b1f18c7bae534da6",
+      "_id": "b1f18c7bae534da6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Explode, destroy, shatter, break",
+      "text": "Explode, destroy, shatter, break"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.acff46cbd1a94b39",
+      "_id": "acff46cbd1a94b39",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Produce radiation, sicken, corrode",
+      "text": "Produce radiation, sicken, corrode"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.aa69f06ff32d4f4b",
+      "_id": "aa69f06ff32d4f4b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Poison, immobilize, trap, hinder",
+      "text": "Poison, immobilize, trap, hinder"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.7e2cb37d31c84707",
+      "_id": "7e2cb37d31c84707",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Support, help, enhance, improve, reinforce",
+      "text": "Support, help, enhance, improve, reinforce"
+    },
+    {
+      "_originalKey": "!tables.results!4ff4cc923cb84376.c0634b2182c14b80",
+      "_id": "c0634b2182c14b80",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Give faith, hope, heal, restore",
+      "text": "Give faith, hope, heal, restore"
+    }
+  ]
+}

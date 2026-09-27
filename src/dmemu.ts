@@ -4,27 +4,37 @@
  */
 
 import { MODULE_ID } from "./constants.js";
+import { GeneratorsApp } from "./apps/GeneratorsApp.js";
 import { OracleApp } from "./apps/OracleApp.js";
+import { GeneratorService } from "./generators/GeneratorService.js";
 import { GrandOracleService, GrandOracleResult } from "./oracle/GrandOracleService.js";
 import { YesNoOracleService, YesNoRollRequest, YesNoRollResult } from "./oracle/YesNoOracleService.js";
 
 export { MODULE_ID } from "./constants.js";
+export { GeneratorsApp } from "./apps/GeneratorsApp.js";
 export { OracleApp } from "./apps/OracleApp.js";
+export { GeneratorService } from "./generators/GeneratorService.js";
 export { GrandOracleService } from "./oracle/GrandOracleService.js";
 export { YesNoOracleService } from "./oracle/YesNoOracleService.js";
 export * from "./oracle/data/yesNoMatrices.js";
 export * from "./oracle/grandOracleTables.js";
+export * from "./generators/generatorTables.js";
 
 interface DmemuApi {
    openOracle: () => OracleApp;
+   openGenerators: () => GeneratorsApp;
    oracle: {
       yesNo: (request: YesNoRollRequest) => Promise<YesNoRollResult>;
       postYesNo: (result: YesNoRollResult) => Promise<void>;
       grand: () => Promise<GrandOracleResult>;
    };
+   generators: {
+      combo: (comboId: string) => Promise<unknown>;
+   };
 }
 
 let oracleApp: OracleApp | null = null;
+let generatorsApp: GeneratorsApp | null = null;
 
 function openOracle(): OracleApp {
    if (!oracleApp) {
@@ -32,6 +42,14 @@ function openOracle(): OracleApp {
    }
    oracleApp.render({ force: true });
    return oracleApp;
+}
+
+function openGenerators(): GeneratorsApp {
+   if (!generatorsApp) {
+      generatorsApp = new GeneratorsApp();
+   }
+   generatorsApp.render({ force: true });
+   return generatorsApp;
 }
 
 function registerSettings(): void {
@@ -58,10 +76,14 @@ Hooks.once("init", () => {
 Hooks.once("ready", () => {
    const api: DmemuApi = {
       openOracle,
+      openGenerators,
       oracle: {
          yesNo: (request) => YesNoOracleService.roll(request),
          postYesNo: (result) => YesNoOracleService.postToChat(result),
          grand: () => GrandOracleService.rollAndPost(),
+      },
+      generators: {
+         combo: (comboId) => GeneratorService.rollComboAndPost(comboId),
       },
    };
    game.dmemu = api;

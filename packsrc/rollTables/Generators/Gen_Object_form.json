@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Object form",
+  "_id": "39b1624fe0c64eb7",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> How the object looks or feels physically.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "8adb1980ab5c4bda",
+    "abf08134fa0a4c53",
+    "6a7b78c916074739",
+    "d0f353c67d534522",
+    "6b5a65e0099d4335",
+    "643e5d09c1664721",
+    "c401162d81354841",
+    "07e8b6b5605d4702",
+    "3a4daa0f0c8e4d77",
+    "500cc857f32f465e",
+    "22f3e93a4238451a",
+    "b979d79757894317",
+    "17d7db51d37940ad",
+    "4ca7c4a4d4864c39",
+    "c48f28d2879648b8",
+    "c0a4dd679bfe479c",
+    "cd4e165d19bd4199",
+    "48797165099a4a18",
+    "83a14f9448d94b83",
+    "e97887419e644ef1"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!39b1624fe0c64eb7",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.8adb1980ab5c4bda",
+      "_id": "8adb1980ab5c4bda",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Shiny, light-emitting, bright, white",
+      "text": "Shiny, light-emitting, bright, white"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.abf08134fa0a4c53",
+      "_id": "abf08134fa0a4c53",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Colorful, eye-catching, vibrant",
+      "text": "Colorful, eye-catching, vibrant"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.6a7b78c916074739",
+      "_id": "6a7b78c916074739",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hi-tech, digital, sensor, wave",
+      "text": "Hi-tech, digital, sensor, wave"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.d0f353c67d534522",
+      "_id": "d0f353c67d534522",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Geometric, symmetric, artistic",
+      "text": "Geometric, symmetric, artistic"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.6b5a65e0099d4335",
+      "_id": "6b5a65e0099d4335",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Vibrating, moving, shaking, unstable",
+      "text": "Vibrating, moving, shaking, unstable"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.643e5d09c1664721",
+      "_id": "643e5d09c1664721",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rusty, rotten, decomposing, smelly",
+      "text": "Rusty, rotten, decomposing, smelly"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.c401162d81354841",
+      "_id": "c401162d81354841",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Furry, hairy, warm, fluffy",
+      "text": "Furry, hairy, warm, fluffy"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.07e8b6b5605d4702",
+      "_id": "07e8b6b5605d4702",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Metallic, hard, heavy, solid",
+      "text": "Metallic, hard, heavy, solid"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.3a4daa0f0c8e4d77",
+      "_id": "3a4daa0f0c8e4d77",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Liquid, wet, humid, adaptable",
+      "text": "Liquid, wet, humid, adaptable"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.500cc857f32f465e",
+      "_id": "500cc857f32f465e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Spiky, pointy, sharp, edgy",
+      "text": "Spiky, pointy, sharp, edgy"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.22f3e93a4238451a",
+      "_id": "22f3e93a4238451a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sticky, glue, gruesome, gross",
+      "text": "Sticky, glue, gruesome, gross"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.b979d79757894317",
+      "_id": "b979d79757894317",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Magnetic, pull, push, repel, attract",
+      "text": "Magnetic, pull, push, repel, attract"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.17d7db51d37940ad",
+      "_id": "17d7db51d37940ad",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Electric, charged, loaded, exploding",
+      "text": "Electric, charged, loaded, exploding"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.4ca7c4a4d4864c39",
+      "_id": "4ca7c4a4d4864c39",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Organic, living, alive, breathing",
+      "text": "Organic, living, alive, breathing"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.c48f28d2879648b8",
+      "_id": "c48f28d2879648b8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reacting, shaking, sensitive",
+      "text": "Reacting, shaking, sensitive"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.c0a4dd679bfe479c",
+      "_id": "c0a4dd679bfe479c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Moving, floating, flying, hovering",
+      "text": "Moving, floating, flying, hovering"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.cd4e165d19bd4199",
+      "_id": "cd4e165d19bd4199",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Noisy, loud, flashy",
+      "text": "Noisy, loud, flashy"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.48797165099a4a18",
+      "_id": "48797165099a4a18",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Soft, bland, fragile, glass",
+      "text": "Soft, bland, fragile, glass"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.83a14f9448d94b83",
+      "_id": "83a14f9448d94b83",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Gaseous, ethereal, transparent",
+      "text": "Gaseous, ethereal, transparent"
+    },
+    {
+      "_originalKey": "!tables.results!39b1624fe0c64eb7.e97887419e644ef1",
+      "_id": "e97887419e644ef1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Magical, divine, prophetic, esoteric",
+      "text": "Magical, divine, prophetic, esoteric"
+    }
+  ]
+}

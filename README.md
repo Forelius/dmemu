@@ -27,10 +27,10 @@ Entry script loaded by Foundry: `module/dmemu.min.js`.
 
 1. Build the module (`npm run build`) and compile packs (`npm run comppacks`).
 2. Enable **Depths Master Emulator** in your world.
-3. From the **DMEmu Macros** pack, drag **Open DMEmu Oracle** to your hotbar (or run `game.dmemu.openOracle()`).
-4. Ask Yes/No questions with perspective + likelihood; use the **Grand** tab for Action/Adjective/Subject prompts; use Descriptive / Story / Quantifier tabs for enrichment draws.
+3. From the **DMEmu Macros** pack, drag **Open DMEmu Oracle** or **Open DMEmu Generators** to your hotbar (or run `game.dmemu.openOracle()` / `game.dmemu.openGenerators()`).
+4. Oracle: Yes/No, Grand, and enrichment tabs. Generators: Seed / World / Characters prompt tables.
 
-Client setting: **Oracle chat visibility** (self / GMs / everyone).
+Client setting: **DMEmu chat visibility** (self / GMs / everyone).
 
 ## Packs
 
@@ -41,8 +41,8 @@ npm run decomppacks   # LevelDB → packsrc JSON
 npm run comppacks     # packsrc JSON → LevelDB
 ```
 
-Included so far: Open Oracle macro; descriptive, story, and quantifier enrichment RollTables; GUM Grand Oracle (Action / Adjective / Subject).
+Included so far: Open Oracle / Open Generators macros; enrichment and Grand Oracle RollTables; seeding / world / character generator RollTables.
 
 ## Releases
 
-GitHub Actions build pre-releases from `main` and stable releases from `stable`. Install via the release `module.json` URL. Publishing to Foundry’s package library is not enabled yet.
+Publish a GitHub release from `main` (tag on `main`). The workflow builds the module, compiles packs, and attaches `module.json` + `module.zip`. Install via the release `module.json` URL. Publishing to Foundry’s package library is not enabled yet.

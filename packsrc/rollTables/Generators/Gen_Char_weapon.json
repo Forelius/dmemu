@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Character weapon",
+  "_id": "c68ec8e232424424",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> How they typically defend or fight.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "e047c0135bde4704",
+    "70a43be3aa0b43e9",
+    "2a519a1a22c047ef",
+    "14de7cd0c2b547d3",
+    "ef7c2b6b01a0483a",
+    "9257496bf1c84485",
+    "0760fa2f071a4eca",
+    "1f4d87d53aa94647",
+    "de45c756db654dca",
+    "3e158987d7684756",
+    "75e91d677e294aef",
+    "147d7cdfce4d4a39",
+    "0db9a8dbdf134702",
+    "48c6d9888f1448e8",
+    "56b77abb988e47a7",
+    "e1162cdc9d6e4697",
+    "77ec3a7035494cbb",
+    "6eef1031229b4771",
+    "cfff7ffbc07f4873",
+    "c036d54bcd244825"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!c68ec8e232424424",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.e047c0135bde4704",
+      "_id": "e047c0135bde4704",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unarmed, bare hands, at least apparently",
+      "text": "Unarmed, bare hands, at least apparently"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.70a43be3aa0b43e9",
+      "_id": "70a43be3aa0b43e9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Bone brass knuckle, or some self-defense",
+      "text": "Bone brass knuckle, or some self-defense"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.2a519a1a22c047ef",
+      "_id": "2a519a1a22c047ef",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Knife, or equivalent melee piercing",
+      "text": "Knife, or equivalent melee piercing"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.14de7cd0c2b547d3",
+      "_id": "14de7cd0c2b547d3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Cleave, or equivalent small blunt weapon",
+      "text": "Cleave, or equivalent small blunt weapon"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.ef7c2b6b01a0483a",
+      "_id": "ef7c2b6b01a0483a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Single-hand military melee weapon",
+      "text": "Single-hand military melee weapon"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.9257496bf1c84485",
+      "_id": "9257496bf1c84485",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Two-handed military large melee weapon",
+      "text": "Two-handed military large melee weapon"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.0760fa2f071a4eca",
+      "_id": "0760fa2f071a4eca",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Extremely large and heavy melee weapon",
+      "text": "Extremely large and heavy melee weapon"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.1f4d87d53aa94647",
+      "_id": "1f4d87d53aa94647",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Short range ballistic weapon",
+      "text": "Short range ballistic weapon"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.de45c756db654dca",
+      "_id": "de45c756db654dca",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Medium range ballistic weapon",
+      "text": "Medium range ballistic weapon"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.3e158987d7684756",
+      "_id": "3e158987d7684756",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Long range ballistic weapon",
+      "text": "Long range ballistic weapon"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.75e91d677e294aef",
+      "_id": "75e91d677e294aef",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Grenade, or throwing explosive weapon",
+      "text": "Grenade, or throwing explosive weapon"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.147d7cdfce4d4a39",
+      "_id": "147d7cdfce4d4a39",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Throwing weapons, like a throwing-knife",
+      "text": "Throwing weapons, like a throwing-knife"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.0db9a8dbdf134702",
+      "_id": "0db9a8dbdf134702",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Exotic short-range weapons like Shuriken",
+      "text": "Exotic short-range weapons like Shuriken"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.48c6d9888f1448e8",
+      "_id": "48c6d9888f1448e8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Exotic melee weapon like a whip or net",
+      "text": "Exotic melee weapon like a whip or net"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.56b77abb988e47a7",
+      "_id": "56b77abb988e47a7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Peaceable explosives, like a mine or trap",
+      "text": "Peaceable explosives, like a mine or trap"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.e1162cdc9d6e4697",
+      "_id": "e1162cdc9d6e4697",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Toxin or chemical based preparations",
+      "text": "Toxin or chemical based preparations"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.77ec3a7035494cbb",
+      "_id": "77ec3a7035494cbb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Portable large weapons or anti-vehicle",
+      "text": "Portable large weapons or anti-vehicle"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.6eef1031229b4771",
+      "_id": "6eef1031229b4771",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mobile turret or suppression weapons",
+      "text": "Mobile turret or suppression weapons"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.cfff7ffbc07f4873",
+      "_id": "cfff7ffbc07f4873",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Complex ranged weapons like a crossbow",
+      "text": "Complex ranged weapons like a crossbow"
+    },
+    {
+      "_originalKey": "!tables.results!c68ec8e232424424.c036d54bcd244825",
+      "_id": "c036d54bcd244825",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Non-weapon based skill or utility, other",
+      "text": "Non-weapon based skill or utility, other"
+    }
+  ]
+}

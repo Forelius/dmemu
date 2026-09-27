@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Character possessions",
+  "_id": "868074a26fa04252",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> Notable gear or belongings they carry.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "b4071577cf624af5",
+    "449b3ef123f34621",
+    "8d84bcc9e7ff4c5d",
+    "082676c9531a4b91",
+    "1e2f95b680364876",
+    "8a456e3ae9744685",
+    "8c20b38822864c8f",
+    "67c6cc4e5a1a4902",
+    "d660984d63c84e1a",
+    "cd3f9c1bff774c9c",
+    "f7dc0dd36d28418d",
+    "6fecdf73ec314926",
+    "2e8bc92eacfe47b5",
+    "c2e284ba44e744f0",
+    "ccf7e358171949dd",
+    "01aa1bcb98014c89",
+    "e853b51a10c2423e",
+    "40ad125e601b4c15",
+    "0653c04964a94b69",
+    "fdb24a50249b4fb3"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!868074a26fa04252",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.b4071577cf624af5",
+      "_id": "b4071577cf624af5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rich, wealthy, fancy clothes, ornaments, rings",
+      "text": "Rich, wealthy, fancy clothes, ornaments, rings"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.449b3ef123f34621",
+      "_id": "449b3ef123f34621",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Poor, rags, bad clothing, dirty, bad smell",
+      "text": "Poor, rags, bad clothing, dirty, bad smell"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.8d84bcc9e7ff4c5d",
+      "_id": "8d84bcc9e7ff4c5d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Weapon, a gun, a sword, knife, attack item",
+      "text": "Weapon, a gun, a sword, knife, attack item"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.082676c9531a4b91",
+      "_id": "082676c9531a4b91",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "An exotic object, a curiosity, an artifact",
+      "text": "An exotic object, a curiosity, an artifact"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.1e2f95b680364876",
+      "_id": "1e2f95b680364876",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Bag, briefcase, cargo, supplies, merchandise",
+      "text": "Bag, briefcase, cargo, supplies, merchandise"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.8a456e3ae9744685",
+      "_id": "8a456e3ae9744685",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Armor, defense equipment, shields, protection",
+      "text": "Armor, defense equipment, shields, protection"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.8c20b38822864c8f",
+      "_id": "8c20b38822864c8f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Book, notepad, notebook, laptop, tablet, scroll",
+      "text": "Book, notepad, notebook, laptop, tablet, scroll"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.67c6cc4e5a1a4902",
+      "_id": "67c6cc4e5a1a4902",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hand working tool, crafting, mining, workshop",
+      "text": "Hand working tool, crafting, mining, workshop"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.d660984d63c84e1a",
+      "_id": "d660984d63c84e1a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Specialized tool, laboratory, analysis equipment",
+      "text": "Specialized tool, laboratory, analysis equipment"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.cd3f9c1bff774c9c",
+      "_id": "cd3f9c1bff774c9c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Companion, friend, bodyguard, follower, pet",
+      "text": "Companion, friend, bodyguard, follower, pet"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.f7dc0dd36d28418d",
+      "_id": "f7dc0dd36d28418d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Vehicle, transport, horse, ride, or keys of",
+      "text": "Vehicle, transport, horse, ride, or keys of"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.6fecdf73ec314926",
+      "_id": "6fecdf73ec314926",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hobby or profession object for music or art",
+      "text": "Hobby or profession object for music or art"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.2e8bc92eacfe47b5",
+      "_id": "2e8bc92eacfe47b5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Implants, prosthetics, mutation, or extension",
+      "text": "Implants, prosthetics, mutation, or extension"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.c2e284ba44e744f0",
+      "_id": "c2e284ba44e744f0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Drink, food, cigarette, consumable, drugs",
+      "text": "Drink, food, cigarette, consumable, drugs"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.ccf7e358171949dd",
+      "_id": "ccf7e358171949dd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Personal value, family possession, a symbol",
+      "text": "Personal value, family possession, a symbol"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.01aa1bcb98014c89",
+      "_id": "01aa1bcb98014c89",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Faction symbol, badge, tattoo, uniform",
+      "text": "Faction symbol, badge, tattoo, uniform"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.e853b51a10c2423e",
+      "_id": "e853b51a10c2423e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Money, valuable, treasure, gold, shiny things",
+      "text": "Money, valuable, treasure, gold, shiny things"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.40ad125e601b4c15",
+      "_id": "40ad125e601b4c15",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A special item, magical, high-tech, or divine",
+      "text": "A special item, magical, high-tech, or divine"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.0653c04964a94b69",
+      "_id": "0653c04964a94b69",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Keys, access card, confidential information",
+      "text": "Keys, access card, confidential information"
+    },
+    {
+      "_originalKey": "!tables.results!868074a26fa04252.fdb24a50249b4fb3",
+      "_id": "fdb24a50249b4fb3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Gadgets, scout equipment, intel, high-tech",
+      "text": "Gadgets, scout equipment, intel, high-tech"
+    }
+  ]
+}

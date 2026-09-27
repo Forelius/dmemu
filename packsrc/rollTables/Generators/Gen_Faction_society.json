@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Faction society",
+  "_id": "e616c005a393439e",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> How the faction’s culture and social life feel.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "af754959cb41407b",
+    "b32496ef068b42ee",
+    "9752c9c138c04e1b",
+    "ba22b79ab0344620",
+    "5b9cc52ee9d2491f",
+    "4633d043080d4ca8",
+    "7039522732a5495a",
+    "b831329ea78247fb",
+    "448490a41b15432d",
+    "10faf18d372e4d3a",
+    "4ca9b683c60c4184",
+    "a6fc977c6e424f53",
+    "cf8ea1ddc8074ff7",
+    "fc88c4459a604acb",
+    "5d7d1bdac247464e",
+    "ff92c9a100f64722",
+    "7cf4b34d91124a12",
+    "af089faa9e2a4b69",
+    "118323d3f9ba4010",
+    "b318768555c74e48"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!e616c005a393439e",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.af754959cb41407b",
+      "_id": "af754959cb41407b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Small, independent groups with diverse ways",
+      "text": "Small, independent groups with diverse ways"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.b32496ef068b42ee",
+      "_id": "b32496ef068b42ee",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Strict social classes, rigid roles, and moral code",
+      "text": "Strict social classes, rigid roles, and moral code"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.9752c9c138c04e1b",
+      "_id": "9752c9c138c04e1b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Emphasis on community and shared goals",
+      "text": "Emphasis on community and shared goals"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.ba22b79ab0344620",
+      "_id": "ba22b79ab0344620",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Culture is defined by creativity and performance",
+      "text": "Culture is defined by creativity and performance"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.5b9cc52ee9d2491f",
+      "_id": "5b9cc52ee9d2491f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A dominant faith shapes all aspects of life",
+      "text": "A dominant faith shapes all aspects of life"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.4633d043080d4ca8",
+      "_id": "4633d043080d4ca8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Obsession with science, innovation and progress",
+      "text": "Obsession with science, innovation and progress"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.7039522732a5495a",
+      "_id": "7039522732a5495a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "History and knowledge passed down in stories",
+      "text": "History and knowledge passed down in stories"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.b831329ea78247fb",
+      "_id": "b831329ea78247fb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Emphasis on combat and physical prowess",
+      "text": "Emphasis on combat and physical prowess"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.448490a41b15432d",
+      "_id": "448490a41b15432d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Technologically integrated and progress-centric",
+      "text": "Technologically integrated and progress-centric"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.10faf18d372e4d3a",
+      "_id": "10faf18d372e4d3a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Diverse cultures interacting through trade",
+      "text": "Diverse cultures interacting through trade"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.4ca9b683c60c4184",
+      "_id": "4ca9b683c60c4184",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Secret organizations with their own agendas",
+      "text": "Secret organizations with their own agendas"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.a6fc977c6e424f53",
+      "_id": "a6fc977c6e424f53",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "No innovation or change, stuck in the old ways",
+      "text": "No innovation or change, stuck in the old ways"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.cf8ea1ddc8074ff7",
+      "_id": "cf8ea1ddc8074ff7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Blend of multiple cultures into a unique identity",
+      "text": "Blend of multiple cultures into a unique identity"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.fc88c4459a604acb",
+      "_id": "fc88c4459a604acb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Marginalized groups living on the fringes",
+      "text": "Marginalized groups living on the fringes"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.5d7d1bdac247464e",
+      "_id": "5d7d1bdac247464e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Constant movement, change, and adaptation",
+      "text": "Constant movement, change, and adaptation"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.ff92c9a100f64722",
+      "_id": "ff92c9a100f64722",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reverence for the mystical or ancient spirits",
+      "text": "Reverence for the mystical or ancient spirits"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.7cf4b34d91124a12",
+      "_id": "7cf4b34d91124a12",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Culture is focused on amusement and spectacle",
+      "text": "Culture is focused on amusement and spectacle"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.af089faa9e2a4b69",
+      "_id": "af089faa9e2a4b69",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Deep connection to animals or the natural world",
+      "text": "Deep connection to animals or the natural world"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.118323d3f9ba4010",
+      "_id": "118323d3f9ba4010",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Built on a unique social or political philosophy",
+      "text": "Built on a unique social or political philosophy"
+    },
+    {
+      "_originalKey": "!tables.results!e616c005a393439e.b318768555c74e48",
+      "_id": "b318768555c74e48",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Falling apart and in decay, to dissolve in chaos",
+      "text": "Falling apart and in decay, to dissolve in chaos"
+    }
+  ]
+}

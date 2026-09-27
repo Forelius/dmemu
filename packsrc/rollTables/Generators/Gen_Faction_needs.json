@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Faction surpluses or needs",
+  "_id": "0be1ef30e7d64920",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> A resource the faction has in abundance — or desperately lacks. Decide which fits.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "0537f9b102354199",
+    "9dac369dad4541a3",
+    "0b0d4ffe34034668",
+    "7a9e2d8d679d44ab",
+    "578f2dce93254eb8",
+    "0f171e02115f40fc",
+    "885ea4f8e6284ae9",
+    "609ae3cc7bd645ff",
+    "9c9bbe07ce1a476b",
+    "18eb1bd3fb7446a7",
+    "92c199616a7c4650",
+    "90b2a80a99444047",
+    "f3a54b28571d4f0e",
+    "5787db2868b44843",
+    "a8f92b99decf4004",
+    "73861b2216d843f8",
+    "80b96c8ccaf84b14",
+    "649d7dc8ebcf4929",
+    "78df6e70a0294df2",
+    "d2f303f7d2b94a73"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!0be1ef30e7d64920",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.0537f9b102354199",
+      "_id": "0537f9b102354199",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Wealth: Money, gold, reserves, or other assets that they can use to trade and control others",
+      "text": "Wealth: Money, gold, reserves, or other assets that they can use to trade and control others"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.9dac369dad4541a3",
+      "_id": "9dac369dad4541a3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Military: Well-trained, or well-equipped forces to fight, defend, or intimidate their enemies",
+      "text": "Military: Well-trained, or well-equipped forces to fight, defend, or intimidate their enemies"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.0b0d4ffe34034668",
+      "_id": "0b0d4ffe34034668",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Magic: Powerful, rare, or forbidden magic to cast spells, enchant objects, or manipulate reality",
+      "text": "Magic: Powerful, rare, or forbidden magic to cast spells, enchant objects, or manipulate reality"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.7a9e2d8d679d44ab",
+      "_id": "7a9e2d8d679d44ab",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Intelligence: Knowledge, or wisdom to solve problems, devise plans, or outsmart rivals",
+      "text": "Intelligence: Knowledge, or wisdom to solve problems, devise plans, or outsmart rivals"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.578f2dce93254eb8",
+      "_id": "578f2dce93254eb8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Culture: Rich, diverse, or influential culture to inspire, attract, or assimilate others",
+      "text": "Culture: Rich, diverse, or influential culture to inspire, attract, or assimilate others"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.0f171e02115f40fc",
+      "_id": "0f171e02115f40fc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Religion: Strong, devout, or charismatic faith to motivate, heal, or convert others",
+      "text": "Religion: Strong, devout, or charismatic faith to motivate, heal, or convert others"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.885ea4f8e6284ae9",
+      "_id": "885ea4f8e6284ae9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Diplomacy: Good reputation, network, or alliances to negotiate, cooperate, or trade with others",
+      "text": "Diplomacy: Good reputation, network, or alliances to negotiate, cooperate, or trade with others"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.609ae3cc7bd645ff",
+      "_id": "609ae3cc7bd645ff",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Technology: Advanced, innovative technology to invent, build, or improve things",
+      "text": "Technology: Advanced, innovative technology to invent, build, or improve things"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.9c9bbe07ce1a476b",
+      "_id": "9c9bbe07ce1a476b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Nature: Affinity with nature to communicate, control, or transform animals or plants",
+      "text": "Nature: Affinity with nature to communicate, control, or transform animals or plants"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.18eb1bd3fb7446a7",
+      "_id": "18eb1bd3fb7446a7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Art: Talent, skill, or passion for art that they can use to create, express, or impress others",
+      "text": "Art: Talent, skill, or passion for art that they can use to create, express, or impress others"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.92c199616a7c4650",
+      "_id": "92c199616a7c4650",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Education: High level of literacy, learning, or teaching to read, write, or educate others",
+      "text": "Education: High level of literacy, learning, or teaching to read, write, or educate others"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.90b2a80a99444047",
+      "_id": "90b2a80a99444047",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Medicine: Knowledge of anatomy and resources to heal, cure, or prevent diseases or injuries",
+      "text": "Medicine: Knowledge of anatomy and resources to heal, cure, or prevent diseases or injuries"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.f3a54b28571d4f0e",
+      "_id": "f3a54b28571d4f0e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Energy: Large amount of power resources to generate electricity, build, or run machines",
+      "text": "Energy: Large amount of power resources to generate electricity, build, or run machines"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.5787db2868b44843",
+      "_id": "5787db2868b44843",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Trade: Stability, goods, services, or markets that they can use to sell and buy things",
+      "text": "Trade: Stability, goods, services, or markets that they can use to sell and buy things"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.a8f92b99decf4004",
+      "_id": "a8f92b99decf4004",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Law: Fair and effective system of rules and regulations to maintain order and justice",
+      "text": "Law: Fair and effective system of rules and regulations to maintain order and justice"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.73861b2216d843f8",
+      "_id": "73861b2216d843f8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "History: Long and glorious past to remember and honor their ancestors and traditions",
+      "text": "History: Long and glorious past to remember and honor their ancestors and traditions"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.80b96c8ccaf84b14",
+      "_id": "80b96c8ccaf84b14",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Prophecy: Prediction of the future they use to guide and prepare themselves and others",
+      "text": "Prophecy: Prediction of the future they use to guide and prepare themselves and others"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.649d7dc8ebcf4929",
+      "_id": "649d7dc8ebcf4929",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Secret: A hidden or unknown advantage to surprise and confuse their enemies",
+      "text": "Secret: A hidden or unknown advantage to surprise and confuse their enemies"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.78df6e70a0294df2",
+      "_id": "78df6e70a0294df2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Loyalty: Strong bond of trust and respect among its members to support each other",
+      "text": "Loyalty: Strong bond of trust and respect among its members to support each other"
+    },
+    {
+      "_originalKey": "!tables.results!0be1ef30e7d64920.d2f303f7d2b94a73",
+      "_id": "d2f303f7d2b94a73",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Diversity: Variety of races, genders, classes, or abilities to complement and enrich each other",
+      "text": "Diversity: Variety of races, genders, classes, or abilities to complement and enrich each other"
+    }
+  ]
+}

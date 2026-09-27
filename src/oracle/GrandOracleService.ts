@@ -35,7 +35,8 @@ export class GrandOracleService {
 
       const parts: GrandOraclePartResult[] = [];
       for (const def of GRAND_ORACLE_PARTS) {
-         const table = pack.contents.find((t: { name: string }) => t.name === def.tableName) as
+         const found = pack.contents.find((t: { name: string }) => t.name === def.tableName);
+         const table = found as unknown as
             | {
                  name: string;
                  draw: (opts: { displayChat: boolean }) => Promise<{

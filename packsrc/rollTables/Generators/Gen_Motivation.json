@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Motivation",
+  "_id": "1d9072a3588249b5",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> Why the protagonists take the job or pursue the hook.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "752cf9ce5c5b4819",
+    "9c8fdc9e23984031",
+    "91ec8432e2e84162",
+    "dad3b84b744d4095",
+    "7afe2152eb0e4c97",
+    "82f8641d50374f68",
+    "dcb2c915bf124888",
+    "98bd5d4ce1bf41c9",
+    "a03edd7cb8834650",
+    "411d958202944890",
+    "ce8f7b4eae14474e",
+    "21cc23878ffc44d4",
+    "b8c3378f494a4189",
+    "fd454f2d1f7640bc",
+    "fcd1b43b283a4af1",
+    "12180bb7333e46cc",
+    "62daa69b441c4246",
+    "75d4e16b18bb4e38",
+    "2fa160d6ac834856",
+    "3e5a36f48aef45c3"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!1d9072a3588249b5",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.752cf9ce5c5b4819",
+      "_id": "752cf9ce5c5b4819",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A matter of money, debt, wrong people",
+      "text": "A matter of money, debt, wrong people"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.9c8fdc9e23984031",
+      "_id": "9c8fdc9e23984031",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A matter of promises, vows, duty, loyalty",
+      "text": "A matter of promises, vows, duty, loyalty"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.91ec8432e2e84162",
+      "_id": "91ec8432e2e84162",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "You have no choice, it has to be you",
+      "text": "You have no choice, it has to be you"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.dad3b84b744d4095",
+      "_id": "dad3b84b744d4095",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "You are forced to do it, mandate",
+      "text": "You are forced to do it, mandate"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.7afe2152eb0e4c97",
+      "_id": "7afe2152eb0e4c97",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Helps a world truth background problem",
+      "text": "Helps a world truth background problem"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.82f8641d50374f68",
+      "_id": "82f8641d50374f68",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Prevents a world truth issue to get worse",
+      "text": "Prevents a world truth issue to get worse"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.dcb2c915bf124888",
+      "_id": "dcb2c915bf124888",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "You get paid, a very tempting reward",
+      "text": "You get paid, a very tempting reward"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.98bd5d4ce1bf41c9",
+      "_id": "98bd5d4ce1bf41c9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Keep whatever you find along the way",
+      "text": "Keep whatever you find along the way"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.a03edd7cb8834650",
+      "_id": "a03edd7cb8834650",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Avoid someone getting really angry",
+      "text": "Avoid someone getting really angry"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.411d958202944890",
+      "_id": "411d958202944890",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A relationship matter, someone you care",
+      "text": "A relationship matter, someone you care"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.ce8f7b4eae14474e",
+      "_id": "ce8f7b4eae14474e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A personal matter, backstory related",
+      "text": "A personal matter, backstory related"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.21cc23878ffc44d4",
+      "_id": "21cc23878ffc44d4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reveal a world’s secret or valuable lore",
+      "text": "Reveal a world’s secret or valuable lore"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.b8c3378f494a4189",
+      "_id": "b8c3378f494a4189",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Trigger a drastic world changing element",
+      "text": "Trigger a drastic world changing element"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.fd454f2d1f7640bc",
+      "_id": "fd454f2d1f7640bc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Become powerful, gain status, or position",
+      "text": "Become powerful, gain status, or position"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.fcd1b43b283a4af1",
+      "_id": "fcd1b43b283a4af1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A unique artifact or object to be found",
+      "text": "A unique artifact or object to be found"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.12180bb7333e46cc",
+      "_id": "12180bb7333e46cc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Prevent great harm from being done",
+      "text": "Prevent great harm from being done"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.62daa69b441c4246",
+      "_id": "62daa69b441c4246",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Be able to come back home or to family",
+      "text": "Be able to come back home or to family"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.75d4e16b18bb4e38",
+      "_id": "75d4e16b18bb4e38",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unlock business or trade opportunity",
+      "text": "Unlock business or trade opportunity"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.2fa160d6ac834856",
+      "_id": "2fa160d6ac834856",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Achieve happiness, alleviate pain, find hope",
+      "text": "Achieve happiness, alleviate pain, find hope"
+    },
+    {
+      "_originalKey": "!tables.results!1d9072a3588249b5.3e5a36f48aef45c3",
+      "_id": "3e5a36f48aef45c3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Don’t know why, just do it, understand later",
+      "text": "Don’t know why, just do it, understand later"
+    }
+  ]
+}

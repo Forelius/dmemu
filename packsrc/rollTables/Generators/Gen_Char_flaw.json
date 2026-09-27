@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Character flaw",
+  "_id": "0f37bf21d74c4655",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> A weakness or fault that complicates them.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "d52be7f8a7d744ee",
+    "757b7b73646546ca",
+    "65f0c19dec6f4bfc",
+    "7b1c7885994b4902",
+    "c6782ec1490e4c0a",
+    "a7acc36fc75d4270",
+    "f9eacde24b43434f",
+    "59fa6dcb5e6640dd",
+    "4f4f24a8bc0045c3",
+    "37f97dd3f4c24ed7",
+    "90f90e0301f949ef",
+    "fa4cb05d0dd3440e",
+    "e90220f8a7ea4c86",
+    "a29e289c5a444308",
+    "c7be0636fed74a49",
+    "e220b8904ffa4196",
+    "b890108c88d9481a",
+    "4b907a11531d4d17",
+    "0fc3354b249c467d",
+    "d2275644a16c49a6"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!0f37bf21d74c4655",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.d52be7f8a7d744ee",
+      "_id": "d52be7f8a7d744ee",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Arrogant, hard-headed, selfish, above others",
+      "text": "Arrogant, hard-headed, selfish, above others"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.757b7b73646546ca",
+      "_id": "757b7b73646546ca",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Avoids danger, risk, and effort to the very last",
+      "text": "Avoids danger, risk, and effort to the very last"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.65f0c19dec6f4bfc",
+      "_id": "65f0c19dec6f4bfc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Easily angered, emotional, impulsive, reactive",
+      "text": "Easily angered, emotional, impulsive, reactive"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.7b1c7885994b4902",
+      "_id": "7b1c7885994b4902",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Too trusting, easily deceived, naive, weak-willed",
+      "text": "Too trusting, easily deceived, naive, weak-willed"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.c6782ec1490e4c0a",
+      "_id": "c6782ec1490e4c0a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Takes unnecessary risks, and dangers, impatient",
+      "text": "Takes unnecessary risks, and dangers, impatient"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.a7acc36fc75d4270",
+      "_id": "a7acc36fc75d4270",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Jealous, manipulative, quite resentful of others",
+      "text": "Jealous, manipulative, quite resentful of others"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.f9eacde24b43434f",
+      "_id": "f9eacde24b43434f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Indecisive, struggles to make choices, hesitant",
+      "text": "Indecisive, struggles to make choices, hesitant"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.59fa6dcb5e6640dd",
+      "_id": "59fa6dcb5e6640dd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Intruding, boastful, exaggerates everything",
+      "text": "Intruding, boastful, exaggerates everything"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.4f4f24a8bc0045c3",
+      "_id": "4f4f24a8bc0045c3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Cruel, enjoys causing pain, lustful and greedy",
+      "text": "Cruel, enjoys causing pain, lustful and greedy"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.37f97dd3f4c24ed7",
+      "_id": "37f97dd3f4c24ed7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Self-destructive, pessimistic, easily frustrated",
+      "text": "Self-destructive, pessimistic, easily frustrated"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.90f90e0301f949ef",
+      "_id": "90f90e0301f949ef",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fearful, avoids confrontations,weak-spirited",
+      "text": "Fearful, avoids confrontations,weak-spirited"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.fa4cb05d0dd3440e",
+      "_id": "fa4cb05d0dd3440e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Suspicious, paranoid, constant insecurity",
+      "text": "Suspicious, paranoid, constant insecurity"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.e90220f8a7ea4c86",
+      "_id": "e90220f8a7ea4c86",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Judgmental, intolerant, short-sighted at times",
+      "text": "Judgmental, intolerant, short-sighted at times"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.a29e289c5a444308",
+      "_id": "a29e289c5a444308",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Full of guilt, riddled and haunted by their past",
+      "text": "Full of guilt, riddled and haunted by their past"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.c7be0636fed74a49",
+      "_id": "c7be0636fed74a49",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sarcastic, hardly serious, sassy, hard to like",
+      "text": "Sarcastic, hardly serious, sassy, hard to like"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.e220b8904ffa4196",
+      "_id": "e220b8904ffa4196",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Overprotective, caring, puts others first",
+      "text": "Overprotective, caring, puts others first"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.b890108c88d9481a",
+      "_id": "b890108c88d9481a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unforgiving, resentful, and easily vindictive",
+      "text": "Unforgiving, resentful, and easily vindictive"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.4b907a11531d4d17",
+      "_id": "4b907a11531d4d17",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Superstitious, strong believer, faith before all",
+      "text": "Superstitious, strong believer, faith before all"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.0fc3354b249c467d",
+      "_id": "0fc3354b249c467d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Emotionally detached, cold-hearted, uncaring",
+      "text": "Emotionally detached, cold-hearted, uncaring"
+    },
+    {
+      "_originalKey": "!tables.results!0f37bf21d74c4655.d2275644a16c49a6",
+      "_id": "d2275644a16c49a6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hypocritical, tends to lie, tries to be liked by all",
+      "text": "Hypocritical, tends to lie, tries to be liked by all"
+    }
+  ]
+}

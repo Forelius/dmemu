@@ -1,0 +1,38 @@
+{{!-- DMEmu Generators Application --}}
+<section class="dmemu-oracle-form">
+  <p class="hint">{{about}}</p>
+
+  <nav class="dmemu-oracle-tabs" aria-label="{{localize "DMEMU.Generators.App.TabsLabel"}}">
+    {{#each tabs}}
+    <button type="button" class="{{#if active}}active{{/if}}" data-action="setTab" data-tab="{{id}}">
+      {{label}}
+    </button>
+    {{/each}}
+  </nav>
+
+  {{#if activeGroup}}
+  <fieldset>
+    <legend>{{activeGroup.label}}</legend>
+    <p class="hint">{{activeGroup.hint}}</p>
+
+    {{#if activeGroup.combos.length}}
+    <div class="dmemu-oracle-actions dmemu-gen-combos">
+      {{#each activeGroup.combos}}
+      <button type="button" data-action="rollCombo" data-combo-id="{{id}}" data-tooltip="{{hint}}">
+        <i class="fas fa-dice-d20"></i> {{label}}
+      </button>
+      {{/each}}
+    </div>
+    {{/if}}
+
+    <p class="hint dmemu-gen-single-label">{{localize "DMEMU.Generators.App.SingleDraws"}}</p>
+    <div class="dmemu-oracle-actions">
+      {{#each activeGroup.tables}}
+      <button type="button" data-action="drawTable" data-table-name="{{tableName}}" data-tooltip="{{hint}}">
+        {{label}}
+      </button>
+      {{/each}}
+    </div>
+  </fieldset>
+  {{/if}}
+</section>

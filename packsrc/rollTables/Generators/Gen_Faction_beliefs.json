@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Faction beliefs",
+  "_id": "2294e51f3f20412b",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> Core beliefs or faith that shape the faction.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "63fe657e43164b51",
+    "f989369451b5455b",
+    "ec3b76834d484388",
+    "0d88498ad93546e3",
+    "91c73d28f7854620",
+    "8d5403000e19480f",
+    "3604a3f61b3c4b7a",
+    "494db9f800c14cdd",
+    "10ce0fd415414a4d",
+    "5599bd1608d843eb",
+    "4e11b950c5244b5b",
+    "ff003a1d9e0f4b5e",
+    "50513aa89add4531",
+    "1bb8263b51234249",
+    "6c1ca4e141784e33",
+    "808209ad82ce4c7f",
+    "4791e7f6757a4188",
+    "6b1fb2f804154456",
+    "f7d22c7cdea844e8",
+    "dd2fa8ce7bda424d"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!2294e51f3f20412b",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.63fe657e43164b51",
+      "_id": "63fe657e43164b51",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reverence for the spirits of the dead and afterlife",
+      "text": "Reverence for the spirits of the dead and afterlife"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.f989369451b5455b",
+      "_id": "f989369451b5455b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Belief that all things possess a spirit or soul",
+      "text": "Belief that all things possess a spirit or soul"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.ec3b76834d484388",
+      "_id": "ec3b76834d484388",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "The balance of opposing forces, good and evil",
+      "text": "The balance of opposing forces, good and evil"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.0d88498ad93546e3",
+      "_id": "0d88498ad93546e3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Multiple deities with distinct domains and figures",
+      "text": "Multiple deities with distinct domains and figures"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.91c73d28f7854620",
+      "_id": "91c73d28f7854620",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Belief in a single, all-powerful monotheistic deity",
+      "text": "Belief in a single, all-powerful monotheistic deity"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.8d5403000e19480f",
+      "_id": "8d5403000e19480f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Deification of natural forces and elements",
+      "text": "Deification of natural forces and elements"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.3604a3f61b3c4b7a",
+      "_id": "3604a3f61b3c4b7a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Maintaining harmony within the universe",
+      "text": "Maintaining harmony within the universe"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.494db9f800c14cdd",
+      "_id": "494db9f800c14cdd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Predetermined events and divine guidance",
+      "text": "Predetermined events and divine guidance"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.10ce0fd415414a4d",
+      "_id": "10ce0fd415414a4d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "The cyclical rebirth of souls and reincarnation",
+      "text": "The cyclical rebirth of souls and reincarnation"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.5599bd1608d843eb",
+      "_id": "5599bd1608d843eb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Emphasis on reason, logic, and ethical principles",
+      "text": "Emphasis on reason, logic, and ethical principles"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.4e11b950c5244b5b",
+      "_id": "4e11b950c5244b5b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Worship of a charismatic leader or figure",
+      "text": "Worship of a charismatic leader or figure"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.ff003a1d9e0f4b5e",
+      "_id": "ff003a1d9e0f4b5e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Esoteric beliefs, rituals, and exotic practices",
+      "text": "Esoteric beliefs, rituals, and exotic practices"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.50513aa89add4531",
+      "_id": "50513aa89add4531",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Atheistic, belief in mindfulness and individuality",
+      "text": "Atheistic, belief in mindfulness and individuality"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.1bb8263b51234249",
+      "_id": "1bb8263b51234249",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Life is a series of trials to prove worthiness",
+      "text": "Life is a series of trials to prove worthiness"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.6c1ca4e141784e33",
+      "_id": "6c1ca4e141784e33",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Influence of celestial bodies and the universe",
+      "text": "Influence of celestial bodies and the universe"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.808209ad82ce4c7f",
+      "_id": "808209ad82ce4c7f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "The search of power, spells and incantations",
+      "text": "The search of power, spells and incantations"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.4791e7f6757a4188",
+      "_id": "4791e7f6757a4188",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Everyone possesses a spark of the divine",
+      "text": "Everyone possesses a spark of the divine"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.6b1fb2f804154456",
+      "_id": "6b1fb2f804154456",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Belief in an impending end of the world",
+      "text": "Belief in an impending end of the world"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.f7d22c7cdea844e8",
+      "_id": "f7d22c7cdea844e8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "The power of technology as a divine force",
+      "text": "The power of technology as a divine force"
+    },
+    {
+      "_originalKey": "!tables.results!2294e51f3f20412b.dd2fa8ce7bda424d",
+      "_id": "dd2fa8ce7bda424d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Blending of multiple religious traditions",
+      "text": "Blending of multiple religious traditions"
+    }
+  ]
+}

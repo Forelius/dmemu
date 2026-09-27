@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Location worth",
+  "_id": "1d249339cfb84804",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> Why the place matters strategically or culturally.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "fc987af5bb274227",
+    "a0409896054641ba",
+    "9c71264c68b649d7",
+    "1afab658c0b243a5",
+    "edad5b2f15a74334",
+    "3febf4fe8d824637",
+    "865eccf7aa0b47e0",
+    "081d68803be94e64",
+    "e794aa353d2245a4",
+    "adcfef9f046c4dec",
+    "8c9f67878f0446fd",
+    "e26360bcac7e4d1c",
+    "783170f8371c400d",
+    "cc816c65c92b4325",
+    "98fdde2f59d14fb0",
+    "25f7b14a369449e3",
+    "fae4313ba5b945a4",
+    "3363482727e34527",
+    "ebe1c7381fdf4f8b",
+    "94924c2c62ad49e8"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!1d249339cfb84804",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.fc987af5bb274227",
+      "_id": "fc987af5bb274227",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Geopolitical value, diplomacy, embassy",
+      "text": "Geopolitical value, diplomacy, embassy"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.a0409896054641ba",
+      "_id": "a0409896054641ba",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sacred, divine, holy, relics, artifacts",
+      "text": "Sacred, divine, holy, relics, artifacts"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.9c71264c68b649d7",
+      "_id": "9c71264c68b649d7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unique, artistic, architecture, design",
+      "text": "Unique, artistic, architecture, design"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.1afab658c0b243a5",
+      "_id": "1afab658c0b243a5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Storage of wealth, money, treasure",
+      "text": "Storage of wealth, money, treasure"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.edad5b2f15a74334",
+      "_id": "edad5b2f15a74334",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Minerals, resources, materials, crafting",
+      "text": "Minerals, resources, materials, crafting"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.3febf4fe8d824637",
+      "_id": "3febf4fe8d824637",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Technology, research, machinery, robotics",
+      "text": "Technology, research, machinery, robotics"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.865eccf7aa0b47e0",
+      "_id": "865eccf7aa0b47e0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Important people, elitist, unique, fancy",
+      "text": "Important people, elitist, unique, fancy"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.081d68803be94e64",
+      "_id": "081d68803be94e64",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Strategic place for business or tourism",
+      "text": "Strategic place for business or tourism"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.e794aa353d2245a4",
+      "_id": "e794aa353d2245a4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Military strategic, bottleneck, position",
+      "text": "Military strategic, bottleneck, position"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.adcfef9f046c4dec",
+      "_id": "adcfef9f046c4dec",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Trade routes, commerce, international",
+      "text": "Trade routes, commerce, international"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.8c9f67878f0446fd",
+      "_id": "8c9f67878f0446fd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Strategic nature, water, food, life, supplies",
+      "text": "Strategic nature, water, food, life, supplies"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.e26360bcac7e4d1c",
+      "_id": "e26360bcac7e4d1c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Intrinsic value, highly demanded, desired",
+      "text": "Intrinsic value, highly demanded, desired"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.783170f8371c400d",
+      "_id": "783170f8371c400d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Industrial power, production, supply chain",
+      "text": "Industrial power, production, supply chain"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.cc816c65c92b4325",
+      "_id": "cc816c65c92b4325",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Magical, special, esoteric, source, secret",
+      "text": "Magical, special, esoteric, source, secret"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.98fdde2f59d14fb0",
+      "_id": "98fdde2f59d14fb0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Historical purpose, culturally valuable",
+      "text": "Historical purpose, culturally valuable"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.25f7b14a369449e3",
+      "_id": "25f7b14a369449e3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Well-connected, routes, trades, logistics",
+      "text": "Well-connected, routes, trades, logistics"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.fae4313ba5b945a4",
+      "_id": "fae4313ba5b945a4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Knowledge source, records, documents",
+      "text": "Knowledge source, records, documents"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.3363482727e34527",
+      "_id": "3363482727e34527",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Nature, paradise like, unique geography",
+      "text": "Nature, paradise like, unique geography"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.ebe1c7381fdf4f8b",
+      "_id": "ebe1c7381fdf4f8b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Elevated position, or flying, visibility",
+      "text": "Elevated position, or flying, visibility"
+    },
+    {
+      "_originalKey": "!tables.results!1d249339cfb84804.94924c2c62ad49e8",
+      "_id": "94924c2c62ad49e8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fertile, land, food, production, resources",
+      "text": "Fertile, land, food, production, resources"
+    }
+  ]
+}

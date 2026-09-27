@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Character impression",
+  "_id": "f0ec87d8b89f4530",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> First visual or emotional read on the person.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "584481cbbf794044",
+    "9a3e61160a7d44a3",
+    "b4e2e87f96064322",
+    "5c6048b0f6e44eef",
+    "5660fd7b9cb64a41",
+    "f7aed091f7c6458b",
+    "6d6d2019ba754107",
+    "2187623d32354669",
+    "039c3023cb0b4b5c",
+    "d1114df2a5924f21",
+    "2dc1cde83b374735",
+    "8e6eba93d8a94b5e",
+    "343f70f4926f4a35",
+    "08f3cba0ce4d4c56",
+    "00e7fab1404149a6",
+    "06d9c314abfa4180",
+    "2a4019996c224bc4",
+    "47af9d5b1a65410e",
+    "2b1cb5495e8446b9",
+    "27af860d7d2b453e"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!f0ec87d8b89f4530",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.584481cbbf794044",
+      "_id": "584481cbbf794044",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Tough, athletic, strong, muscles",
+      "text": "Tough, athletic, strong, muscles"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.9a3e61160a7d44a3",
+      "_id": "9a3e61160a7d44a3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Thin, weak, defenseless, small",
+      "text": "Thin, weak, defenseless, small"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.b4e2e87f96064322",
+      "_id": "b4e2e87f96064322",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Tall, large, gigantic, fat, slow",
+      "text": "Tall, large, gigantic, fat, slow"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.5c6048b0f6e44eef",
+      "_id": "5c6048b0f6e44eef",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Exotic, different, distinct, weird",
+      "text": "Exotic, different, distinct, weird"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.5660fd7b9cb64a41",
+      "_id": "5660fd7b9cb64a41",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hurt, injured, dying, weakened",
+      "text": "Hurt, injured, dying, weakened"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.f7aed091f7c6458b",
+      "_id": "f7aed091f7c6458b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sick, debilitated, poisoned, faint",
+      "text": "Sick, debilitated, poisoned, faint"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.6d6d2019ba754107",
+      "_id": "6d6d2019ba754107",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Crippled, slow, trapped, hindered",
+      "text": "Crippled, slow, trapped, hindered"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.2187623d32354669",
+      "_id": "2187623d32354669",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Agile, flexible, fast, sneaky, nimble",
+      "text": "Agile, flexible, fast, sneaky, nimble"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.039c3023cb0b4b5c",
+      "_id": "039c3023cb0b4b5c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Scared, afraid, pinned down, taunted",
+      "text": "Scared, afraid, pinned down, taunted"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.d1114df2a5924f21",
+      "_id": "d1114df2a5924f21",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hesitant, insecure, nervous",
+      "text": "Hesitant, insecure, nervous"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.2dc1cde83b374735",
+      "_id": "2dc1cde83b374735",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Angry, infuriated, enraged, upset",
+      "text": "Angry, infuriated, enraged, upset"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.8e6eba93d8a94b5e",
+      "_id": "8e6eba93d8a94b5e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Happy, cheerful, easy going",
+      "text": "Happy, cheerful, easy going"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.343f70f4926f4a35",
+      "_id": "343f70f4926f4a35",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sad, crying, desperate, lonely",
+      "text": "Sad, crying, desperate, lonely"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.08f3cba0ce4d4c56",
+      "_id": "08f3cba0ce4d4c56",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Crazy, weird eyes, mad, gone",
+      "text": "Crazy, weird eyes, mad, gone"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.00e7fab1404149a6",
+      "_id": "00e7fab1404149a6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Lost, confused, unsure, hesitant",
+      "text": "Lost, confused, unsure, hesitant"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.06d9c314abfa4180",
+      "_id": "06d9c314abfa4180",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Paranoid, altered, exalted, unsettled",
+      "text": "Paranoid, altered, exalted, unsettled"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.2a4019996c224bc4",
+      "_id": "2a4019996c224bc4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Anxious, restless, unsettled, nervous",
+      "text": "Anxious, restless, unsettled, nervous"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.47af9d5b1a65410e",
+      "_id": "47af9d5b1a65410e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Intimidating, bully, bad guy, tough",
+      "text": "Intimidating, bully, bad guy, tough"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.2b1cb5495e8446b9",
+      "_id": "2b1cb5495e8446b9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Relaxed, chill, enjoying the moment",
+      "text": "Relaxed, chill, enjoying the moment"
+    },
+    {
+      "_originalKey": "!tables.results!f0ec87d8b89f4530.27af860d7d2b453e",
+      "_id": "27af860d7d2b453e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Drunk, on drugs, possessed",
+      "text": "Drunk, on drugs, possessed"
+    }
+  ]
+}

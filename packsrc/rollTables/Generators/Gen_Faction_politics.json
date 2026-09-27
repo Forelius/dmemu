@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Faction politics",
+  "_id": "5bf2081222cf4127",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> How power and economy work for the faction.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "c5acb1335a87431a",
+    "61c4c616ff9b4f20",
+    "9f62da73f9244efa",
+    "39a01559c7954395",
+    "eed46a35851d4395",
+    "e17b5373e3f0454e",
+    "202e80d7051b43e7",
+    "5284c96cbe714ab3",
+    "2e1137acf26e46be",
+    "71bbf65ffad84f6c",
+    "1c5a4b3269654ce0",
+    "af3996955bbd4fed",
+    "7acfe78d17244291",
+    "f03271923c6d4387",
+    "2e4074540e2441cc",
+    "c22316557a5c41ac",
+    "b23cfb8a80fc4648",
+    "f1d2bda1d18f4343",
+    "b0bde01f5a1644ed",
+    "3e90846852044222"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!5bf2081222cf4127",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.c5acb1335a87431a",
+      "_id": "c5acb1335a87431a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "No single ruling authority, fairly democratic",
+      "text": "No single ruling authority, fairly democratic"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.61c4c616ff9b4f20",
+      "_id": "61c4c616ff9b4f20",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A powerful single ruler or figure of reference",
+      "text": "A powerful single ruler or figure of reference"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.9f62da73f9244efa",
+      "_id": "9f62da73f9244efa",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Economy relies heavily on exterior commerce",
+      "text": "Economy relies heavily on exterior commerce"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.39a01559c7954395",
+      "_id": "39a01559c7954395",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Struggle for the limited resources and survival",
+      "text": "Struggle for the limited resources and survival"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.eed46a35851d4395",
+      "_id": "eed46a35851d4395",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Wealth generated from natural resources",
+      "text": "Wealth generated from natural resources"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.e17b5373e3f0454e",
+      "_id": "e17b5373e3f0454e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Frequent political struggles and conflicts",
+      "text": "Frequent political struggles and conflicts"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.202e80d7051b43e7",
+      "_id": "202e80d7051b43e7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Inefficient and heavily corrupt government",
+      "text": "Inefficient and heavily corrupt government"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.5284c96cbe714ab3",
+      "_id": "5284c96cbe714ab3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rule through force and military troops",
+      "text": "Rule through force and military troops"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.2e1137acf26e46be",
+      "_id": "2e1137acf26e46be",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Religious leaders hold the political power",
+      "text": "Religious leaders hold the political power"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.71bbf65ffad84f6c",
+      "_id": "71bbf65ffad84f6c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rule by a small, elite group, aristocrats",
+      "text": "Rule by a small, elite group, aristocrats"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.1c5a4b3269654ce0",
+      "_id": "1c5a4b3269654ce0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Exchange based trading, weak economy",
+      "text": "Exchange based trading, weak economy"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.af3996955bbd4fed",
+      "_id": "af3996955bbd4fed",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Strong currency that facilitates trade",
+      "text": "Strong currency that facilitates trade"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.7acfe78d17244291",
+      "_id": "7acfe78d17244291",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Central controlled production and distribution",
+      "text": "Central controlled production and distribution"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.f03271923c6d4387",
+      "_id": "f03271923c6d4387",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Minimal intervention in economy and society",
+      "text": "Minimal intervention in economy and society"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.2e4074540e2441cc",
+      "_id": "2e4074540e2441cc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Trade and crafts are controlled by guilds",
+      "text": "Trade and crafts are controlled by guilds"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.c22316557a5c41ac",
+      "_id": "c22316557a5c41ac",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Region controlled by an outside power",
+      "text": "Region controlled by an outside power"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.b23cfb8a80fc4648",
+      "_id": "b23cfb8a80fc4648",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Complex network of treaties, bureaucratic",
+      "text": "Complex network of treaties, bureaucratic"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.f1d2bda1d18f4343",
+      "_id": "f1d2bda1d18f4343",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Powerful criminal organizations region control",
+      "text": "Powerful criminal organizations region control"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.b0bde01f5a1644ed",
+      "_id": "b0bde01f5a1644ed",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Scientists or engineers hold political power",
+      "text": "Scientists or engineers hold political power"
+    },
+    {
+      "_originalKey": "!tables.results!5bf2081222cf4127.3e90846852044222",
+      "_id": "3e90846852044222",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Widespread poverty and ruin, weak politics",
+      "text": "Widespread poverty and ruin, weak politics"
+    }
+  ]
+}

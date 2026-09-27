@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Location archetype",
+  "_id": "6881b34c48164e6c",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> Setting and environment for the game world. Roll more than once to mix features.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "3f9257d03606499c",
+    "6918b11aa32747fa",
+    "d6a6f5cc641a42df",
+    "50040493180e4544",
+    "1c8f252fd26a4958",
+    "bf5d22bdc21c49ee",
+    "382b4bd3c6ec4a31",
+    "8e01ec120cae4de5",
+    "7e61fe56d9ff453e",
+    "66c8451e580447f4",
+    "1559a4c9a54b4b65",
+    "21b9634079744bd7",
+    "0ef6b7b425b2470a",
+    "699cc0b64e6f4fbd",
+    "9fd15bdd71a44ac9",
+    "851a8a4ea3f343cc",
+    "cdb6e41f85764877",
+    "3850a807ce9f4410",
+    "1db278c626174b95",
+    "b334a6d3a2c84a4f"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!6881b34c48164e6c",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.3f9257d03606499c",
+      "_id": "3f9257d03606499c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Humid: Wilderness, jungle, raining, rivers, marshes, falls",
+      "text": "Humid: Wilderness, jungle, raining, rivers, marshes, falls"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.6918b11aa32747fa",
+      "_id": "6918b11aa32747fa",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Forgotten: Ruins, outpost, camp, fortress, military base, castle",
+      "text": "Forgotten: Ruins, outpost, camp, fortress, military base, castle"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.d6a6f5cc641a42df",
+      "_id": "d6a6f5cc641a42df",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Urban: Metropolis, city, lively place, traffic jams, sprawl, business",
+      "text": "Urban: Metropolis, city, lively place, traffic jams, sprawl, business"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.50040493180e4544",
+      "_id": "50040493180e4544",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hidden: Cave, underground, underworld, tunnels, darkness, deep",
+      "text": "Hidden: Cave, underground, underworld, tunnels, darkness, deep"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.1c8f252fd26a4958",
+      "_id": "1c8f252fd26a4958",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Strange: Alien, new lands, unfamiliar, colony, discovery, exploration",
+      "text": "Strange: Alien, new lands, unfamiliar, colony, discovery, exploration"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.bf5d22bdc21c49ee",
+      "_id": "bf5d22bdc21c49ee",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Specialized: Research facility, school, laboratory, magic academy",
+      "text": "Specialized: Research facility, school, laboratory, magic academy"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.382b4bd3c6ec4a31",
+      "_id": "382b4bd3c6ec4a31",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Wilderness: Dry steppes, forest, deep woods, rivers, plains, mud",
+      "text": "Wilderness: Dry steppes, forest, deep woods, rivers, plains, mud"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.8e01ec120cae4de5",
+      "_id": "8e01ec120cae4de5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Heat: Hot region, desert, oasis, tundra, arid plains, sands, dust",
+      "text": "Heat: Hot region, desert, oasis, tundra, arid plains, sands, dust"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.7e61fe56d9ff453e",
+      "_id": "7e61fe56d9ff453e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Rough: Mountains, hills, snowy peaks, strong winds, rocks, cliffs",
+      "text": "Rough: Mountains, hills, snowy peaks, strong winds, rocks, cliffs"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.66c8451e580447f4",
+      "_id": "66c8451e580447f4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Busy: Trade routes, roads, in a journey, traveling, moving",
+      "text": "Busy: Trade routes, roads, in a journey, traveling, moving"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.1559a4c9a54b4b65",
+      "_id": "1559a4c9a54b4b65",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Water: Ocean, islands, sea, underwater, port, sea world, coast",
+      "text": "Water: Ocean, islands, sea, underwater, port, sea world, coast"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.21b9634079744bd7",
+      "_id": "21b9634079744bd7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Outskirts: Remote town, village, ghost town, old farms, wasteland",
+      "text": "Outskirts: Remote town, village, ghost town, old farms, wasteland"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.0ef6b7b425b2470a",
+      "_id": "0ef6b7b425b2470a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Indoors: Manor, a mansion, hotel, residence, tavern, large building",
+      "text": "Indoors: Manor, a mansion, hotel, residence, tavern, large building"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.699cc0b64e6f4fbd",
+      "_id": "699cc0b64e6f4fbd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Cold: Snow, tundra, very cold, freezing conditions, blizzard",
+      "text": "Cold: Snow, tundra, very cold, freezing conditions, blizzard"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.9fd15bdd71a44ac9",
+      "_id": "9fd15bdd71a44ac9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Social: Neighbor, ghetto, red alert zone, low suburbs, packed",
+      "text": "Social: Neighbor, ghetto, red alert zone, low suburbs, packed"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.851a8a4ea3f343cc",
+      "_id": "851a8a4ea3f343cc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Secret: Guild or faction headquarters, facility, station, hideout",
+      "text": "Secret: Guild or faction headquarters, facility, station, hideout"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.cdb6e41f85764877",
+      "_id": "cdb6e41f85764877",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Beyond: Elevated, tower, flying, aircraft, spaceship, space station",
+      "text": "Beyond: Elevated, tower, flying, aircraft, spaceship, space station"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.3850a807ce9f4410",
+      "_id": "3850a807ce9f4410",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Army: Military, barracks, fortress, carrier, submarine, warship",
+      "text": "Army: Military, barracks, fortress, carrier, submarine, warship"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.1db278c626174b95",
+      "_id": "1db278c626174b95",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Captive: Prison, captive, police station, dungeon, courts, locked",
+      "text": "Captive: Prison, captive, police station, dungeon, courts, locked"
+    },
+    {
+      "_originalKey": "!tables.results!6881b34c48164e6c.b334a6d3a2c84a4f",
+      "_id": "b334a6d3a2c84a4f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Dangerous: Rough, volcanic, hazardous, earthquake, rocky, burning",
+      "text": "Dangerous: Rough, volcanic, hazardous, earthquake, rocky, burning"
+    }
+  ]
+}

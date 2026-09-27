@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Creature type",
+  "_id": "5e02473b14ed45f4",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> The creature’s broad nature or form.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "461fa007156c401d",
+    "900579ee79314098",
+    "6419893c762041a0",
+    "5cec97da747a42fd",
+    "2bf8e2c2c58746e8",
+    "6adba40725b44e99",
+    "11f0eeb678634fa3",
+    "aa02f89cc3004bd8",
+    "f40eda3d2e5c4164",
+    "8cba1164127c4e4f",
+    "691cee3411d34dc4",
+    "b2a6def40907405b",
+    "b8535d473a9c457d",
+    "3e4f899a76924163",
+    "341b0e3713bc48f2",
+    "28e1ec3b8cc64333",
+    "7d7e4aa2edcb4ee9",
+    "7c7b35affb3e4841",
+    "e3c91010e7814584",
+    "7d291338b925420e"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!5e02473b14ed45f4",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.461fa007156c401d",
+      "_id": "461fa007156c401d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reptilian, dragon like, scales, hard skin, ugly",
+      "text": "Reptilian, dragon like, scales, hard skin, ugly"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.900579ee79314098",
+      "_id": "900579ee79314098",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Abnormally large insect, horrid, many eyes",
+      "text": "Abnormally large insect, horrid, many eyes"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.6419893c762041a0",
+      "_id": "6419893c762041a0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Winged, hairy, with a tail, thick, large, beast",
+      "text": "Winged, hairy, with a tail, thick, large, beast"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.5cec97da747a42fd",
+      "_id": "5cec97da747a42fd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Flesh, putrid, undead, scary, zombie, life-mimic",
+      "text": "Flesh, putrid, undead, scary, zombie, life-mimic"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.2bf8e2c2c58746e8",
+      "_id": "2bf8e2c2c58746e8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Tentacles, weird extensions, many extremities",
+      "text": "Tentacles, weird extensions, many extremities"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.6adba40725b44e99",
+      "_id": "6adba40725b44e99",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Skeleton, bone-based, hard, breakable",
+      "text": "Skeleton, bone-based, hard, breakable"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.11f0eeb678634fa3",
+      "_id": "11f0eeb678634fa3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Plant-like, fungus, flora, grows, nature-based",
+      "text": "Plant-like, fungus, flora, grows, nature-based"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.aa02f89cc3004bd8",
+      "_id": "aa02f89cc3004bd8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Robotic, armored, golem, strong, controlled",
+      "text": "Robotic, armored, golem, strong, controlled"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.f40eda3d2e5c4164",
+      "_id": "f40eda3d2e5c4164",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Shapeshifter, multiple forms, adaptable, regen",
+      "text": "Shapeshifter, multiple forms, adaptable, regen"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.8cba1164127c4e4f",
+      "_id": "8cba1164127c4e4f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Worm-like, squeezy, bland, disgusting, smelly",
+      "text": "Worm-like, squeezy, bland, disgusting, smelly"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.691cee3411d34dc4",
+      "_id": "691cee3411d34dc4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Ghostly, transparent, ethereal, invisible, spirit",
+      "text": "Ghostly, transparent, ethereal, invisible, spirit"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.b2a6def40907405b",
+      "_id": "b2a6def40907405b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mutated, transformed, deformed, improved",
+      "text": "Mutated, transformed, deformed, improved"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.b8535d473a9c457d",
+      "_id": "b8535d473a9c457d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Vampiric, bloody, biting, eating, fangs",
+      "text": "Vampiric, bloody, biting, eating, fangs"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.3e4f899a76924163",
+      "_id": "3e4f899a76924163",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Werewolf, monstruous, humanoid, beast",
+      "text": "Werewolf, monstruous, humanoid, beast"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.341b0e3713bc48f2",
+      "_id": "341b0e3713bc48f2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Mermaid, charming, mind-control, seducing",
+      "text": "Mermaid, charming, mind-control, seducing"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.28e1ec3b8cc64333",
+      "_id": "28e1ec3b8cc64333",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Gargoyle, stone-form, thick, shell, armor",
+      "text": "Gargoyle, stone-form, thick, shell, armor"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.7d7e4aa2edcb4ee9",
+      "_id": "7d7e4aa2edcb4ee9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Flying, agile, fast, nimble, jumping, displace",
+      "text": "Flying, agile, fast, nimble, jumping, displace"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.7c7b35affb3e4841",
+      "_id": "7c7b35affb3e4841",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Beast, large, monstrous, animalistic, barbaric",
+      "text": "Beast, large, monstrous, animalistic, barbaric"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.e3c91010e7814584",
+      "_id": "e3c91010e7814584",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Swarm, insect-like, very small, bacteria, virus",
+      "text": "Swarm, insect-like, very small, bacteria, virus"
+    },
+    {
+      "_originalKey": "!tables.results!5e02473b14ed45f4.7d291338b925420e",
+      "_id": "7d291338b925420e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Amorphic, liquid, ooze, wind-based, thoughts",
+      "text": "Amorphic, liquid, ooze, wind-based, thoughts"
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Faction focus",
+  "_id": "b243e77547d34299",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> What a faction currently drives toward.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "0ad626953574493a",
+    "ac0955b22f0f487c",
+    "5350f3c2c5a04ac1",
+    "bd2f31073d964f0b",
+    "c058854c8f674ef5",
+    "648bf578b50b4d41",
+    "f0171c3e58724361",
+    "22c94059c1a74ffe",
+    "b7df699673e84f1c",
+    "3376010688c34cfe",
+    "11668f966306468d",
+    "cf0d7feb70704566",
+    "49dbee0113c64949",
+    "afd5ea9355bf480e",
+    "123d03158f85425c",
+    "5c4ac20af030429e",
+    "948d3144e8644bfb",
+    "18395278b1714081",
+    "61d116a096e44d2c",
+    "dd8a6f6b58c04f9a"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!b243e77547d34299",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.0ad626953574493a",
+      "_id": "0ad626953574493a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Revenge: Has been recently or historically offended",
+      "text": "Revenge: Has been recently or historically offended"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.ac0955b22f0f487c",
+      "_id": "ac0955b22f0f487c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Survival: Struggles to survive and is ready to do anything",
+      "text": "Survival: Struggles to survive and is ready to do anything"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.5350f3c2c5a04ac1",
+      "_id": "5350f3c2c5a04ac1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Liberation: Desire to free themselves or another group from tyranny",
+      "text": "Liberation: Desire to free themselves or another group from tyranny"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.bd2f31073d964f0b",
+      "_id": "bd2f31073d964f0b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Exploration: Seeks new lands, adventure, geographic knowledge",
+      "text": "Exploration: Seeks new lands, adventure, geographic knowledge"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.c058854c8f674ef5",
+      "_id": "c058854c8f674ef5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Discovery: Search of lost artifacts, hidden knowledge, and secrets",
+      "text": "Discovery: Search of lost artifacts, hidden knowledge, and secrets"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.648bf578b50b4d41",
+      "_id": "648bf578b50b4d41",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Innovation: Invested in development and research of technology or magic",
+      "text": "Innovation: Invested in development and research of technology or magic"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.f0171c3e58724361",
+      "_id": "f0171c3e58724361",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Preservation: Protect or restore endangered, ancient, or sacred value",
+      "text": "Preservation: Protect or restore endangered, ancient, or sacred value"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.22c94059c1a74ffe",
+      "_id": "22c94059c1a74ffe",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Transformation: Seeks deeply to transform the world in their ways",
+      "text": "Transformation: Seeks deeply to transform the world in their ways"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.b7df699673e84f1c",
+      "_id": "b7df699673e84f1c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Ascension: Aims to achieve a higher state of being, power, or enlightenment",
+      "text": "Ascension: Aims to achieve a higher state of being, power, or enlightenment"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.3376010688c34cfe",
+      "_id": "3376010688c34cfe",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Redemption: Lives for the forgiveness of their soul and others",
+      "text": "Redemption: Lives for the forgiveness of their soul and others"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.11668f966306468d",
+      "_id": "11668f966306468d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Domination: Conquer or control other factions, territories, resources",
+      "text": "Domination: Conquer or control other factions, territories, resources"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.cf0d7feb70704566",
+      "_id": "cf0d7feb70704566",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Expansion: Expand borders, influence, or population by diplomacy or colonization",
+      "text": "Expansion: Expand borders, influence, or population by diplomacy or colonization"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.49dbee0113c64949",
+      "_id": "49dbee0113c64949",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Revolution: Rebels who want to break an established order, system, or authority",
+      "text": "Revolution: Rebels who want to break an established order, system, or authority"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.afd5ea9355bf480e",
+      "_id": "afd5ea9355bf480e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Restoration: Come back to their former glory, order, and restore the balance",
+      "text": "Restoration: Come back to their former glory, order, and restore the balance"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.123d03158f85425c",
+      "_id": "123d03158f85425c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Creation: Focus on the creation or design of life, architecture, art, or culture",
+      "text": "Creation: Focus on the creation or design of life, architecture, art, or culture"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.5c4ac20af030429e",
+      "_id": "5c4ac20af030429e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Destruction: Considers everything as old, ugly and harmful, as threatening to them",
+      "text": "Destruction: Considers everything as old, ugly and harmful, as threatening to them"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.948d3144e8644bfb",
+      "_id": "948d3144e8644bfb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unification: Seeks the reconciliation of different factions and stop conflicts",
+      "text": "Unification: Seeks the reconciliation of different factions and stop conflicts"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.18395278b1714081",
+      "_id": "18395278b1714081",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Separation: Seeks to become independent and isolated from other groups",
+      "text": "Separation: Seeks to become independent and isolated from other groups"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.61d116a096e44d2c",
+      "_id": "61d116a096e44d2c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Harmony: Search for spiritual, mental, or inner peace, within themselves or others",
+      "text": "Harmony: Search for spiritual, mental, or inner peace, within themselves or others"
+    },
+    {
+      "_originalKey": "!tables.results!b243e77547d34299.dd8a6f6b58c04f9a",
+      "_id": "dd8a6f6b58c04f9a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Chaos: Sows discord, conflict, and disorder among themselves and others",
+      "text": "Chaos: Sows discord, conflict, and disorder among themselves and others"
+    }
+  ]
+}

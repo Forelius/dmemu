@@ -1,0 +1,2129 @@
+{
+  "folder": null,
+  "name": "Generator — Evil intentions",
+  "_id": "1e4c3fbc73e8491a",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> Harmful deeds or approaches someone might take.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "4ff9a3102dca45f2",
+    "0594cf71ac334ca9",
+    "743e6ed74e794d91",
+    "727420c3940749fe",
+    "b4fbfd5dae4b4233",
+    "245a618496a3484f",
+    "d4e381394eaf4f11",
+    "4f14bc4069934bee",
+    "2aaa7742199041a1",
+    "7f4196c232774d91",
+    "40bdb122d12b4dca",
+    "c2cebd9d2de440da",
+    "4953785842bd435f",
+    "5aed828857a347ee",
+    "aebe76be2da74af2",
+    "57ba619602294756",
+    "bfd09bcde9454fe3",
+    "c3734e5e0f664991",
+    "a0bc4807cced452a",
+    "d4c284549cee4921",
+    "91ea682fff534d58",
+    "f294333b4bf245e2",
+    "b7bbc16a7bf14da9",
+    "7554d7e71be84efb",
+    "c482370666b343bc",
+    "b3a8fd4649d84d96",
+    "d309cadc6d144128",
+    "2e9ef8d5f6b8436f",
+    "59017a88fc3a4d0c",
+    "4c7ffc6b1cc74e66",
+    "9fddfc415da74351",
+    "eb56570f426645dc",
+    "e4600fcc44ff40ed",
+    "513c734b1fea4e9c",
+    "444b943f250a4560",
+    "16902bae9517454d",
+    "f607f5b8ca714885",
+    "3ab742fe964a4bea",
+    "60543b3dc4284a70",
+    "a2ba6739bc554418",
+    "10bb37b4fdec4fc1",
+    "3c125fb67d8e45a8",
+    "3387881c1316456e",
+    "87965f1f7983460b",
+    "7be212ed9453476a",
+    "0cce4060bc854b02",
+    "ef71e14b015c463b",
+    "ac628e5442e84ba4",
+    "27b3a4b12ad4497c",
+    "a96f602bc7bf4413",
+    "d4fcc33a10cd4ace",
+    "9fbc4fc3893743be",
+    "4f104b718eaf489f",
+    "67da293c55514eab",
+    "94a3f0ab33b14447",
+    "3902e798841b4ac9",
+    "82df8de848d848b1",
+    "4aa4a6a0a2884bc2",
+    "e082ab819c394b1c",
+    "ed96cfb366a04db3",
+    "407a9c3b5d5b473d",
+    "ccdc8454de444adc",
+    "f1865a3bca214c59",
+    "bc88670881914f9b",
+    "c7b1c14428984e89",
+    "ca6c7d559cba4e69",
+    "3111c41fc1034357",
+    "132b278af2e148e0",
+    "439abd33ceff4f5f",
+    "4af61bbce4584a56",
+    "ade8a16a2e2f428c",
+    "f5bd5e2ced7a4314",
+    "53ede95c6a7f4569",
+    "081d3d39d8c34e06",
+    "d4006ef6997e4d6e",
+    "6be20e40d652441d",
+    "2033d15067cf4100",
+    "a9df4f1aefb74050",
+    "55e45d95653e4d6a",
+    "8d841b82a76b4eb7",
+    "e3202783255a4f29",
+    "b417db4a8e2c4328",
+    "16f235b01362456f",
+    "5e6530c9e6c2447c",
+    "d93cbfd2846a452a",
+    "8324a5659ed34f78",
+    "b493b5988b014670",
+    "91ce3f44a37c495c",
+    "20edd09f5acf4065",
+    "94a5de46180f4ddd",
+    "a3d9985582e64d3c",
+    "0118bbed38e64c18",
+    "38540193da4f4bb0",
+    "39653f3d30404a84",
+    "1e58f22d8f8d4432",
+    "eb442f9b6d714abd",
+    "818efb51560848c2",
+    "f4f344b239094309",
+    "25e0f51453004fc0",
+    "e8f88e4842b94a4e"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d100",
+  "sort": 0,
+  "_originalKey": "!tables!1e4c3fbc73e8491a",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.4ff9a3102dca45f2",
+      "_id": "4ff9a3102dca45f2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Kill, murder, assassinate someone",
+      "text": "Kill, murder, assassinate someone"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.0594cf71ac334ca9",
+      "_id": "0594cf71ac334ca9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Make an act of stealing or robbery",
+      "text": "Make an act of stealing or robbery"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.743e6ed74e794d91",
+      "_id": "743e6ed74e794d91",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Intentionally lie in detriment of others",
+      "text": "Intentionally lie in detriment of others"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.727420c3940749fe",
+      "_id": "727420c3940749fe",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Conspire to start a war among others",
+      "text": "Conspire to start a war among others"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.b4fbfd5dae4b4233",
+      "_id": "b4fbfd5dae4b4233",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Raid and burn a village or location",
+      "text": "Raid and burn a village or location"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.245a618496a3484f",
+      "_id": "245a618496a3484f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sacrifice others for own goals",
+      "text": "Sacrifice others for own goals"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.d4e381394eaf4f11",
+      "_id": "d4e381394eaf4f11",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Destroy religious artifacts",
+      "text": "Destroy religious artifacts"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.4f14bc4069934bee",
+      "_id": "4f14bc4069934bee",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Conduct slavery or kidnapping",
+      "text": "Conduct slavery or kidnapping"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.2aaa7742199041a1",
+      "_id": "2aaa7742199041a1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Exercise oppression by force",
+      "text": "Exercise oppression by force"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.7f4196c232774d91",
+      "_id": "7f4196c232774d91",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Betray someone by surprise",
+      "text": "Betray someone by surprise"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.40bdb122d12b4dca",
+      "_id": "40bdb122d12b4dca",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sabotage own faction operations",
+      "text": "Sabotage own faction operations"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.c2cebd9d2de440da",
+      "_id": "c2cebd9d2de440da",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Destroy houses, farms, set on fire",
+      "text": "Destroy houses, farms, set on fire"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.4953785842bd435f",
+      "_id": "4953785842bd435f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unfair actions or choices upon others",
+      "text": "Unfair actions or choices upon others"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.5aed828857a347ee",
+      "_id": "5aed828857a347ee",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Exercise religious intolerance",
+      "text": "Exercise religious intolerance"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.aebe76be2da74af2",
+      "_id": "aebe76be2da74af2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Conduct a violent assault or battle",
+      "text": "Conduct a violent assault or battle"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.57ba619602294756",
+      "_id": "57ba619602294756",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Violence, raiding, looting",
+      "text": "Violence, raiding, looting"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.bfd09bcde9454fe3",
+      "_id": "bfd09bcde9454fe3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Vandalism and destruction",
+      "text": "Vandalism and destruction"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.c3734e5e0f664991",
+      "_id": "c3734e5e0f664991",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Torture or extortion for a demand",
+      "text": "Torture or extortion for a demand"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.a0bc4807cced452a",
+      "_id": "a0bc4807cced452a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Join or recruit for an evil force",
+      "text": "Join or recruit for an evil force"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.d4c284549cee4921",
+      "_id": "d4c284549cee4921",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Spying, sabotage, mind control",
+      "text": "Spying, sabotage, mind control"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.91ea682fff534d58",
+      "_id": "91ea682fff534d58",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Give means of destruction to a faction",
+      "text": "Give means of destruction to a faction"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.f294333b4bf245e2",
+      "_id": "f294333b4bf245e2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Vandalism and destruction",
+      "text": "Vandalism and destruction"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.b7bbc16a7bf14da9",
+      "_id": "b7bbc16a7bf14da9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Send thugs or assassins to kill",
+      "text": "Send thugs or assassins to kill"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.7554d7e71be84efb",
+      "_id": "7554d7e71be84efb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Accept or exercise bribery",
+      "text": "Accept or exercise bribery"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.c482370666b343bc",
+      "_id": "c482370666b343bc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sabotage machine or vehicle",
+      "text": "Sabotage machine or vehicle"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.b3a8fd4649d84d96",
+      "_id": "b3a8fd4649d84d96",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Corrupt the innocent, force ill actions",
+      "text": "Corrupt the innocent, force ill actions"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.d309cadc6d144128",
+      "_id": "d309cadc6d144128",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Destruction of nature or sources",
+      "text": "Destruction of nature or sources"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.2e9ef8d5f6b8436f",
+      "_id": "2e9ef8d5f6b8436f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Abuse of power, ability or magic",
+      "text": "Abuse of power, ability or magic"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.59017a88fc3a4d0c",
+      "_id": "59017a88fc3a4d0c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Exploitation of workforce",
+      "text": "Exploitation of workforce"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.4c7ffc6b1cc74e66",
+      "_id": "4c7ffc6b1cc74e66",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sabotage city defenses to help attacker",
+      "text": "Sabotage city defenses to help attacker"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.9fddfc415da74351",
+      "_id": "9fddfc415da74351",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Pay respect to an evil god or cult",
+      "text": "Pay respect to an evil god or cult"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.eb56570f426645dc",
+      "_id": "eb56570f426645dc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Destruction of old ruins and remnants",
+      "text": "Destruction of old ruins and remnants"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.e4600fcc44ff40ed",
+      "_id": "e4600fcc44ff40ed",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Be part of kidnapping and trafficking",
+      "text": "Be part of kidnapping and trafficking"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.513c734b1fea4e9c",
+      "_id": "513c734b1fea4e9c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "State terrorism or vandalism",
+      "text": "State terrorism or vandalism"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.444b943f250a4560",
+      "_id": "444b943f250a4560",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Support rises of tyranny or an old evil",
+      "text": "Support rises of tyranny or an old evil"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.16902bae9517454d",
+      "_id": "16902bae9517454d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Start an unjustified war or conflict",
+      "text": "Start an unjustified war or conflict"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.f607f5b8ca714885",
+      "_id": "f607f5b8ca714885",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Do evil for a supposed greater good",
+      "text": "Do evil for a supposed greater good"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.3ab742fe964a4bea",
+      "_id": "3ab742fe964a4bea",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Usurp a powerful or political position",
+      "text": "Usurp a powerful or political position"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.60543b3dc4284a70",
+      "_id": "60543b3dc4284a70",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Assault a location with innocents",
+      "text": "Assault a location with innocents"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.a2ba6739bc554418",
+      "_id": "a2ba6739bc554418",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Allowing or witness unjust suffering",
+      "text": "Allowing or witness unjust suffering"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.10bb37b4fdec4fc1",
+      "_id": "10bb37b4fdec4fc1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Conquer, colonize, override culture",
+      "text": "Conquer, colonize, override culture"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.3c125fb67d8e45a8",
+      "_id": "3c125fb67d8e45a8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hunting of creatures, beasts, preys",
+      "text": "Hunting of creatures, beasts, preys"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.3387881c1316456e",
+      "_id": "3387881c1316456e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Neglect respect of hierarchy or an order",
+      "text": "Neglect respect of hierarchy or an order"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.87965f1f7983460b",
+      "_id": "87965f1f7983460b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Squander resources and sabotage",
+      "text": "Squander resources and sabotage"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.7be212ed9453476a",
+      "_id": "7be212ed9453476a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Refusal to help someone in need",
+      "text": "Refusal to help someone in need"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.0cce4060bc854b02",
+      "_id": "0cce4060bc854b02",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Manipulating others for benefit",
+      "text": "Manipulating others for benefit"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.ef71e14b015c463b",
+      "_id": "ef71e14b015c463b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Operate illegal gambling or business",
+      "text": "Operate illegal gambling or business"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.ac628e5442e84ba4",
+      "_id": "ac628e5442e84ba4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Ignore injustice or an ill act",
+      "text": "Ignore injustice or an ill act"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.27b3a4b12ad4497c",
+      "_id": "27b3a4b12ad4497c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Seduction for manipulation",
+      "text": "Seduction for manipulation"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.a96f602bc7bf4413",
+      "_id": "a96f602bc7bf4413",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Conduct burglary, bank robbery",
+      "text": "Conduct burglary, bank robbery"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.d4fcc33a10cd4ace",
+      "_id": "d4fcc33a10cd4ace",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Kill a trader, merchant or businessman",
+      "text": "Kill a trader, merchant or businessman"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.9fbc4fc3893743be",
+      "_id": "9fbc4fc3893743be",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Kill a governor, noble or politician",
+      "text": "Kill a governor, noble or politician"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.4f104b718eaf489f",
+      "_id": "4f104b718eaf489f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Leave behind an ally in need",
+      "text": "Leave behind an ally in need"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.67da293c55514eab",
+      "_id": "67da293c55514eab",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Take wrath or revenge an innocent soul",
+      "text": "Take wrath or revenge an innocent soul"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.94a3f0ab33b14447",
+      "_id": "94a3f0ab33b14447",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Acts of deception and manipulation",
+      "text": "Acts of deception and manipulation"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.3902e798841b4ac9",
+      "_id": "3902e798841b4ac9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Creating dispute or conflict in others",
+      "text": "Creating dispute or conflict in others"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.82df8de848d848b1",
+      "_id": "82df8de848d848b1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Be a false witness or lie to the law",
+      "text": "Be a false witness or lie to the law"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.4aa4a6a0a2884bc2",
+      "_id": "4aa4a6a0a2884bc2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Prevent someone from recovering",
+      "text": "Prevent someone from recovering"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.e082ab819c394b1c",
+      "_id": "e082ab819c394b1c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hindering progress or sabotage a town",
+      "text": "Hindering progress or sabotage a town"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.ed96cfb366a04db3",
+      "_id": "ed96cfb366a04db3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hide true motives from high powers",
+      "text": "Hide true motives from high powers"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.407a9c3b5d5b473d",
+      "_id": "407a9c3b5d5b473d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Imprisonment and torture of an innocent",
+      "text": "Imprisonment and torture of an innocent"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.ccdc8454de444adc",
+      "_id": "ccdc8454de444adc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Forcing of unwanted marriage for power",
+      "text": "Forcing of unwanted marriage for power"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.f1865a3bca214c59",
+      "_id": "f1865a3bca214c59",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Drug trafficking or smuggling",
+      "text": "Drug trafficking or smuggling"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.bc88670881914f9b",
+      "_id": "bc88670881914f9b",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Refuse to peace or stop a conflict",
+      "text": "Refuse to peace or stop a conflict"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.c7b1c14428984e89",
+      "_id": "c7b1c14428984e89",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hide a secret that could save lives",
+      "text": "Hide a secret that could save lives"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.ca6c7d559cba4e69",
+      "_id": "ca6c7d559cba4e69",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Praising or encouraging evil factions",
+      "text": "Praising or encouraging evil factions"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.3111c41fc1034357",
+      "_id": "3111c41fc1034357",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Selling secrets, intel, whistleblowing",
+      "text": "Selling secrets, intel, whistleblowing"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.132b278af2e148e0",
+      "_id": "132b278af2e148e0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Transport hostages or prisoners",
+      "text": "Transport hostages or prisoners"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.439abd33ceff4f5f",
+      "_id": "439abd33ceff4f5f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Conduct an ambush or stealth operation",
+      "text": "Conduct an ambush or stealth operation"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.4af61bbce4584a56",
+      "_id": "4af61bbce4584a56",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Order to destroy a group or faction",
+      "text": "Order to destroy a group or faction"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.ade8a16a2e2f428c",
+      "_id": "ade8a16a2e2f428c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Lead a gang, mafia or troublemakers",
+      "text": "Lead a gang, mafia or troublemakers"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.f5bd5e2ced7a4314",
+      "_id": "f5bd5e2ced7a4314",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Steal from the vulnerable, corruption",
+      "text": "Steal from the vulnerable, corruption"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.53ede95c6a7f4569",
+      "_id": "53ede95c6a7f4569",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Recover or usurp an evil artifact or power",
+      "text": "Recover or usurp an evil artifact or power"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.081d3d39d8c34e06",
+      "_id": "081d3d39d8c34e06",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Give an artifact to the wrong hands",
+      "text": "Give an artifact to the wrong hands"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.d4006ef6997e4d6e",
+      "_id": "d4006ef6997e4d6e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Fake an identity or conduct forgery",
+      "text": "Fake an identity or conduct forgery"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.6be20e40d652441d",
+      "_id": "6be20e40d652441d",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Create or summon monsters or creeps",
+      "text": "Create or summon monsters or creeps"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.2033d15067cf4100",
+      "_id": "2033d15067cf4100",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Develop or research a lethal weapon",
+      "text": "Develop or research a lethal weapon"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.a9df4f1aefb74050",
+      "_id": "a9df4f1aefb74050",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Raise armies, monsters, or mercenaries",
+      "text": "Raise armies, monsters, or mercenaries"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.55e45d95653e4d6a",
+      "_id": "55e45d95653e4d6a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hunt down a minor or weak faction",
+      "text": "Hunt down a minor or weak faction"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.8d841b82a76b4eb7",
+      "_id": "8d841b82a76b4eb7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Making false promises to people",
+      "text": "Making false promises to people"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.e3202783255a4f29",
+      "_id": "e3202783255a4f29",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Conduct piracy or raid convoys",
+      "text": "Conduct piracy or raid convoys"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.b417db4a8e2c4328",
+      "_id": "b417db4a8e2c4328",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Prey down on the weak and vulnerable",
+      "text": "Prey down on the weak and vulnerable"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.16f235b01362456f",
+      "_id": "16f235b01362456f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Decide not to save someone from death",
+      "text": "Decide not to save someone from death"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.5e6530c9e6c2447c",
+      "_id": "5e6530c9e6c2447c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Denying the truth to someone",
+      "text": "Denying the truth to someone"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.d93cbfd2846a452a",
+      "_id": "d93cbfd2846a452a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unfair trading or black market",
+      "text": "Unfair trading or black market"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.8324a5659ed34f78",
+      "_id": "8324a5659ed34f78",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Cast away, banish or execute people",
+      "text": "Cast away, banish or execute people"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.b493b5988b014670",
+      "_id": "b493b5988b014670",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Spread poison, plague or curse",
+      "text": "Spread poison, plague or curse"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.91ce3f44a37c495c",
+      "_id": "91ce3f44a37c495c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Refusal to respect faith or culture",
+      "text": "Refusal to respect faith or culture"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.20edd09f5acf4065",
+      "_id": "20edd09f5acf4065",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Raise the dead, necromancy",
+      "text": "Raise the dead, necromancy"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.94a5de46180f4ddd",
+      "_id": "94a5de46180f4ddd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Conduct dark rituals, blood, black magic",
+      "text": "Conduct dark rituals, blood, black magic"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.a3d9985582e64d3c",
+      "_id": "a3d9985582e64d3c",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Build secret lairs, illegal facilities",
+      "text": "Build secret lairs, illegal facilities"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.0118bbed38e64c18",
+      "_id": "0118bbed38e64c18",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Destroy lore, history, books, knowledge",
+      "text": "Destroy lore, history, books, knowledge"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.38540193da4f4bb0",
+      "_id": "38540193da4f4bb0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sabotage someone’s attempt to do good",
+      "text": "Sabotage someone’s attempt to do good"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.39653f3d30404a84",
+      "_id": "39653f3d30404a84",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Break a promise, disappoint someone",
+      "text": "Break a promise, disappoint someone"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.1e58f22d8f8d4432",
+      "_id": "1e58f22d8f8d4432",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hunt down a family or legacy",
+      "text": "Hunt down a family or legacy"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.eb442f9b6d714abd",
+      "_id": "eb442f9b6d714abd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Refuse to forgive or have piety",
+      "text": "Refuse to forgive or have piety"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.818efb51560848c2",
+      "_id": "818efb51560848c2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Promote false or malicious information",
+      "text": "Promote false or malicious information"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.f4f344b239094309",
+      "_id": "f4f344b239094309",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Deal torture experiments for knowledge",
+      "text": "Deal torture experiments for knowledge"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.25e0f51453004fc0",
+      "_id": "25e0f51453004fc0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Loot from fallen corpses or the dead",
+      "text": "Loot from fallen corpses or the dead"
+    },
+    {
+      "_originalKey": "!tables.results!1e4c3fbc73e8491a.e8f88e4842b94a4e",
+      "_id": "e8f88e4842b94a4e",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Spread fear and terror to control",
+      "text": "Spread fear and terror to control"
+    }
+  ]
+}

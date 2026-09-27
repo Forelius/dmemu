@@ -1,0 +1,449 @@
+{
+  "folder": null,
+  "name": "Generator — Nemesis intentions",
+  "_id": "8cff6e6fc6464b94",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> What the adversary wants to do next.</p><p><strong>How to read it:</strong> Treat the result as inspiration. Adapt it to your setting, combine with other rolls, or re-roll if nothing sparks.</p>",
+  "results": [
+    "2be14734c5654b4a",
+    "b599e8b0da994612",
+    "fe0111ad13ba4786",
+    "c8ccdde9ca1b4f42",
+    "91ad79336e884248",
+    "ef195ba3f1ed4085",
+    "ede998704b4242ea",
+    "5f00716a144d4551",
+    "a6cb8859b47b4ff4",
+    "063e1f9d20fc4d92",
+    "18e423763bee44ec",
+    "157a27277a134c91",
+    "ddbc0de77e674f57",
+    "2b7a82fc11d9433f",
+    "e1d12b9dbcc34edb",
+    "a0784a6e9e2f45b4",
+    "4585f6640f934de0",
+    "47af9d040e284d63",
+    "842817684ec64ec9",
+    "1eb4f0a84f2c40bb"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "oracle": false,
+      "generator": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!8cff6e6fc6464b94",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.2be14734c5654b4a",
+      "_id": "2be14734c5654b4a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Get you stuck, capture, or trap you",
+      "text": "Get you stuck, capture, or trap you"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.b599e8b0da994612",
+      "_id": "b599e8b0da994612",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Hurt innocents, or put them in danger",
+      "text": "Hurt innocents, or put them in danger"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.fe0111ad13ba4786",
+      "_id": "fe0111ad13ba4786",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Make an ambush, or sneak attack",
+      "text": "Make an ambush, or sneak attack"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.c8ccdde9ca1b4f42",
+      "_id": "c8ccdde9ca1b4f42",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Attack you directly anytime soon",
+      "text": "Attack you directly anytime soon"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.91ad79336e884248",
+      "_id": "91ad79336e884248",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Discover or exploit your weakness",
+      "text": "Discover or exploit your weakness"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.ef195ba3f1ed4085",
+      "_id": "ef195ba3f1ed4085",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Give you a last warning or threat",
+      "text": "Give you a last warning or threat"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.ede998704b4242ea",
+      "_id": "ede998704b4242ea",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Escape, escape, become harder to find",
+      "text": "Escape, escape, become harder to find"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.5f00716a144d4551",
+      "_id": "5f00716a144d4551",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Harm your relations, or diplomacy",
+      "text": "Harm your relations, or diplomacy"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.a6cb8859b47b4ff4",
+      "_id": "a6cb8859b47b4ff4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Endanger or damage an object of value",
+      "text": "Endanger or damage an object of value"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.063e1f9d20fc4d92",
+      "_id": "063e1f9d20fc4d92",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Call for help, reinforcements, alarm",
+      "text": "Call for help, reinforcements, alarm"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.18e423763bee44ec",
+      "_id": "18e423763bee44ec",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Take, damage, sabotage a key location",
+      "text": "Take, damage, sabotage a key location"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.157a27277a134c91",
+      "_id": "157a27277a134c91",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Capture or imprison someone relevant",
+      "text": "Capture or imprison someone relevant"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.ddbc0de77e674f57",
+      "_id": "ddbc0de77e674f57",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Kill, execute, order an assassination",
+      "text": "Kill, execute, order an assassination"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.2b7a82fc11d9433f",
+      "_id": "2b7a82fc11d9433f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Put a trade route or business at risk",
+      "text": "Put a trade route or business at risk"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.e1d12b9dbcc34edb",
+      "_id": "e1d12b9dbcc34edb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Publicly reveal or expose your plans",
+      "text": "Publicly reveal or expose your plans"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.a0784a6e9e2f45b4",
+      "_id": "a0784a6e9e2f45b4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Buy time, wait for you to make a mistake",
+      "text": "Buy time, wait for you to make a mistake"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.4585f6640f934de0",
+      "_id": "4585f6640f934de0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Cause your equipment, or vehicle to fail",
+      "text": "Cause your equipment, or vehicle to fail"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.47af9d040e284d63",
+      "_id": "47af9d040e284d63",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Gather, find, or summon new allies",
+      "text": "Gather, find, or summon new allies"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.842817684ec64ec9",
+      "_id": "842817684ec64ec9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Trigger hazards, set a trap, set on fire",
+      "text": "Trigger hazards, set a trap, set on fire"
+    },
+    {
+      "_originalKey": "!tables.results!8cff6e6fc6464b94.1eb4f0a84f2c40bb",
+      "_id": "1eb4f0a84f2c40bb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Lead to a bloody battle or attack",
+      "text": "Lead to a bloody battle or attack"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "name": "Open DMEmu Oracle",
+  "name": "Open DMEmu Generators",
   "type": "script",
-  "command": "game.dmemu?.openOracle?.();",
-  "img": "icons/svg/temple.svg",
+  "command": "game.dmemu?.openGenerators?.();",
+  "img": "icons/svg/castle.svg",
   "folder": null,
-  "_id": "a1e3e4c0f313452f",
+  "_id": "b2f4a5d1e424563a",
   "author": "",
   "scope": "global",
   "sort": 0,
@@ -13,7 +13,7 @@
   },
   "flags": {
     "dmemu": {
-      "id": "openOracle"
+      "id": "openGenerators"
     }
   },
   "_stats": {
@@ -21,5 +21,5 @@
     "systemId": "",
     "systemVersion": "0.1.0"
   },
-  "_originalKey": "!macros!a1e3e4c0f313452f"
+  "_originalKey": "!macros!b2f4a5d1e424563a"
 }
