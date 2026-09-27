@@ -1,0 +1,258 @@
+{
+  "folder": null,
+  "name": "Plot Beat — Catalyst",
+  "_id": "773611189a2446a8",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> A scene filler or opener that can spark side threads.</p><p><strong>How to read it:</strong> Treat the result as a prompt. Adapt it to your scene, combine with oracles if needed, or re-roll if nothing sparks.</p>",
+  "results": [
+    "a97649de99fb4e75",
+    "4188028b246545cd",
+    "c73fb4eb342a44e3",
+    "80503d0989d942d6",
+    "7dbfed229eda4d48",
+    "3f350efb1ea74bdd",
+    "c751759b10964ff5",
+    "ff720a1602e84ece",
+    "a30c3e86049a493c",
+    "5b258a94e8ef483c"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "plotBeat": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d10",
+  "sort": 0,
+  "_originalKey": "!tables!773611189a2446a8",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!773611189a2446a8.a97649de99fb4e75",
+      "_id": "a97649de99fb4e75",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Discover a path, or location",
+      "text": "Discover a path, or location"
+    },
+    {
+      "_originalKey": "!tables.results!773611189a2446a8.4188028b246545cd",
+      "_id": "4188028b246545cd",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Regret a recent decision",
+      "text": "Regret a recent decision"
+    },
+    {
+      "_originalKey": "!tables.results!773611189a2446a8.c73fb4eb342a44e3",
+      "_id": "c73fb4eb342a44e3",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Uncover someone's secret",
+      "text": "Uncover someone's secret"
+    },
+    {
+      "_originalKey": "!tables.results!773611189a2446a8.80503d0989d942d6",
+      "_id": "80503d0989d942d6",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Chance for a trade, or loot",
+      "text": "Chance for a trade, or loot"
+    },
+    {
+      "_originalKey": "!tables.results!773611189a2446a8.7dbfed229eda4d48",
+      "_id": "7dbfed229eda4d48",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Address characters' needs",
+      "text": "Address characters' needs"
+    },
+    {
+      "_originalKey": "!tables.results!773611189a2446a8.3f350efb1ea74bdd",
+      "_id": "3f350efb1ea74bdd",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Temptation with a curiosity",
+      "text": "Temptation with a curiosity"
+    },
+    {
+      "_originalKey": "!tables.results!773611189a2446a8.c751759b10964ff5",
+      "_id": "c751759b10964ff5",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Feel impact of remote event",
+      "text": "Feel impact of remote event"
+    },
+    {
+      "_originalKey": "!tables.results!773611189a2446a8.ff720a1602e84ece",
+      "_id": "ff720a1602e84ece",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reveal a faction's intentions",
+      "text": "Reveal a faction's intentions"
+    },
+    {
+      "_originalKey": "!tables.results!773611189a2446a8.a30c3e86049a493c",
+      "_id": "a30c3e86049a493c",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reaction of the environment",
+      "text": "Reaction of the environment"
+    },
+    {
+      "_originalKey": "!tables.results!773611189a2446a8.5b258a94e8ef483c",
+      "_id": "5b258a94e8ef483c",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Trigger a character story arc",
+      "text": "Trigger a character story arc"
+    }
+  ]
+}

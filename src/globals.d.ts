@@ -16,6 +16,9 @@ declare global {
       create(data: Record<string, unknown>): Promise<unknown>;
       getSpeaker(options?: Record<string, unknown>): unknown;
    };
+   const JournalEntry: {
+      create(data: Record<string, unknown>): Promise<{ id: string } | undefined>;
+   };
    const Hooks: {
       once(hook: string, fn: (...args: any[]) => any): number;
       on(hook: string, fn: (...args: any[]) => any): number;

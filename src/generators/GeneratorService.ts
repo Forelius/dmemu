@@ -1,5 +1,6 @@
 import { MODULE_ID } from "../constants.js";
 import { applyOracleChatVisibility } from "../oracle/oracleChat.js";
+import { PlotPromptStash } from "../plot/PlotPromptStash.js";
 import { GENERATOR_GROUPS, GeneratorComboDef, findGeneratorTable } from "./generatorTables.js";
 
 export interface GeneratorPartResult {
@@ -126,6 +127,8 @@ export class GeneratorService {
       };
       applyOracleChatVisibility(data);
       await ChatMessage.create(data);
+      const stashText = result.parts.map((p) => p.text).filter(Boolean).join(" · ");
+      if (stashText) PlotPromptStash.set(stashText);
    }
 
    static async rollComboAndPost(comboId: string): Promise<GeneratorComboResult> {
@@ -144,6 +147,9 @@ export class GeneratorService {
          ui.notifications.warn(localize("DMEMU.Generators.TableMissing"));
          return;
       }
-      await table.draw({ displayChat: true });
+      const draw = await table.draw({ displayChat: true });
+      const row = draw.results?.[0];
+      const text = (row?.text || row?.name || "").trim();
+      if (text) PlotPromptStash.set(text);
    }
 }

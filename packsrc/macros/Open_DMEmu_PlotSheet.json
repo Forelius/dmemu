@@ -1,0 +1,25 @@
+{
+  "name": "Open DMEmu Plot Sheet",
+  "type": "script",
+  "command": "game.dmemu?.openPlotSheet?.();",
+  "img": "icons/svg/book.svg",
+  "folder": null,
+  "_id": "c3a6b7e2f535674b",
+  "author": "",
+  "scope": "global",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "id": "openPlotSheet"
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": "",
+    "systemVersion": "0.1.0"
+  },
+  "_originalKey": "!macros!c3a6b7e2f535674b"
+}

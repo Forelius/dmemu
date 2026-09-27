@@ -1,0 +1,258 @@
+{
+  "folder": null,
+  "name": "Plot Beat — Complication",
+  "_id": "0a37af278c46486c",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> A setback or complication that interferes with current intentions.</p><p><strong>How to read it:</strong> Treat the result as a prompt. Adapt it to your scene, combine with oracles if needed, or re-roll if nothing sparks.</p>",
+  "results": [
+    "d10062313d4748d3",
+    "c5beaaafecd94f78",
+    "03d598347cc348bf",
+    "04c37081ab1e4567",
+    "4e864a6d438a47d8",
+    "470dc681cfe94265",
+    "8ba36826f3444163",
+    "c8ac7831cd224387",
+    "48c18c1032ef4232",
+    "e7a72fff5ce042ad"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "plotBeat": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d10",
+  "sort": 0,
+  "_originalKey": "!tables!0a37af278c46486c",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!0a37af278c46486c.d10062313d4748d3",
+      "_id": "d10062313d4748d3",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A surprise, trap, or an ambush!",
+      "text": "A surprise, trap, or an ambush!"
+    },
+    {
+      "_originalKey": "!tables.results!0a37af278c46486c.c5beaaafecd94f78",
+      "_id": "c5beaaafecd94f78",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Face plot unrelated opposition",
+      "text": "Face plot unrelated opposition"
+    },
+    {
+      "_originalKey": "!tables.results!0a37af278c46486c.03d598347cc348bf",
+      "_id": "03d598347cc348bf",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Betrayal, or a change of mind",
+      "text": "Betrayal, or a change of mind"
+    },
+    {
+      "_originalKey": "!tables.results!0a37af278c46486c.04c37081ab1e4567",
+      "_id": "04c37081ab1e4567",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Location becomes a problem",
+      "text": "Location becomes a problem"
+    },
+    {
+      "_originalKey": "!tables.results!0a37af278c46486c.4e864a6d438a47d8",
+      "_id": "4e864a6d438a47d8",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Trouble with gear or supplies",
+      "text": "Trouble with gear or supplies"
+    },
+    {
+      "_originalKey": "!tables.results!0a37af278c46486c.470dc681cfe94265",
+      "_id": "470dc681cfe94265",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Accident, or a disaster strikes",
+      "text": "Accident, or a disaster strikes"
+    },
+    {
+      "_originalKey": "!tables.results!0a37af278c46486c.8ba36826f3444163",
+      "_id": "8ba36826f3444163",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Someone needs help, badly",
+      "text": "Someone needs help, badly"
+    },
+    {
+      "_originalKey": "!tables.results!0a37af278c46486c.c8ac7831cd224387",
+      "_id": "c8ac7831cd224387",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Misinformation, or deception",
+      "text": "Misinformation, or deception"
+    },
+    {
+      "_originalKey": "!tables.results!0a37af278c46486c.48c18c1032ef4232",
+      "_id": "48c18c1032ef4232",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Delayed, blocked, or a detour",
+      "text": "Delayed, blocked, or a detour"
+    },
+    {
+      "_originalKey": "!tables.results!0a37af278c46486c.e7a72fff5ce042ad",
+      "_id": "e7a72fff5ce042ad",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A character's flaw is triggered",
+      "text": "A character's flaw is triggered"
+    }
+  ]
+}

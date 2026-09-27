@@ -61,6 +61,46 @@
   font-size: 0.95em;
 }
 
+.dmemu-plot-track {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  align-items: center;
+}
+
+.dmemu-plot-track-section {
+  flex: 0 0 100%;
+  font-weight: 600;
+  margin-top: 0.35rem;
+}
+
+.dmemu-plot-box {
+  min-width: 2rem;
+  padding: 0.25rem 0.4rem;
+}
+
+.dmemu-plot-box.checked {
+  font-weight: 700;
+}
+
+.dmemu-plot-slot {
+  display: flex;
+  gap: 0.35rem;
+  align-items: center;
+}
+
+.dmemu-plot-slot input[type="text"] {
+  flex: 1 1 auto;
+}
+
+.dmemu-plot-slot.highlighted input {
+  outline: 2px solid var(--color-warm-2, #c9a227);
+}
+
+.dmemu-plot-stash {
+  margin: 0.5rem 0;
+}
+
 .dmemu-oracle-chat .dmemu-oracle-answer {
   font-size: 1.1em;
 }

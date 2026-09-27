@@ -4,6 +4,7 @@ import { ENRICHMENT_GROUPS } from "../oracle/enrichmentTables.js";
 import { GRAND_ORACLE_PARTS } from "../oracle/grandOracleTables.js";
 import { GrandOracleService } from "../oracle/GrandOracleService.js";
 import { YesNoOracleService, YesNoRollResult } from "../oracle/YesNoOracleService.js";
+import { PlotPromptStash } from "../plot/PlotPromptStash.js";
 
 const { ApplicationV2, HandlebarsApplicationMixin } = foundry.applications.api;
 
@@ -248,11 +249,19 @@ export class OracleApp extends HandlebarsApplicationMixin(ApplicationV2) {
          return;
       }
       await pack.getDocuments();
-      const table = pack.contents.find((t: { name: string }) => t.name === tableName);
-      if (!table) {
+      const found = pack.contents.find((t: { name: string }) => t.name === tableName);
+      if (!found) {
          ui.notifications.warn(game.i18n.localize("DMEMU.Oracle.Enrichment.TableMissing"));
          return;
       }
-      await table.draw({ displayChat: true });
+      const table = found as unknown as {
+         draw: (opts: { displayChat: boolean }) => Promise<{
+            results?: { text?: string; name?: string }[];
+         }>;
+      };
+      const draw = await table.draw({ displayChat: true });
+      const row = draw?.results?.[0];
+      const text = (row?.text || row?.name || "").trim();
+      if (text) PlotPromptStash.set(text);
    }
 }

@@ -1,0 +1,258 @@
+{
+  "folder": null,
+  "name": "Plot Beat — Challenge",
+  "_id": "343fffb7aa984fae",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> A skill- or capability-shaped challenge to inspire a situation.</p><p><strong>How to read it:</strong> Treat the result as a prompt. Adapt it to your scene, combine with oracles if needed, or re-roll if nothing sparks.</p>",
+  "results": [
+    "48954d941d9d4f62",
+    "cd7f6cd1405b4c0c",
+    "b228981793224933",
+    "908daceb6be34b6f",
+    "c42f4aafa51a45e6",
+    "c768478299b84b19",
+    "8de7f72bb27a4ac6",
+    "0eb2b1e055704758",
+    "649dda11df9a4113",
+    "caa59eeccb714459"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "plotBeat": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d10",
+  "sort": 0,
+  "_originalKey": "!tables!343fffb7aa984fae",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!343fffb7aa984fae.48954d941d9d4f62",
+      "_id": "48954d941d9d4f62",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Require first aid or medicine",
+      "text": "Require first aid or medicine"
+    },
+    {
+      "_originalKey": "!tables.results!343fffb7aa984fae.cd7f6cd1405b4c0c",
+      "_id": "cd7f6cd1405b4c0c",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Resist or endure an affliction",
+      "text": "Resist or endure an affliction"
+    },
+    {
+      "_originalKey": "!tables.results!343fffb7aa984fae.b228981793224933",
+      "_id": "b228981793224933",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Strength or power could help",
+      "text": "Strength or power could help"
+    },
+    {
+      "_originalKey": "!tables.results!343fffb7aa984fae.908daceb6be34b6f",
+      "_id": "908daceb6be34b6f",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Use for craft, magic, or tech",
+      "text": "Use for craft, magic, or tech"
+    },
+    {
+      "_originalKey": "!tables.results!343fffb7aa984fae.c42f4aafa51a45e6",
+      "_id": "c42f4aafa51a45e6",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Spot a useful object or item",
+      "text": "Spot a useful object or item"
+    },
+    {
+      "_originalKey": "!tables.results!343fffb7aa984fae.c768478299b84b19",
+      "_id": "c768478299b84b19",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Need for strong persuasion",
+      "text": "Need for strong persuasion"
+    },
+    {
+      "_originalKey": "!tables.results!343fffb7aa984fae.8de7f72bb27a4ac6",
+      "_id": "8de7f72bb27a4ac6",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Something fails or breaks",
+      "text": "Something fails or breaks"
+    },
+    {
+      "_originalKey": "!tables.results!343fffb7aa984fae.0eb2b1e055704758",
+      "_id": "0eb2b1e055704758",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Some danger better to avoid",
+      "text": "Some danger better to avoid"
+    },
+    {
+      "_originalKey": "!tables.results!343fffb7aa984fae.649dda11df9a4113",
+      "_id": "649dda11df9a4113",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A locked door, object, or path",
+      "text": "A locked door, object, or path"
+    },
+    {
+      "_originalKey": "!tables.results!343fffb7aa984fae.caa59eeccb714459",
+      "_id": "caa59eeccb714459",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Recall knowledge or logic test",
+      "text": "Recall knowledge or logic test"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "folder": null,
+  "name": "DMEmu Guide",
+  "_id": "cdbb39601a1b44cb",
+  "pages": [
+    "4939399ab22b4688",
+    "57f3abbe42714ef3",
+    "a001782392614d0b",
+    "4f08d2c6cba94d51",
+    "630c7621cabd405c",
+    "2cc34d30189f4bdb",
+    "a986bd6ea27c4003"
+  ],
+  "flags": {
+    "dmemu": {
+      "guide": true
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": "",
+    "systemVersion": "0.1.0"
+  },
+  "sort": 0,
+  "_originalKey": "!journal!cdbb39601a1b44cb",
+  "embedded": [
+    {
+      "_originalKey": "!journal.pages!cdbb39601a1b44cb.4939399ab22b4688",
+      "_id": "4939399ab22b4688",
+      "name": "Welcome",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "content": "<p>DMEmu is a system-agnostic toolkit for solo play and GM-less storytelling in Foundry VTT. It does not replace your game system. Instead it answers questions, sparks ideas, and keeps a living compass for the story you are telling.</p>\n<p>Everything is opened from macros in the <strong>DMEmu Macros</strong> pack (or from the console via <code>game.dmemu</code>). There are three windows that work together.</p>\n<p>The <strong>Oracle</strong> answers yes/no questions and draws short descriptive or story cues. <strong>Generators</strong> build seeds, factions, places, and characters from prompt tables. The <strong>Plot Sheet</strong> remembers your current problem, your prepared story elements, and how far the plot has advanced.</p>\n<p>Chat results respect the client setting <strong>DMEmu chat visibility</strong> (only you, GMs, or everyone). Treat table results as inspiration: adapt them to your setting, combine them, or ignore a roll that does not spark anything useful.</p>",
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "dmemu": {
+          "guide": true
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      }
+    },
+    {
+      "_originalKey": "!journal.pages!cdbb39601a1b44cb.57f3abbe42714ef3",
+      "_id": "57f3abbe42714ef3",
+      "name": "Getting started",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "content": "<p>Enable the Depths Master Emulator module in your world, then compile packs and reload if you are developing from source. From the <strong>DMEmu Macros</strong> pack, drag the three open macros to your hotbar: Oracle, Generators, and Plot Sheet.</p>\n<p>A comfortable loop looks like this. Use Generators while preparing a seed or filling plot nodes. During play, stay mostly in the Oracle for scene questions. When the story needs a twist or you are stuck, open the Plot Sheet and draw a beat. If that beat mattered to the plot, confirm advance on the track.</p>\n<p>You can keep several plot sheets in one campaign—one journal per problem or goal—and switch between them from the Plot Sheet window.</p>",
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "dmemu": {
+          "guide": true
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      }
+    },
+    {
+      "_originalKey": "!journal.pages!cdbb39601a1b44cb.a001782392614d0b",
+      "_id": "a001782392614d0b",
+      "name": "Oracle",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "content": "<p>The Oracle is for questions that come up while you play a scene. It does not store campaign state; answers go to chat so you can keep moving.</p>\n<h3>Yes / No</h3>\n<p>Pick a perspective and a likelihood, optionally type the question for the chat card, then roll. Likelihood chooses which probability table to use; it is not a modifier added to the die. If you already lean toward an answer, use <strong>Roll twice (bias)</strong> and pick the result that fits your judgment.</p>\n<p><strong>Deterministic</strong> suits objective questions about the world. <strong>Subjective</strong> suits what a character thinks or senses. <strong>Conversation</strong> suits dialogue with someone who is not a protagonist.</p>\n<h3>Grand</h3>\n<p>Roll Action, Adjective, and Subject together for a single combined prompt, or draw one column alone. Each entry is a list of related words—pick any synonym that fits the scene.</p>\n<h3>Descriptive, Story, and Quantifiers</h3>\n<p>These tabs draw enrichment tables: sensory hooks, motives, discoveries, and relative amounts or difficulty. Use them when a yes/no answer needs color, or when you ask who, where, why, or how much.</p>",
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "dmemu": {
+          "guide": true
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      }
+    },
+    {
+      "_originalKey": "!journal.pages!cdbb39601a1b44cb.4f08d2c6cba94d51",
+      "_id": "4f08d2c6cba94d51",
+      "name": "Generators",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "content": "<p>Generators are for preparation and improvisation when you need a fuller idea than a single oracle cue. Like the Oracle, they post to chat rather than writing into your world documents by themselves.</p>\n<p>The <strong>Seed</strong> tab covers world truths and the pieces of a plot seed—hook, motivation, mission, lead, caveat, and opposition. Combined buttons roll several tables into one chat card so you can sketch a starting situation quickly.</p>\n<p><strong>World</strong> builds factions, locations, objects, nemeses, and creatures by stacking facets (for example focus, needs, and beliefs for a faction). <strong>Characters</strong> covers traits, scene presence, archetypes, and purposes.</p>\n<p>After any draw, the last prompt is remembered for the Plot Sheet. Open a plot sheet and use the paste control on a node slot to drop that text into your prepared lists.</p>",
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "dmemu": {
+          "guide": true
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      }
+    },
+    {
+      "_originalKey": "!journal.pages!cdbb39601a1b44cb.630c7621cabd405c",
+      "_id": "630c7621cabd405c",
+      "name": "Plot Sheet",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "content": "<p>A plot sheet is the campaign compass for one problem or goal. Each sheet is stored as a journal entry in your world, so it survives reloads and backups. Edit track and nodes in the Plot Sheet window; the journal’s <strong>Summary</strong> page is rewritten automatically when you save, while <strong>Notes</strong> stays free for your own prose.</p>\n<h3>Scope, type, and nodes</h3>\n<p>Write a short plot scope that names the problem you are solving. Choose a sheet type to set track length and pacing (Standard for short arcs, Journey for a longer rise and fall, Improvised or Sandbox when you prefer no track). Plot nodes are labeled lists—world elements, problems, findings, questions, notable characters, and locations. Fill them during prep or as play reveals new pieces.</p>\n<h3>Beats and the track</h3>\n<p>When you do not know what happens next, draw a <strong>Random prompt</strong> (a complication, catalyst, challenge, or situation). When you already have an idea, draw a <strong>Modified proposal</strong> to twist it—or to divert into a node or a follow-up table. Play the result for a while. Only use <strong>Confirm beat</strong> when the outcome truly mattered, so the track stays an honest compass rather than a tally of every roll.</p>\n<p>Some modified proposals point at a filled node. If nothing is filled in that category yet, treat the result as a cue to invent or write something new into an empty slot.</p>",
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "dmemu": {
+          "guide": true
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      }
+    },
+    {
+      "_originalKey": "!journal.pages!cdbb39601a1b44cb.2cc34d30189f4bdb",
+      "_id": "2cc34d30189f4bdb",
+      "name": "Playing tips",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "content": "<p>Ask fewer oracle questions than you think you need. Decide obvious outcomes yourself, then roll when surprise or fairness matters. Generators shine before a session or when a blank page stalls you; during a hot scene, prefer the Oracle and Plot beats.</p>\n<p>Keep plot nodes alive. When a random prompt invokes a world element or pending question, bring that text into the fiction and update the slot if the situation changes. Empty slots are invitations, not errors.</p>\n<p>Multiple sheets let you nest goals: a campaign-level sheet for the war, a short Standard sheet for tonight’s heist. Close a sheet when its scope is resolved, and start another when a new problem takes center stage.</p>",
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "dmemu": {
+          "guide": true
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      }
+    },
+    {
+      "_originalKey": "!journal.pages!cdbb39601a1b44cb.a986bd6ea27c4003",
+      "_id": "a986bd6ea27c4003",
+      "name": "Credits",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "content": "<p>Depths Master Emulator is an independent adaptation for Foundry VTT. It is inspired by solo and GM-less storytelling tools by JeansenVaars and is not an official product of those tools.</p>\n<p>Module authorship and distribution follow the project license shipped with this package. Feedback and contributions belong with the DMEmu repository maintainers.</p>",
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "dmemu": {
+          "guide": true
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      }
+    }
+  ]
+}

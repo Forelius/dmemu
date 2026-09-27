@@ -1,5 +1,6 @@
 import { MODULE_ID } from "../constants.js";
 import { applyOracleChatVisibility } from "./oracleChat.js";
+import { PlotPromptStash } from "../plot/PlotPromptStash.js";
 import {
    Likelihood,
    LIKELIHOODS,
@@ -80,6 +81,7 @@ export class YesNoOracleService {
       };
       applyOracleChatVisibility(data);
       await ChatMessage.create(data);
+      if (result.answer) PlotPromptStash.set(result.answer);
    }
 
    static #toResult(request: YesNoRollRequest, roll: number, answerSuffix: string): YesNoRollResult {

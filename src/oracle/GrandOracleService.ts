@@ -1,5 +1,6 @@
 import { MODULE_ID } from "../constants.js";
 import { applyOracleChatVisibility } from "./oracleChat.js";
+import { PlotPromptStash } from "../plot/PlotPromptStash.js";
 import { GRAND_ORACLE_PARTS, GrandOraclePartDef } from "./grandOracleTables.js";
 
 export interface GrandOraclePartResult {
@@ -78,6 +79,8 @@ export class GrandOracleService {
       };
       applyOracleChatVisibility(data);
       await ChatMessage.create(data);
+      const stash = result.parts.map((p) => p.text).filter(Boolean).join(" · ");
+      if (stash) PlotPromptStash.set(stash);
    }
 
    static async rollAndPost(): Promise<GrandOracleResult> {

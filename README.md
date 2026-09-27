@@ -27,8 +27,8 @@ Entry script loaded by Foundry: `module/dmemu.min.js`.
 
 1. Build the module (`npm run build`) and compile packs (`npm run comppacks`).
 2. Enable **Depths Master Emulator** in your world.
-3. From the **DMEmu Macros** pack, drag **Open DMEmu Oracle** or **Open DMEmu Generators** to your hotbar (or run `game.dmemu.openOracle()` / `game.dmemu.openGenerators()`).
-4. Oracle: Yes/No, Grand, and enrichment tabs. Generators: Seed / World / Characters prompt tables.
+3. From the **DMEmu Macros** pack, drag **Open DMEmu Oracle**, **Open DMEmu Generators**, or **Open DMEmu Plot Sheet** to your hotbar (or run `game.dmemu.openOracle()` / `openGenerators()` / `openPlotSheet()`).
+4. Oracle: Yes/No, Grand, enrichment. Generators: Seed / World / Characters. Plot Sheet: nodes, track, and beats (persisted as journals).
 
 Client setting: **DMEmu chat visibility** (self / GMs / everyone).
 
@@ -41,7 +41,7 @@ npm run decomppacks   # LevelDB → packsrc JSON
 npm run comppacks     # packsrc JSON → LevelDB
 ```
 
-Included so far: Open Oracle / Open Generators macros; enrichment and Grand Oracle RollTables; seeding / world / character generator RollTables.
+Included so far: Oracle / Generators / Plot Sheet macros; enrichment, Grand Oracle, generator, and plot beat RollTables; **DMEmu Guide** journal.
 
 ## Releases
 

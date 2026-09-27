@@ -5,7 +5,7 @@
     "Settings": {
       "OracleChatVisibility": {
         "Name": "DMEmu chat visibility",
-        "Hint": "Who can see Yes/No, Grand Oracle, and generator results posted to chat.",
+        "Hint": "Who can see Yes/No, Grand Oracle, generator, and plot beat results posted to chat.",
         "Choices": {
           "self": "Only me (whisper)",
           "gm": "GMs (and me)",
@@ -381,6 +381,102 @@
         "GoodIntentionsHint": "Helpful deeds or approaches.",
         "EvilIntentions": "Evil intentions",
         "EvilIntentionsHint": "Harmful deeds or approaches."
+      }
+    },
+    "Plot": {
+      "About": "Track one story problem at a time: fill plot nodes, draw beats, and advance the track when a beat matters.",
+      "DefaultName": "Plot Sheet",
+      "JournalPageName": "Notes",
+      "JournalPageHint": "Freeform notes for this plot. The Summary page is rewritten automatically when you save from the Plot Sheet window.",
+      "CreateFailed": "Could not create plot sheet journal.",
+      "MissingSheet": "Plot sheet journal was not found.",
+      "Saved": "Plot sheet saved.",
+      "PackMissing": "DMEmu rollTables pack is not available.",
+      "TableMissing": "That plot beat table was not found in the pack.",
+      "StashEmpty": "No recent prompt to paste. Draw a generator, oracle, or beat first.",
+      "TrackProgress": "Progress: {checked} / {boxes}",
+      "App": {
+        "Title": "DMEmu Plot Sheet",
+        "OpenLegend": "Open or create",
+        "Existing": "Existing sheets",
+        "SelectPlaceholder": "— Select a sheet —",
+        "Open": "Open",
+        "NewName": "New sheet name",
+        "Create": "Create sheet",
+        "SheetLegend": "Active sheet",
+        "Name": "Name",
+        "SheetType": "Sheet type",
+        "ApplyType": "Apply type",
+        "Save": "Save",
+        "Scope": "Plot scope",
+        "ScopePlaceholder": "e.g. Stop the raiders before they reach the river town",
+        "ScopeHint": "The problem or goal this sheet is about.",
+        "BeatsLegend": "Plot beats",
+        "BeatsHint": "Draw when you need a twist or do not know what happens next. Confirm advance only after a beat proves relevant.",
+        "RandomPromptTooltip": "No clear idea — roll a complication, catalyst, challenge, or situation.",
+        "ModifiedProposalTooltip": "You have an idea — twist it, or divert into a node or ABCD table.",
+        "ConfirmAdvance": "Confirm beat (advance track)",
+        "ConfirmAdvanceTooltip": "Mark the next track box after a beat that mattered to the plot.",
+        "TrackLegend": "Plot track",
+        "SlotPlaceholder": "Add new, choose, or re-roll…",
+        "PasteStashTooltip": "Paste the last oracle/generator/beat prompt into this slot",
+        "ClearSlotTooltip": "Clear this slot",
+        "StashHint": "Last prompt ready to paste:"
+      },
+      "Beat": {
+        "RandomPrompt": "Random prompt",
+        "ModifiedProposal": "Modified proposal",
+        "Complication": "Complication",
+        "Catalyst": "Catalyst",
+        "Challenge": "Challenge",
+        "Situation": "Situation",
+        "ChatFlavor": "DMEmu Plot Beat",
+        "ChatHint": "Play the result for a while. Advance the track only if it mattered.",
+        "NodeEmpty": "No filled {category} nodes yet — write one in, or treat this as a cue to add something new."
+      },
+      "SheetType": {
+        "Standard": "Standard",
+        "Journey": "Journey",
+        "StoryFocus": "Story focus",
+        "Scenes": "Scenes",
+        "Dungeon": "Dungeon",
+        "Exploration": "Exploration",
+        "StoryParts": "Story parts",
+        "Improvised": "Improvised",
+        "Sandbox": "Sandbox",
+        "Customized": "Customized"
+      },
+      "TrackSection": {
+        "Exposition": "Exposition",
+        "Confrontation": "Confrontation",
+        "Resolution": "Resolution",
+        "Rising": "Rising action",
+        "Climax": "Climax",
+        "Falling": "Falling action",
+        "ActOne": "Act I",
+        "ActTwo": "Act II",
+        "ActThree": "Act III",
+        "Scenes": "Scenes",
+        "Rooms": "Rooms",
+        "Areas": "Areas",
+        "Parts": "Parts",
+        "Custom": "Track"
+      },
+      "NodeCategory": {
+        "WorldElements": "Game or world elements",
+        "PotentialProblems": "Potential problems",
+        "UsefulFindings": "Useful findings",
+        "PendingQuestions": "Pending questions",
+        "NotableCharacters": "Notable characters",
+        "InterestingLocations": "Interesting locations"
+      },
+      "SummaryPageName": "Summary",
+      "Summary": {
+        "AutoHint": "This page is generated from the Plot Sheet app. Edit track and nodes there; freeform writing belongs on the Notes page.",
+        "Overview": "Overview",
+        "NoScope": "No plot scope written yet.",
+        "Nodes": "Plot nodes",
+        "NoNodes": "No filled plot nodes yet."
       }
     }
   }

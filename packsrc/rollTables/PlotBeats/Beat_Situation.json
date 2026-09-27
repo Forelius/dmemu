@@ -1,0 +1,258 @@
+{
+  "folder": null,
+  "name": "Plot Beat — Situation",
+  "_id": "75da5786813c4cdc",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> A situation that presents itself, often driven by the world or others.</p><p><strong>How to read it:</strong> Treat the result as a prompt. Adapt it to your scene, combine with oracles if needed, or re-roll if nothing sparks.</p>",
+  "results": [
+    "f8ef3837b4114436",
+    "829cc5806e274dd9",
+    "ac97a277bf5b4702",
+    "6e7b4e3bd62648bd",
+    "060e0484e34742d3",
+    "15b118293cff48f9",
+    "44028d3f238245cb",
+    "f8656051292a425d",
+    "edc761b985ad466c",
+    "e17449a6ee8c4b7d"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "plotBeat": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d10",
+  "sort": 0,
+  "_originalKey": "!tables!75da5786813c4cdc",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!75da5786813c4cdc.f8ef3837b4114436",
+      "_id": "f8ef3837b4114436",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Worst-case scenario unfolds",
+      "text": "Worst-case scenario unfolds"
+    },
+    {
+      "_originalKey": "!tables.results!75da5786813c4cdc.829cc5806e274dd9",
+      "_id": "829cc5806e274dd9",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Face an emergency or alarm",
+      "text": "Face an emergency or alarm"
+    },
+    {
+      "_originalKey": "!tables.results!75da5786813c4cdc.ac97a277bf5b4702",
+      "_id": "ac97a277bf5b4702",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Being watched or followed",
+      "text": "Being watched or followed"
+    },
+    {
+      "_originalKey": "!tables.results!75da5786813c4cdc.6e7b4e3bd62648bd",
+      "_id": "6e7b4e3bd62648bd",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Risk harming a relationship",
+      "text": "Risk harming a relationship"
+    },
+    {
+      "_originalKey": "!tables.results!75da5786813c4cdc.060e0484e34742d3",
+      "_id": "060e0484e34742d3",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Unexpected twist or reveal",
+      "text": "Unexpected twist or reveal"
+    },
+    {
+      "_originalKey": "!tables.results!75da5786813c4cdc.15b118293cff48f9",
+      "_id": "15b118293cff48f9",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Sudden change in the place",
+      "text": "Sudden change in the place"
+    },
+    {
+      "_originalKey": "!tables.results!75da5786813c4cdc.44028d3f238245cb",
+      "_id": "44028d3f238245cb",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Someone may be deceptive",
+      "text": "Someone may be deceptive"
+    },
+    {
+      "_originalKey": "!tables.results!75da5786813c4cdc.f8656051292a425d",
+      "_id": "f8656051292a425d",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "A Faction makes its move",
+      "text": "A Faction makes its move"
+    },
+    {
+      "_originalKey": "!tables.results!75da5786813c4cdc.edc761b985ad466c",
+      "_id": "edc761b985ad466c",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Discover something of value",
+      "text": "Discover something of value"
+    },
+    {
+      "_originalKey": "!tables.results!75da5786813c4cdc.e17449a6ee8c4b7d",
+      "_id": "e17449a6ee8c4b7d",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Best-case scenario occurs",
+      "text": "Best-case scenario occurs"
+    }
+  ]
+}

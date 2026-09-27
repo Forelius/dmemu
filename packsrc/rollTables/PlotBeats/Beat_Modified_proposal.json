@@ -1,0 +1,508 @@
+{
+  "folder": null,
+  "name": "Plot Beat — Modified proposal",
+  "_id": "4e9dab180a404ec3",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>When to use:</strong> Twist a proposal you already have, or divert into a complication/catalyst/challenge/situation or a plot node.</p><p><strong>How to read it:</strong> Treat the result as a prompt. Adapt it to your scene, combine with oracles if needed, or re-roll if nothing sparks.</p>",
+  "results": [
+    "d275cf7e2fbb43dc",
+    "a3a69b3d9e0e4cb8",
+    "490e5b18c099400a",
+    "ff99fb5ab21c4281",
+    "5509e8059bbb4ef4",
+    "87717ef27d4d4437",
+    "2d113d4449b440ca",
+    "7c9ca41e1f9c48bc",
+    "ba19541fb3294138",
+    "e2c1723702944957",
+    "b7c210dc2ce544a1",
+    "7b662ed2b425421c",
+    "5da18eefb90246a9",
+    "ca664602ab314f29",
+    "4465173c40ce4805",
+    "dc70f700526a48c5",
+    "afadb38a7c5e4e1f",
+    "70d561a72f6645e7",
+    "2673475fa9324679",
+    "8f5011828aca4f85"
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dmemu": {
+      "plotBeat": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.341",
+    "systemId": ""
+  },
+  "formula": "1d20",
+  "sort": 0,
+  "_originalKey": "!tables!4e9dab180a404ec3",
+  "embedded": [
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.d275cf7e2fbb43dc",
+      "_id": "d275cf7e2fbb43dc",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Increase the intensity and tension",
+      "text": "Increase the intensity and tension"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.a3a69b3d9e0e4cb8",
+      "_id": "a3a69b3d9e0e4cb8",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Bring someone quite inconvenient",
+      "text": "Bring someone quite inconvenient"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.490e5b18c099400a",
+      "_id": "490e5b18c099400a",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Add some trouble, or bad news",
+      "text": "Add some trouble, or bad news"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.ff99fb5ab21c4281",
+      "_id": "ff99fb5ab21c4281",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Make the location less favorable",
+      "text": "Make the location less favorable"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.5509e8059bbb4ef4",
+      "_id": "5509e8059bbb4ef4",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Cause frustration, stress, or worry",
+      "text": "Cause frustration, stress, or worry"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.87717ef27d4d4437",
+      "_id": "87717ef27d4d4437",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Cause confusion, doubts, disarray",
+      "text": "Cause confusion, doubts, disarray"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.2d113d4449b440ca",
+      "_id": "2d113d4449b440ca",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Make the location more favorable",
+      "text": "Make the location more favorable"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.7c9ca41e1f9c48bc",
+      "_id": "7c9ca41e1f9c48bc",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Add some reward, or good news",
+      "text": "Add some reward, or good news"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.ba19541fb3294138",
+      "_id": "ba19541fb3294138",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Bring someone quite convenient",
+      "text": "Bring someone quite convenient"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.e2c1723702944957",
+      "_id": "e2c1723702944957",
+      "flags": {
+        "dmemu": {}
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Decrease the intensity and tension",
+      "text": "Decrease the intensity and tension"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.b7c210dc2ce544a1",
+      "_id": "b7c210dc2ce544a1",
+      "flags": {
+        "dmemu": {
+          "invoke": "draw:complication"
+        }
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Endure a difficult complication",
+      "text": "Endure a difficult complication"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.7b662ed2b425421c",
+      "_id": "7b662ed2b425421c",
+      "flags": {
+        "dmemu": {
+          "invoke": "draw:catalyst"
+        }
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Play a triggering plot catalyst",
+      "text": "Play a triggering plot catalyst"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.5da18eefb90246a9",
+      "_id": "5da18eefb90246a9",
+      "flags": {
+        "dmemu": {
+          "invoke": "draw:challenge"
+        }
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Deal with a difficult challenge",
+      "text": "Deal with a difficult challenge"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.ca664602ab314f29",
+      "_id": "ca664602ab314f29",
+      "flags": {
+        "dmemu": {
+          "invoke": "draw:situation"
+        }
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Put characters in a situation",
+      "text": "Put characters in a situation"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.4465173c40ce4805",
+      "_id": "4465173c40ce4805",
+      "flags": {
+        "dmemu": {
+          "invoke": "node:notableCharacters"
+        }
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Meet or recall a notable character",
+      "text": "Meet or recall a notable character"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.dc70f700526a48c5",
+      "_id": "dc70f700526a48c5",
+      "flags": {
+        "dmemu": {
+          "invoke": "node:interestingLocations"
+        }
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Lead to an interesting location",
+      "text": "Lead to an interesting location"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.afadb38a7c5e4e1f",
+      "_id": "afadb38a7c5e4e1f",
+      "flags": {
+        "dmemu": {
+          "invoke": "node:worldElements"
+        }
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Reflect a world or game element",
+      "text": "Reflect a world or game element"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.70d561a72f6645e7",
+      "_id": "70d561a72f6645e7",
+      "flags": {
+        "dmemu": {
+          "invoke": "node:potentialProblems"
+        }
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Handle a plot potential problem",
+      "text": "Handle a plot potential problem"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.2673475fa9324679",
+      "_id": "2673475fa9324679",
+      "flags": {
+        "dmemu": {
+          "invoke": "node:usefulFindings"
+        }
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Locate or trace a useful finding",
+      "text": "Locate or trace a useful finding"
+    },
+    {
+      "_originalKey": "!tables.results!4e9dab180a404ec3.8f5011828aca4f85",
+      "_id": "8f5011828aca4f85",
+      "flags": {
+        "dmemu": {
+          "invoke": "node:pendingQuestions"
+        }
+      },
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.341",
+        "systemId": ""
+      },
+      "description": "",
+      "name": "Find answers to a pending question",
+      "text": "Find answers to a pending question"
+    }
+  ]
+}
