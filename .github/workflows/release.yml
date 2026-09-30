@@ -117,6 +117,20 @@ jobs:
           updateOnlyUnreleased: false
           makeLatest: true
 
+      # Update the 'latest' release
+      - name: Create Release
+        id: create_latest_release
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          name: Latest
+          draft: false
+          prerelease: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+          artifacts: './module.json,./module.zip'
+          tag: latest
+          bodyfile: release_notes.txt
+
       # Not yet listed on Foundry's package library — re-enable when registered.
       # - name: Publish Module to FoundryVTT Website
       #   if: env.is_valid == 'true' && !github.event.release.unpublished && !github.event.release.prerelease
