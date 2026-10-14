@@ -383,8 +383,44 @@
         "EvilIntentionsHint": "Harmful deeds or approaches."
       }
     },
+    "Campaign": {
+      "DefaultName": "Campaign",
+      "JournalPageName": "Notes",
+      "JournalPageHint": "Freeform notes for this campaign. The Summary page is rewritten automatically when you save from the Plot Sheet window.",
+      "CreateFailed": "Could not create campaign journal.",
+      "MissingCampaign": "Campaign journal was not found.",
+      "NeedCampaignForSheet": "Open or create a campaign before adding a plot sheet.",
+      "Saved": "Campaign saved.",
+      "SummaryPageName": "Summary",
+      "App": {
+        "OpenLegend": "Campaigns",
+        "Existing": "Existing campaigns",
+        "SelectPlaceholder": "— Select a campaign —",
+        "NewCampaign": "New campaign…",
+        "CreateDialogTitle": "New campaign",
+        "Create": "Create",
+        "ActiveLegend": "Active campaign",
+        "Name": "Name",
+        "Save": "Save",
+        "Universe": "Universe",
+        "UniversePlaceholder": "e.g. Sword-and-sorcery frontier; rainy coasts; borrowed from X setting",
+        "UniverseHint": "Setting, tone, and inspiration shared by all plots in this campaign.",
+        "Protagonists": "Protagonists",
+        "ProtagonistsPlaceholder": "e.g. Mara (scout), Bren (reluctant priest)",
+        "ProtagonistsHint": "Main characters you control across this campaign.",
+        "NoCampaignHint": "Open an existing campaign or create a new one to set universe and protagonists."
+      },
+      "Summary": {
+        "AutoHint": "This page is generated from the Plot Sheet app. Edit campaign prep there; session scribble belongs on the Notes page.",
+        "Overview": "Overview",
+        "NoUniverse": "No universe notes yet.",
+        "NoProtagonists": "No protagonists noted yet.",
+        "Sheets": "Plot sheets",
+        "NoSheets": "No plot sheets in this campaign yet."
+      }
+    },
     "Plot": {
-      "About": "Track one story problem at a time: fill plot nodes, draw beats, and advance the track when a beat matters.",
+      "About": "Campaigns hold universe and protagonists; each plot sheet tracks one problem with scope, mission, nodes, and beats.",
       "DefaultName": "Plot Sheet",
       "JournalPageName": "Notes",
       "JournalPageHint": "Freeform notes for this plot. The Summary page is rewritten automatically when you save from the Plot Sheet window.",
@@ -400,7 +436,6 @@
         "OpenLegend": "Sheets",
         "Existing": "Existing sheets",
         "SelectPlaceholder": "— Select a sheet —",
-        "Open": "Open",
         "NewSheet": "New sheet…",
         "CreateDialogTitle": "New plot sheet",
         "Create": "Create",
@@ -412,6 +447,9 @@
         "Scope": "Plot scope",
         "ScopePlaceholder": "e.g. Stop the raiders before they reach the river town",
         "ScopeHint": "The problem or goal this sheet is about.",
+        "Mission": "Mission",
+        "MissionPlaceholder": "e.g. Escort the relic inland; uncover who hired the raiders",
+        "MissionHint": "Pitch or task that expands on the plot scope.",
         "BeatsLegend": "Plot beats",
         "BeatsHint": "Draw when you need a twist or do not know what happens next. Confirm advance only after a beat proves relevant.",
         "RandomPromptTooltip": "No clear idea — roll a complication, catalyst, challenge, or situation.",
@@ -423,11 +461,12 @@
         "PasteStashTooltip": "Paste the last oracle/generator/beat prompt into this slot",
         "ClearSlotTooltip": "Clear this slot",
         "StashHint": "Last prompt ready to paste:",
-        "TabsLabel": "Plot sheet sections",
-        "TabSheet": "Sheet",
+        "TabsLabel": "Campaign and plot sections",
+        "TabCampaign": "Campaign",
+        "TabSheet": "Plot",
         "TabPlay": "Play",
         "TabNodes": "Nodes",
-        "NoSheetHint": "Open an existing sheet or create a new one to edit scope and type.",
+        "NoSheetHint": "Open an existing sheet or create a new one to edit scope and mission.",
         "NoTrackHint": "This sheet type has no plot track — use beats freely and keep progress in your Notes page if you like."
       },
       "Beat": {
@@ -479,7 +518,7 @@
       },
       "SummaryPageName": "Summary",
       "Summary": {
-        "AutoHint": "This page is generated from the Plot Sheet app. Edit track and nodes there; freeform writing belongs on the Notes page.",
+        "AutoHint": "This page is generated from the Plot Sheet app. Edit scope, mission, track, and nodes there; universe and protagonists live on the Campaign tab.",
         "Overview": "Overview",
         "NoScope": "No plot scope written yet.",
         "Nodes": "Plot nodes",

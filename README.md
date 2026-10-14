@@ -10,7 +10,7 @@ This first release is a near-complete Foundry implementation of the core Plot Un
 
 **Generators** — Prompt tables for game seeds, factions, locations, objects, adversaries, creatures, and characters. Combined rolls post a single chat prompt you can adapt on the fly.
 
-**Plot Sheet** — A journal-backed sheet for one problem or goal: plot nodes, optional track, and plot beats. Progress is yours to confirm when a beat actually mattered.
+**Plot Sheet** — Campaign journals (universe, protagonists) that own one or more plot sheets (scope, mission, nodes, optional track, beats). Progress is yours to confirm when a beat actually mattered.
 
 **DMEmu Guide** — An in-world journal that walks through how the pieces fit together.
 

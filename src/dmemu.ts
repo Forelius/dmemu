@@ -11,6 +11,7 @@ import { GeneratorService } from "./generators/GeneratorService.js";
 import { GrandOracleService, GrandOracleResult } from "./oracle/GrandOracleService.js";
 import { YesNoOracleService, YesNoRollRequest, YesNoRollResult } from "./oracle/YesNoOracleService.js";
 import { PlotBeatService } from "./plot/PlotBeatService.js";
+import { CampaignService } from "./plot/CampaignService.js";
 import { PlotSheetService } from "./plot/PlotSheetService.js";
 import { PlotSheetTypeId } from "./plot/types.js";
 
@@ -22,12 +23,14 @@ export { GeneratorService } from "./generators/GeneratorService.js";
 export { GrandOracleService } from "./oracle/GrandOracleService.js";
 export { YesNoOracleService } from "./oracle/YesNoOracleService.js";
 export { PlotBeatService } from "./plot/PlotBeatService.js";
+export { CampaignService } from "./plot/CampaignService.js";
 export { PlotSheetService } from "./plot/PlotSheetService.js";
 export * from "./oracle/data/yesNoMatrices.js";
 export * from "./oracle/grandOracleTables.js";
 export * from "./generators/generatorTables.js";
 export * from "./plot/presets.js";
 export * from "./plot/types.js";
+export * from "./plot/campaignTypes.js";
 
 interface DmemuApi {
    openOracle: () => OracleApp;
@@ -42,7 +45,14 @@ interface DmemuApi {
       combo: (comboId: string) => Promise<unknown>;
    };
    plot: {
-      createSheet: (name: string, sheetType?: PlotSheetTypeId, scope?: string) => Promise<string>;
+      createCampaign: (name: string, universe?: string, protagonists?: string) => Promise<string>;
+      listCampaigns: () => ReturnType<typeof CampaignService.listCampaigns>;
+      createSheet: (
+         name: string,
+         sheetType: PlotSheetTypeId,
+         campaignId: string,
+         scope?: string
+      ) => Promise<string>;
       listSheets: () => ReturnType<typeof PlotSheetService.listSheets>;
       randomPrompt: () => Promise<void>;
       modifiedProposal: (journalId?: string) => Promise<void>;
@@ -76,6 +86,9 @@ function openPlotSheet(journalId?: string): PlotSheetApp {
    if (journalId) {
       plotSheetApp.journalId = journalId;
       plotSheetApp.draft = null;
+      plotSheetApp.campaignDraft = null;
+      const sheet = PlotSheetService.getSheet(journalId);
+      if (sheet?.data.campaignId) plotSheetApp.campaignId = sheet.data.campaignId;
    }
    plotSheetApp.render({ force: true });
    return plotSheetApp;
@@ -116,8 +129,11 @@ Hooks.once("ready", () => {
          combo: (comboId) => GeneratorService.rollComboAndPost(comboId),
       },
       plot: {
-         createSheet: (name, sheetType = "standard", scope = "") =>
-            PlotSheetService.createSheet(name, sheetType, scope),
+         createCampaign: (name, universe = "", protagonists = "") =>
+            CampaignService.createCampaign(name, universe, protagonists),
+         listCampaigns: () => CampaignService.listCampaigns(),
+         createSheet: (name, sheetType, campaignId, scope = "") =>
+            PlotSheetService.createSheet(name, sheetType, campaignId, scope),
          listSheets: () => PlotSheetService.listSheets(),
          randomPrompt: async () => {
             const result = await PlotBeatService.rollRandomPrompt();

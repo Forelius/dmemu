@@ -145,7 +145,11 @@ export const PLOT_SHEET_PRESETS: Record<PlotSheetTypeId, PlotSheetPreset> = {
 
 export const PLOT_SHEET_TYPE_IDS = Object.keys(PLOT_SHEET_PRESETS) as PlotSheetTypeId[];
 
-export function createPlotSheetData(sheetType: PlotSheetTypeId, scope = ""): PlotSheetData {
+export function createPlotSheetData(
+   sheetType: PlotSheetTypeId,
+   campaignId: string,
+   scope = ""
+): PlotSheetData {
    const preset = PLOT_SHEET_PRESETS[sheetType];
    const nodeCategories: PlotNodeCategory[] = preset.nodeLayout.map((n) => ({
       id: n.id,
@@ -155,7 +159,9 @@ export function createPlotSheetData(sheetType: PlotSheetTypeId, scope = ""): Plo
    return {
       version: 1,
       sheetType,
+      campaignId,
       scope,
+      mission: "",
       track: {
          boxes: preset.track.boxes,
          checked: 0,

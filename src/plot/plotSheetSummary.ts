@@ -30,6 +30,11 @@ export function renderPlotSheetSummaryHtml(data: PlotSheetData): string {
       parts.push(`<p><em>${localize("DMEMU.Plot.Summary.NoScope")}</em></p>`);
    }
 
+   const mission = (data.mission ?? "").trim();
+   if (mission) {
+      parts.push(`<p><strong>${localize("DMEMU.Plot.App.Mission")}:</strong> ${esc(mission)}</p>`);
+   }
+
    if (preset.hasTrack && data.track.boxes > 0) {
       parts.push(`<h2>${localize("DMEMU.Plot.App.TrackLegend")}</h2>`);
       parts.push(

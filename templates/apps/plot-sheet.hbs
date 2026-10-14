@@ -1,4 +1,4 @@
-{{!-- DMEmu Plot Sheet Application --}}
+{{!-- DMEmu Plot Sheet Application (campaign + plots) --}}
 <section class="dmemu-oracle-form dmemu-plot-form">
   <p class="hint dmemu-plot-about">{{about}}</p>
 
@@ -10,53 +10,115 @@
     {{/each}}
   </nav>
 
+  {{#if isCampaignTab}}
+  <div class="dmemu-plot-panel">
+    <div class="dmemu-plot-sheet-stack">
+      <fieldset>
+        <legend>{{localize "DMEMU.Campaign.App.OpenLegend"}}</legend>
+        <div class="form-group dmemu-plot-field">
+          <label for="dmemu-campaign-select">{{localize "DMEMU.Campaign.App.Existing"}}</label>
+          <div class="dmemu-plot-control-row">
+            <select id="dmemu-campaign-select" name="campaignSelect">
+              <option value="">{{localize "DMEMU.Campaign.App.SelectPlaceholder"}}</option>
+              {{#each campaignList}}
+              <option value="{{id}}" {{#if selected}}selected{{/if}}>{{name}}</option>
+              {{/each}}
+            </select>
+            <button type="button" data-action="openCreateCampaignDialog" data-tooltip="{{localize "DMEMU.Campaign.App.NewCampaign"}}" aria-label="{{localize "DMEMU.Campaign.App.NewCampaign"}}">
+              <i class="fas fa-plus"></i>
+            </button>
+          </div>
+        </div>
+      </fieldset>
+
+      {{#if hasCampaign}}
+      <fieldset>
+        <legend>{{localize "DMEMU.Campaign.App.ActiveLegend"}}</legend>
+        <div class="form-group dmemu-plot-field">
+          <label for="dmemu-campaign-name">{{localize "DMEMU.Campaign.App.Name"}}</label>
+          <input id="dmemu-campaign-name" type="text" name="campaignName" value="{{campaignName}}" />
+        </div>
+        <div class="form-group dmemu-plot-field">
+          <label for="dmemu-plot-universe">{{localize "DMEMU.Campaign.App.Universe"}}</label>
+          <textarea id="dmemu-plot-universe" name="universe" rows="3" placeholder="{{localize "DMEMU.Campaign.App.UniversePlaceholder"}}">{{universe}}</textarea>
+          <p class="hint">{{localize "DMEMU.Campaign.App.UniverseHint"}}</p>
+        </div>
+        <div class="form-group dmemu-plot-field">
+          <label for="dmemu-plot-protagonists">{{localize "DMEMU.Campaign.App.Protagonists"}}</label>
+          <textarea id="dmemu-plot-protagonists" name="protagonists" rows="3" placeholder="{{localize "DMEMU.Campaign.App.ProtagonistsPlaceholder"}}">{{protagonists}}</textarea>
+          <p class="hint">{{localize "DMEMU.Campaign.App.ProtagonistsHint"}}</p>
+        </div>
+        <div class="dmemu-oracle-actions dmemu-plot-sheet-save">
+          <button type="button" data-action="saveCampaign">
+            <i class="fas fa-save"></i> {{localize "DMEMU.Campaign.App.Save"}}
+          </button>
+        </div>
+      </fieldset>
+      {{else}}
+      <fieldset>
+        <legend>{{localize "DMEMU.Campaign.App.ActiveLegend"}}</legend>
+        <p class="hint">{{localize "DMEMU.Campaign.App.NoCampaignHint"}}</p>
+      </fieldset>
+      {{/if}}
+    </div>
+  </div>
+  {{/if}}
+
   {{#if isSheetTab}}
   <div class="dmemu-plot-panel">
-    <div class="dmemu-plot-two-col">
+    <div class="dmemu-plot-sheet-stack">
       <fieldset>
         <legend>{{localize "DMEMU.Plot.App.OpenLegend"}}</legend>
-        <div class="form-group">
-          <label for="dmemu-plot-select">{{localize "DMEMU.Plot.App.Existing"}}</label>
-          <select id="dmemu-plot-select" name="sheetSelect">
-            <option value="">{{localize "DMEMU.Plot.App.SelectPlaceholder"}}</option>
-            {{#each sheetList}}
-            <option value="{{id}}" {{#if selected}}selected{{/if}}>{{name}}</option>
-            {{/each}}
-          </select>
-        </div>
-        <div class="dmemu-oracle-actions">
-          <button type="button" data-action="openSheet">{{localize "DMEMU.Plot.App.Open"}}</button>
-          <button type="button" data-action="openCreateDialog">
-            <i class="fas fa-plus"></i> {{localize "DMEMU.Plot.App.NewSheet"}}
-          </button>
+        <div class="form-group dmemu-plot-field">
+          <label for="dmemu-plot-select-sheet">{{localize "DMEMU.Plot.App.Existing"}}</label>
+          <div class="dmemu-plot-control-row">
+            <select id="dmemu-plot-select-sheet" name="sheetSelect">
+              <option value="">{{localize "DMEMU.Plot.App.SelectPlaceholder"}}</option>
+              {{#each sheetList}}
+              <option value="{{id}}" {{#if selected}}selected{{/if}}>{{name}}</option>
+              {{/each}}
+            </select>
+            <button type="button" data-action="openCreateDialog" data-tooltip="{{localize "DMEMU.Plot.App.NewSheet"}}" aria-label="{{localize "DMEMU.Plot.App.NewSheet"}}">
+              <i class="fas fa-plus"></i>
+            </button>
+          </div>
         </div>
       </fieldset>
 
       {{#if hasSheet}}
       <fieldset>
         <legend>{{localize "DMEMU.Plot.App.SheetLegend"}}</legend>
-        <div class="form-group">
-          <label for="dmemu-plot-name">{{localize "DMEMU.Plot.App.Name"}}</label>
-          <input id="dmemu-plot-name" type="text" name="sheetName" value="{{name}}" />
+        <div class="dmemu-plot-name-type-row">
+          <div class="form-group dmemu-plot-field">
+            <label for="dmemu-plot-name">{{localize "DMEMU.Plot.App.Name"}}</label>
+            <input id="dmemu-plot-name" type="text" name="sheetName" value="{{name}}" />
+          </div>
+          <div class="form-group dmemu-plot-field">
+            <label for="dmemu-plot-type">{{localize "DMEMU.Plot.App.SheetType"}}</label>
+            <div class="dmemu-plot-control-row">
+              <select id="dmemu-plot-type" name="sheetType">
+                {{#each sheetTypes}}
+                <option value="{{id}}" {{#if selected}}selected{{/if}}>{{label}}</option>
+                {{/each}}
+              </select>
+              <button type="button" data-action="changeType">{{localize "DMEMU.Plot.App.ApplyType"}}</button>
+            </div>
+          </div>
         </div>
-        <div class="form-group">
-          <label for="dmemu-plot-type">{{localize "DMEMU.Plot.App.SheetType"}}</label>
-          <select id="dmemu-plot-type" name="sheetType">
-            {{#each sheetTypes}}
-            <option value="{{id}}" {{#if selected}}selected{{/if}}>{{label}}</option>
-            {{/each}}
-          </select>
-        </div>
-        <div class="dmemu-oracle-actions">
-          <button type="button" data-action="changeType">{{localize "DMEMU.Plot.App.ApplyType"}}</button>
-          <button type="button" data-action="saveSheet">
-            <i class="fas fa-save"></i> {{localize "DMEMU.Plot.App.Save"}}
-          </button>
-        </div>
-        <div class="form-group">
+        <div class="form-group dmemu-plot-field">
           <label for="dmemu-plot-scope">{{localize "DMEMU.Plot.App.Scope"}}</label>
           <textarea id="dmemu-plot-scope" name="scope" rows="4" placeholder="{{localize "DMEMU.Plot.App.ScopePlaceholder"}}">{{scope}}</textarea>
           <p class="hint">{{localize "DMEMU.Plot.App.ScopeHint"}}</p>
+        </div>
+        <div class="form-group dmemu-plot-field">
+          <label for="dmemu-plot-mission">{{localize "DMEMU.Plot.App.Mission"}}</label>
+          <textarea id="dmemu-plot-mission" name="mission" rows="3" placeholder="{{localize "DMEMU.Plot.App.MissionPlaceholder"}}">{{mission}}</textarea>
+          <p class="hint">{{localize "DMEMU.Plot.App.MissionHint"}}</p>
+        </div>
+        <div class="dmemu-oracle-actions dmemu-plot-sheet-save">
+          <button type="button" data-action="saveSheet">
+            <i class="fas fa-save"></i> {{localize "DMEMU.Plot.App.Save"}}
+          </button>
         </div>
       </fieldset>
       {{else}}
@@ -102,7 +164,7 @@
         <span class="dmemu-plot-track-section">{{sectionLabel}}</span>
         {{/if}}
         <button type="button" class="dmemu-plot-box {{#if checked}}checked{{/if}}" data-action="toggleBox" data-index="{{index}}" aria-pressed="{{checked}}">
-          {{#if checked}}✓{{else}}{{index}}{{/if}}
+          {{#if checked}}✓{{else}}{{label}}{{/if}}
         </button>
         {{/each}}
       </div>

@@ -44,17 +44,52 @@ export interface PlotTrackState {
 export interface PlotSheetData {
    version: 1;
    sheetType: PlotSheetTypeId;
+   /** Owning campaign journal id. */
+   campaignId: string;
    scope: string;
+   /** Mission / pitch beyond the short scope line. */
+   mission: string;
    track: PlotTrackState;
    nodeCategories: PlotNodeCategory[];
 }
 
+/** Legacy fields that may still exist on older journal flags. */
+export interface LegacyPlotSheetPrep {
+   universe?: string;
+   protagonists?: string;
+}
+
 export const PLOT_SHEET_FLAG = "plotSheet" as const;
+
+export function normalizePlotSheetData(data: PlotSheetData & LegacyPlotSheetPrep): PlotSheetData {
+   return {
+      version: 1,
+      sheetType: data.sheetType,
+      campaignId: data.campaignId ?? "",
+      scope: data.scope ?? "",
+      mission: data.mission ?? "",
+      track: data.track,
+      nodeCategories: data.nodeCategories,
+   };
+}
 
 export function getPlotSheetFlag(doc: { getFlag: (scope: string, key: string) => unknown }): PlotSheetData | null {
    const raw = doc.getFlag(MODULE_ID, PLOT_SHEET_FLAG);
    if (!raw || typeof raw !== "object") return null;
-   return raw as PlotSheetData;
+   return normalizePlotSheetData(raw as PlotSheetData & LegacyPlotSheetPrep);
+}
+
+/** Read legacy prep fields still stored on older sheets (before campaign migration). */
+export function getLegacyPlotSheetPrep(doc: {
+   getFlag: (scope: string, key: string) => unknown;
+}): LegacyPlotSheetPrep {
+   const raw = doc.getFlag(MODULE_ID, PLOT_SHEET_FLAG);
+   if (!raw || typeof raw !== "object") return {};
+   const obj = raw as LegacyPlotSheetPrep;
+   return {
+      universe: typeof obj.universe === "string" ? obj.universe : "",
+      protagonists: typeof obj.protagonists === "string" ? obj.protagonists : "",
+   };
 }
 
 export function emptySlots(count: number): PlotNodeSlot[] {

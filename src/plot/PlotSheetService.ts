@@ -1,7 +1,14 @@
 import { MODULE_ID } from "../constants.js";
-import { createPlotSheetData, PLOT_SHEET_PRESETS } from "./presets.js";
+import { CampaignService } from "./CampaignService.js";
+import { createPlotSheetData } from "./presets.js";
 import { renderPlotSheetSummaryHtml } from "./plotSheetSummary.js";
-import { getPlotSheetFlag, PLOT_SHEET_FLAG, PlotSheetData, PlotSheetTypeId } from "./types.js";
+import {
+   getLegacyPlotSheetPrep,
+   getPlotSheetFlag,
+   PLOT_SHEET_FLAG,
+   PlotSheetData,
+   PlotSheetTypeId,
+} from "./types.js";
 
 function localize(key: string): string {
    return game.i18n.localize(key);
@@ -19,19 +26,33 @@ export class PlotSheetService {
       return !!getPlotSheetFlag(doc);
    }
 
-   static listSheets(): { id: string; name: string; sheetType: PlotSheetTypeId }[] {
+   static listSheets(): { id: string; name: string; sheetType: PlotSheetTypeId; campaignId: string }[] {
       const journals = game.journal?.contents ?? [];
-      const out: { id: string; name: string; sheetType: PlotSheetTypeId }[] = [];
+      const out: { id: string; name: string; sheetType: PlotSheetTypeId; campaignId: string }[] = [];
       for (const j of journals) {
          const data = getPlotSheetFlag(j);
          if (!data) continue;
-         out.push({ id: j.id, name: j.name, sheetType: data.sheetType });
+         out.push({ id: j.id, name: j.name, sheetType: data.sheetType, campaignId: data.campaignId });
       }
       return out.sort((a, b) => a.name.localeCompare(b.name));
    }
 
-   static async createSheet(name: string, sheetType: PlotSheetTypeId, scope = ""): Promise<string> {
-      const data = createPlotSheetData(sheetType, scope);
+   static listSheetsForCampaign(
+      campaignId: string
+   ): { id: string; name: string; sheetType: PlotSheetTypeId }[] {
+      return CampaignService.listSheetsForCampaign(campaignId);
+   }
+
+   static async createSheet(
+      name: string,
+      sheetType: PlotSheetTypeId,
+      campaignId: string,
+      scope = ""
+   ): Promise<string> {
+      if (!campaignId || !CampaignService.getCampaign(campaignId)) {
+         throw new Error(localize("DMEMU.Campaign.MissingCampaign"));
+      }
+      const data = createPlotSheetData(sheetType, campaignId, scope);
       const summaryHtml = renderPlotSheetSummaryHtml(data);
       const doc = await JournalEntry.create({
          name: name.trim() || localize("DMEMU.Plot.DefaultName"),
@@ -74,6 +95,10 @@ export class PlotSheetService {
       if (!doc) {
          throw new Error(localize("DMEMU.Plot.CreateFailed"));
       }
+      const campaign = CampaignService.getCampaign(campaignId);
+      if (campaign) {
+         await CampaignService.saveCampaign(campaignId, campaign.data);
+      }
       return doc.id;
    }
 
@@ -82,6 +107,7 @@ export class PlotSheetService {
          id: string;
          name: string;
          update: (data: object) => Promise<unknown>;
+         getFlag: (scope: string, key: string) => unknown;
          setFlag: (scope: string, key: string, value: unknown) => Promise<unknown>;
          pages: { contents?: unknown[]; find?: (fn: (p: unknown) => boolean) => unknown };
          getEmbeddedCollection?: (name: string) => { contents: unknown[] };
@@ -95,6 +121,30 @@ export class PlotSheetService {
       return { journal, data };
    }
 
+   /**
+    * Link orphan sheets (no campaignId) to a new campaign, migrating legacy universe/protagonists.
+    */
+   static async ensureCampaignLink(journalId: string): Promise<PlotSheetData | null> {
+      const loaded = this.getSheet(journalId);
+      if (!loaded) return null;
+      let data = loaded.data;
+      if (data.campaignId && CampaignService.getCampaign(data.campaignId)) {
+         return data;
+      }
+
+      const legacy = getLegacyPlotSheetPrep(loaded.journal);
+      const campaignName =
+         loaded.journal.name?.trim() || localize("DMEMU.Campaign.DefaultName");
+      const campaignId = await CampaignService.createCampaign(
+         campaignName,
+         legacy.universe?.trim() || "",
+         legacy.protagonists?.trim() || ""
+      );
+      data = { ...data, campaignId };
+      await this.saveSheet(journalId, data);
+      return data;
+   }
+
    static async saveSheet(journalId: string, data: PlotSheetData): Promise<void> {
       const journal = game.journal?.get(journalId);
       if (!journal) {
@@ -102,6 +152,10 @@ export class PlotSheetService {
       }
       await journal.setFlag(MODULE_ID, PLOT_SHEET_FLAG, data);
       await this.#syncSummaryPage(journal, data);
+      if (data.campaignId && CampaignService.getCampaign(data.campaignId)) {
+         const campaign = CampaignService.getCampaign(data.campaignId);
+         if (campaign) await CampaignService.saveCampaign(data.campaignId, campaign.data);
+      }
    }
 
    static async renameSheet(journalId: string, name: string): Promise<void> {
@@ -110,9 +164,10 @@ export class PlotSheetService {
       await journal.update({ name: name.trim() || journal.name });
    }
 
-   /** Change sheet type: rebuild track/nodes from preset; keep scope; warn via return if data loss. */
+   /** Change sheet type: rebuild track/nodes from preset; keep campaign/scope/mission. */
    static retypeSheet(data: PlotSheetData, sheetType: PlotSheetTypeId): PlotSheetData {
-      const next = createPlotSheetData(sheetType, data.scope);
+      const next = createPlotSheetData(sheetType, data.campaignId, data.scope);
+      next.mission = data.mission ?? "";
       for (const cat of next.nodeCategories) {
          const prev = data.nodeCategories.find((c) => c.id === cat.id);
          if (!prev) continue;
@@ -158,7 +213,6 @@ export class PlotSheetService {
          });
          return;
       }
-      // Older sheets created before summary sync: add a Summary page once.
       if (typeof journal.createEmbeddedDocuments === "function") {
          await journal.createEmbeddedDocuments("JournalEntryPage", [
             {
