@@ -7,10 +7,13 @@ This first release is a near-complete Foundry implementation of the core Plot Un
 ## What you get
 
 **Oracle** — Yes/no questions with perspective and likelihood, Grand prompts (Action / Adjective / Subject), and enrichment draws for description, story, and quantity.
+<img width="529" height="473" alt="image" src="https://github.com/user-attachments/assets/23ffb08f-6cf9-4fd8-b5fd-d925c28a4c71" />
 
 **Generators** — Prompt tables for game seeds, factions, locations, objects, adversaries, creatures, and characters. Combined rolls post a single chat prompt you can adapt on the fly.
+<img width="564" height="417" alt="image" src="https://github.com/user-attachments/assets/a899d2af-7fd0-42e2-900a-eb4379b689a0" />
 
 **Plot Sheet** — Campaign journals (universe, protagonists) that own one or more plot sheets (scope, mission, nodes, optional track, beats). Progress is yours to confirm when a beat actually mattered.
+<img width="721" height="552" alt="image" src="https://github.com/user-attachments/assets/55eba17c-9f71-4773-b26f-a5d4b29ba8a6" />
 
 **DMEmu Guide** — An in-world journal that walks through how the pieces fit together.
 
