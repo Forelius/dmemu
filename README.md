@@ -1,6 +1,6 @@
 # Depths Master Emulator (DMEmu)
 
-A system-agnostic solo and GM-less storytelling toolkit for Foundry VTT (v13–v14). DMEmu helps you answer scene questions, invent people and places, and keep a living compass for the plot—without tying you to a specific game system.
+A system-agnostic solo and GM-less storytelling toolkit for Foundry VTT. DMEmu helps you answer scene questions, invent people and places, and keep a living compass for the plot—without tying you to a specific game system.
 
 This first release is a near-complete Foundry implementation of the core Plot Unfolding Machine and Game Unfolding Machine workflows. Future versions will expand the module further and take more liberties with the systems as the Foundry experience evolves.
 
